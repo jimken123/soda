@@ -1,0 +1,26 @@
+{
+  "unversionedId": "connectors/sql",
+  "id": "version-v0.17.0/connectors/sql",
+  "title": "SQL Connector",
+  "description": "Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+  "source": "@site/versioned_docs/version-v0.17.0/connectors/sql.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/sql",
+  "permalink": "/docs/v0.17.0/connectors/sql",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/connectors/sql.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "description": "Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Singer Connector",
+    "permalink": "/docs/v0.17.0/connectors/singer"
+  },
+  "next": {
+    "title": "Structured Data Connector",
+    "permalink": "/docs/v0.17.0/connectors/structureddata"
+  }
+}

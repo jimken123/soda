@@ -1,0 +1,78 @@
+{
+  "permalink": "/blog/wrangling-dates-with-scl",
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/blog/20220404-wrangling-dates/wrangling-dates.md",
+  "source": "@site/blog/20220404-wrangling-dates/wrangling-dates.md",
+  "title": "Wrangling Dates with SCL",
+  "description": "Use the Sequence Configuration Language to easily combine and convert dates when working with structured data formats.",
+  "date": "2022-04-04T00:00:00.000Z",
+  "formattedDate": "April 4, 2022",
+  "tags": [
+    {
+      "label": "sequence",
+      "permalink": "/blog/tags/sequence"
+    },
+    {
+      "label": "scl",
+      "permalink": "/blog/tags/scl"
+    },
+    {
+      "label": "examples",
+      "permalink": "/blog/tags/examples"
+    },
+    {
+      "label": "dates",
+      "permalink": "/blog/tags/dates"
+    },
+    {
+      "label": "structured data",
+      "permalink": "/blog/tags/structured-data"
+    },
+    {
+      "label": "transform",
+      "permalink": "/blog/tags/transform"
+    },
+    {
+      "label": "schemas",
+      "permalink": "/blog/tags/schemas"
+    }
+  ],
+  "readingTime": 6.095,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Mark Wainwright",
+      "title": "Sequence Maintainer",
+      "url": "https://github.com/wainwrightmark",
+      "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
+      "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
+    }
+  ],
+  "frontMatter": {
+    "title": "Wrangling Dates with SCL",
+    "description": "Use the Sequence Configuration Language to easily combine and convert dates when working with structured data formats.",
+    "slug": "wrangling-dates-with-scl",
+    "date": "2022/04/04",
+    "authors": [
+      {
+        "name": "Mark Wainwright",
+        "title": "Sequence Maintainer",
+        "url": "https://github.com/wainwrightmark",
+        "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
+        "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
+      }
+    ],
+    "tags": [
+      "sequence",
+      "scl",
+      "examples",
+      "dates",
+      "structured data",
+      "transform",
+      "schemas"
+    ]
+  },
+  "prevItem": {
+    "title": "Performance Improvements in v0.18.0",
+    "permalink": "/blog/performance-improvements-in-v0.18.0"
+  }
+}

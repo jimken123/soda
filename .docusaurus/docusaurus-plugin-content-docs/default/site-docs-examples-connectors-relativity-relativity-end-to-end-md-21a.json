@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/relativity/relativity-end-to-end",
+  "id": "examples/connectors/relativity/relativity-end-to-end",
+  "title": "End to End Example | Sequence Connector for Relativity Examples",
+  "description": "This example will",
+  "source": "@site/docs/examples/connectors/relativity/relativity-end-to-end.md",
+  "sourceDirName": "examples/connectors/relativity",
+  "slug": "/examples/connectors/relativity/relativity-end-to-end",
+  "permalink": "/docs/next/examples/connectors/relativity/relativity-end-to-end",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/relativity/relativity-end-to-end.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "End to End Example | Sequence Connector for Relativity Examples",
+    "sidebar_label": "End to End Example"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Create Workspace",
+    "permalink": "/docs/next/examples/connectors/relativity/relativity-create-workspace"
+  },
+  "next": {
+    "title": "Export Entities",
+    "permalink": "/docs/next/examples/connectors/relativity/relativity-export-entities"
+  }
+}

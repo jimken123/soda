@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixAddItem",
+  "id": "version-v0.17.0/Nuix/NuixAddItem",
+  "title": "NuixAddItem Step | Nuix Connector Documentation",
+  "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddItem.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixAddItem",
+  "permalink": "/steps/v0.17.0/Nuix/NuixAddItem",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddItem.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.17.0/tags/nuix"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "NuixAddItem Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixAddItem",
+    "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixAddConcordance",
+    "permalink": "/steps/v0.17.0/Nuix/NuixAddConcordance"
+  },
+  "next": {
+    "title": "NuixAddToItemSet",
+    "permalink": "/steps/v0.17.0/Nuix/NuixAddToItemSet"
+  }
+}

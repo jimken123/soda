@@ -1,0 +1,25 @@
+################################################################################
+
+- <CasePath> = './ingest-filter'
+
+- <SearchAndTag> = [
+    (Search: '*.jpg' Tag: 'image')
+    (Search: '*.doc' Tag: 'document')
+    (Search: 'red'   Tag: 'colour')
+  ]
+
+################################################################################
+
+# Open a nuix case
+- NuixOpenCase <CasePath>
+
+# For each item in the SearchAndTag list, run the 'Search' against the case,
+# and tag all items and their descendants with 'Tag'
+- ForEach <SearchAndTag> (
+    NuixSearchAndTag
+      Search: <>['Search']
+      Tag: <>['Tag']
+      SearchType: SearchType.ItemsAndDescendants
+  )
+
+################################################################################

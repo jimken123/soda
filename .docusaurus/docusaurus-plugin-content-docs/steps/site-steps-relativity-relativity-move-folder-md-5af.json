@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityMoveFolder",
+  "id": "Relativity/RelativityMoveFolder",
+  "title": "RelativityMoveFolder Step | Sequence Connector for Relativity Documentation",
+  "description": "Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityMoveFolder.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityMoveFolder",
+  "permalink": "/steps/next/Relativity/RelativityMoveFolder",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityMoveFolder.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityMoveFolder Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityMoveFolder",
+    "description": "Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityImportEntities",
+    "permalink": "/steps/next/Relativity/RelativityImportEntities"
+  },
+  "next": {
+    "title": "RelativityReadKeywordSearch",
+    "permalink": "/steps/next/Relativity/RelativityReadKeywordSearch"
+  }
+}

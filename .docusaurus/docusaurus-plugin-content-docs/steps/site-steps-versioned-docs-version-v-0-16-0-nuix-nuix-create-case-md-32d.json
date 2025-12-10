@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixCreateCase",
+  "id": "version-v0.16.0/Nuix/NuixCreateCase",
+  "title": "NuixCreateCase Step | Nuix Connector Documentation",
+  "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixCreateCase.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixCreateCase",
+  "permalink": "/steps/v0.16.0/Nuix/NuixCreateCase",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixCreateCase.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.16.0/tags/nuix"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "NuixCreateCase Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixCreateCase",
+    "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixCountItems",
+    "permalink": "/steps/v0.16.0/Nuix/NuixCountItems"
+  },
+  "next": {
+    "title": "NuixCreateIrregularItemsReport",
+    "permalink": "/steps/v0.16.0/Nuix/NuixCreateIrregularItemsReport"
+  }
+}

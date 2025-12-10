@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/structureddata/concordance",
+  "id": "examples/connectors/structureddata/concordance",
+  "title": "Validate Concordance File Using a Schema | Structured Data Connector Examples",
+  "description": "Instructions on how to install and setup Sequence.",
+  "source": "@site/docs/examples/connectors/structureddata/concordance.md",
+  "sourceDirName": "examples/connectors/structureddata",
+  "slug": "/examples/connectors/structureddata/concordance",
+  "permalink": "/docs/next/examples/connectors/structureddata/concordance",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/structureddata/concordance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Validate Concordance File Using a Schema | Structured Data Connector Examples",
+    "sidebar_label": "Validate Concordance File Using a Schema"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Structured Data Connector",
+    "permalink": "/docs/next/examples/connectors/structureddata/"
+  },
+  "next": {
+    "title": "Working with CSV Files",
+    "permalink": "/docs/next/examples/connectors/structureddata/csv-files"
+  }
+}

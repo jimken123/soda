@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/filesystem/extract-an-archive",
+  "id": "version-v0.17.0/examples/connectors/filesystem/extract-an-archive",
+  "title": "Extract an Archive | File System Connector Examples",
+  "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+  "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/filesystem/extract-an-archive.md",
+  "sourceDirName": "examples/connectors/filesystem",
+  "slug": "/examples/connectors/filesystem/extract-an-archive",
+  "permalink": "/docs/v0.17.0/examples/connectors/filesystem/extract-an-archive",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/filesystem/extract-an-archive.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "Extract an Archive | File System Connector Examples",
+    "sidebar_label": "Extract an Archive"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "File System Connector",
+    "permalink": "/docs/v0.17.0/examples/connectors/filesystem/"
+  },
+  "next": {
+    "title": "Read a File",
+    "permalink": "/docs/v0.17.0/examples/connectors/filesystem/read-a-file"
+  }
+}

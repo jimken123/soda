@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Tesseract/TesseractOCR",
+  "id": "version-v0.18.0/Tesseract/TesseractOCR",
+  "title": "TesseractOCR Step | Tesseract OCR Connector Documentation",
+  "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Tesseract/TesseractOCR.md",
+  "sourceDirName": "Tesseract",
+  "slug": "/Tesseract/TesseractOCR",
+  "permalink": "/steps/Tesseract/TesseractOCR",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Tesseract/TesseractOCR.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Tesseract",
+      "permalink": "/steps/tags/tesseract"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "TesseractOCR Step | Tesseract OCR Connector Documentation",
+    "sidebar_label": "TesseractOCR",
+    "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Tesseract"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "GetImageFormat",
+    "permalink": "/steps/Tesseract/GetImageFormat"
+  }
+}

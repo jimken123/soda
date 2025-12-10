@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/EntityGetValue",
+  "id": "Core/EntityGetValue",
+  "title": "EntityGetValue Step | Core SDK Documentation",
+  "description": "Gets the value of a property from an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/EntityGetValue.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/EntityGetValue",
+  "permalink": "/steps/next/Core/EntityGetValue",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntityGetValue.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "EntityGetValue Step | Core SDK Documentation",
+    "sidebar_label": "EntityGetValue",
+    "description": "Gets the value of a property from an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "EntityGetProperties",
+    "permalink": "/steps/next/Core/EntityGetProperties"
+  },
+  "next": {
+    "title": "EntityHasProperty",
+    "permalink": "/steps/next/Core/EntityHasProperty"
+  }
+}

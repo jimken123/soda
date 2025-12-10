@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ConvertSizeUnits",
+  "id": "Core/ConvertSizeUnits",
+  "title": "ConvertSizeUnits Step | Core SDK Documentation",
+  "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ConvertSizeUnits.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ConvertSizeUnits",
+  "permalink": "/steps/next/Core/ConvertSizeUnits",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ConvertSizeUnits.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ConvertSizeUnits Step | Core SDK Documentation",
+    "sidebar_label": "ConvertSizeUnits",
+    "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Clone",
+    "permalink": "/steps/next/Core/Clone"
+  },
+  "next": {
+    "title": "DateToString",
+    "permalink": "/steps/next/Core/DateToString"
+  }
+}

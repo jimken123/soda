@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/ImageFormat",
+  "id": "version-v0.16.0/Enums/ImageFormat",
+  "title": "ImageFormat | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Enums/ImageFormat.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/ImageFormat",
+  "permalink": "/steps/v0.16.0/Enums/ImageFormat",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Enums/ImageFormat.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/v0.16.0/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/v0.16.0/tags/unit"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "ImageFormat | Enums",
+    "sidebar_label": "ImageFormat",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "HashAlgorithm",
+    "permalink": "/steps/v0.16.0/Enums/HashAlgorithm"
+  },
+  "next": {
+    "title": "ItemSetDeduplication",
+    "permalink": "/steps/v0.16.0/Enums/ItemSetDeduplication"
+  }
+}

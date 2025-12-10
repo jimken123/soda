@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/AssertTrue",
+  "id": "version-v0.18.0/Core/AssertTrue",
+  "title": "AssertTrue Step | Core SDK Documentation",
+  "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Core/AssertTrue.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/AssertTrue",
+  "permalink": "/steps/Core/AssertTrue",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/AssertTrue.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/tags/core"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "AssertTrue Step | Core SDK Documentation",
+    "sidebar_label": "AssertTrue",
+    "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "AssertError",
+    "permalink": "/steps/Core/AssertError"
+  },
+  "next": {
+    "title": "CharAtIndex",
+    "permalink": "/steps/Core/CharAtIndex"
+  }
+}

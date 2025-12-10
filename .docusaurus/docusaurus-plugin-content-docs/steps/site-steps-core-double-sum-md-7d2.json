@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/DoubleSum",
+  "id": "Core/DoubleSum",
+  "title": "DoubleSum Step | Core SDK Documentation",
+  "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/DoubleSum.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/DoubleSum",
+  "permalink": "/steps/next/Core/DoubleSum",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/DoubleSum.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "DoubleSum Step | Core SDK Documentation",
+    "sidebar_label": "DoubleSum",
+    "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DoubleSubtract",
+    "permalink": "/steps/next/Core/DoubleSubtract"
+  },
+  "next": {
+    "title": "EntityCombine",
+    "permalink": "/steps/next/Core/EntityCombine"
+  }
+}

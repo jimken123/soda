@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixAddToItemSet",
+  "id": "Nuix/NuixAddToItemSet",
+  "title": "NuixAddToItemSet Step | Nuix Connector Documentation",
+  "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixAddToItemSet.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixAddToItemSet",
+  "permalink": "/steps/next/Nuix/NuixAddToItemSet",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixAddToItemSet.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixAddToItemSet Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixAddToItemSet",
+    "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixAddItem",
+    "permalink": "/steps/next/Nuix/NuixAddItem"
+  },
+  "next": {
+    "title": "NuixAddToProductionSet",
+    "permalink": "/steps/next/Nuix/NuixAddToProductionSet"
+  }
+}

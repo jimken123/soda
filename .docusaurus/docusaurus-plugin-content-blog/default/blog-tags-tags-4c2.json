@@ -1,0 +1,67 @@
+[
+  {
+    "label": "programming",
+    "permalink": "/blog/tags/programming",
+    "count": 1
+  },
+  {
+    "label": "software",
+    "permalink": "/blog/tags/software",
+    "count": 1
+  },
+  {
+    "label": "performance",
+    "permalink": "/blog/tags/performance",
+    "count": 1
+  },
+  {
+    "label": "C#",
+    "permalink": "/blog/tags/c",
+    "count": 1
+  },
+  {
+    "label": "csharp",
+    "permalink": "/blog/tags/csharp",
+    "count": 1
+  },
+  {
+    "label": "scl",
+    "permalink": "/blog/tags/scl",
+    "count": 2
+  },
+  {
+    "label": "core",
+    "permalink": "/blog/tags/core",
+    "count": 1
+  },
+  {
+    "label": "sequence",
+    "permalink": "/blog/tags/sequence",
+    "count": 1
+  },
+  {
+    "label": "examples",
+    "permalink": "/blog/tags/examples",
+    "count": 1
+  },
+  {
+    "label": "dates",
+    "permalink": "/blog/tags/dates",
+    "count": 1
+  },
+  {
+    "label": "structured data",
+    "permalink": "/blog/tags/structured-data",
+    "count": 1
+  },
+  {
+    "label": "transform",
+    "permalink": "/blog/tags/transform",
+    "count": 1
+  },
+  {
+    "label": "schemas",
+    "permalink": "/blog/tags/schemas",
+    "count": 1
+  }
+]

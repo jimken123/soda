@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixDoesCaseExist",
+  "id": "version-v0.16.0/Nuix/NuixDoesCaseExist",
+  "title": "NuixDoesCaseExist Step | Nuix Connector Documentation",
+  "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixDoesCaseExist.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixDoesCaseExist",
+  "permalink": "/steps/v0.16.0/Nuix/NuixDoesCaseExist",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixDoesCaseExist.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.16.0/tags/nuix"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "NuixDoesCaseExist Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixDoesCaseExist",
+    "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixCreateTermList",
+    "permalink": "/steps/v0.16.0/Nuix/NuixCreateTermList"
+  },
+  "next": {
+    "title": "NuixExcludeDecryptedItems",
+    "permalink": "/steps/v0.16.0/Nuix/NuixExcludeDecryptedItems"
+  }
+}

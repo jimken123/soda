@@ -1,0 +1,5 @@
+- AutopsyCreateNewCase 
+    CaseName: 'MyNewCase'
+    CaseBaseDirectory: (PathCombine ['CaseDirectory'] )
+    DataSourcePath: (PathCombine ['dataExamples', 'loadfile_0001-10001.dat']) 
+    IngestProfileName: '' #Use Default Profile

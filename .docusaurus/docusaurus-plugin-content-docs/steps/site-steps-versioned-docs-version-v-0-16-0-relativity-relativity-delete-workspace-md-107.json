@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityDeleteWorkspace",
+  "id": "version-v0.16.0/Relativity/RelativityDeleteWorkspace",
+  "title": "RelativityDeleteWorkspace Step | Sequence Connector for Relativity Documentation",
+  "description": "Deletes a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity/RelativityDeleteWorkspace.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityDeleteWorkspace",
+  "permalink": "/steps/v0.16.0/Relativity/RelativityDeleteWorkspace",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityDeleteWorkspace.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/v0.16.0/tags/relativity"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "RelativityDeleteWorkspace Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityDeleteWorkspace",
+    "description": "Deletes a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityDeleteUnusedFolders",
+    "permalink": "/steps/v0.16.0/Relativity/RelativityDeleteUnusedFolders"
+  },
+  "next": {
+    "title": "RelativityExport",
+    "permalink": "/steps/v0.16.0/Relativity/RelativityExport"
+  }
+}

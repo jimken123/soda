@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/IncrementVariable",
+  "id": "Core/IncrementVariable",
+  "title": "IncrementVariable Step | Core SDK Documentation",
+  "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/IncrementVariable.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/IncrementVariable",
+  "permalink": "/steps/next/Core/IncrementVariable",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/IncrementVariable.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "IncrementVariable Step | Core SDK Documentation",
+    "sidebar_label": "IncrementVariable",
+    "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "If",
+    "permalink": "/steps/next/Core/If"
+  },
+  "next": {
+    "title": "IsNull",
+    "permalink": "/steps/next/Core/IsNull"
+  }
+}

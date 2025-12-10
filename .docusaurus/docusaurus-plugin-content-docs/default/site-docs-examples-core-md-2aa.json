@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/core",
+  "id": "examples/core",
+  "title": "Sequence Configuration Language Examples",
+  "description": "Setup",
+  "source": "@site/docs/examples/core.md",
+  "sourceDirName": "examples",
+  "slug": "/examples/core",
+  "permalink": "/docs/next/examples/core",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/core.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sequence Configuration Language Examples",
+    "sidebar_label": "SCL / Core"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "The Sleuth Kit® Connector",
+    "permalink": "/docs/next/connectors/tsk"
+  },
+  "next": {
+    "title": "Application Settings",
+    "permalink": "/docs/next/examples/application-settings"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityCreateWorkspace",
+  "id": "version-v0.17.0/Relativity/RelativityCreateWorkspace",
+  "title": "RelativityCreateWorkspace Step | Sequence Connector for Relativity Documentation",
+  "description": "Creates a new Relativity Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativityCreateWorkspace.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityCreateWorkspace",
+  "permalink": "/steps/v0.17.0/Relativity/RelativityCreateWorkspace",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityCreateWorkspace.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/v0.17.0/tags/relativity"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "RelativityCreateWorkspace Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityCreateWorkspace",
+    "description": "Creates a new Relativity Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityCreateMatter",
+    "permalink": "/steps/v0.17.0/Relativity/RelativityCreateMatter"
+  },
+  "next": {
+    "title": "RelativityDeleteDocument",
+    "permalink": "/steps/v0.17.0/Relativity/RelativityDeleteDocument"
+  }
+}

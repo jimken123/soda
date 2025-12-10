@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityGetSubfolders",
+  "id": "Relativity/RelativityGetSubfolders",
+  "title": "RelativityGetSubfolders Step | Sequence Connector for Relativity Documentation",
+  "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityGetSubfolders.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityGetSubfolders",
+  "permalink": "/steps/next/Relativity/RelativityGetSubfolders",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityGetSubfolders.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityGetSubfolders Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityGetSubfolders",
+    "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityGetMatterStatuses",
+    "permalink": "/steps/next/Relativity/RelativityGetMatterStatuses"
+  },
+  "next": {
+    "title": "RelativityImport",
+    "permalink": "/steps/next/Relativity/RelativityImport"
+  }
+}

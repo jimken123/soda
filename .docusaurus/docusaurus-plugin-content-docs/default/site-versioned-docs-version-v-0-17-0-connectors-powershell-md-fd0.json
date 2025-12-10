@@ -1,0 +1,26 @@
+{
+  "unversionedId": "connectors/powershell",
+  "id": "version-v0.17.0/connectors/powershell",
+  "title": "PowerShell Connector",
+  "description": "Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+  "source": "@site/versioned_docs/version-v0.17.0/connectors/powershell.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/powershell",
+  "permalink": "/docs/v0.17.0/connectors/powershell",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/connectors/powershell.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "description": "Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Nuix Connector",
+    "permalink": "/docs/v0.17.0/connectors/nuix"
+  },
+  "next": {
+    "title": "Connector for Relativity®",
+    "permalink": "/docs/v0.17.0/connectors/relativity"
+  }
+}

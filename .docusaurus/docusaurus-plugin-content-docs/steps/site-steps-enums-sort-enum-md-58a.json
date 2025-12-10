@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/SortEnum",
+  "id": "Enums/SortEnum",
+  "title": "SortEnum | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/SortEnum.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/SortEnum",
+  "permalink": "/steps/next/Enums/SortEnum",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/SortEnum.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "SortEnum | Enums",
+    "sidebar_label": "SortEnum",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "SizeUnit",
+    "permalink": "/steps/next/Enums/SizeUnit"
+  },
+  "next": {
+    "title": "SortOrder",
+    "permalink": "/steps/next/Enums/SortOrder"
+  }
+}

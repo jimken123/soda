@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Singer",
+  "id": "Singer",
+  "title": "All Steps | Singer Target Documentation",
+  "description": "List of all steps for Singer Target. Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.",
+  "source": "@site/steps/Singer.md",
+  "sourceDirName": ".",
+  "slug": "/Singer",
+  "permalink": "/steps/next/Singer",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Singer.md",
+  "tags": [
+    {
+      "label": "Contents",
+      "permalink": "/steps/next/tags/contents"
+    },
+    {
+      "label": "Singer",
+      "permalink": "/steps/next/tags/singer"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "All Steps | Singer Target Documentation",
+    "sidebar_label": "Singer",
+    "description": "List of all steps for Singer Target. Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.",
+    "tags": [
+      "Contents",
+      "Singer"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RESTPut",
+    "permalink": "/steps/next/Rest/RESTPut"
+  },
+  "next": {
+    "title": "FromSinger",
+    "permalink": "/steps/next/Singer/FromSinger"
+  }
+}

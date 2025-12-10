@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayFirst",
+  "id": "version-v0.17.0/Core/ArrayFirst",
+  "title": "ArrayFirst Step | Core SDK Documentation",
+  "description": "Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Core/ArrayFirst.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayFirst",
+  "permalink": "/steps/v0.17.0/Core/ArrayFirst",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/ArrayFirst.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.17.0/tags/core"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "ArrayFirst Step | Core SDK Documentation",
+    "sidebar_label": "ArrayFirst",
+    "description": "Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArrayFind",
+    "permalink": "/steps/v0.17.0/Core/ArrayFind"
+  },
+  "next": {
+    "title": "ArrayGroupBy",
+    "permalink": "/steps/v0.17.0/Core/ArrayGroupBy"
+  }
+}

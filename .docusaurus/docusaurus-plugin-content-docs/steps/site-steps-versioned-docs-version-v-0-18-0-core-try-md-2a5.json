@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Try",
+  "id": "version-v0.18.0/Core/Try",
+  "title": "Try Step | Core SDK Documentation",
+  "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Try.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Try",
+  "permalink": "/steps/Core/Try",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/Try.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/tags/core"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "Try Step | Core SDK Documentation",
+    "sidebar_label": "Try",
+    "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Transform",
+    "permalink": "/steps/Core/Transform"
+  },
+  "next": {
+    "title": "Validate",
+    "permalink": "/steps/Core/Validate"
+  }
+}

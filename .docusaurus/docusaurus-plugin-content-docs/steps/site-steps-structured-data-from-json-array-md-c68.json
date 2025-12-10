@@ -1,0 +1,43 @@
+{
+  "unversionedId": "StructuredData/FromJsonArray",
+  "id": "StructuredData/FromJsonArray",
+  "title": "FromJsonArray Step | Structured Data Connector Documentation",
+  "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/StructuredData/FromJsonArray.md",
+  "sourceDirName": "StructuredData",
+  "slug": "/StructuredData/FromJsonArray",
+  "permalink": "/steps/next/StructuredData/FromJsonArray",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/StructuredData/FromJsonArray.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "StructuredData",
+      "permalink": "/steps/next/tags/structured-data"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "FromJsonArray Step | Structured Data Connector Documentation",
+    "sidebar_label": "FromJsonArray",
+    "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "StructuredData"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FromJson",
+    "permalink": "/steps/next/StructuredData/FromJson"
+  },
+  "next": {
+    "title": "FromXml",
+    "permalink": "/steps/next/StructuredData/FromXml"
+  }
+}

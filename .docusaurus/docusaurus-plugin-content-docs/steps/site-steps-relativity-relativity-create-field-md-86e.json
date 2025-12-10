@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityCreateField",
+  "id": "Relativity/RelativityCreateField",
+  "title": "RelativityCreateField Step | Sequence Connector for Relativity Documentation",
+  "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityCreateField.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityCreateField",
+  "permalink": "/steps/next/Relativity/RelativityCreateField",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityCreateField.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityCreateField Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityCreateField",
+    "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityCreateDynamicObjects",
+    "permalink": "/steps/next/Relativity/RelativityCreateDynamicObjects"
+  },
+  "next": {
+    "title": "RelativityCreateFolder",
+    "permalink": "/steps/next/Relativity/RelativityCreateFolder"
+  }
+}

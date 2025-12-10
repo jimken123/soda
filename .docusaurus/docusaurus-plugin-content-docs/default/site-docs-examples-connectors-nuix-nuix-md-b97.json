@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/nuix/nuix",
+  "id": "examples/connectors/nuix/nuix",
+  "title": "Nuix Connector Examples",
+  "description": "Learn how to configure and use the Sequence Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.",
+  "source": "@site/docs/examples/connectors/nuix/nuix.md",
+  "sourceDirName": "examples/connectors/nuix",
+  "slug": "/examples/connectors/nuix/",
+  "permalink": "/docs/next/examples/connectors/nuix/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/nuix/nuix.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Nuix Connector",
+    "sidebar_position": 0,
+    "description": "Learn how to configure and use the Sequence Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Login",
+    "permalink": "/docs/next/examples/connectors/microsoft365/microsoft365-login"
+  },
+  "next": {
+    "title": "Create Case, Ingest, Filter and Export",
+    "permalink": "/docs/next/examples/connectors/nuix/nuix-create-ingest-export"
+  }
+}

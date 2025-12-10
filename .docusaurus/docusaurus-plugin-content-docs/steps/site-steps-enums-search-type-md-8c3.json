@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/SearchType",
+  "id": "Enums/SearchType",
+  "title": "SearchType | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/SearchType.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/SearchType",
+  "permalink": "/steps/next/Enums/SearchType",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/SearchType.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "SearchType | Enums",
+    "sidebar_label": "SearchType",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "SearchScope",
+    "permalink": "/steps/next/Enums/SearchScope"
+  },
+  "next": {
+    "title": "Severity",
+    "permalink": "/steps/next/Enums/Severity"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Repeat",
+  "id": "Core/Repeat",
+  "title": "Repeat Step | Core SDK Documentation",
+  "description": "Repeat a step a set number of times.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/Repeat.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Repeat",
+  "permalink": "/steps/next/Core/Repeat",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Repeat.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Repeat Step | Core SDK Documentation",
+    "sidebar_label": "Repeat",
+    "description": "Repeat a step a set number of times.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Product",
+    "permalink": "/steps/next/Core/Product"
+  },
+  "next": {
+    "title": "Round",
+    "permalink": "/steps/next/Core/Round"
+  }
+}

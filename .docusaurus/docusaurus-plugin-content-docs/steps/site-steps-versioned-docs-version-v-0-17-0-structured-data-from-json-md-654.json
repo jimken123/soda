@@ -1,0 +1,43 @@
+{
+  "unversionedId": "StructuredData/FromJson",
+  "id": "version-v0.17.0/StructuredData/FromJson",
+  "title": "FromJson Step | Structured Data Connector Documentation",
+  "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/StructuredData/FromJson.md",
+  "sourceDirName": "StructuredData",
+  "slug": "/StructuredData/FromJson",
+  "permalink": "/steps/v0.17.0/StructuredData/FromJson",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/StructuredData/FromJson.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "StructuredData",
+      "permalink": "/steps/v0.17.0/tags/structured-data"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "FromJson Step | Structured Data Connector Documentation",
+    "sidebar_label": "FromJson",
+    "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "StructuredData"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FromIDX",
+    "permalink": "/steps/v0.17.0/StructuredData/FromIDX"
+  },
+  "next": {
+    "title": "FromJsonArray",
+    "permalink": "/steps/v0.17.0/StructuredData/FromJsonArray"
+  }
+}

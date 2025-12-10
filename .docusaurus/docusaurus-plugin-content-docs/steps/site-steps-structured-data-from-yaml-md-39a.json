@@ -1,0 +1,43 @@
+{
+  "unversionedId": "StructuredData/FromYaml",
+  "id": "StructuredData/FromYaml",
+  "title": "FromYaml Step | Structured Data Connector Documentation",
+  "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/StructuredData/FromYaml.md",
+  "sourceDirName": "StructuredData",
+  "slug": "/StructuredData/FromYaml",
+  "permalink": "/steps/next/StructuredData/FromYaml",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/StructuredData/FromYaml.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "StructuredData",
+      "permalink": "/steps/next/tags/structured-data"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "FromYaml Step | Structured Data Connector Documentation",
+    "sidebar_label": "FromYaml",
+    "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "StructuredData"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FromXmlArray",
+    "permalink": "/steps/next/StructuredData/FromXmlArray"
+  },
+  "next": {
+    "title": "ToCSV",
+    "permalink": "/steps/next/StructuredData/ToCSV"
+  }
+}

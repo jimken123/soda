@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayNew",
+  "id": "Core/ArrayNew",
+  "title": "ArrayNew Step | Core SDK Documentation",
+  "description": "Represents an ordered collection of objects.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayNew.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayNew",
+  "permalink": "/steps/next/Core/ArrayNew",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayNew.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayNew Step | Core SDK Documentation",
+    "sidebar_label": "ArrayNew",
+    "description": "Represents an ordered collection of objects.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArrayMap",
+    "permalink": "/steps/next/Core/ArrayMap"
+  },
+  "next": {
+    "title": "ArrayReverse",
+    "permalink": "/steps/next/Core/ArrayReverse"
+  }
+}

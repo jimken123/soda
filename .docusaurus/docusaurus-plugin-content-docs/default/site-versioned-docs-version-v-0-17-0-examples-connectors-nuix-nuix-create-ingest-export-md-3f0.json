@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/nuix/nuix-create-ingest-export",
+  "id": "version-v0.17.0/examples/connectors/nuix/nuix-create-ingest-export",
+  "title": "Create Case, Ingest, Filter and Export | Nuix Connector Examples",
+  "description": "This example will:",
+  "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/nuix/nuix-create-ingest-export.md",
+  "sourceDirName": "examples/connectors/nuix",
+  "slug": "/examples/connectors/nuix/nuix-create-ingest-export",
+  "permalink": "/docs/v0.17.0/examples/connectors/nuix/nuix-create-ingest-export",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/nuix/nuix-create-ingest-export.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "Create Case, Ingest, Filter and Export | Nuix Connector Examples",
+    "sidebar_label": "Create Case, Ingest, Filter and Export"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Nuix Connector",
+    "permalink": "/docs/v0.17.0/examples/connectors/nuix/"
+  },
+  "next": {
+    "title": "Create Case, Ingest and Filter",
+    "permalink": "/docs/v0.17.0/examples/connectors/nuix/nuix-create-ingest-filter"
+  }
+}

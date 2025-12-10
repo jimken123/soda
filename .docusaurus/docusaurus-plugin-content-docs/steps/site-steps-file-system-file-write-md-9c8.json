@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/FileWrite",
+  "id": "FileSystem/FileWrite",
+  "title": "FileWrite Step | File System Connector Documentation",
+  "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/FileSystem/FileWrite.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/FileWrite",
+  "permalink": "/steps/next/FileSystem/FileWrite",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/FileWrite.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/next/tags/file-system"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "FileWrite Step | File System Connector Documentation",
+    "sidebar_label": "FileWrite",
+    "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FileRead",
+    "permalink": "/steps/next/FileSystem/FileRead"
+  },
+  "next": {
+    "title": "PathCombine",
+    "permalink": "/steps/next/FileSystem/PathCombine"
+  }
+}

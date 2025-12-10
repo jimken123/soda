@@ -1,0 +1,43 @@
+{
+  "unversionedId": "TSK",
+  "id": "version-v0.16.0/TSK",
+  "title": "All Steps | TSK Connector Documentation",
+  "description": "List of all steps for TSK Connector. Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/TSK.md",
+  "sourceDirName": ".",
+  "slug": "/TSK",
+  "permalink": "/steps/v0.16.0/TSK",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/TSK.md",
+  "tags": [
+    {
+      "label": "Contents",
+      "permalink": "/steps/v0.16.0/tags/contents"
+    },
+    {
+      "label": "TSK",
+      "permalink": "/steps/v0.16.0/tags/tsk"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "All Steps | TSK Connector Documentation",
+    "sidebar_label": "TSK",
+    "description": "List of all steps for TSK Connector. Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+    "tags": [
+      "Contents",
+      "TSK"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ToYaml",
+    "permalink": "/steps/v0.16.0/StructuredData/ToYaml"
+  },
+  "next": {
+    "title": "AutopsyAddDataSource",
+    "permalink": "/steps/v0.16.0/TSK/AutopsyAddDataSource"
+  }
+}

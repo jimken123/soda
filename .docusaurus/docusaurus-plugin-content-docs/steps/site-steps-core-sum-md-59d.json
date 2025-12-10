@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Sum",
+  "id": "Core/Sum",
+  "title": "Sum Step | Core SDK Documentation",
+  "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/Sum.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Sum",
+  "permalink": "/steps/next/Core/Sum",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Sum.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sum Step | Core SDK Documentation",
+    "sidebar_label": "Sum",
+    "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Subtract",
+    "permalink": "/steps/next/Core/Subtract"
+  },
+  "next": {
+    "title": "Transform",
+    "permalink": "/steps/next/Core/Transform"
+  }
+}

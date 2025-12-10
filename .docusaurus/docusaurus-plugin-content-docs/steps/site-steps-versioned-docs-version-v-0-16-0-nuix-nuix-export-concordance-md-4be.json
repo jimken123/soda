@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixExportConcordance",
+  "id": "version-v0.16.0/Nuix/NuixExportConcordance",
+  "title": "NuixExportConcordance Step | Nuix Connector Documentation",
+  "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixExportConcordance.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixExportConcordance",
+  "permalink": "/steps/v0.16.0/Nuix/NuixExportConcordance",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixExportConcordance.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.16.0/tags/nuix"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "NuixExportConcordance Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixExportConcordance",
+    "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixExcludeDecryptedItems",
+    "permalink": "/steps/v0.16.0/Nuix/NuixExcludeDecryptedItems"
+  },
+  "next": {
+    "title": "NuixExtractEntities",
+    "permalink": "/steps/v0.16.0/Nuix/NuixExtractEntities"
+  }
+}

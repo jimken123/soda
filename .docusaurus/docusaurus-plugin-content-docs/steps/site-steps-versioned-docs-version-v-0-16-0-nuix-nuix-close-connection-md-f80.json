@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixCloseConnection",
+  "id": "version-v0.16.0/Nuix/NuixCloseConnection",
+  "title": "NuixCloseConnection Step | Nuix Connector Documentation",
+  "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixCloseConnection.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixCloseConnection",
+  "permalink": "/steps/v0.16.0/Nuix/NuixCloseConnection",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixCloseConnection.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.16.0/tags/nuix"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "NuixCloseConnection Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixCloseConnection",
+    "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixAssignCustodian",
+    "permalink": "/steps/v0.16.0/Nuix/NuixAssignCustodian"
+  },
+  "next": {
+    "title": "NuixCountItems",
+    "permalink": "/steps/v0.16.0/Nuix/NuixCountItems"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/singer/import-data-from-slack",
+  "id": "version-v0.16.0/examples/connectors/singer/import-data-from-slack",
+  "title": "Import Data from Slack | Singer Connector Examples",
+  "description": "Instructions on how to install and setup Sequence and the Singer Connector.",
+  "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/singer/import-data-from-slack.md",
+  "sourceDirName": "examples/connectors/singer",
+  "slug": "/examples/connectors/singer/import-data-from-slack",
+  "permalink": "/docs/v0.16.0/examples/connectors/singer/import-data-from-slack",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/singer/import-data-from-slack.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "Import Data from Slack | Singer Connector Examples",
+    "sidebar_label": "Import Data from Slack"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Singer Connector",
+    "permalink": "/docs/v0.16.0/examples/connectors/singer/"
+  },
+  "next": {
+    "title": "SQL Connector",
+    "permalink": "/docs/v0.16.0/examples/connectors/sql/"
+  }
+}

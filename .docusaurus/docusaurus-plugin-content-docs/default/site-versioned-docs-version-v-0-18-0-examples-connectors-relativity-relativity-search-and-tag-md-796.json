@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/relativity/relativity-search-and-tag",
+  "id": "version-v0.18.0/examples/connectors/relativity/relativity-search-and-tag",
+  "title": "Search and Tag Items | Sequence Connector for Relativity Examples",
+  "description": "This example will run a search of a Relativity workspace and set the 'Tags' field of each of the results.",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-search-and-tag.md",
+  "sourceDirName": "examples/connectors/relativity",
+  "slug": "/examples/connectors/relativity/relativity-search-and-tag",
+  "permalink": "/docs/examples/connectors/relativity/relativity-search-and-tag",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-search-and-tag.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "Search and Tag Items | Sequence Connector for Relativity Examples",
+    "sidebar_label": "Search and Tag Items"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Import Entities from Nuix",
+    "permalink": "/docs/examples/connectors/relativity/relativity-import-from-nuix"
+  },
+  "next": {
+    "title": "REST Connector",
+    "permalink": "/docs/examples/connectors/rest/"
+  }
+}

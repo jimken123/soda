@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/microsoft365/microsoft365",
+  "id": "examples/connectors/microsoft365/microsoft365",
+  "title": "Microsoft365 Connector Examples",
+  "description": "Examples of how to use Sequence to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.",
+  "source": "@site/docs/examples/connectors/microsoft365/microsoft365.md",
+  "sourceDirName": "examples/connectors/microsoft365",
+  "slug": "/examples/connectors/microsoft365/",
+  "permalink": "/docs/next/examples/connectors/microsoft365/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/microsoft365/microsoft365.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Microsoft365 Connector",
+    "sidebar_position": 0,
+    "description": "Examples of how to use Sequence to include Microsoft365 in automated end-to-end forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Write a File",
+    "permalink": "/docs/next/examples/connectors/filesystem/write-a-file"
+  },
+  "next": {
+    "title": "Get Teams Channels",
+    "permalink": "/docs/next/examples/connectors/microsoft365/microsoft365-get-team-channels"
+  }
+}

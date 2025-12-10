@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayFind",
+  "id": "Core/ArrayFind",
+  "title": "ArrayFind Step | Core SDK Documentation",
+  "description": "Gets the first index of an element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayFind.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayFind",
+  "permalink": "/steps/next/Core/ArrayFind",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayFind.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayFind Step | Core SDK Documentation",
+    "sidebar_label": "ArrayFind",
+    "description": "Gets the first index of an element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArrayFilter",
+    "permalink": "/steps/next/Core/ArrayFilter"
+  },
+  "next": {
+    "title": "ArrayFirst",
+    "permalink": "/steps/next/Core/ArrayFirst"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "sequence-configuration-language",
+  "id": "version-v0.16.0/sequence-configuration-language",
+  "title": "Sequence Configuration Language",
+  "description": "SCL is the configuration language for defining automated forensic and",
+  "source": "@site/versioned_docs/version-v0.16.0/sequence-configuration-language.md",
+  "sourceDirName": ".",
+  "slug": "/sequence-configuration-language",
+  "permalink": "/docs/v0.16.0/sequence-configuration-language",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/sequence-configuration-language.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/docs/v0.16.0/quick-start"
+  },
+  "next": {
+    "title": "Entities",
+    "permalink": "/docs/v0.16.0/entities"
+  }
+}

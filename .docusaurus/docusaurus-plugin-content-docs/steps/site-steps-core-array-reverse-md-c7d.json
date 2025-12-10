@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayReverse",
+  "id": "Core/ArrayReverse",
+  "title": "ArrayReverse Step | Core SDK Documentation",
+  "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayReverse.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayReverse",
+  "permalink": "/steps/next/Core/ArrayReverse",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayReverse.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayReverse Step | Core SDK Documentation",
+    "sidebar_label": "ArrayReverse",
+    "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArrayNew",
+    "permalink": "/steps/next/Core/ArrayNew"
+  },
+  "next": {
+    "title": "ArraySkip",
+    "permalink": "/steps/next/Core/ArraySkip"
+  }
+}

@@ -1,0 +1,31 @@
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  /* color: white; */
+}
+
+.loading {
+  padding: 6rem;
+  text-align: center;
+}
+
+.error {
+  padding: 6rem;
+  text-align: center;
+}
+
+.errorMessage {
+  color: darkred;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+
+  .error {
+    padding: 2rem;
+  }
+}

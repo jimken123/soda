@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixExtractEntities",
+  "id": "Nuix/NuixExtractEntities",
+  "title": "NuixExtractEntities Step | Nuix Connector Documentation",
+  "description": "Extract Entities from a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixExtractEntities.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixExtractEntities",
+  "permalink": "/steps/next/Nuix/NuixExtractEntities",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixExtractEntities.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixExtractEntities Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixExtractEntities",
+    "description": "Extract Entities from a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixExportConcordance",
+    "permalink": "/steps/next/Nuix/NuixExportConcordance"
+  },
+  "next": {
+    "title": "NuixGeneratePrintPreviews",
+    "permalink": "/steps/next/Nuix/NuixGeneratePrintPreviews"
+  }
+}

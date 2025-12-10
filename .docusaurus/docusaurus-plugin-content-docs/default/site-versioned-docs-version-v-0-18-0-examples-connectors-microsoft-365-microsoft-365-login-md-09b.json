@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/microsoft365/microsoft365-login",
+  "id": "version-v0.18.0/examples/connectors/microsoft365/microsoft365-login",
+  "title": "Login | Microsoft365 Connector Examples",
+  "description": "This example will",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/microsoft365/microsoft365-login.md",
+  "sourceDirName": "examples/connectors/microsoft365",
+  "slug": "/examples/connectors/microsoft365/microsoft365-login",
+  "permalink": "/docs/examples/connectors/microsoft365/microsoft365-login",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/microsoft365/microsoft365-login.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "Login | Microsoft365 Connector Examples",
+    "sidebar_label": "Login"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get Teams",
+    "permalink": "/docs/examples/connectors/microsoft365/microsoft365-get-teams"
+  },
+  "next": {
+    "title": "Nuix Connector",
+    "permalink": "/docs/examples/connectors/nuix/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/HashAlgorithm",
+  "id": "Enums/HashAlgorithm",
+  "title": "HashAlgorithm | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/HashAlgorithm.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/HashAlgorithm",
+  "permalink": "/steps/next/Enums/HashAlgorithm",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/HashAlgorithm.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "HashAlgorithm | Enums",
+    "sidebar_label": "HashAlgorithm",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FileImportType",
+    "permalink": "/steps/next/Enums/FileImportType"
+  },
+  "next": {
+    "title": "ImageFormat",
+    "permalink": "/steps/next/Enums/ImageFormat"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Product",
+  "id": "Core/Product",
+  "title": "Product Step | Core SDK Documentation",
+  "description": "Calculate the product of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/Product.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Product",
+  "permalink": "/steps/next/Core/Product",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Product.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Product Step | Core SDK Documentation",
+    "sidebar_label": "Product",
+    "description": "Calculate the product of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Print",
+    "permalink": "/steps/next/Core/Print"
+  },
+  "next": {
+    "title": "Repeat",
+    "permalink": "/steps/next/Core/Repeat"
+  }
+}

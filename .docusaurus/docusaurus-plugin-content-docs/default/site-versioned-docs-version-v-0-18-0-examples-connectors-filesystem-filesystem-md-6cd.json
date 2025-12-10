@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/filesystem/filesystem",
+  "id": "version-v0.18.0/examples/connectors/filesystem/filesystem",
+  "title": "File System Connector Examples",
+  "description": "Learn how to use Sequence to automate various file system actions when creating forensic and ediscovery workflows.",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/filesystem/filesystem.md",
+  "sourceDirName": "examples/connectors/filesystem",
+  "slug": "/examples/connectors/filesystem/",
+  "permalink": "/docs/examples/connectors/filesystem/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/filesystem/filesystem.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "File System Connector",
+    "sidebar_position": 0,
+    "description": "Learn how to use Sequence to automate various file system actions when creating forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Application Settings",
+    "permalink": "/docs/examples/application-settings"
+  },
+  "next": {
+    "title": "Extract an Archive",
+    "permalink": "/docs/examples/connectors/filesystem/extract-an-archive"
+  }
+}

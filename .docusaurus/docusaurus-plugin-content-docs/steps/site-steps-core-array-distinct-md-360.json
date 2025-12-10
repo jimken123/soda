@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayDistinct",
+  "id": "Core/ArrayDistinct",
+  "title": "ArrayDistinct Step | Core SDK Documentation",
+  "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayDistinct.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayDistinct",
+  "permalink": "/steps/next/Core/ArrayDistinct",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayDistinct.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayDistinct Step | Core SDK Documentation",
+    "sidebar_label": "ArrayDistinct",
+    "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArrayConcat",
+    "permalink": "/steps/next/Core/ArrayConcat"
+  },
+  "next": {
+    "title": "ArrayElementAtIndex",
+    "permalink": "/steps/next/Core/ArrayElementAtIndex"
+  }
+}

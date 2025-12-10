@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/DoubleDivide",
+  "id": "version-v0.17.0/Core/DoubleDivide",
+  "title": "DoubleDivide Step | Core SDK Documentation",
+  "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Core/DoubleDivide.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/DoubleDivide",
+  "permalink": "/steps/v0.17.0/Core/DoubleDivide",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/DoubleDivide.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.17.0/tags/core"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "DoubleDivide Step | Core SDK Documentation",
+    "sidebar_label": "DoubleDivide",
+    "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DocumentationCreate",
+    "permalink": "/steps/v0.17.0/Core/DocumentationCreate"
+  },
+  "next": {
+    "title": "DoublePower",
+    "permalink": "/steps/v0.17.0/Core/DoublePower"
+  }
+}

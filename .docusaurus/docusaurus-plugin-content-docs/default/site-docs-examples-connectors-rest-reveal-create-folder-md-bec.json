@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/rest/reveal-create-folder",
+  "id": "examples/connectors/rest/reveal-create-folder",
+  "title": "Create Reveal Folder | REST Connector Examples",
+  "description": "This example will",
+  "source": "@site/docs/examples/connectors/rest/reveal-create-folder.md",
+  "sourceDirName": "examples/connectors/rest",
+  "slug": "/examples/connectors/rest/reveal-create-folder",
+  "permalink": "/docs/next/examples/connectors/rest/reveal-create-folder",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/rest/reveal-create-folder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create Reveal Folder | REST Connector Examples",
+    "sidebar_label": "Create Reveal Folder"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "REST Connector",
+    "permalink": "/docs/next/examples/connectors/rest/"
+  },
+  "next": {
+    "title": "Get Document Metadata from Reveal",
+    "permalink": "/docs/next/examples/connectors/rest/reveal-get-all-documents"
+  }
+}

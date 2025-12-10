@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/GetConnectorInformation",
+  "id": "Core/GetConnectorInformation",
+  "title": "GetConnectorInformation Step | Core SDK Documentation",
+  "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/GetConnectorInformation.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/GetConnectorInformation",
+  "permalink": "/steps/next/Core/GetConnectorInformation",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/GetConnectorInformation.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "GetConnectorInformation Step | Core SDK Documentation",
+    "sidebar_label": "GetConnectorInformation",
+    "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "GetAutomaticVariable",
+    "permalink": "/steps/next/Core/GetAutomaticVariable"
+  },
+  "next": {
+    "title": "GetSettings",
+    "permalink": "/steps/next/Core/GetSettings"
+  }
+}

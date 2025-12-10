@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/ImageFormat",
+  "id": "Enums/ImageFormat",
+  "title": "ImageFormat | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/ImageFormat.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/ImageFormat",
+  "permalink": "/steps/next/Enums/ImageFormat",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/ImageFormat.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ImageFormat | Enums",
+    "sidebar_label": "ImageFormat",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "HashAlgorithm",
+    "permalink": "/steps/next/Enums/HashAlgorithm"
+  },
+  "next": {
+    "title": "ItemSetDeduplication",
+    "permalink": "/steps/next/Enums/ItemSetDeduplication"
+  }
+}

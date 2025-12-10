@@ -1,0 +1,26 @@
+{
+  "unversionedId": "connectors/relativity",
+  "id": "version-v0.18.0/connectors/relativity",
+  "title": "Connector for Relativity®",
+  "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+  "source": "@site/versioned_docs/version-v0.18.0/connectors/relativity.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/relativity",
+  "permalink": "/docs/connectors/relativity",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/connectors/relativity.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "PowerShell Connector",
+    "permalink": "/docs/connectors/powershell"
+  },
+  "next": {
+    "title": "REST Connector",
+    "permalink": "/docs/connectors/rest"
+  }
+}

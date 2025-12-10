@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/filesystem/write-a-file",
+  "id": "examples/connectors/filesystem/write-a-file",
+  "title": "Write a File | File System Connector Examples",
+  "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+  "source": "@site/docs/examples/connectors/filesystem/write-a-file.md",
+  "sourceDirName": "examples/connectors/filesystem",
+  "slug": "/examples/connectors/filesystem/write-a-file",
+  "permalink": "/docs/next/examples/connectors/filesystem/write-a-file",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/filesystem/write-a-file.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Write a File | File System Connector Examples",
+    "sidebar_label": "Write a File"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Read a File",
+    "permalink": "/docs/next/examples/connectors/filesystem/read-a-file"
+  },
+  "next": {
+    "title": "Microsoft365 Connector",
+    "permalink": "/docs/next/examples/connectors/microsoft365/"
+  }
+}

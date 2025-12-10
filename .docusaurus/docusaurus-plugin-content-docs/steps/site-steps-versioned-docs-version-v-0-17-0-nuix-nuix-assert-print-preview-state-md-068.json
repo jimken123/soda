@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixAssertPrintPreviewState",
+  "id": "version-v0.17.0/Nuix/NuixAssertPrintPreviewState",
+  "title": "NuixAssertPrintPreviewState Step | Nuix Connector Documentation",
+  "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixAssertPrintPreviewState.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixAssertPrintPreviewState",
+  "permalink": "/steps/v0.17.0/Nuix/NuixAssertPrintPreviewState",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixAssertPrintPreviewState.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.17.0/tags/nuix"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "NuixAssertPrintPreviewState Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixAssertPrintPreviewState",
+    "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixAnnotateDocumentIdList",
+    "permalink": "/steps/v0.17.0/Nuix/NuixAnnotateDocumentIdList"
+  },
+  "next": {
+    "title": "NuixAssignCustodian",
+    "permalink": "/steps/v0.17.0/Nuix/NuixAssignCustodian"
+  }
+}

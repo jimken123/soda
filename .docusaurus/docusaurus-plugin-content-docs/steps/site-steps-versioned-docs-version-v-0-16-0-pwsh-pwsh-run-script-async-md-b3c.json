@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Pwsh/PwshRunScriptAsync",
+  "id": "version-v0.16.0/Pwsh/PwshRunScriptAsync",
+  "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
+  "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Pwsh/PwshRunScriptAsync.md",
+  "sourceDirName": "Pwsh",
+  "slug": "/Pwsh/PwshRunScriptAsync",
+  "permalink": "/steps/v0.16.0/Pwsh/PwshRunScriptAsync",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Pwsh/PwshRunScriptAsync.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Pwsh",
+      "permalink": "/steps/v0.16.0/tags/pwsh"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
+    "sidebar_label": "PwshRunScriptAsync",
+    "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Pwsh"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "PwshRunScript",
+    "permalink": "/steps/v0.16.0/Pwsh/PwshRunScript"
+  },
+  "next": {
+    "title": "Relativity",
+    "permalink": "/steps/v0.16.0/Relativity"
+  }
+}

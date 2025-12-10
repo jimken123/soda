@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/AssertError",
+  "id": "Core/AssertError",
+  "title": "AssertError Step | Core SDK Documentation",
+  "description": "Returns success if the ValueIf step returns an error and a failure otherwise.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/AssertError.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/AssertError",
+  "permalink": "/steps/next/Core/AssertError",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/AssertError.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "AssertError Step | Core SDK Documentation",
+    "sidebar_label": "AssertError",
+    "description": "Returns success if the ValueIf step returns an error and a failure otherwise.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "AssertEqual",
+    "permalink": "/steps/next/Core/AssertEqual"
+  },
+  "next": {
+    "title": "AssertTrue",
+    "permalink": "/steps/next/Core/AssertTrue"
+  }
+}

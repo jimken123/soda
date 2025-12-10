@@ -1,0 +1,28 @@
+{
+  "unversionedId": "examples/connectors/structureddata/csv-files",
+  "id": "examples/connectors/structureddata/csv-files",
+  "title": "Working with CSV Files | Structured Data Connector Examples",
+  "description": "Learn how to use Sequence to work with CSV files when automating forensic and ediscovery workflows.",
+  "source": "@site/docs/examples/connectors/structureddata/csv-files.md",
+  "sourceDirName": "examples/connectors/structureddata",
+  "slug": "/examples/connectors/structureddata/csv-files",
+  "permalink": "/docs/next/examples/connectors/structureddata/csv-files",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/structureddata/csv-files.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Working with CSV Files | Structured Data Connector Examples",
+    "sidebar_label": "Working with CSV Files",
+    "description": "Learn how to use Sequence to work with CSV files when automating forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Validate Concordance File Using a Schema",
+    "permalink": "/docs/next/examples/connectors/structureddata/concordance"
+  },
+  "next": {
+    "title": "Tesseract Connector",
+    "permalink": "/docs/next/examples/connectors/tesseract/"
+  }
+}

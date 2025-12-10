@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Rest/RESTPut",
+  "id": "version-v0.16.0/Rest/RESTPut",
+  "title": "RESTPut Step | REST Connector Documentation",
+  "description": "Executes a REST Put request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Rest/RESTPut.md",
+  "sourceDirName": "Rest",
+  "slug": "/Rest/RESTPut",
+  "permalink": "/steps/v0.16.0/Rest/RESTPut",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Rest/RESTPut.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Rest",
+      "permalink": "/steps/v0.16.0/tags/rest"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "RESTPut Step | REST Connector Documentation",
+    "sidebar_label": "RESTPut",
+    "description": "Executes a REST Put request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Rest"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RESTPost",
+    "permalink": "/steps/v0.16.0/Rest/RESTPost"
+  },
+  "next": {
+    "title": "Singer",
+    "permalink": "/steps/v0.16.0/Singer"
+  }
+}

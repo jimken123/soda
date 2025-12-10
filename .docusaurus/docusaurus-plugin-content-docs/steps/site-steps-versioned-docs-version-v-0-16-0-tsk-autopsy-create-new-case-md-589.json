@@ -1,0 +1,43 @@
+{
+  "unversionedId": "TSK/AutopsyCreateNewCase",
+  "id": "version-v0.16.0/TSK/AutopsyCreateNewCase",
+  "title": "AutopsyCreateNewCase Step | TSK Connector Documentation",
+  "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/TSK/AutopsyCreateNewCase.md",
+  "sourceDirName": "TSK",
+  "slug": "/TSK/AutopsyCreateNewCase",
+  "permalink": "/steps/v0.16.0/TSK/AutopsyCreateNewCase",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/TSK/AutopsyCreateNewCase.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "TSK",
+      "permalink": "/steps/v0.16.0/tags/tsk"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "AutopsyCreateNewCase Step | TSK Connector Documentation",
+    "sidebar_label": "AutopsyCreateNewCase",
+    "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "TSK"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "AutopsyAddDataSource",
+    "permalink": "/steps/v0.16.0/TSK/AutopsyAddDataSource"
+  },
+  "next": {
+    "title": "AutopsyGenerateReports",
+    "permalink": "/steps/v0.16.0/TSK/AutopsyGenerateReports"
+  }
+}

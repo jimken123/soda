@@ -1,0 +1,18 @@
+{
+  // This file is not used in compilation. It is here just for a nice editor experience.
+  "extends": "@tsconfig/docusaurus/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "exclude": [
+    ".docusaurus",
+    ".sequence",
+    "build",
+    "node_modules",
+    "playground",
+    "steps_versioned_docs",
+    "steps_versioned_sidebars",
+    "versioned_docs",
+    "versioned_sidebars"
+  ]
+}

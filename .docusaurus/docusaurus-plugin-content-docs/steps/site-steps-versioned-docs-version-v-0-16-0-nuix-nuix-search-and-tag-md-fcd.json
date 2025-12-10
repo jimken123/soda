@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixSearchAndTag",
+  "id": "version-v0.16.0/Nuix/NuixSearchAndTag",
+  "title": "NuixSearchAndTag Step | Nuix Connector Documentation",
+  "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixSearchAndTag.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixSearchAndTag",
+  "permalink": "/steps/v0.16.0/Nuix/NuixSearchAndTag",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixSearchAndTag.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.16.0/tags/nuix"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "NuixSearchAndTag Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixSearchAndTag",
+    "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixSearchAndExclude",
+    "permalink": "/steps/v0.16.0/Nuix/NuixSearchAndExclude"
+  },
+  "next": {
+    "title": "Pwsh",
+    "permalink": "/steps/v0.16.0/Pwsh"
+  }
+}

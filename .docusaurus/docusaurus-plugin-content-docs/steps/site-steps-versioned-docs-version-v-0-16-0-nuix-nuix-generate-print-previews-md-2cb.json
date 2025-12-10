@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixGeneratePrintPreviews",
+  "id": "version-v0.16.0/Nuix/NuixGeneratePrintPreviews",
+  "title": "NuixGeneratePrintPreviews Step | Nuix Connector Documentation",
+  "description": "Generates print previews for items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixGeneratePrintPreviews.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixGeneratePrintPreviews",
+  "permalink": "/steps/v0.16.0/Nuix/NuixGeneratePrintPreviews",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixGeneratePrintPreviews.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.16.0/tags/nuix"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "NuixGeneratePrintPreviews Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixGeneratePrintPreviews",
+    "description": "Generates print previews for items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixExtractEntities",
+    "permalink": "/steps/v0.16.0/Nuix/NuixExtractEntities"
+  },
+  "next": {
+    "title": "NuixGetAuditedSize",
+    "permalink": "/steps/v0.16.0/Nuix/NuixGetAuditedSize"
+  }
+}

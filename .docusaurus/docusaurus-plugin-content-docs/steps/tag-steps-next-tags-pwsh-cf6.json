@@ -1,0 +1,26 @@
+{
+  "label": "Pwsh",
+  "permalink": "/steps/next/tags/pwsh",
+  "allTagsPath": "/steps/next/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Pwsh",
+      "title": "All Steps | PowerShell Connector Documentation",
+      "description": "List of all steps for PowerShell Connector. Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+      "permalink": "/steps/next/Pwsh"
+    },
+    {
+      "id": "Pwsh/PwshRunScript",
+      "title": "PwshRunScript Step | PowerShell Connector Documentation",
+      "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Pwsh/PwshRunScript"
+    },
+    {
+      "id": "Pwsh/PwshRunScriptAsync",
+      "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
+      "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Pwsh/PwshRunScriptAsync"
+    }
+  ]
+}

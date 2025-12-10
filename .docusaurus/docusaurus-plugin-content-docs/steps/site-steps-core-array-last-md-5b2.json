@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayLast",
+  "id": "Core/ArrayLast",
+  "title": "ArrayLast Step | Core SDK Documentation",
+  "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayLast.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayLast",
+  "permalink": "/steps/next/Core/ArrayLast",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayLast.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayLast Step | Core SDK Documentation",
+    "sidebar_label": "ArrayLast",
+    "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArrayIsEmpty",
+    "permalink": "/steps/next/Core/ArrayIsEmpty"
+  },
+  "next": {
+    "title": "ArrayLength",
+    "permalink": "/steps/next/Core/ArrayLength"
+  }
+}

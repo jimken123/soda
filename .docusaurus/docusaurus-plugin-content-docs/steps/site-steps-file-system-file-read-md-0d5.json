@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/FileRead",
+  "id": "FileSystem/FileRead",
+  "title": "FileRead Step | File System Connector Documentation",
+  "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/FileSystem/FileRead.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/FileRead",
+  "permalink": "/steps/next/FileSystem/FileRead",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/FileRead.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/next/tags/file-system"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "FileRead Step | File System Connector Documentation",
+    "sidebar_label": "FileRead",
+    "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FileMove",
+    "permalink": "/steps/next/FileSystem/FileMove"
+  },
+  "next": {
+    "title": "FileWrite",
+    "permalink": "/steps/next/FileSystem/FileWrite"
+  }
+}

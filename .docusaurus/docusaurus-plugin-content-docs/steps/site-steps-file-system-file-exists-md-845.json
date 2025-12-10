@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/FileExists",
+  "id": "FileSystem/FileExists",
+  "title": "FileExists Step | File System Connector Documentation",
+  "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/FileSystem/FileExists.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/FileExists",
+  "permalink": "/steps/next/FileSystem/FileExists",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/FileExists.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/next/tags/file-system"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "FileExists Step | File System Connector Documentation",
+    "sidebar_label": "FileExists",
+    "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FileCopy",
+    "permalink": "/steps/next/FileSystem/FileCopy"
+  },
+  "next": {
+    "title": "FileExtract",
+    "permalink": "/steps/next/FileSystem/FileExtract"
+  }
+}

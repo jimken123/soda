@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringAppend",
+  "id": "Core/StringAppend",
+  "title": "StringAppend Step | Core SDK Documentation",
+  "description": "Appends a string to an existing string variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/StringAppend.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringAppend",
+  "permalink": "/steps/next/Core/StringAppend",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringAppend.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "StringAppend Step | Core SDK Documentation",
+    "sidebar_label": "StringAppend",
+    "description": "Appends a string to an existing string variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StandardOutWrite",
+    "permalink": "/steps/next/Core/StandardOutWrite"
+  },
+  "next": {
+    "title": "StringContains",
+    "permalink": "/steps/next/Core/StringContains"
+  }
+}

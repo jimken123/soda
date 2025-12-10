@@ -1,0 +1,24 @@
+# There is no step currently to download files, so using the powershell connector instead
+# To add: ./sequence.exe connector add Sequence.Connectors.Pwsh
+- <output> = './data'
+- AssertTrue (Not (DoesDirectoryExist <output>))
+- If (Not (DoesDirectoryExist <output>)) (CreateDirectory <output>)
+- <edrm> = PathCombine [<output>, 'edrm.zip']
+- <encrypted> = PathCombine [<output>, 'encrypted.pdf']
+- PwshRunScript
+    Variables: (
+      EdrmMicroUrl: 'https://www.edrm.net/download/28896/'
+      EdrmMicroPath: <edrm>
+      EncryptedUrl: 'https://gitlab.com/sequence/connectors/nuix/-/raw/main/Nuix.Tests/AllData/encrypted.pdf?inline=false'
+      EncryptedPath: <encrypted>
+    )
+    Script: '
+      Invoke-WebRequest -Uri $EdrmMicroUrl -OutFile $EdrmMicroPath -UseBasicParsing
+      Invoke-WebRequest -Uri $EncryptedUrl -OutFile $EncryptedPath -UseBasicParsing
+    '
+- FileExtract <edrm> <output>
+- DeleteItem <edrm>
+- AssertTrue (DoesDirectoryExist (PathCombine [<output>, 'EDRM specific data']))
+- FileMove <encrypted> (PathCombine [<output>, 'EDRM specific data/encrypted.pdf'])
+- AssertTrue (DoesDirectoryExist (PathCombine [<output>, 'Data from public websites']))
+- Log $"Successfully downloaded example data to {<output>}"

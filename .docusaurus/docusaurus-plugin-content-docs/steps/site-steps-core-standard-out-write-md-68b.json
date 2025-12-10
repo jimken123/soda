@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StandardOutWrite",
+  "id": "Core/StandardOutWrite",
+  "title": "StandardOutWrite Step | Core SDK Documentation",
+  "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/StandardOutWrite.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StandardOutWrite",
+  "permalink": "/steps/next/Core/StandardOutWrite",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StandardOutWrite.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "StandardOutWrite Step | Core SDK Documentation",
+    "sidebar_label": "StandardOutWrite",
+    "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StandardInRead",
+    "permalink": "/steps/next/Core/StandardInRead"
+  },
+  "next": {
+    "title": "StringAppend",
+    "permalink": "/steps/next/Core/StringAppend"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "TSK/AutopsyAddDataSource",
+  "id": "TSK/AutopsyAddDataSource",
+  "title": "AutopsyAddDataSource Step | TSK Connector Documentation",
+  "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/TSK/AutopsyAddDataSource.md",
+  "sourceDirName": "TSK",
+  "slug": "/TSK/AutopsyAddDataSource",
+  "permalink": "/steps/next/TSK/AutopsyAddDataSource",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/TSK/AutopsyAddDataSource.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "TSK",
+      "permalink": "/steps/next/tags/tsk"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "AutopsyAddDataSource Step | TSK Connector Documentation",
+    "sidebar_label": "AutopsyAddDataSource",
+    "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "TSK"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "TSK",
+    "permalink": "/steps/next/TSK"
+  },
+  "next": {
+    "title": "AutopsyCreateNewCase",
+    "permalink": "/steps/next/TSK/AutopsyCreateNewCase"
+  }
+}

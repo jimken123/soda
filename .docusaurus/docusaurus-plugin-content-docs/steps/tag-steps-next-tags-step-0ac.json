@@ -1,0 +1,1370 @@
+{
+  "label": "Step",
+  "permalink": "/steps/next/tags/step",
+  "allTagsPath": "/steps/next/tags",
+  "count": 227,
+  "items": [
+    {
+      "id": "Core/And",
+      "title": "And Step | Core SDK Documentation",
+      "description": "Returns true if all terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/And"
+    },
+    {
+      "id": "Core/ArrayConcat",
+      "title": "ArrayConcat Step | Core SDK Documentation",
+      "description": "Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayConcat"
+    },
+    {
+      "id": "Core/ArrayDistinct",
+      "title": "ArrayDistinct Step | Core SDK Documentation",
+      "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayDistinct"
+    },
+    {
+      "id": "Core/ArrayElementAtIndex",
+      "title": "ArrayElementAtIndex Step | Core SDK Documentation",
+      "description": "Gets the array element at a particular index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayElementAtIndex"
+    },
+    {
+      "id": "Core/ArrayFilter",
+      "title": "ArrayFilter Step | Core SDK Documentation",
+      "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayFilter"
+    },
+    {
+      "id": "Core/ArrayFind",
+      "title": "ArrayFind Step | Core SDK Documentation",
+      "description": "Gets the first index of an element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayFind"
+    },
+    {
+      "id": "Core/ArrayFirst",
+      "title": "ArrayFirst Step | Core SDK Documentation",
+      "description": "Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayFirst"
+    },
+    {
+      "id": "Core/ArrayGroupBy",
+      "title": "ArrayGroupBy Step | Core SDK Documentation",
+      "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayGroupBy"
+    },
+    {
+      "id": "Core/ArrayIsEmpty",
+      "title": "ArrayIsEmpty Step | Core SDK Documentation",
+      "description": "Checks if an array is empty.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayIsEmpty"
+    },
+    {
+      "id": "Core/ArrayLast",
+      "title": "ArrayLast Step | Core SDK Documentation",
+      "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayLast"
+    },
+    {
+      "id": "Core/ArrayLength",
+      "title": "ArrayLength Step | Core SDK Documentation",
+      "description": "Counts the elements in an array or entities in an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayLength"
+    },
+    {
+      "id": "Core/ArrayMap",
+      "title": "ArrayMap Step | Core SDK Documentation",
+      "description": "Map each element of an array or entity stream to a new value. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayMap"
+    },
+    {
+      "id": "Core/ArrayNew",
+      "title": "ArrayNew Step | Core SDK Documentation",
+      "description": "Represents an ordered collection of objects.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayNew"
+    },
+    {
+      "id": "Core/ArrayReverse",
+      "title": "ArrayReverse Step | Core SDK Documentation",
+      "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayReverse"
+    },
+    {
+      "id": "Core/ArraySkip",
+      "title": "ArraySkip Step | Core SDK Documentation",
+      "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArraySkip"
+    },
+    {
+      "id": "Core/ArraySort",
+      "title": "ArraySort Step | Core SDK Documentation",
+      "description": "Reorder an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArraySort"
+    },
+    {
+      "id": "Core/ArrayTake",
+      "title": "ArrayTake Step | Core SDK Documentation",
+      "description": "Take the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ArrayTake"
+    },
+    {
+      "id": "Core/AssertEqual",
+      "title": "AssertEqual Step | Core SDK Documentation",
+      "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/AssertEqual"
+    },
+    {
+      "id": "Core/AssertError",
+      "title": "AssertError Step | Core SDK Documentation",
+      "description": "Returns success if the ValueIf step returns an error and a failure otherwise.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/AssertError"
+    },
+    {
+      "id": "Core/AssertTrue",
+      "title": "AssertTrue Step | Core SDK Documentation",
+      "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/AssertTrue"
+    },
+    {
+      "id": "TSK/AutopsyAddDataSource",
+      "title": "AutopsyAddDataSource Step | TSK Connector Documentation",
+      "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/TSK/AutopsyAddDataSource"
+    },
+    {
+      "id": "TSK/AutopsyCreateNewCase",
+      "title": "AutopsyCreateNewCase Step | TSK Connector Documentation",
+      "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/TSK/AutopsyCreateNewCase"
+    },
+    {
+      "id": "TSK/AutopsyGenerateReports",
+      "title": "AutopsyGenerateReports Step | TSK Connector Documentation",
+      "description": "Generate Reports. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/TSK/AutopsyGenerateReports"
+    },
+    {
+      "id": "TSK/AutopsyListDataSources",
+      "title": "AutopsyListDataSources Step | TSK Connector Documentation",
+      "description": "List all Data Sources in an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/TSK/AutopsyListDataSources"
+    },
+    {
+      "id": "Core/CharAtIndex",
+      "title": "CharAtIndex Step | Core SDK Documentation",
+      "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/CharAtIndex"
+    },
+    {
+      "id": "Core/Clone",
+      "title": "Clone Step | Core SDK Documentation",
+      "description": "Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Clone"
+    },
+    {
+      "id": "Core/ConvertSizeUnits",
+      "title": "ConvertSizeUnits Step | Core SDK Documentation",
+      "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ConvertSizeUnits"
+    },
+    {
+      "id": "Sql/CreateMsSQLConnectionString",
+      "title": "CreateMsSQLConnectionString Step | SQL Database Connector Documentation",
+      "description": "Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/CreateMsSQLConnectionString"
+    },
+    {
+      "id": "Sql/CreateMySQLConnectionString",
+      "title": "CreateMySQLConnectionString Step | SQL Database Connector Documentation",
+      "description": "Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/CreateMySQLConnectionString"
+    },
+    {
+      "id": "Sql/CreatePostgresConnectionString",
+      "title": "CreatePostgresConnectionString Step | SQL Database Connector Documentation",
+      "description": "Creates a PostgreSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/CreatePostgresConnectionString"
+    },
+    {
+      "id": "Core/DateToString",
+      "title": "DateToString Step | Core SDK Documentation",
+      "description": "Converts a date to the specified format, yyyy/MM/dd HH:mm:ss by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/DateToString"
+    },
+    {
+      "id": "Core/Delay",
+      "title": "Delay Step | Core SDK Documentation",
+      "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Delay"
+    },
+    {
+      "id": "FileSystem/DeleteItem",
+      "title": "DeleteItem Step | File System Connector Documentation",
+      "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DeleteItem"
+    },
+    {
+      "id": "FileSystem/DirectoryCopy",
+      "title": "DirectoryCopy Step | File System Connector Documentation",
+      "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryCopy"
+    },
+    {
+      "id": "FileSystem/DirectoryCreate",
+      "title": "DirectoryCreate Step | File System Connector Documentation",
+      "description": "Creates a new directory in the file system. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryCreate"
+    },
+    {
+      "id": "FileSystem/DirectoryExists",
+      "title": "DirectoryExists Step | File System Connector Documentation",
+      "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryExists"
+    },
+    {
+      "id": "FileSystem/DirectoryGetItems",
+      "title": "DirectoryGetItems Step | File System Connector Documentation",
+      "description": "Gets all items in a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryGetItems"
+    },
+    {
+      "id": "FileSystem/DirectoryMove",
+      "title": "DirectoryMove Step | File System Connector Documentation",
+      "description": "Move a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryMove"
+    },
+    {
+      "id": "Core/Divide",
+      "title": "Divide Step | Core SDK Documentation",
+      "description": "Divide an integer by a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Divide"
+    },
+    {
+      "id": "Core/DocumentationCreate",
+      "title": "DocumentationCreate Step | Core SDK Documentation",
+      "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/DocumentationCreate"
+    },
+    {
+      "id": "Core/DoNothing",
+      "title": "DoNothing Step | Core SDK Documentation",
+      "description": "Does nothing.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/DoNothing"
+    },
+    {
+      "id": "Core/DoubleDivide",
+      "title": "DoubleDivide Step | Core SDK Documentation",
+      "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/DoubleDivide"
+    },
+    {
+      "id": "Core/DoublePower",
+      "title": "DoublePower Step | Core SDK Documentation",
+      "description": "Raises a double to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/DoublePower"
+    },
+    {
+      "id": "Core/DoubleProduct",
+      "title": "DoubleProduct Step | Core SDK Documentation",
+      "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/DoubleProduct"
+    },
+    {
+      "id": "Core/DoubleSubtract",
+      "title": "DoubleSubtract Step | Core SDK Documentation",
+      "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/DoubleSubtract"
+    },
+    {
+      "id": "Core/DoubleSum",
+      "title": "DoubleSum Step | Core SDK Documentation",
+      "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/DoubleSum"
+    },
+    {
+      "id": "Core/EntityCombine",
+      "title": "EntityCombine Step | Core SDK Documentation",
+      "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityCombine"
+    },
+    {
+      "id": "Core/EntityFlatten",
+      "title": "EntityFlatten Step | Core SDK Documentation",
+      "description": "Recursively flatten an entity, turning all nested entities into separate fields. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityFlatten"
+    },
+    {
+      "id": "Core/EntityFormat",
+      "title": "EntityFormat Step | Core SDK Documentation",
+      "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityFormat"
+    },
+    {
+      "id": "Core/EntityGetProperties",
+      "title": "EntityGetProperties Step | Core SDK Documentation",
+      "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityGetProperties"
+    },
+    {
+      "id": "Core/EntityGetValue",
+      "title": "EntityGetValue Step | Core SDK Documentation",
+      "description": "Gets the value of a property from an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityGetValue"
+    },
+    {
+      "id": "Core/EntityHasProperty",
+      "title": "EntityHasProperty Step | Core SDK Documentation",
+      "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityHasProperty"
+    },
+    {
+      "id": "Core/EntityMapProperties",
+      "title": "EntityMapProperties Step | Core SDK Documentation",
+      "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityMapProperties"
+    },
+    {
+      "id": "Core/EntityRemoveProperty",
+      "title": "EntityRemoveProperty Step | Core SDK Documentation",
+      "description": "Returns a copy of the entity with the specified property removed. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityRemoveProperty"
+    },
+    {
+      "id": "Core/EntitySetValue",
+      "title": "EntitySetValue Step | Core SDK Documentation",
+      "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntitySetValue"
+    },
+    {
+      "id": "Core/EntityValidateRelations",
+      "title": "EntityValidateRelations Step | Core SDK Documentation",
+      "description": "For each entity in the stream, check that the value of the `ParentIdProperty` is the value of the `IdProperty` for at least one entity in the stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/EntityValidateRelations"
+    },
+    {
+      "id": "Core/Equals",
+      "title": "Equals Step | Core SDK Documentation",
+      "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Equals"
+    },
+    {
+      "id": "FileSystem/FileCopy",
+      "title": "FileCopy Step | File System Connector Documentation",
+      "description": "Copy a file. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileCopy"
+    },
+    {
+      "id": "FileSystem/FileExists",
+      "title": "FileExists Step | File System Connector Documentation",
+      "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileExists"
+    },
+    {
+      "id": "FileSystem/FileExtract",
+      "title": "FileExtract Step | File System Connector Documentation",
+      "description": "Extract a file in the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileExtract"
+    },
+    {
+      "id": "FileSystem/FileMove",
+      "title": "FileMove Step | File System Connector Documentation",
+      "description": "Move a file. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileMove"
+    },
+    {
+      "id": "FileSystem/FileRead",
+      "title": "FileRead Step | File System Connector Documentation",
+      "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileRead"
+    },
+    {
+      "id": "FileSystem/FileWrite",
+      "title": "FileWrite Step | File System Connector Documentation",
+      "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileWrite"
+    },
+    {
+      "id": "Core/For",
+      "title": "For Step | Core SDK Documentation",
+      "description": "Do an action for each value of <i> in a range.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/For"
+    },
+    {
+      "id": "Core/ForEach",
+      "title": "ForEach Step | Core SDK Documentation",
+      "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/ForEach"
+    },
+    {
+      "id": "StructuredData/FromConcordance",
+      "title": "FromConcordance Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/FromConcordance"
+    },
+    {
+      "id": "StructuredData/FromCSV",
+      "title": "FromCSV Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a CSV stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/FromCSV"
+    },
+    {
+      "id": "StructuredData/FromIDX",
+      "title": "FromIDX Step | Structured Data Connector Documentation",
+      "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/FromIDX"
+    },
+    {
+      "id": "StructuredData/FromJson",
+      "title": "FromJson Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/FromJson"
+    },
+    {
+      "id": "StructuredData/FromJsonArray",
+      "title": "FromJsonArray Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/FromJsonArray"
+    },
+    {
+      "id": "Singer/FromSinger",
+      "title": "FromSinger Step | Singer Target Documentation",
+      "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Singer/FromSinger"
+    },
+    {
+      "id": "StructuredData/FromXml",
+      "title": "FromXml Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Xml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/FromXml"
+    },
+    {
+      "id": "StructuredData/FromXmlArray",
+      "title": "FromXmlArray Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Xml stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/FromXmlArray"
+    },
+    {
+      "id": "StructuredData/FromYaml",
+      "title": "FromYaml Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/FromYaml"
+    },
+    {
+      "id": "Core/GetApplicationVersion",
+      "title": "GetApplicationVersion Step | Core SDK Documentation",
+      "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/GetApplicationVersion"
+    },
+    {
+      "id": "Core/GetAutomaticVariable",
+      "title": "GetAutomaticVariable Step | Core SDK Documentation",
+      "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/GetAutomaticVariable"
+    },
+    {
+      "id": "Core/GetConnectorInformation",
+      "title": "GetConnectorInformation Step | Core SDK Documentation",
+      "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/GetConnectorInformation"
+    },
+    {
+      "id": "Tesseract/GetImageFormat",
+      "title": "GetImageFormat Step | Tesseract OCR Connector Documentation",
+      "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Tesseract/GetImageFormat"
+    },
+    {
+      "id": "Core/GetSettings",
+      "title": "GetSettings Step | Core SDK Documentation",
+      "description": "Get an entity containing SCL settings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/GetSettings"
+    },
+    {
+      "id": "Core/GetVariable",
+      "title": "GetVariable Step | Core SDK Documentation",
+      "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/GetVariable"
+    },
+    {
+      "id": "Core/GreaterThan",
+      "title": "GreaterThan Step | Core SDK Documentation",
+      "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/GreaterThan"
+    },
+    {
+      "id": "Core/GreaterThanOrEqual",
+      "title": "GreaterThanOrEqual Step | Core SDK Documentation",
+      "description": "Returns true if each term is greater than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/GreaterThanOrEqual"
+    },
+    {
+      "id": "Core/Hash",
+      "title": "Hash Step | Core SDK Documentation",
+      "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Hash"
+    },
+    {
+      "id": "Core/HttpRequest",
+      "title": "HttpRequest Step | Core SDK Documentation",
+      "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/HttpRequest"
+    },
+    {
+      "id": "Core/If",
+      "title": "If Step | Core SDK Documentation",
+      "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/If"
+    },
+    {
+      "id": "Core/IncrementVariable",
+      "title": "IncrementVariable Step | Core SDK Documentation",
+      "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/IncrementVariable"
+    },
+    {
+      "id": "Core/IsNull",
+      "title": "IsNull Step | Core SDK Documentation",
+      "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/IsNull"
+    },
+    {
+      "id": "Core/LessThan",
+      "title": "LessThan Step | Core SDK Documentation",
+      "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/LessThan"
+    },
+    {
+      "id": "Core/LessThanOrEqual",
+      "title": "LessThanOrEqual Step | Core SDK Documentation",
+      "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/LessThanOrEqual"
+    },
+    {
+      "id": "Core/Log",
+      "title": "Log Step | Core SDK Documentation",
+      "description": "Write a value to the logs. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Log"
+    },
+    {
+      "id": "Microsoft365/M365ChannelMessagesRead",
+      "title": "M365ChannelMessagesRead Step | Microsoft 365 Connector Documentation",
+      "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365ChannelMessagesRead"
+    },
+    {
+      "id": "Microsoft365/M365ChannelsRead",
+      "title": "M365ChannelsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365ChannelsRead"
+    },
+    {
+      "id": "Microsoft365/M365ChatsRead",
+      "title": "M365ChatsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365ChatsRead"
+    },
+    {
+      "id": "Microsoft365/M365GetToken",
+      "title": "M365GetToken Step | Microsoft 365 Connector Documentation",
+      "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365GetToken"
+    },
+    {
+      "id": "Microsoft365/M365Login",
+      "title": "M365Login Step | Microsoft 365 Connector Documentation",
+      "description": "Login to M365. You do not need to do this.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365Login"
+    },
+    {
+      "id": "Microsoft365/M365MailRead",
+      "title": "M365MailRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365MailRead"
+    },
+    {
+      "id": "Microsoft365/M365TeamsRead",
+      "title": "M365TeamsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365TeamsRead"
+    },
+    {
+      "id": "Microsoft365/M365UsersRead",
+      "title": "M365UsersRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365UsersRead"
+    },
+    {
+      "id": "Core/Modulo",
+      "title": "Modulo Step | Core SDK Documentation",
+      "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Modulo"
+    },
+    {
+      "id": "Core/Not",
+      "title": "Not Step | Core SDK Documentation",
+      "description": "Negation of a boolean value.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Not"
+    },
+    {
+      "id": "Core/NotEquals",
+      "title": "NotEquals Step | Core SDK Documentation",
+      "description": "Returns true if each term is not equal to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/NotEquals"
+    },
+    {
+      "id": "Nuix/NuixAddConcordance",
+      "title": "NuixAddConcordance Step | Nuix Connector Documentation",
+      "description": "Adds data from a Concordance file to a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixAddConcordance"
+    },
+    {
+      "id": "Nuix/NuixAddItem",
+      "title": "NuixAddItem Step | Nuix Connector Documentation",
+      "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixAddItem"
+    },
+    {
+      "id": "Nuix/NuixAddToItemSet",
+      "title": "NuixAddToItemSet Step | Nuix Connector Documentation",
+      "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixAddToItemSet"
+    },
+    {
+      "id": "Nuix/NuixAddToProductionSet",
+      "title": "NuixAddToProductionSet Step | Nuix Connector Documentation",
+      "description": "Run a search query in Nuix and add all items found to a production set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixAddToProductionSet"
+    },
+    {
+      "id": "Nuix/NuixAnnotateDocumentIdList",
+      "title": "NuixAnnotateDocumentIdList Step | Nuix Connector Documentation",
+      "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixAnnotateDocumentIdList"
+    },
+    {
+      "id": "Nuix/NuixAssertPrintPreviewState",
+      "title": "NuixAssertPrintPreviewState Step | Nuix Connector Documentation",
+      "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixAssertPrintPreviewState"
+    },
+    {
+      "id": "Nuix/NuixAssignCustodian",
+      "title": "NuixAssignCustodian Step | Nuix Connector Documentation",
+      "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixAssignCustodian"
+    },
+    {
+      "id": "Nuix/NuixCloseConnection",
+      "title": "NuixCloseConnection Step | Nuix Connector Documentation",
+      "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixCloseConnection"
+    },
+    {
+      "id": "Nuix/NuixCountItems",
+      "title": "NuixCountItems Step | Nuix Connector Documentation",
+      "description": "Returns the number of items matching a particular search term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixCountItems"
+    },
+    {
+      "id": "Nuix/NuixCreateCase",
+      "title": "NuixCreateCase Step | Nuix Connector Documentation",
+      "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixCreateCase"
+    },
+    {
+      "id": "Nuix/NuixCreateIrregularItemsReport",
+      "title": "NuixCreateIrregularItemsReport Step | Nuix Connector Documentation",
+      "description": "Creates a list of all irregular items in a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixCreateIrregularItemsReport"
+    },
+    {
+      "id": "Nuix/NuixCreateNRTReport",
+      "title": "NuixCreateNRTReport Step | Nuix Connector Documentation",
+      "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixCreateNRTReport"
+    },
+    {
+      "id": "Nuix/NuixCreateReport",
+      "title": "NuixCreateReport Step | Nuix Connector Documentation",
+      "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixCreateReport"
+    },
+    {
+      "id": "Nuix/NuixCreateTermList",
+      "title": "NuixCreateTermList Step | Nuix Connector Documentation",
+      "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixCreateTermList"
+    },
+    {
+      "id": "Nuix/NuixDoesCaseExist",
+      "title": "NuixDoesCaseExist Step | Nuix Connector Documentation",
+      "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixDoesCaseExist"
+    },
+    {
+      "id": "Nuix/NuixExcludeDecryptedItems",
+      "title": "NuixExcludeDecryptedItems Step | Nuix Connector Documentation",
+      "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixExcludeDecryptedItems"
+    },
+    {
+      "id": "Nuix/NuixExportConcordance",
+      "title": "NuixExportConcordance Step | Nuix Connector Documentation",
+      "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixExportConcordance"
+    },
+    {
+      "id": "Nuix/NuixExtractEntities",
+      "title": "NuixExtractEntities Step | Nuix Connector Documentation",
+      "description": "Extract Entities from a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixExtractEntities"
+    },
+    {
+      "id": "Nuix/NuixGeneratePrintPreviews",
+      "title": "NuixGeneratePrintPreviews Step | Nuix Connector Documentation",
+      "description": "Generates print previews for items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixGeneratePrintPreviews"
+    },
+    {
+      "id": "Nuix/NuixGetAuditedSize",
+      "title": "NuixGetAuditedSize Step | Nuix Connector Documentation",
+      "description": "Calculate the total audited size for a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixGetAuditedSize"
+    },
+    {
+      "id": "Nuix/NuixGetCaseDetails",
+      "title": "NuixGetCaseDetails Step | Nuix Connector Documentation",
+      "description": "Returns an Entity with information about the current case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixGetCaseDetails"
+    },
+    {
+      "id": "Nuix/NuixGetItemProperties",
+      "title": "NuixGetItemProperties Step | Nuix Connector Documentation",
+      "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixGetItemProperties"
+    },
+    {
+      "id": "Nuix/NuixGetLicenseDetails",
+      "title": "NuixGetLicenseDetails Step | Nuix Connector Documentation",
+      "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixGetLicenseDetails"
+    },
+    {
+      "id": "Nuix/NuixGetVersion",
+      "title": "NuixGetVersion Step | Nuix Connector Documentation",
+      "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixGetVersion"
+    },
+    {
+      "id": "Nuix/NuixImportDocumentIds",
+      "title": "NuixImportDocumentIds Step | Nuix Connector Documentation",
+      "description": "Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixImportDocumentIds"
+    },
+    {
+      "id": "Nuix/NuixMigrateCase",
+      "title": "NuixMigrateCase Step | Nuix Connector Documentation",
+      "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixMigrateCase"
+    },
+    {
+      "id": "Nuix/NuixOpenCase",
+      "title": "NuixOpenCase Step | Nuix Connector Documentation",
+      "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixOpenCase"
+    },
+    {
+      "id": "Nuix/NuixOpenConnection",
+      "title": "NuixOpenConnection Step | Nuix Connector Documentation",
+      "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixOpenConnection"
+    },
+    {
+      "id": "Nuix/NuixPerformOCR",
+      "title": "NuixPerformOCR Step | Nuix Connector Documentation",
+      "description": "Performs optical character recognition on items in a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixPerformOCR"
+    },
+    {
+      "id": "Nuix/NuixRemoveFromItemSet",
+      "title": "NuixRemoveFromItemSet Step | Nuix Connector Documentation",
+      "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixRemoveFromItemSet"
+    },
+    {
+      "id": "Nuix/NuixRemoveFromProductionSet",
+      "title": "NuixRemoveFromProductionSet Step | Nuix Connector Documentation",
+      "description": "Removes particular items from a Nuix production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixRemoveFromProductionSet"
+    },
+    {
+      "id": "Nuix/NuixReorderProductionSet",
+      "title": "NuixReorderProductionSet Step | Nuix Connector Documentation",
+      "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixReorderProductionSet"
+    },
+    {
+      "id": "Nuix/NuixRunScript",
+      "title": "NuixRunScript Step | Nuix Connector Documentation",
+      "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixRunScript"
+    },
+    {
+      "id": "Nuix/NuixSearchAndExclude",
+      "title": "NuixSearchAndExclude Step | Nuix Connector Documentation",
+      "description": "Run a search query in Nuix and exclude all items found.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixSearchAndExclude"
+    },
+    {
+      "id": "Nuix/NuixSearchAndTag",
+      "title": "NuixSearchAndTag Step | Nuix Connector Documentation",
+      "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Nuix/NuixSearchAndTag"
+    },
+    {
+      "id": "Sql/OpenConnection",
+      "title": "OpenConnection Step | SQL Database Connector Documentation",
+      "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/OpenConnection"
+    },
+    {
+      "id": "Core/Or",
+      "title": "Or Step | Core SDK Documentation",
+      "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Or"
+    },
+    {
+      "id": "FileSystem/PathCombine",
+      "title": "PathCombine Step | File System Connector Documentation",
+      "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/PathCombine"
+    },
+    {
+      "id": "Core/Power",
+      "title": "Power Step | Core SDK Documentation",
+      "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Power"
+    },
+    {
+      "id": "Core/Print",
+      "title": "Print Step | Core SDK Documentation",
+      "description": "Prints a value to the console.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Print"
+    },
+    {
+      "id": "Core/Product",
+      "title": "Product Step | Core SDK Documentation",
+      "description": "Calculate the product of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Product"
+    },
+    {
+      "id": "Pwsh/PwshRunScript",
+      "title": "PwshRunScript Step | PowerShell Connector Documentation",
+      "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Pwsh/PwshRunScript"
+    },
+    {
+      "id": "Pwsh/PwshRunScriptAsync",
+      "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
+      "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Pwsh/PwshRunScriptAsync"
+    },
+    {
+      "id": "Relativity/RelativityCreateDynamicObjects",
+      "title": "RelativityCreateDynamicObjects Step | Sequence Connector for Relativity Documentation",
+      "description": "Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityCreateDynamicObjects"
+    },
+    {
+      "id": "Relativity/RelativityCreateField",
+      "title": "RelativityCreateField Step | Sequence Connector for Relativity Documentation",
+      "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityCreateField"
+    },
+    {
+      "id": "Relativity/RelativityCreateFolder",
+      "title": "RelativityCreateFolder Step | Sequence Connector for Relativity Documentation",
+      "description": "Create a folder in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityCreateFolder"
+    },
+    {
+      "id": "Relativity/RelativityCreateKeywordSearch",
+      "title": "RelativityCreateKeywordSearch Step | Sequence Connector for Relativity Documentation",
+      "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityCreateKeywordSearch"
+    },
+    {
+      "id": "Relativity/RelativityCreateMatter",
+      "title": "RelativityCreateMatter Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityCreateMatter"
+    },
+    {
+      "id": "Relativity/RelativityCreateWorkspace",
+      "title": "RelativityCreateWorkspace Step | Sequence Connector for Relativity Documentation",
+      "description": "Creates a new Relativity Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityCreateWorkspace"
+    },
+    {
+      "id": "Relativity/RelativityDeleteDocument",
+      "title": "RelativityDeleteDocument Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityDeleteDocument"
+    },
+    {
+      "id": "Relativity/RelativityDeleteKeywordSearch",
+      "title": "RelativityDeleteKeywordSearch Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityDeleteKeywordSearch"
+    },
+    {
+      "id": "Relativity/RelativityDeleteMatter",
+      "title": "RelativityDeleteMatter Step | Sequence Connector for Relativity Documentation",
+      "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityDeleteMatter"
+    },
+    {
+      "id": "Relativity/RelativityDeleteUnusedFolders",
+      "title": "RelativityDeleteUnusedFolders Step | Sequence Connector for Relativity Documentation",
+      "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityDeleteUnusedFolders"
+    },
+    {
+      "id": "Relativity/RelativityDeleteWorkspace",
+      "title": "RelativityDeleteWorkspace Step | Sequence Connector for Relativity Documentation",
+      "description": "Deletes a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityDeleteWorkspace"
+    },
+    {
+      "id": "Relativity/RelativityExport",
+      "title": "RelativityExport Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityExport"
+    },
+    {
+      "id": "Relativity/RelativityGetClients",
+      "title": "RelativityGetClients Step | Sequence Connector for Relativity Documentation",
+      "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityGetClients"
+    },
+    {
+      "id": "Relativity/RelativityGetMatterStatuses",
+      "title": "RelativityGetMatterStatuses Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityGetMatterStatuses"
+    },
+    {
+      "id": "Relativity/RelativityGetSubfolders",
+      "title": "RelativityGetSubfolders Step | Sequence Connector for Relativity Documentation",
+      "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityGetSubfolders"
+    },
+    {
+      "id": "Relativity/RelativityImport",
+      "title": "RelativityImport Step | Sequence Connector for Relativity Documentation",
+      "description": "Imports a load file into Relativity using the desktop client. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityImport"
+    },
+    {
+      "id": "Relativity/RelativityImportEntities",
+      "title": "RelativityImportEntities Step | Sequence Connector for Relativity Documentation",
+      "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityImportEntities"
+    },
+    {
+      "id": "Relativity/RelativityMoveFolder",
+      "title": "RelativityMoveFolder Step | Sequence Connector for Relativity Documentation",
+      "description": "Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityMoveFolder"
+    },
+    {
+      "id": "Relativity/RelativityReadKeywordSearch",
+      "title": "RelativityReadKeywordSearch Step | Sequence Connector for Relativity Documentation",
+      "description": "Reads a search. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityReadKeywordSearch"
+    },
+    {
+      "id": "Relativity/RelativityRetrieveMatter",
+      "title": "RelativityRetrieveMatter Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityRetrieveMatter"
+    },
+    {
+      "id": "Relativity/RelativityRetrieveRootFolder",
+      "title": "RelativityRetrieveRootFolder Step | Sequence Connector for Relativity Documentation",
+      "description": "Retrieve the root folder of a Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityRetrieveRootFolder"
+    },
+    {
+      "id": "Relativity/RelativityRetrieveWorkspace",
+      "title": "RelativityRetrieveWorkspace Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityRetrieveWorkspace"
+    },
+    {
+      "id": "Relativity/RelativityRetrieveWorkspaceStatistics",
+      "title": "RelativityRetrieveWorkspaceStatistics Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityRetrieveWorkspaceStatistics"
+    },
+    {
+      "id": "Relativity/RelativitySendQuery",
+      "title": "RelativitySendQuery Step | Sequence Connector for Relativity Documentation",
+      "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativitySendQuery"
+    },
+    {
+      "id": "Relativity/RelativityUpdateFolder",
+      "title": "RelativityUpdateFolder Step | Sequence Connector for Relativity Documentation",
+      "description": "Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityUpdateFolder"
+    },
+    {
+      "id": "Relativity/RelativityUpdateMatter",
+      "title": "RelativityUpdateMatter Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityUpdateMatter"
+    },
+    {
+      "id": "Relativity/RelativityUpdateObject",
+      "title": "RelativityUpdateObject Step | Sequence Connector for Relativity Documentation",
+      "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Relativity/RelativityUpdateObject"
+    },
+    {
+      "id": "Core/Repeat",
+      "title": "Repeat Step | Core SDK Documentation",
+      "description": "Repeat a step a set number of times.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Repeat"
+    },
+    {
+      "id": "Rest/RESTDelete",
+      "title": "RESTDelete Step | REST Connector Documentation",
+      "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Rest/RESTDelete"
+    },
+    {
+      "id": "Rest/RESTGetJSON",
+      "title": "RESTGetJSON Step | REST Connector Documentation",
+      "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Rest/RESTGetJSON"
+    },
+    {
+      "id": "Rest/RESTGetStream",
+      "title": "RESTGetStream Step | REST Connector Documentation",
+      "description": "Get data from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Rest/RESTGetStream"
+    },
+    {
+      "id": "Rest/RESTPatch",
+      "title": "RESTPatch Step | REST Connector Documentation",
+      "description": "Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Rest/RESTPatch"
+    },
+    {
+      "id": "Rest/RESTPost",
+      "title": "RESTPost Step | REST Connector Documentation",
+      "description": "Create a REST resource and return the id of the created resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Rest/RESTPost"
+    },
+    {
+      "id": "Rest/RESTPut",
+      "title": "RESTPut Step | REST Connector Documentation",
+      "description": "Executes a REST Put request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Rest/RESTPut"
+    },
+    {
+      "id": "Core/Round",
+      "title": "Round Step | Core SDK Documentation",
+      "description": "Round an SCL double to a fixed number of decimal places. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Round"
+    },
+    {
+      "id": "Core/RunExternalProcess",
+      "title": "RunExternalProcess Step | Core SDK Documentation",
+      "description": "Runs an external executable program.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/RunExternalProcess"
+    },
+    {
+      "id": "Core/RunSCL",
+      "title": "RunSCL Step | Core SDK Documentation",
+      "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/RunSCL"
+    },
+    {
+      "id": "Core/RunStep",
+      "title": "RunStep Step | Core SDK Documentation",
+      "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/RunStep"
+    },
+    {
+      "id": "Core/SchemaCreate",
+      "title": "SchemaCreate Step | Core SDK Documentation",
+      "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/SchemaCreate"
+    },
+    {
+      "id": "Core/SchemaCreateCoerced",
+      "title": "SchemaCreateCoerced Step | Core SDK Documentation",
+      "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/SchemaCreateCoerced"
+    },
+    {
+      "id": "Core/Sequence",
+      "title": "Sequence Step | Core SDK Documentation",
+      "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Sequence"
+    },
+    {
+      "id": "Core/SetVariable",
+      "title": "SetVariable Step | Core SDK Documentation",
+      "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/SetVariable"
+    },
+    {
+      "id": "Sql/SqlCommand",
+      "title": "SqlCommand Step | SQL Database Connector Documentation",
+      "description": "Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlCommand"
+    },
+    {
+      "id": "Sql/SqlCreateSchemaFromTable",
+      "title": "SqlCreateSchemaFromTable Step | SQL Database Connector Documentation",
+      "description": "Creates a Schema entity from a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlCreateSchemaFromTable"
+    },
+    {
+      "id": "Sql/SqlCreateTable",
+      "title": "SqlCreateTable Step | SQL Database Connector Documentation",
+      "description": "Create a SQL table from a given schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlCreateTable"
+    },
+    {
+      "id": "Sql/SqlInsert",
+      "title": "SqlInsert Step | SQL Database Connector Documentation",
+      "description": "Inserts data into a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlInsert"
+    },
+    {
+      "id": "Sql/SqlQuery",
+      "title": "SqlQuery Step | SQL Database Connector Documentation",
+      "description": "Executes a SQL query and returns the result as an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlQuery"
+    },
+    {
+      "id": "Core/StandardErrorWrite",
+      "title": "StandardErrorWrite Step | Core SDK Documentation",
+      "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StandardErrorWrite"
+    },
+    {
+      "id": "Core/StandardInRead",
+      "title": "StandardInRead Step | Core SDK Documentation",
+      "description": "Reads the Console standard input. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StandardInRead"
+    },
+    {
+      "id": "Core/StandardOutWrite",
+      "title": "StandardOutWrite Step | Core SDK Documentation",
+      "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StandardOutWrite"
+    },
+    {
+      "id": "Core/StringAppend",
+      "title": "StringAppend Step | Core SDK Documentation",
+      "description": "Appends a string to an existing string variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringAppend"
+    },
+    {
+      "id": "Core/StringContains",
+      "title": "StringContains Step | Core SDK Documentation",
+      "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringContains"
+    },
+    {
+      "id": "Core/StringFind",
+      "title": "StringFind Step | Core SDK Documentation",
+      "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringFind"
+    },
+    {
+      "id": "Core/StringFindLast",
+      "title": "StringFindLast Step | Core SDK Documentation",
+      "description": "Gets the last instance of substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringFindLast"
+    },
+    {
+      "id": "Core/StringInterpolate",
+      "title": "StringInterpolate Step | Core SDK Documentation",
+      "description": "Joins strings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringInterpolate"
+    },
+    {
+      "id": "Core/StringIsEmpty",
+      "title": "StringIsEmpty Step | Core SDK Documentation",
+      "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringIsEmpty"
+    },
+    {
+      "id": "Core/StringJoin",
+      "title": "StringJoin Step | Core SDK Documentation",
+      "description": "Join strings with a delimiter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringJoin"
+    },
+    {
+      "id": "Core/StringLength",
+      "title": "StringLength Step | Core SDK Documentation",
+      "description": "Calculates the length of the string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringLength"
+    },
+    {
+      "id": "Core/StringMatch",
+      "title": "StringMatch Step | Core SDK Documentation",
+      "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringMatch"
+    },
+    {
+      "id": "Core/StringReplace",
+      "title": "StringReplace Step | Core SDK Documentation",
+      "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringReplace"
+    },
+    {
+      "id": "Core/StringSplit",
+      "title": "StringSplit Step | Core SDK Documentation",
+      "description": "Splits a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringSplit"
+    },
+    {
+      "id": "Core/StringSubstring",
+      "title": "StringSubstring Step | Core SDK Documentation",
+      "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringSubstring"
+    },
+    {
+      "id": "Core/StringToBool",
+      "title": "StringToBool Step | Core SDK Documentation",
+      "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringToBool"
+    },
+    {
+      "id": "Core/StringToCase",
+      "title": "StringToCase Step | Core SDK Documentation",
+      "description": "Converts a string to a particular case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringToCase"
+    },
+    {
+      "id": "Core/StringToDate",
+      "title": "StringToDate Step | Core SDK Documentation",
+      "description": "Converts a date to the specified format, yyyyMMddHHmm by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringToDate"
+    },
+    {
+      "id": "Core/StringToDouble",
+      "title": "StringToDouble Step | Core SDK Documentation",
+      "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringToDouble"
+    },
+    {
+      "id": "Core/StringToInt",
+      "title": "StringToInt Step | Core SDK Documentation",
+      "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringToInt"
+    },
+    {
+      "id": "Core/StringTrim",
+      "title": "StringTrim Step | Core SDK Documentation",
+      "description": "Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/StringTrim"
+    },
+    {
+      "id": "Core/Subtract",
+      "title": "Subtract Step | Core SDK Documentation",
+      "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Subtract"
+    },
+    {
+      "id": "Core/Sum",
+      "title": "Sum Step | Core SDK Documentation",
+      "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Sum"
+    },
+    {
+      "id": "Tesseract/TesseractOCR",
+      "title": "TesseractOCR Step | Tesseract OCR Connector Documentation",
+      "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Tesseract/TesseractOCR"
+    },
+    {
+      "id": "StructuredData/ToConcordance",
+      "title": "ToConcordance Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in concordance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/ToConcordance"
+    },
+    {
+      "id": "StructuredData/ToCSV",
+      "title": "ToCSV Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/ToCSV"
+    },
+    {
+      "id": "StructuredData/ToIDX",
+      "title": "ToIDX Step | Structured Data Connector Documentation",
+      "description": "Write an entity to a stream in IDX format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/ToIDX"
+    },
+    {
+      "id": "StructuredData/ToJson",
+      "title": "ToJson Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in JSON format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/ToJson"
+    },
+    {
+      "id": "StructuredData/ToJsonArray",
+      "title": "ToJsonArray Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in Json format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/ToJsonArray"
+    },
+    {
+      "id": "StructuredData/ToXml",
+      "title": "ToXml Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in XML format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/ToXml"
+    },
+    {
+      "id": "StructuredData/ToXmlArray",
+      "title": "ToXmlArray Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in Xml format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/ToXmlArray"
+    },
+    {
+      "id": "StructuredData/ToYaml",
+      "title": "ToYaml Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in YAML format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/StructuredData/ToYaml"
+    },
+    {
+      "id": "Core/Transform",
+      "title": "Transform Step | Core SDK Documentation",
+      "description": "Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Transform"
+    },
+    {
+      "id": "Core/Try",
+      "title": "Try Step | Core SDK Documentation",
+      "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Try"
+    },
+    {
+      "id": "Core/Validate",
+      "title": "Validate Step | Core SDK Documentation",
+      "description": "Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/Validate"
+    },
+    {
+      "id": "Core/While",
+      "title": "While Step | Core SDK Documentation",
+      "description": "Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Core/While"
+    }
+  ]
+}

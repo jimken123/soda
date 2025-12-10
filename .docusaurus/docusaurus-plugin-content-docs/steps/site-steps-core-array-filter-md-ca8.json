@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayFilter",
+  "id": "Core/ArrayFilter",
+  "title": "ArrayFilter Step | Core SDK Documentation",
+  "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayFilter.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayFilter",
+  "permalink": "/steps/next/Core/ArrayFilter",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayFilter.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayFilter Step | Core SDK Documentation",
+    "sidebar_label": "ArrayFilter",
+    "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArrayElementAtIndex",
+    "permalink": "/steps/next/Core/ArrayElementAtIndex"
+  },
+  "next": {
+    "title": "ArrayFind",
+    "permalink": "/steps/next/Core/ArrayFind"
+  }
+}

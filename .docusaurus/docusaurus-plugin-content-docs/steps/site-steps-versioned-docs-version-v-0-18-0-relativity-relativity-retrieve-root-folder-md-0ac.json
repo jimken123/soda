@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityRetrieveRootFolder",
+  "id": "version-v0.18.0/Relativity/RelativityRetrieveRootFolder",
+  "title": "RelativityRetrieveRootFolder Step | Sequence Connector for Relativity Documentation",
+  "description": "Retrieve the root folder of a Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveRootFolder.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityRetrieveRootFolder",
+  "permalink": "/steps/Relativity/RelativityRetrieveRootFolder",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveRootFolder.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/tags/relativity"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "RelativityRetrieveRootFolder Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityRetrieveRootFolder",
+    "description": "Retrieve the root folder of a Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityRetrieveMatter",
+    "permalink": "/steps/Relativity/RelativityRetrieveMatter"
+  },
+  "next": {
+    "title": "RelativityRetrieveWorkspace",
+    "permalink": "/steps/Relativity/RelativityRetrieveWorkspace"
+  }
+}

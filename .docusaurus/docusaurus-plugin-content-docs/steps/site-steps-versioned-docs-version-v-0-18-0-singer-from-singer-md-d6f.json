@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Singer/FromSinger",
+  "id": "version-v0.18.0/Singer/FromSinger",
+  "title": "FromSinger Step | Singer Target Documentation",
+  "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Singer/FromSinger.md",
+  "sourceDirName": "Singer",
+  "slug": "/Singer/FromSinger",
+  "permalink": "/steps/Singer/FromSinger",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Singer/FromSinger.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Singer",
+      "permalink": "/steps/tags/singer"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "FromSinger Step | Singer Target Documentation",
+    "sidebar_label": "FromSinger",
+    "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Singer"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Singer",
+    "permalink": "/steps/Singer"
+  },
+  "next": {
+    "title": "Sql",
+    "permalink": "/steps/Sql"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "label": "Sql",
+  "permalink": "/steps/next/tags/sql",
+  "allTagsPath": "/steps/next/tags",
+  "count": 10,
+  "items": [
+    {
+      "id": "Sql",
+      "title": "All Steps | SQL Database Connector Documentation",
+      "description": "List of all steps for SQL Database Connector. Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+      "permalink": "/steps/next/Sql"
+    },
+    {
+      "id": "Sql/CreateMsSQLConnectionString",
+      "title": "CreateMsSQLConnectionString Step | SQL Database Connector Documentation",
+      "description": "Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/CreateMsSQLConnectionString"
+    },
+    {
+      "id": "Sql/CreateMySQLConnectionString",
+      "title": "CreateMySQLConnectionString Step | SQL Database Connector Documentation",
+      "description": "Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/CreateMySQLConnectionString"
+    },
+    {
+      "id": "Sql/CreatePostgresConnectionString",
+      "title": "CreatePostgresConnectionString Step | SQL Database Connector Documentation",
+      "description": "Creates a PostgreSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/CreatePostgresConnectionString"
+    },
+    {
+      "id": "Sql/OpenConnection",
+      "title": "OpenConnection Step | SQL Database Connector Documentation",
+      "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/OpenConnection"
+    },
+    {
+      "id": "Sql/SqlCommand",
+      "title": "SqlCommand Step | SQL Database Connector Documentation",
+      "description": "Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlCommand"
+    },
+    {
+      "id": "Sql/SqlCreateSchemaFromTable",
+      "title": "SqlCreateSchemaFromTable Step | SQL Database Connector Documentation",
+      "description": "Creates a Schema entity from a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlCreateSchemaFromTable"
+    },
+    {
+      "id": "Sql/SqlCreateTable",
+      "title": "SqlCreateTable Step | SQL Database Connector Documentation",
+      "description": "Create a SQL table from a given schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlCreateTable"
+    },
+    {
+      "id": "Sql/SqlInsert",
+      "title": "SqlInsert Step | SQL Database Connector Documentation",
+      "description": "Inserts data into a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlInsert"
+    },
+    {
+      "id": "Sql/SqlQuery",
+      "title": "SqlQuery Step | SQL Database Connector Documentation",
+      "description": "Executes a SQL query and returns the result as an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Sql/SqlQuery"
+    }
+  ]
+}

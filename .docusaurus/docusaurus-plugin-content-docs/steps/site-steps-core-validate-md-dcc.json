@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Validate",
+  "id": "Core/Validate",
+  "title": "Validate Step | Core SDK Documentation",
+  "description": "Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/Validate.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Validate",
+  "permalink": "/steps/next/Core/Validate",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Validate.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Validate Step | Core SDK Documentation",
+    "sidebar_label": "Validate",
+    "description": "Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Try",
+    "permalink": "/steps/next/Core/Try"
+  },
+  "next": {
+    "title": "While",
+    "permalink": "/steps/next/Core/While"
+  }
+}

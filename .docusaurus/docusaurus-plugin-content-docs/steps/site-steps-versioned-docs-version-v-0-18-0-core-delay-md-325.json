@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Delay",
+  "id": "version-v0.18.0/Core/Delay",
+  "title": "Delay Step | Core SDK Documentation",
+  "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Delay.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Delay",
+  "permalink": "/steps/Core/Delay",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/Delay.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/tags/core"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "Delay Step | Core SDK Documentation",
+    "sidebar_label": "Delay",
+    "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DateToString",
+    "permalink": "/steps/Core/DateToString"
+  },
+  "next": {
+    "title": "Divide",
+    "permalink": "/steps/Core/Divide"
+  }
+}

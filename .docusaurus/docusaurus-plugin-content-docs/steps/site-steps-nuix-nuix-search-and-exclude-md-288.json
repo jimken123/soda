@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixSearchAndExclude",
+  "id": "Nuix/NuixSearchAndExclude",
+  "title": "NuixSearchAndExclude Step | Nuix Connector Documentation",
+  "description": "Run a search query in Nuix and exclude all items found.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixSearchAndExclude.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixSearchAndExclude",
+  "permalink": "/steps/next/Nuix/NuixSearchAndExclude",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixSearchAndExclude.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixSearchAndExclude Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixSearchAndExclude",
+    "description": "Run a search query in Nuix and exclude all items found.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixRunScript",
+    "permalink": "/steps/next/Nuix/NuixRunScript"
+  },
+  "next": {
+    "title": "NuixSearchAndTag",
+    "permalink": "/steps/next/Nuix/NuixSearchAndTag"
+  }
+}

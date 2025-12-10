@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+  height: 48px;
+  width: 48px;
+  color: var(--ifm-color-primary);
+}

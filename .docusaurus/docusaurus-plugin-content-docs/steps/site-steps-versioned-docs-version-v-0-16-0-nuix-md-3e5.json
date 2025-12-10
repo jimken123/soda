@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix",
+  "id": "version-v0.16.0/Nuix",
+  "title": "All Steps | Nuix Connector Documentation",
+  "description": "List of all steps for Nuix Connector. Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix.md",
+  "sourceDirName": ".",
+  "slug": "/Nuix",
+  "permalink": "/steps/v0.16.0/Nuix",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix.md",
+  "tags": [
+    {
+      "label": "Contents",
+      "permalink": "/steps/v0.16.0/tags/contents"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/v0.16.0/tags/nuix"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "All Steps | Nuix Connector Documentation",
+    "sidebar_label": "Nuix",
+    "description": "List of all steps for Nuix Connector. Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+    "tags": [
+      "Contents",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "PathCombine",
+    "permalink": "/steps/v0.16.0/FileSystem/PathCombine"
+  },
+  "next": {
+    "title": "NuixAddConcordance",
+    "permalink": "/steps/v0.16.0/Nuix/NuixAddConcordance"
+  }
+}

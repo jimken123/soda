@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/rest/reveal-get-case-statistics",
+  "id": "examples/connectors/rest/reveal-get-case-statistics",
+  "title": "Get Reveal Case Statistics | REST Connector Examples",
+  "description": "This example will",
+  "source": "@site/docs/examples/connectors/rest/reveal-get-case-statistics.md",
+  "sourceDirName": "examples/connectors/rest",
+  "slug": "/examples/connectors/rest/reveal-get-case-statistics",
+  "permalink": "/docs/next/examples/connectors/rest/reveal-get-case-statistics",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/rest/reveal-get-case-statistics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Get Reveal Case Statistics | REST Connector Examples",
+    "sidebar_label": "Get Reveal Case Statistics"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get All Reveal Folders",
+    "permalink": "/docs/next/examples/connectors/rest/reveal-get-all-folders"
+  },
+  "next": {
+    "title": "Get Reveal Cases",
+    "permalink": "/docs/next/examples/connectors/rest/reveal-get-cases"
+  }
+}

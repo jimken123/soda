@@ -1,0 +1,3 @@
+- AutopsyGenerateReports
+    CaseDirectory: (PathCombine ['CaseDirectory', 'MyNewCase_2021_09_22_15_43_42'])
+    ProfileName: 'html'

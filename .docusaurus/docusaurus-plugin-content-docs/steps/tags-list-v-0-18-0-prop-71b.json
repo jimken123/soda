@@ -1,0 +1,82 @@
+[
+  {
+    "label": "Contents",
+    "permalink": "/steps/tags/contents",
+    "count": 13
+  },
+  {
+    "label": "Unit",
+    "permalink": "/steps/tags/unit",
+    "count": 26
+  },
+  {
+    "label": "Core",
+    "permalink": "/steps/tags/core",
+    "count": 105
+  },
+  {
+    "label": "Step",
+    "permalink": "/steps/tags/step",
+    "count": 227
+  },
+  {
+    "label": "Enums",
+    "permalink": "/steps/tags/enums",
+    "count": 25
+  },
+  {
+    "label": "FileSystem",
+    "permalink": "/steps/tags/file-system",
+    "count": 14
+  },
+  {
+    "label": "Microsoft365",
+    "permalink": "/steps/tags/microsoft-365",
+    "count": 9
+  },
+  {
+    "label": "Nuix",
+    "permalink": "/steps/tags/nuix",
+    "count": 36
+  },
+  {
+    "label": "Pwsh",
+    "permalink": "/steps/tags/pwsh",
+    "count": 3
+  },
+  {
+    "label": "Relativity",
+    "permalink": "/steps/tags/relativity",
+    "count": 28
+  },
+  {
+    "label": "Rest",
+    "permalink": "/steps/tags/rest",
+    "count": 7
+  },
+  {
+    "label": "Singer",
+    "permalink": "/steps/tags/singer",
+    "count": 2
+  },
+  {
+    "label": "Sql",
+    "permalink": "/steps/tags/sql",
+    "count": 10
+  },
+  {
+    "label": "StructuredData",
+    "permalink": "/steps/tags/structured-data",
+    "count": 17
+  },
+  {
+    "label": "Tesseract",
+    "permalink": "/steps/tags/tesseract",
+    "count": 3
+  },
+  {
+    "label": "TSK",
+    "permalink": "/steps/tags/tsk",
+    "count": 5
+  }
+]

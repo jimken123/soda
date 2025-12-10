@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Sequence",
+  "id": "version-v0.16.0/Core/Sequence",
+  "title": "Sequence Step | Core SDK Documentation",
+  "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Sequence.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Sequence",
+  "permalink": "/steps/v0.16.0/Core/Sequence",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Sequence.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.16.0/tags/core"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "Sequence Step | Core SDK Documentation",
+    "sidebar_label": "Sequence",
+    "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "SchemaCreateCoerced",
+    "permalink": "/steps/v0.16.0/Core/SchemaCreateCoerced"
+  },
+  "next": {
+    "title": "SetVariable",
+    "permalink": "/steps/v0.16.0/Core/SetVariable"
+  }
+}

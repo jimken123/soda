@@ -1,0 +1,11 @@
+- <username> = 'username'
+- <password> = 'password'
+
+- <caseId> = '159'
+- <folderBody> = ("Name": "MyTestFolder" )
+
+- <session> = Reveal_Login_Get username: <username> password: <password>
+- <userId> = <session>["UserId"]
+- <LoginSessionId> = <session>["LoginSessionId"]
+
+- <folderCreateResult> = (Reveal_WorkFolder_Create Body: <folderBody> caseId: <caseId> InControlAuthToken: <LoginSessionId> userId: <userId>)

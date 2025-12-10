@@ -1,0 +1,24 @@
+{
+  "unversionedId": "quick-start",
+  "id": "quick-start",
+  "title": "Quick Start",
+  "description": "1. Download the latest release here",
+  "source": "@site/docs/quick-start.md",
+  "sourceDirName": ".",
+  "slug": "/quick-start",
+  "permalink": "/docs/next/quick-start",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/quick-start.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "What is Sequence",
+    "permalink": "/docs/next/intro"
+  },
+  "next": {
+    "title": "Sequence Configuration Language",
+    "permalink": "/docs/next/sequence-configuration-language"
+  }
+}

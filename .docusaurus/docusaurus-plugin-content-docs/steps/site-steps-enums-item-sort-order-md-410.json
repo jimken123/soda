@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/ItemSortOrder",
+  "id": "Enums/ItemSortOrder",
+  "title": "ItemSortOrder | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/ItemSortOrder.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/ItemSortOrder",
+  "permalink": "/steps/next/Enums/ItemSortOrder",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/ItemSortOrder.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ItemSortOrder | Enums",
+    "sidebar_label": "ItemSortOrder",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ItemSetDeduplication",
+    "permalink": "/steps/next/Enums/ItemSetDeduplication"
+  },
+  "next": {
+    "title": "LoadFileType",
+    "permalink": "/steps/next/Enums/LoadFileType"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixGetVersion",
+  "id": "version-v0.18.0/Nuix/NuixGetVersion",
+  "title": "NuixGetVersion Step | Nuix Connector Documentation",
+  "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetVersion.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixGetVersion",
+  "permalink": "/steps/Nuix/NuixGetVersion",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetVersion.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/tags/nuix"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "NuixGetVersion Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixGetVersion",
+    "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixGetLicenseDetails",
+    "permalink": "/steps/Nuix/NuixGetLicenseDetails"
+  },
+  "next": {
+    "title": "NuixImportDocumentIds",
+    "permalink": "/steps/Nuix/NuixImportDocumentIds"
+  }
+}

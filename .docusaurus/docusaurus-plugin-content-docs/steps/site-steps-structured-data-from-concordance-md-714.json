@@ -1,0 +1,43 @@
+{
+  "unversionedId": "StructuredData/FromConcordance",
+  "id": "StructuredData/FromConcordance",
+  "title": "FromConcordance Step | Structured Data Connector Documentation",
+  "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/StructuredData/FromConcordance.md",
+  "sourceDirName": "StructuredData",
+  "slug": "/StructuredData/FromConcordance",
+  "permalink": "/steps/next/StructuredData/FromConcordance",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/StructuredData/FromConcordance.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "StructuredData",
+      "permalink": "/steps/next/tags/structured-data"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "FromConcordance Step | Structured Data Connector Documentation",
+    "sidebar_label": "FromConcordance",
+    "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "StructuredData"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FromCSV",
+    "permalink": "/steps/next/StructuredData/FromCSV"
+  },
+  "next": {
+    "title": "FromIDX",
+    "permalink": "/steps/next/StructuredData/FromIDX"
+  }
+}

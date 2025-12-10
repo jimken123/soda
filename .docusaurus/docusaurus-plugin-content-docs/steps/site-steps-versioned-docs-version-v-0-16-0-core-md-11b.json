@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core",
+  "id": "version-v0.16.0/Core",
+  "title": "All Steps | Core SDK Documentation",
+  "description": "List of all steps for Core SDK. An SDK for automating e-discovery and forensic workflows. Core is the SCL language grammar and interpreter, and an SDK for building connectors.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Core.md",
+  "sourceDirName": ".",
+  "slug": "/Core",
+  "permalink": "/steps/v0.16.0/Core",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core.md",
+  "tags": [
+    {
+      "label": "Contents",
+      "permalink": "/steps/v0.16.0/tags/contents"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.16.0/tags/core"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "All Steps | Core SDK Documentation",
+    "sidebar_label": "Core",
+    "description": "List of all steps for Core SDK. An SDK for automating e-discovery and forensic workflows. Core is the SCL language grammar and interpreter, and an SDK for building connectors.",
+    "tags": [
+      "Contents",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "All Sequence Steps",
+    "permalink": "/steps/v0.16.0/all"
+  },
+  "next": {
+    "title": "And",
+    "permalink": "/steps/v0.16.0/Core/And"
+  }
+}

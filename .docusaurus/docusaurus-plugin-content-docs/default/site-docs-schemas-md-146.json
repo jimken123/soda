@@ -1,0 +1,24 @@
+{
+  "unversionedId": "schemas",
+  "id": "schemas",
+  "title": "Schemas",
+  "description": "Schemas are a way to ensure that your data (entities, arrays or streams)",
+  "source": "@site/docs/schemas.md",
+  "sourceDirName": ".",
+  "slug": "/schemas",
+  "permalink": "/docs/next/schemas",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/schemas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Entities",
+    "permalink": "/docs/next/entities"
+  },
+  "next": {
+    "title": "Core",
+    "permalink": "/docs/next/connectors/core"
+  }
+}

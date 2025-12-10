@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/NotEquals",
+  "id": "version-v0.16.0/Core/NotEquals",
+  "title": "NotEquals Step | Core SDK Documentation",
+  "description": "Returns true if each term is not equal to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Core/NotEquals.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/NotEquals",
+  "permalink": "/steps/v0.16.0/Core/NotEquals",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/NotEquals.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.16.0/tags/core"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "NotEquals Step | Core SDK Documentation",
+    "sidebar_label": "NotEquals",
+    "description": "Returns true if each term is not equal to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Not",
+    "permalink": "/steps/v0.16.0/Core/Not"
+  },
+  "next": {
+    "title": "Or",
+    "permalink": "/steps/v0.16.0/Core/Or"
+  }
+}

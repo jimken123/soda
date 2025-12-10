@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixCreateIrregularItemsReport",
+  "id": "version-v0.18.0/Nuix/NuixCreateIrregularItemsReport",
+  "title": "NuixCreateIrregularItemsReport Step | Nuix Connector Documentation",
+  "description": "Creates a list of all irregular items in a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixCreateIrregularItemsReport.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixCreateIrregularItemsReport",
+  "permalink": "/steps/Nuix/NuixCreateIrregularItemsReport",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixCreateIrregularItemsReport.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/tags/nuix"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "NuixCreateIrregularItemsReport Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixCreateIrregularItemsReport",
+    "description": "Creates a list of all irregular items in a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixCreateCase",
+    "permalink": "/steps/Nuix/NuixCreateCase"
+  },
+  "next": {
+    "title": "NuixCreateNRTReport",
+    "permalink": "/steps/Nuix/NuixCreateNRTReport"
+  }
+}

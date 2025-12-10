@@ -1,0 +1,32 @@
+.banner {
+  width: 60%;
+  box-shadow: var(--ifm-global-shadow-md);
+}
+
+@media screen and (max-width: 966px) {
+  .banner {
+    width: 80%;
+  }
+  .header {
+    text-align: center;
+  }
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  text-decoration: underline;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+  height: 48px;
+  width: 48px;
+  color: var(--ifm-color-primary);
+}

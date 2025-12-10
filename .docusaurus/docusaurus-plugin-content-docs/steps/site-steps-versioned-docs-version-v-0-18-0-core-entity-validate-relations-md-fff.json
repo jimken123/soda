@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/EntityValidateRelations",
+  "id": "version-v0.18.0/Core/EntityValidateRelations",
+  "title": "EntityValidateRelations Step | Core SDK Documentation",
+  "description": "For each entity in the stream, check that the value of the `ParentIdProperty` is the value of the `IdProperty` for at least one entity in the stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Core/EntityValidateRelations.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/EntityValidateRelations",
+  "permalink": "/steps/Core/EntityValidateRelations",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/EntityValidateRelations.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/tags/core"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "EntityValidateRelations Step | Core SDK Documentation",
+    "sidebar_label": "EntityValidateRelations",
+    "description": "For each entity in the stream, check that the value of the `ParentIdProperty` is the value of the `IdProperty` for at least one entity in the stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "EntitySetValue",
+    "permalink": "/steps/Core/EntitySetValue"
+  },
+  "next": {
+    "title": "Equals",
+    "permalink": "/steps/Core/Equals"
+  }
+}

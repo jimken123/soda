@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Pwsh",
+  "id": "version-v0.18.0/Pwsh",
+  "title": "All Steps | PowerShell Connector Documentation",
+  "description": "List of all steps for PowerShell Connector. Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Pwsh.md",
+  "sourceDirName": ".",
+  "slug": "/Pwsh",
+  "permalink": "/steps/Pwsh",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Pwsh.md",
+  "tags": [
+    {
+      "label": "Contents",
+      "permalink": "/steps/tags/contents"
+    },
+    {
+      "label": "Pwsh",
+      "permalink": "/steps/tags/pwsh"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "All Steps | PowerShell Connector Documentation",
+    "sidebar_label": "Pwsh",
+    "description": "List of all steps for PowerShell Connector. Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+    "tags": [
+      "Contents",
+      "Pwsh"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixSearchAndTag",
+    "permalink": "/steps/Nuix/NuixSearchAndTag"
+  },
+  "next": {
+    "title": "PwshRunScript",
+    "permalink": "/steps/Pwsh/PwshRunScript"
+  }
+}

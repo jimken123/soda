@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/AutopsyCaseType",
+  "id": "Enums/AutopsyCaseType",
+  "title": "AutopsyCaseType | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/AutopsyCaseType.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/AutopsyCaseType",
+  "permalink": "/steps/next/Enums/AutopsyCaseType",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/AutopsyCaseType.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "AutopsyCaseType | Enums",
+    "sidebar_label": "AutopsyCaseType",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArtifactType",
+    "permalink": "/steps/next/Enums/ArtifactType"
+  },
+  "next": {
+    "title": "DeduplicateBy",
+    "permalink": "/steps/next/Enums/DeduplicateBy"
+  }
+}

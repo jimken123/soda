@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/schemas/transform-concordance-to-ussec",
+  "id": "version-v0.17.0/examples/schemas/transform-concordance-to-ussec",
+  "title": "Transform Concordance File to USSEC Schema | Schema Examples",
+  "description": "This example converts a concordance load file to match a schema.",
+  "source": "@site/versioned_docs/version-v0.17.0/examples/schemas/transform-concordance-to-ussec.md",
+  "sourceDirName": "examples/schemas",
+  "slug": "/examples/schemas/transform-concordance-to-ussec",
+  "permalink": "/docs/v0.17.0/examples/schemas/transform-concordance-to-ussec",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/schemas/transform-concordance-to-ussec.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "Transform Concordance File to USSEC Schema | Schema Examples",
+    "sidebar_label": "Transform Concordance File"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "EDRM Schema",
+    "permalink": "/docs/v0.17.0/examples/schemas/edrm-schema"
+  },
+  "next": {
+    "title": "Using Schemas to Transform Dates",
+    "permalink": "/docs/v0.17.0/examples/schemas/using-schemas-to-transform-dates"
+  }
+}

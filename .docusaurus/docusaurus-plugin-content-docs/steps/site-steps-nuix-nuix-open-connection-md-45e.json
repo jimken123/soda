@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixOpenConnection",
+  "id": "Nuix/NuixOpenConnection",
+  "title": "NuixOpenConnection Step | Nuix Connector Documentation",
+  "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixOpenConnection.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixOpenConnection",
+  "permalink": "/steps/next/Nuix/NuixOpenConnection",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixOpenConnection.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixOpenConnection Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixOpenConnection",
+    "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixOpenCase",
+    "permalink": "/steps/next/Nuix/NuixOpenCase"
+  },
+  "next": {
+    "title": "NuixPerformOCR",
+    "permalink": "/steps/next/Nuix/NuixPerformOCR"
+  }
+}

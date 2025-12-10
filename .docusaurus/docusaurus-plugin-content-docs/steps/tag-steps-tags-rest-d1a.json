@@ -1,0 +1,50 @@
+{
+  "label": "Rest",
+  "permalink": "/steps/tags/rest",
+  "allTagsPath": "/steps/tags",
+  "count": 7,
+  "items": [
+    {
+      "id": "version-v0.18.0/Rest",
+      "title": "All Steps | REST Connector Documentation",
+      "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.",
+      "permalink": "/steps/Rest"
+    },
+    {
+      "id": "version-v0.18.0/Rest/RESTDelete",
+      "title": "RESTDelete Step | REST Connector Documentation",
+      "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/Rest/RESTDelete"
+    },
+    {
+      "id": "version-v0.18.0/Rest/RESTGetJSON",
+      "title": "RESTGetJSON Step | REST Connector Documentation",
+      "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/Rest/RESTGetJSON"
+    },
+    {
+      "id": "version-v0.18.0/Rest/RESTGetStream",
+      "title": "RESTGetStream Step | REST Connector Documentation",
+      "description": "Get data from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/Rest/RESTGetStream"
+    },
+    {
+      "id": "version-v0.18.0/Rest/RESTPatch",
+      "title": "RESTPatch Step | REST Connector Documentation",
+      "description": "Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/Rest/RESTPatch"
+    },
+    {
+      "id": "version-v0.18.0/Rest/RESTPost",
+      "title": "RESTPost Step | REST Connector Documentation",
+      "description": "Create a REST resource and return the id of the created resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/Rest/RESTPost"
+    },
+    {
+      "id": "version-v0.18.0/Rest/RESTPut",
+      "title": "RESTPut Step | REST Connector Documentation",
+      "description": "Executes a REST Put request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/Rest/RESTPut"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/nuix/nuix-download-sample-data",
+  "id": "examples/connectors/nuix/nuix-download-sample-data",
+  "title": "Download Sample Data | Nuix Connector Examples",
+  "description": "This SCL will:",
+  "source": "@site/docs/examples/connectors/nuix/nuix-download-sample-data.md",
+  "sourceDirName": "examples/connectors/nuix",
+  "slug": "/examples/connectors/nuix/nuix-download-sample-data",
+  "permalink": "/docs/next/examples/connectors/nuix/nuix-download-sample-data",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/nuix/nuix-download-sample-data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Download Sample Data | Nuix Connector Examples",
+    "sidebar_label": "Download Sample Data"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Create Case, Ingest and Filter",
+    "permalink": "/docs/next/examples/connectors/nuix/nuix-create-ingest-filter"
+  },
+  "next": {
+    "title": "Ingest Using a Custom Processing Profile Configured in SCL",
+    "permalink": "/docs/next/examples/connectors/nuix/nuix-ingest-custom-profile"
+  }
+}

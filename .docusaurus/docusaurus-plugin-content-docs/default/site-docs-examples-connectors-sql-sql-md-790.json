@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/sql/sql",
+  "id": "examples/connectors/sql/sql",
+  "title": "SQL Connector Examples",
+  "description": "Examples of how to push and pull data from SQL databases when using Sequence to automate forensic and ediscovery workflows.",
+  "source": "@site/docs/examples/connectors/sql/sql.md",
+  "sourceDirName": "examples/connectors/sql",
+  "slug": "/examples/connectors/sql/",
+  "permalink": "/docs/next/examples/connectors/sql/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/sql/sql.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "SQL Connector",
+    "sidebar_position": 0,
+    "description": "Examples of how to push and pull data from SQL databases when using Sequence to automate forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Import Data from Slack",
+    "permalink": "/docs/next/examples/connectors/singer/import-data-from-slack"
+  },
+  "next": {
+    "title": "Create SQL Table and Insert Data",
+    "permalink": "/docs/next/examples/connectors/sql/create-table-insert-data"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/nuix/nuix-create-ingest-filter",
+  "id": "examples/connectors/nuix/nuix-create-ingest-filter",
+  "title": "Create Case, Ingest and Filter | Nuix Connector Examples",
+  "description": "This example will:",
+  "source": "@site/docs/examples/connectors/nuix/nuix-create-ingest-filter.md",
+  "sourceDirName": "examples/connectors/nuix",
+  "slug": "/examples/connectors/nuix/nuix-create-ingest-filter",
+  "permalink": "/docs/next/examples/connectors/nuix/nuix-create-ingest-filter",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/nuix/nuix-create-ingest-filter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create Case, Ingest and Filter | Nuix Connector Examples",
+    "sidebar_label": "Create Case, Ingest and Filter"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Create Case, Ingest, Filter and Export",
+    "permalink": "/docs/next/examples/connectors/nuix/nuix-create-ingest-export"
+  },
+  "next": {
+    "title": "Download Sample Data",
+    "permalink": "/docs/next/examples/connectors/nuix/nuix-download-sample-data"
+  }
+}

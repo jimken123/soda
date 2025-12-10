@@ -1,0 +1,10 @@
+# Set the name of your workspace. You could also use Workspace Artifact Id
+- <Workspace>        = 'Test Workspace'
+- <FilePath>         = 'C:\repos\Examples\Concordance\Data\loadfile.dat'
+- <SettingsFilePath> = 'C:\repos\Examples\Concordance\LoadFileSettings.kwe'
+
+- RelativityImport
+    FilePath: <FilePath>
+    SettingsFilePath: <SettingsFilePath>
+    FileImportType: FileImportType.Object
+    Workspace: <Workspace>

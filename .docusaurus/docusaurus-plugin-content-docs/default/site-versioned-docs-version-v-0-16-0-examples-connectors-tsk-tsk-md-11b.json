@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/tsk/tsk",
+  "id": "version-v0.16.0/examples/connectors/tsk/tsk",
+  "title": "The Sleuth Kit® Connector Examples",
+  "description": "Examples of how to use Sequence to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+  "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/tsk/tsk.md",
+  "sourceDirName": "examples/connectors/tsk",
+  "slug": "/examples/connectors/tsk/",
+  "permalink": "/docs/v0.16.0/examples/connectors/tsk/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/tsk/tsk.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "The Sleuth Kit Connector",
+    "sidebar_position": 0,
+    "description": "Examples of how to use Sequence to include Autopsy / TSK in automated forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tesseract Connector",
+    "permalink": "/docs/v0.16.0/examples/connectors/tesseract/"
+  },
+  "next": {
+    "title": "Create an Autopsy Case and Add Data",
+    "permalink": "/docs/v0.16.0/examples/connectors/tsk/tsk-create-case-and-add-data"
+  }
+}

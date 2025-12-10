@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/schemas/ussec-schema",
+  "id": "version-v0.18.0/examples/schemas/ussec-schema",
+  "title": "USSEC Schema | Schema Examples",
+  "description": "This is a schema which enforces that data meets the",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/schemas/ussec-schema.md",
+  "sourceDirName": "examples/schemas",
+  "slug": "/examples/schemas/ussec-schema",
+  "permalink": "/docs/examples/schemas/ussec-schema",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/schemas/ussec-schema.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "USSEC Schema | Schema Examples",
+    "sidebar_label": "USSEC Schema"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Schemas to Transform Dates",
+    "permalink": "/docs/examples/schemas/using-schemas-to-transform-dates"
+  },
+  "next": {
+    "title": "Application Settings",
+    "permalink": "/docs/application-settings"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixCountItems",
+  "id": "Nuix/NuixCountItems",
+  "title": "NuixCountItems Step | Nuix Connector Documentation",
+  "description": "Returns the number of items matching a particular search term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixCountItems.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixCountItems",
+  "permalink": "/steps/next/Nuix/NuixCountItems",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixCountItems.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixCountItems Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixCountItems",
+    "description": "Returns the number of items matching a particular search term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixCloseConnection",
+    "permalink": "/steps/next/Nuix/NuixCloseConnection"
+  },
+  "next": {
+    "title": "NuixCreateCase",
+    "permalink": "/steps/next/Nuix/NuixCreateCase"
+  }
+}

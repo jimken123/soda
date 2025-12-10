@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Rest/RESTDelete",
+  "id": "version-v0.18.0/Rest/RESTDelete",
+  "title": "RESTDelete Step | REST Connector Documentation",
+  "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Rest/RESTDelete.md",
+  "sourceDirName": "Rest",
+  "slug": "/Rest/RESTDelete",
+  "permalink": "/steps/Rest/RESTDelete",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Rest/RESTDelete.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Rest",
+      "permalink": "/steps/tags/rest"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "RESTDelete Step | REST Connector Documentation",
+    "sidebar_label": "RESTDelete",
+    "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Rest"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Rest",
+    "permalink": "/steps/Rest"
+  },
+  "next": {
+    "title": "RESTGetJSON",
+    "permalink": "/steps/Rest/RESTGetJSON"
+  }
+}

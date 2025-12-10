@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityCreateKeywordSearch",
+  "id": "Relativity/RelativityCreateKeywordSearch",
+  "title": "RelativityCreateKeywordSearch Step | Sequence Connector for Relativity Documentation",
+  "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityCreateKeywordSearch.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityCreateKeywordSearch",
+  "permalink": "/steps/next/Relativity/RelativityCreateKeywordSearch",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityCreateKeywordSearch.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityCreateKeywordSearch Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityCreateKeywordSearch",
+    "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityCreateFolder",
+    "permalink": "/steps/next/Relativity/RelativityCreateFolder"
+  },
+  "next": {
+    "title": "RelativityCreateMatter",
+    "permalink": "/steps/next/Relativity/RelativityCreateMatter"
+  }
+}

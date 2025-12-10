@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/EntityFormat",
+  "id": "version-v0.17.0/Core/EntityFormat",
+  "title": "EntityFormat Step | Core SDK Documentation",
+  "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Core/EntityFormat.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/EntityFormat",
+  "permalink": "/steps/v0.17.0/Core/EntityFormat",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/EntityFormat.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.17.0/tags/core"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "EntityFormat Step | Core SDK Documentation",
+    "sidebar_label": "EntityFormat",
+    "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "EntityCombine",
+    "permalink": "/steps/v0.17.0/Core/EntityCombine"
+  },
+  "next": {
+    "title": "EntityGetProperties",
+    "permalink": "/steps/v0.17.0/Core/EntityGetProperties"
+  }
+}

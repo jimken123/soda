@@ -1,0 +1,43 @@
+{
+  "unversionedId": "StructuredData/ToCSV",
+  "id": "StructuredData/ToCSV",
+  "title": "ToCSV Step | Structured Data Connector Documentation",
+  "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/StructuredData/ToCSV.md",
+  "sourceDirName": "StructuredData",
+  "slug": "/StructuredData/ToCSV",
+  "permalink": "/steps/next/StructuredData/ToCSV",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/StructuredData/ToCSV.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "StructuredData",
+      "permalink": "/steps/next/tags/structured-data"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ToCSV Step | Structured Data Connector Documentation",
+    "sidebar_label": "ToCSV",
+    "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "StructuredData"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FromYaml",
+    "permalink": "/steps/next/StructuredData/FromYaml"
+  },
+  "next": {
+    "title": "ToConcordance",
+    "permalink": "/steps/next/StructuredData/ToConcordance"
+  }
+}

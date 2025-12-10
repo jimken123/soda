@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Equals",
+  "id": "Core/Equals",
+  "title": "Equals Step | Core SDK Documentation",
+  "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/Equals.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Equals",
+  "permalink": "/steps/next/Core/Equals",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Equals.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Equals Step | Core SDK Documentation",
+    "sidebar_label": "Equals",
+    "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "EntityValidateRelations",
+    "permalink": "/steps/next/Core/EntityValidateRelations"
+  },
+  "next": {
+    "title": "For",
+    "permalink": "/steps/next/Core/For"
+  }
+}

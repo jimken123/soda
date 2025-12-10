@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/nuix/nuix-ingest-custom-profile",
+  "id": "version-v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile",
+  "title": "Ingest Using a Custom Processing Profile Configured in SCL | Nuix Connector Examples",
+  "description": "This example ingests evidence into an existing Nuix case. The",
+  "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile.md",
+  "sourceDirName": "examples/connectors/nuix",
+  "slug": "/examples/connectors/nuix/nuix-ingest-custom-profile",
+  "permalink": "/docs/v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "Ingest Using a Custom Processing Profile Configured in SCL | Nuix Connector Examples",
+    "sidebar_label": "Ingest Using a Custom Processing Profile Configured in SCL"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Download Sample Data",
+    "permalink": "/docs/v0.16.0/examples/connectors/nuix/nuix-download-sample-data"
+  },
+  "next": {
+    "title": "Search and Tag Items",
+    "permalink": "/docs/v0.16.0/examples/connectors/nuix/nuix-search-and-tag"
+  }
+}

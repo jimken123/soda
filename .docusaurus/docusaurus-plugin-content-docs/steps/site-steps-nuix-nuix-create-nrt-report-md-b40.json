@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixCreateNRTReport",
+  "id": "Nuix/NuixCreateNRTReport",
+  "title": "NuixCreateNRTReport Step | Nuix Connector Documentation",
+  "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixCreateNRTReport.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixCreateNRTReport",
+  "permalink": "/steps/next/Nuix/NuixCreateNRTReport",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixCreateNRTReport.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixCreateNRTReport Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixCreateNRTReport",
+    "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixCreateIrregularItemsReport",
+    "permalink": "/steps/next/Nuix/NuixCreateIrregularItemsReport"
+  },
+  "next": {
+    "title": "NuixCreateReport",
+    "permalink": "/steps/next/Nuix/NuixCreateReport"
+  }
+}

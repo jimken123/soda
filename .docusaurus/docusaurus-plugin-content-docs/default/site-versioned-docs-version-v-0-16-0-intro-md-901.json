@@ -1,0 +1,22 @@
+{
+  "unversionedId": "intro",
+  "id": "version-v0.16.0/intro",
+  "title": "What is Sequence",
+  "description": "Sequence is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+  "source": "@site/versioned_docs/version-v0.16.0/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/v0.16.0/intro",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/intro.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "description": "Sequence is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/docs/v0.16.0/quick-start"
+  }
+}

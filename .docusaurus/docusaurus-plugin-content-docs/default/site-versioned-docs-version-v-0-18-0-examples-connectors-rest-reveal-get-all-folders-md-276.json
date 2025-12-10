@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/rest/reveal-get-all-folders",
+  "id": "version-v0.18.0/examples/connectors/rest/reveal-get-all-folders",
+  "title": "Get All Reveal Folders | REST Connector Examples",
+  "description": "This example will",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/rest/reveal-get-all-folders.md",
+  "sourceDirName": "examples/connectors/rest",
+  "slug": "/examples/connectors/rest/reveal-get-all-folders",
+  "permalink": "/docs/examples/connectors/rest/reveal-get-all-folders",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/rest/reveal-get-all-folders.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "Get All Reveal Folders | REST Connector Examples",
+    "sidebar_label": "Get All Reveal Folders"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get All Reveal Fields",
+    "permalink": "/docs/examples/connectors/rest/reveal-get-all-fields"
+  },
+  "next": {
+    "title": "Get Reveal Case Statistics",
+    "permalink": "/docs/examples/connectors/rest/reveal-get-case-statistics"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityRetrieveMatter",
+  "id": "version-v0.18.0/Relativity/RelativityRetrieveMatter",
+  "title": "RelativityRetrieveMatter Step | Sequence Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveMatter.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityRetrieveMatter",
+  "permalink": "/steps/Relativity/RelativityRetrieveMatter",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveMatter.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/tags/relativity"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "RelativityRetrieveMatter Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityRetrieveMatter",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityReadKeywordSearch",
+    "permalink": "/steps/Relativity/RelativityReadKeywordSearch"
+  },
+  "next": {
+    "title": "RelativityRetrieveRootFolder",
+    "permalink": "/steps/Relativity/RelativityRetrieveRootFolder"
+  }
+}

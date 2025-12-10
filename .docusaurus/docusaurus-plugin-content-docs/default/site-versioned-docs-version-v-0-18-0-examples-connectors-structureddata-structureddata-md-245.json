@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/structureddata/structureddata",
+  "id": "version-v0.18.0/examples/connectors/structureddata/structureddata",
+  "title": "Structured Data Connector Examples",
+  "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/structureddata/structureddata.md",
+  "sourceDirName": "examples/connectors/structureddata",
+  "slug": "/examples/connectors/structureddata/",
+  "permalink": "/docs/examples/connectors/structureddata/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/structureddata/structureddata.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Structured Data Connector",
+    "sidebar_position": 0,
+    "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Read Data from a SQL Table",
+    "permalink": "/docs/examples/connectors/sql/read-data-from-table"
+  },
+  "next": {
+    "title": "Validate Concordance File Using a Schema",
+    "permalink": "/docs/examples/connectors/structureddata/concordance"
+  }
+}

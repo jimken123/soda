@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/SetVariable",
+  "id": "Core/SetVariable",
+  "title": "SetVariable Step | Core SDK Documentation",
+  "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/SetVariable.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/SetVariable",
+  "permalink": "/steps/next/Core/SetVariable",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/SetVariable.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "SetVariable Step | Core SDK Documentation",
+    "sidebar_label": "SetVariable",
+    "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Sequence",
+    "permalink": "/steps/next/Core/Sequence"
+  },
+  "next": {
+    "title": "StandardErrorWrite",
+    "permalink": "/steps/next/Core/StandardErrorWrite"
+  }
+}

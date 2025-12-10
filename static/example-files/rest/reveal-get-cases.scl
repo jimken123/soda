@@ -1,0 +1,7 @@
+- <username> = 'username'
+- <password> = 'password'
+
+- <session> = Reveal_Login_Get username: <username> password: <password>
+- <userId> = <session>["UserId"]
+- <LoginSessionId> = <session>["LoginSessionId"]
+- Reveal_Cases_Get InControlAuthToken: <LoginSessionId>

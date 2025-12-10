@@ -1,0 +1,29 @@
+# Set the name of your workspace. You could also use Workspace Artifact Id
+- <WorkspaceName> = 'Test Workspace'
+- <ExportFilter>  = "'Tags' LIKE 'Important'"
+- <OutputPath>    = 'entities.csv'
+
+# Export the entities
+- <ExportedEntities> = RelativityExport
+                         Workspace: <WorkspaceName>
+                         Condition: <ExportFilter>
+                         FieldNames: ['Title', 'Tags']
+
+# Define a schema
+- <Schema> = (
+  'title': "RelativityData" 
+  'additionalProperties': False 
+  'properties': (
+    'Title': ('type': "string") 
+    'Tags': ('type': "string")
+    ) 
+  'required': ["Title", "Tags"]
+  )
+
+# Apply the schema to the entities
+- <MappedExportedEntities> = Validate EntityStream: <ExportedEntities> Schema: <Schema>
+
+# Write the entities to a csv file
+- <MappedExportedEntities> | ToCSV | Log
+- <MappedExportedEntities> | ToCSV | FileWrite <OutputPath>
+- Log $"Exported {ArrayLength <MappedExportedEntities>} Entities."

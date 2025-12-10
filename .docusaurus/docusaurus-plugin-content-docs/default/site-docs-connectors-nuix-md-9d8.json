@@ -1,0 +1,26 @@
+{
+  "unversionedId": "connectors/nuix",
+  "id": "connectors/nuix",
+  "title": "Nuix Connector",
+  "description": "Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+  "source": "@site/docs/connectors/nuix.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/nuix",
+  "permalink": "/docs/next/connectors/nuix",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/connectors/nuix.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Microsoft365 Connector",
+    "permalink": "/docs/next/connectors/microsoft365"
+  },
+  "next": {
+    "title": "PowerShell Connector",
+    "permalink": "/docs/next/connectors/powershell"
+  }
+}

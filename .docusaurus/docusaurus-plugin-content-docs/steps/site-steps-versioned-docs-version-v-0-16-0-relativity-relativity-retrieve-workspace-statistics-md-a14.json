@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityRetrieveWorkspaceStatistics",
+  "id": "version-v0.16.0/Relativity/RelativityRetrieveWorkspaceStatistics",
+  "title": "RelativityRetrieveWorkspaceStatistics Step | Sequence Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity/RelativityRetrieveWorkspaceStatistics.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityRetrieveWorkspaceStatistics",
+  "permalink": "/steps/v0.16.0/Relativity/RelativityRetrieveWorkspaceStatistics",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityRetrieveWorkspaceStatistics.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/v0.16.0/tags/relativity"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "RelativityRetrieveWorkspaceStatistics Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityRetrieveWorkspaceStatistics",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityRetrieveWorkspace",
+    "permalink": "/steps/v0.16.0/Relativity/RelativityRetrieveWorkspace"
+  },
+  "next": {
+    "title": "RelativitySendQuery",
+    "permalink": "/steps/v0.16.0/Relativity/RelativitySendQuery"
+  }
+}

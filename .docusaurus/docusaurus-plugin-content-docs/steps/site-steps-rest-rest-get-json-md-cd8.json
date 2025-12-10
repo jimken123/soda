@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Rest/RESTGetJSON",
+  "id": "Rest/RESTGetJSON",
+  "title": "RESTGetJSON Step | REST Connector Documentation",
+  "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Rest/RESTGetJSON.md",
+  "sourceDirName": "Rest",
+  "slug": "/Rest/RESTGetJSON",
+  "permalink": "/steps/next/Rest/RESTGetJSON",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Rest/RESTGetJSON.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Rest",
+      "permalink": "/steps/next/tags/rest"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RESTGetJSON Step | REST Connector Documentation",
+    "sidebar_label": "RESTGetJSON",
+    "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Rest"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RESTDelete",
+    "permalink": "/steps/next/Rest/RESTDelete"
+  },
+  "next": {
+    "title": "RESTGetStream",
+    "permalink": "/steps/next/Rest/RESTGetStream"
+  }
+}

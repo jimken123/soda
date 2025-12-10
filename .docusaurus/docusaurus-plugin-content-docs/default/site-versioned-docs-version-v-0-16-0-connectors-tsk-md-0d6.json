@@ -1,0 +1,26 @@
+{
+  "unversionedId": "connectors/tsk",
+  "id": "version-v0.16.0/connectors/tsk",
+  "title": "The Sleuth Kit® Connector",
+  "description": "Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+  "source": "@site/versioned_docs/version-v0.16.0/connectors/tsk.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/tsk",
+  "permalink": "/docs/v0.16.0/connectors/tsk",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/connectors/tsk.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "description": "Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tesseract Connector",
+    "permalink": "/docs/v0.16.0/connectors/tesseract"
+  },
+  "next": {
+    "title": "SCL / Core",
+    "permalink": "/docs/v0.16.0/examples/core"
+  }
+}

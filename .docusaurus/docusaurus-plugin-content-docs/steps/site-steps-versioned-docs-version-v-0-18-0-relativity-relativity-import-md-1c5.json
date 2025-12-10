@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityImport",
+  "id": "version-v0.18.0/Relativity/RelativityImport",
+  "title": "RelativityImport Step | Sequence Connector for Relativity Documentation",
+  "description": "Imports a load file into Relativity using the desktop client. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityImport.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityImport",
+  "permalink": "/steps/Relativity/RelativityImport",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityImport.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/tags/relativity"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "RelativityImport Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityImport",
+    "description": "Imports a load file into Relativity using the desktop client. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityGetSubfolders",
+    "permalink": "/steps/Relativity/RelativityGetSubfolders"
+  },
+  "next": {
+    "title": "RelativityImportEntities",
+    "permalink": "/steps/Relativity/RelativityImportEntities"
+  }
+}

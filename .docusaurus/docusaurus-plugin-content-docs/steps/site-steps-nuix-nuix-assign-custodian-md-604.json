@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixAssignCustodian",
+  "id": "Nuix/NuixAssignCustodian",
+  "title": "NuixAssignCustodian Step | Nuix Connector Documentation",
+  "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixAssignCustodian.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixAssignCustodian",
+  "permalink": "/steps/next/Nuix/NuixAssignCustodian",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixAssignCustodian.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixAssignCustodian Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixAssignCustodian",
+    "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixAssertPrintPreviewState",
+    "permalink": "/steps/next/Nuix/NuixAssertPrintPreviewState"
+  },
+  "next": {
+    "title": "NuixCloseConnection",
+    "permalink": "/steps/next/Nuix/NuixCloseConnection"
+  }
+}

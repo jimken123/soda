@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/relativity/relativity-import-entities",
+  "id": "version-v0.16.0/examples/connectors/relativity/relativity-import-entities",
+  "title": "Import Entities | Sequence Connector for Relativity Examples",
+  "description": "This example will import entities into a Relativity Workspace.",
+  "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity-import-entities.md",
+  "sourceDirName": "examples/connectors/relativity",
+  "slug": "/examples/connectors/relativity/relativity-import-entities",
+  "permalink": "/docs/v0.16.0/examples/connectors/relativity/relativity-import-entities",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity-import-entities.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "Import Entities | Sequence Connector for Relativity Examples",
+    "sidebar_label": "Import Entities"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Import Concordance",
+    "permalink": "/docs/v0.16.0/examples/connectors/relativity/relativity-import-concordance"
+  },
+  "next": {
+    "title": "Import Entities from Nuix",
+    "permalink": "/docs/v0.16.0/examples/connectors/relativity/relativity-import-from-nuix"
+  }
+}

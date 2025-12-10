@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityDeleteMatter",
+  "id": "Relativity/RelativityDeleteMatter",
+  "title": "RelativityDeleteMatter Step | Sequence Connector for Relativity Documentation",
+  "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityDeleteMatter.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityDeleteMatter",
+  "permalink": "/steps/next/Relativity/RelativityDeleteMatter",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityDeleteMatter.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityDeleteMatter Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityDeleteMatter",
+    "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityDeleteKeywordSearch",
+    "permalink": "/steps/next/Relativity/RelativityDeleteKeywordSearch"
+  },
+  "next": {
+    "title": "RelativityDeleteUnusedFolders",
+    "permalink": "/steps/next/Relativity/RelativityDeleteUnusedFolders"
+  }
+}

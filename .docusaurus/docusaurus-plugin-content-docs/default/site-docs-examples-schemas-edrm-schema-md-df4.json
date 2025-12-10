@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/schemas/edrm-schema",
+  "id": "examples/schemas/edrm-schema",
+  "title": "EDRM Schema | Schema Examples",
+  "description": "This is a schema which enforces that data meets the",
+  "source": "@site/docs/examples/schemas/edrm-schema.md",
+  "sourceDirName": "examples/schemas",
+  "slug": "/examples/schemas/edrm-schema",
+  "permalink": "/docs/next/examples/schemas/edrm-schema",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/schemas/edrm-schema.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "EDRM Schema | Schema Examples",
+    "sidebar_label": "EDRM Schema"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Schemas",
+    "permalink": "/docs/next/examples/schema-examples"
+  },
+  "next": {
+    "title": "Transform Concordance File",
+    "permalink": "/docs/next/examples/schemas/transform-concordance-to-ussec"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixRemoveFromItemSet",
+  "id": "Nuix/NuixRemoveFromItemSet",
+  "title": "NuixRemoveFromItemSet Step | Nuix Connector Documentation",
+  "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixRemoveFromItemSet.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixRemoveFromItemSet",
+  "permalink": "/steps/next/Nuix/NuixRemoveFromItemSet",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixRemoveFromItemSet.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixRemoveFromItemSet Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixRemoveFromItemSet",
+    "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixPerformOCR",
+    "permalink": "/steps/next/Nuix/NuixPerformOCR"
+  },
+  "next": {
+    "title": "NuixRemoveFromProductionSet",
+    "permalink": "/steps/next/Nuix/NuixRemoveFromProductionSet"
+  }
+}

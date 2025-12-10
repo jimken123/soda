@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/SchemaCreateCoerced",
+  "id": "Core/SchemaCreateCoerced",
+  "title": "SchemaCreateCoerced Step | Core SDK Documentation",
+  "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/SchemaCreateCoerced.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/SchemaCreateCoerced",
+  "permalink": "/steps/next/Core/SchemaCreateCoerced",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/SchemaCreateCoerced.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "SchemaCreateCoerced Step | Core SDK Documentation",
+    "sidebar_label": "SchemaCreateCoerced",
+    "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "SchemaCreate",
+    "permalink": "/steps/next/Core/SchemaCreate"
+  },
+  "next": {
+    "title": "Sequence",
+    "permalink": "/steps/next/Core/Sequence"
+  }
+}

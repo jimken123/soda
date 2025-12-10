@@ -1,0 +1,110 @@
+{
+  "label": "StructuredData",
+  "permalink": "/steps/tags/structured-data",
+  "allTagsPath": "/steps/tags",
+  "count": 17,
+  "items": [
+    {
+      "id": "version-v0.18.0/StructuredData",
+      "title": "All Steps | Structured Data Connector Documentation",
+      "description": "List of all steps for Structured Data Connector. Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+      "permalink": "/steps/StructuredData"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/FromConcordance",
+      "title": "FromConcordance Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/FromConcordance"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/FromCSV",
+      "title": "FromCSV Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a CSV stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/FromCSV"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/FromIDX",
+      "title": "FromIDX Step | Structured Data Connector Documentation",
+      "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/FromIDX"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/FromJson",
+      "title": "FromJson Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/FromJson"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/FromJsonArray",
+      "title": "FromJsonArray Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/FromJsonArray"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/FromXml",
+      "title": "FromXml Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Xml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/FromXml"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/FromXmlArray",
+      "title": "FromXmlArray Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Xml stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/FromXmlArray"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/FromYaml",
+      "title": "FromYaml Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/FromYaml"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/ToConcordance",
+      "title": "ToConcordance Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in concordance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/ToConcordance"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/ToCSV",
+      "title": "ToCSV Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/ToCSV"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/ToIDX",
+      "title": "ToIDX Step | Structured Data Connector Documentation",
+      "description": "Write an entity to a stream in IDX format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/ToIDX"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/ToJson",
+      "title": "ToJson Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in JSON format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/ToJson"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/ToJsonArray",
+      "title": "ToJsonArray Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in Json format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/ToJsonArray"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/ToXml",
+      "title": "ToXml Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in XML format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/ToXml"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/ToXmlArray",
+      "title": "ToXmlArray Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in Xml format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/ToXmlArray"
+    },
+    {
+      "id": "version-v0.18.0/StructuredData/ToYaml",
+      "title": "ToYaml Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in YAML format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/StructuredData/ToYaml"
+    }
+  ]
+}

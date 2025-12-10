@@ -1,0 +1,28 @@
+{
+  "unversionedId": "examples/schema-examples",
+  "id": "version-v0.17.0/examples/schema-examples",
+  "title": "Schema Examples",
+  "description": "Learn how to use Sequence schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+  "source": "@site/versioned_docs/version-v0.17.0/examples/schema-examples.md",
+  "sourceDirName": "examples",
+  "slug": "/examples/schema-examples",
+  "permalink": "/docs/v0.17.0/examples/schema-examples",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/schema-examples.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "Schema Examples",
+    "sidebar_label": "Schemas",
+    "description": "Learn how to use Sequence schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Import From Nuix into Autopsy",
+    "permalink": "/docs/v0.17.0/examples/connectors/tsk/tsk-import-from-nuix"
+  },
+  "next": {
+    "title": "EDRM Schema",
+    "permalink": "/docs/v0.17.0/examples/schemas/edrm-schema"
+  }
+}

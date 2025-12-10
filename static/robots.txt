@@ -1,0 +1,8 @@
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Yandex
+Disallow: /steps/next/
+Disallow: /steps/v*
+Disallow: /docs/next/
+Disallow: /docs/v*
+Disallow: /playground

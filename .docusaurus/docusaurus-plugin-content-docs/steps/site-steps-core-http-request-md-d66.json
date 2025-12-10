@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/HttpRequest",
+  "id": "Core/HttpRequest",
+  "title": "HttpRequest Step | Core SDK Documentation",
+  "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/HttpRequest.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/HttpRequest",
+  "permalink": "/steps/next/Core/HttpRequest",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/HttpRequest.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "HttpRequest Step | Core SDK Documentation",
+    "sidebar_label": "HttpRequest",
+    "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Hash",
+    "permalink": "/steps/next/Core/Hash"
+  },
+  "next": {
+    "title": "If",
+    "permalink": "/steps/next/Core/If"
+  }
+}

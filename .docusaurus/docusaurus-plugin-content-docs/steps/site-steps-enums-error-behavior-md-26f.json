@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/ErrorBehavior",
+  "id": "Enums/ErrorBehavior",
+  "title": "ErrorBehavior | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/ErrorBehavior.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/ErrorBehavior",
+  "permalink": "/steps/next/Enums/ErrorBehavior",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/ErrorBehavior.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ErrorBehavior | Enums",
+    "sidebar_label": "ErrorBehavior",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "EncodingEnum",
+    "permalink": "/steps/next/Enums/EncodingEnum"
+  },
+  "next": {
+    "title": "ExportDeduplication",
+    "permalink": "/steps/next/Enums/ExportDeduplication"
+  }
+}

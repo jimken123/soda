@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayTake",
+  "id": "Core/ArrayTake",
+  "title": "ArrayTake Step | Core SDK Documentation",
+  "description": "Take the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayTake.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayTake",
+  "permalink": "/steps/next/Core/ArrayTake",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayTake.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayTake Step | Core SDK Documentation",
+    "sidebar_label": "ArrayTake",
+    "description": "Take the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArraySort",
+    "permalink": "/steps/next/Core/ArraySort"
+  },
+  "next": {
+    "title": "AssertEqual",
+    "permalink": "/steps/next/Core/AssertEqual"
+  }
+}

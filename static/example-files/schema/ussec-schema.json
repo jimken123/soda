@@ -1,0 +1,156 @@
+{
+  "title": "United States Securities and Exchange Commission Data Delivery Standards",
+  "additionalProperties": false,
+  "required": [
+    "FIRSTBATES",
+    "LASTBATES",
+    "ATTACHRANGE",
+    "BEGATTACH",
+    "ENDATTACH",
+    "CUSTODIAN",
+    "SUBJECT",
+    "MIME_TYPE",
+    "FILE_EXTEN",
+    "FILE_SIZE",
+    "PGCOUNT",
+    "OCRPATH"
+  ],
+  "properties": {
+    "FIRSTBATES": {
+      "type": "string"
+    },
+    "LASTBATES": {
+      "type": "string"
+    },
+    "ATTACHRANGE": {
+      "type": "string"
+    },
+    "BEGATTACH": {
+      "type": "string"
+    },
+    "ENDATTACH": {
+      "type": "string"
+    },
+    "PARENT_BATES": {
+      "type": "string"
+    },
+    "CHILD_BATES": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "CUSTODIAN": {
+      "type": "string"
+    },
+    "FROM": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "TO": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "CC": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "BCC": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "SUBJECT": {
+      "type": "string"
+    },
+    "FILE_NAME": {
+      "type": "string"
+    },
+    "DATE_SENT": {
+      "type": "string",
+      "format": "date"
+    },
+    "TIME_SENT/TIME_ZONE": {
+      "type": "string",
+      "format": "time"
+    },
+    "TIME_ZONE": {
+      "type": "string"
+    },
+    "LINK": {
+      "type": "string"
+    },
+    "MIME_TYPE": {
+      "type": "string"
+    },
+    "FILE_EXTEN": {
+      "type": "string"
+    },
+    "AUTHOR": {
+      "type": "string"
+    },
+    "LAST_AUTHOR": {
+      "type": "string"
+    },
+    "DATE_CREATED": {
+      "type": "string",
+      "format": "date"
+    },
+    "TIME_CREATED/TIME_ZONE": {
+      "type": "string",
+      "format": "time"
+    },
+    "DATE_MOD": {
+      "type": "string",
+      "format": "date"
+    },
+    "TIME_MOD/TIME_ZONE": {
+      "type": "string",
+      "format": "time"
+    },
+    "DATE_ACCESSD": {
+      "type": "string",
+      "format": "date"
+    },
+    "TIME_ACCESSD/TIME_ZONE": {
+      "type": "string",
+      "format": "time"
+    },
+    "PRINTED_DATE": {
+      "type": "string",
+      "format": "date"
+    },
+    "FILE_SIZE": {
+      "type": "integer"
+    },
+    "PGCOUNT": {
+      "type": "integer"
+    },
+    "PATH": {
+      "type": "string"
+    },
+    "INTFILEPATH": {
+      "type": "string"
+    },
+    "INTMSGID": {
+      "type": "string"
+    },
+    "HEADER": {
+      "type": "string"
+    },
+    "MD5HASH": {
+      "type": "string",
+      "pattern": "[0-9a-f]+"
+    },
+    "OCRPATH": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+- <NuixCasePath>        = 'c:/MyCase'
+- <ProductionSet>       = 'MyProductionSet'
+- <ExportPath>          = 'c:/MyCaseExport'
+- <RelativityWorkspace> = 'My Workspace'
+- <SettingsFilePath>    = 'c:/settingsFile.kwe'
+
+- NuixExportConcordance
+    CasePath: <NuixCasePath>
+    ExportPath: <ExportPath>
+    ProductionSet: <ProductionSet>
+    TraversalStrategy: ExportTraversalStrategy.Items
+    ExportOptions: (
+      native: (path: 'NATIVE' naming: 'document_id')
+      text: (path: 'TEXT' naming: 'document_id')
+    )
+
+- RelativityImport  
+    FilePath: (PathCombine [<ExportPath>, 'loadfile.dat'])
+    SettingsFilePath: <SettingsFilePath>
+    FileImportType: FileImportType.Object
+    Workspace: <RelativityWorkspace>

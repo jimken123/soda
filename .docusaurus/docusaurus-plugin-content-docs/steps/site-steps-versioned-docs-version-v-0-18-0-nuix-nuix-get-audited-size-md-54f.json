@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixGetAuditedSize",
+  "id": "version-v0.18.0/Nuix/NuixGetAuditedSize",
+  "title": "NuixGetAuditedSize Step | Nuix Connector Documentation",
+  "description": "Calculate the total audited size for a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetAuditedSize.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixGetAuditedSize",
+  "permalink": "/steps/Nuix/NuixGetAuditedSize",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetAuditedSize.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/tags/nuix"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "NuixGetAuditedSize Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixGetAuditedSize",
+    "description": "Calculate the total audited size for a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixGeneratePrintPreviews",
+    "permalink": "/steps/Nuix/NuixGeneratePrintPreviews"
+  },
+  "next": {
+    "title": "NuixGetCaseDetails",
+    "permalink": "/steps/Nuix/NuixGetCaseDetails"
+  }
+}

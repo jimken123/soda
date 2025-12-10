@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/schemas/using-schemas-to-transform-dates",
+  "id": "version-v0.17.0/examples/schemas/using-schemas-to-transform-dates",
+  "title": "How to Use Schemas to Transform Dates | Schema Examples",
+  "description": "This example shows how to deal with entities with potentially difficult or inconsistent date fields.",
+  "source": "@site/versioned_docs/version-v0.17.0/examples/schemas/using-schemas-to-transform-dates.md",
+  "sourceDirName": "examples/schemas",
+  "slug": "/examples/schemas/using-schemas-to-transform-dates",
+  "permalink": "/docs/v0.17.0/examples/schemas/using-schemas-to-transform-dates",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/schemas/using-schemas-to-transform-dates.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "How to Use Schemas to Transform Dates | Schema Examples",
+    "sidebar_label": "Using Schemas to Transform Dates"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Transform Concordance File",
+    "permalink": "/docs/v0.17.0/examples/schemas/transform-concordance-to-ussec"
+  },
+  "next": {
+    "title": "USSEC Schema",
+    "permalink": "/docs/v0.17.0/examples/schemas/ussec-schema"
+  }
+}

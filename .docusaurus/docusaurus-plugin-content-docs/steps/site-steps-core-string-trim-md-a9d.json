@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringTrim",
+  "id": "Core/StringTrim",
+  "title": "StringTrim Step | Core SDK Documentation",
+  "description": "Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/StringTrim.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringTrim",
+  "permalink": "/steps/next/Core/StringTrim",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringTrim.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "StringTrim Step | Core SDK Documentation",
+    "sidebar_label": "StringTrim",
+    "description": "Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StringToInt",
+    "permalink": "/steps/next/Core/StringToInt"
+  },
+  "next": {
+    "title": "Subtract",
+    "permalink": "/steps/next/Core/Subtract"
+  }
+}

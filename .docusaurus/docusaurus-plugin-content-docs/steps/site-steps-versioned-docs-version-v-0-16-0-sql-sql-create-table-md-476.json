@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Sql/SqlCreateTable",
+  "id": "version-v0.16.0/Sql/SqlCreateTable",
+  "title": "SqlCreateTable Step | SQL Database Connector Documentation",
+  "description": "Create a SQL table from a given schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Sql/SqlCreateTable.md",
+  "sourceDirName": "Sql",
+  "slug": "/Sql/SqlCreateTable",
+  "permalink": "/steps/v0.16.0/Sql/SqlCreateTable",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Sql/SqlCreateTable.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Sql",
+      "permalink": "/steps/v0.16.0/tags/sql"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "SqlCreateTable Step | SQL Database Connector Documentation",
+    "sidebar_label": "SqlCreateTable",
+    "description": "Create a SQL table from a given schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Sql"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "SqlCreateSchemaFromTable",
+    "permalink": "/steps/v0.16.0/Sql/SqlCreateSchemaFromTable"
+  },
+  "next": {
+    "title": "SqlInsert",
+    "permalink": "/steps/v0.16.0/Sql/SqlInsert"
+  }
+}

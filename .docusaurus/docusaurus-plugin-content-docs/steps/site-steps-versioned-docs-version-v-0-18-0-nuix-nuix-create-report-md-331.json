@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixCreateReport",
+  "id": "version-v0.18.0/Nuix/NuixCreateReport",
+  "title": "NuixCreateReport Step | Nuix Connector Documentation",
+  "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixCreateReport.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixCreateReport",
+  "permalink": "/steps/Nuix/NuixCreateReport",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixCreateReport.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/tags/nuix"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "NuixCreateReport Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixCreateReport",
+    "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixCreateNRTReport",
+    "permalink": "/steps/Nuix/NuixCreateNRTReport"
+  },
+  "next": {
+    "title": "NuixCreateTermList",
+    "permalink": "/steps/Nuix/NuixCreateTermList"
+  }
+}

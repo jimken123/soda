@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/DoubleProduct",
+  "id": "version-v0.18.0/Core/DoubleProduct",
+  "title": "DoubleProduct Step | Core SDK Documentation",
+  "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Core/DoubleProduct.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/DoubleProduct",
+  "permalink": "/steps/Core/DoubleProduct",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/DoubleProduct.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/tags/core"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "DoubleProduct Step | Core SDK Documentation",
+    "sidebar_label": "DoubleProduct",
+    "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DoublePower",
+    "permalink": "/steps/Core/DoublePower"
+  },
+  "next": {
+    "title": "DoubleSubtract",
+    "permalink": "/steps/Core/DoubleSubtract"
+  }
+}

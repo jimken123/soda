@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityGetClients",
+  "id": "Relativity/RelativityGetClients",
+  "title": "RelativityGetClients Step | Sequence Connector for Relativity Documentation",
+  "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityGetClients.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityGetClients",
+  "permalink": "/steps/next/Relativity/RelativityGetClients",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityGetClients.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityGetClients Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityGetClients",
+    "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityExport",
+    "permalink": "/steps/next/Relativity/RelativityExport"
+  },
+  "next": {
+    "title": "RelativityGetMatterStatuses",
+    "permalink": "/steps/next/Relativity/RelativityGetMatterStatuses"
+  }
+}

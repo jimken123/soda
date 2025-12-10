@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/IsNull",
+  "id": "Core/IsNull",
+  "title": "IsNull Step | Core SDK Documentation",
+  "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/IsNull.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/IsNull",
+  "permalink": "/steps/next/Core/IsNull",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/IsNull.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "IsNull Step | Core SDK Documentation",
+    "sidebar_label": "IsNull",
+    "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "IncrementVariable",
+    "permalink": "/steps/next/Core/IncrementVariable"
+  },
+  "next": {
+    "title": "LessThan",
+    "permalink": "/steps/next/Core/LessThan"
+  }
+}

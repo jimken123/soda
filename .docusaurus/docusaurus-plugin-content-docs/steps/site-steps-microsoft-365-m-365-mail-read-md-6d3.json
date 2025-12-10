@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Microsoft365/M365MailRead",
+  "id": "Microsoft365/M365MailRead",
+  "title": "M365MailRead Step | Microsoft 365 Connector Documentation",
+  "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Microsoft365/M365MailRead.md",
+  "sourceDirName": "Microsoft365",
+  "slug": "/Microsoft365/M365MailRead",
+  "permalink": "/steps/next/Microsoft365/M365MailRead",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Microsoft365/M365MailRead.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Microsoft365",
+      "permalink": "/steps/next/tags/microsoft-365"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "M365MailRead Step | Microsoft 365 Connector Documentation",
+    "sidebar_label": "M365MailRead",
+    "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Microsoft365"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "M365Login",
+    "permalink": "/steps/next/Microsoft365/M365Login"
+  },
+  "next": {
+    "title": "M365TeamsRead",
+    "permalink": "/steps/next/Microsoft365/M365TeamsRead"
+  }
+}

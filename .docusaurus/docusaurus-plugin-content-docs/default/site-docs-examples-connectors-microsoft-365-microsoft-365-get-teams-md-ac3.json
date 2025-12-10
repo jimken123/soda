@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/microsoft365/microsoft365-get-teams",
+  "id": "examples/connectors/microsoft365/microsoft365-get-teams",
+  "title": "Get Teams | Microsoft365 Connector Examples",
+  "description": "This example will",
+  "source": "@site/docs/examples/connectors/microsoft365/microsoft365-get-teams.md",
+  "sourceDirName": "examples/connectors/microsoft365",
+  "slug": "/examples/connectors/microsoft365/microsoft365-get-teams",
+  "permalink": "/docs/next/examples/connectors/microsoft365/microsoft365-get-teams",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/microsoft365/microsoft365-get-teams.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Get Teams | Microsoft365 Connector Examples",
+    "sidebar_label": "Get Teams"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get Teams Channels",
+    "permalink": "/docs/next/examples/connectors/microsoft365/microsoft365-get-team-channels"
+  },
+  "next": {
+    "title": "Login",
+    "permalink": "/docs/next/examples/connectors/microsoft365/microsoft365-login"
+  }
+}

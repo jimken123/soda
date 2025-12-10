@@ -1,0 +1,38 @@
+{
+  "label": "TSK",
+  "permalink": "/steps/next/tags/tsk",
+  "allTagsPath": "/steps/next/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "TSK",
+      "title": "All Steps | TSK Connector Documentation",
+      "description": "List of all steps for TSK Connector. Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+      "permalink": "/steps/next/TSK"
+    },
+    {
+      "id": "TSK/AutopsyAddDataSource",
+      "title": "AutopsyAddDataSource Step | TSK Connector Documentation",
+      "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/TSK/AutopsyAddDataSource"
+    },
+    {
+      "id": "TSK/AutopsyCreateNewCase",
+      "title": "AutopsyCreateNewCase Step | TSK Connector Documentation",
+      "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/TSK/AutopsyCreateNewCase"
+    },
+    {
+      "id": "TSK/AutopsyGenerateReports",
+      "title": "AutopsyGenerateReports Step | TSK Connector Documentation",
+      "description": "Generate Reports. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/TSK/AutopsyGenerateReports"
+    },
+    {
+      "id": "TSK/AutopsyListDataSources",
+      "title": "AutopsyListDataSources Step | TSK Connector Documentation",
+      "description": "List all Data Sources in an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/TSK/AutopsyListDataSources"
+    }
+  ]
+}

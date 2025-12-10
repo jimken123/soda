@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/EntityFlatten",
+  "id": "Core/EntityFlatten",
+  "title": "EntityFlatten Step | Core SDK Documentation",
+  "description": "Recursively flatten an entity, turning all nested entities into separate fields. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/EntityFlatten.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/EntityFlatten",
+  "permalink": "/steps/next/Core/EntityFlatten",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntityFlatten.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "EntityFlatten Step | Core SDK Documentation",
+    "sidebar_label": "EntityFlatten",
+    "description": "Recursively flatten an entity, turning all nested entities into separate fields. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "EntityCombine",
+    "permalink": "/steps/next/Core/EntityCombine"
+  },
+  "next": {
+    "title": "EntityFormat",
+    "permalink": "/steps/next/Core/EntityFormat"
+  }
+}

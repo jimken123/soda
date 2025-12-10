@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/DoNothing",
+  "id": "version-v0.16.0/Core/DoNothing",
+  "title": "DoNothing Step | Core SDK Documentation",
+  "description": "Does nothing.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Core/DoNothing.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/DoNothing",
+  "permalink": "/steps/v0.16.0/Core/DoNothing",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/DoNothing.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.16.0/tags/core"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "DoNothing Step | Core SDK Documentation",
+    "sidebar_label": "DoNothing",
+    "description": "Does nothing.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Divide",
+    "permalink": "/steps/v0.16.0/Core/Divide"
+  },
+  "next": {
+    "title": "DocumentationCreate",
+    "permalink": "/steps/v0.16.0/Core/DocumentationCreate"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/DateToString",
+  "id": "version-v0.18.0/Core/DateToString",
+  "title": "DateToString Step | Core SDK Documentation",
+  "description": "Converts a date to the specified format, yyyy/MM/dd HH:mm:ss by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Core/DateToString.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/DateToString",
+  "permalink": "/steps/Core/DateToString",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/DateToString.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/tags/core"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "DateToString Step | Core SDK Documentation",
+    "sidebar_label": "DateToString",
+    "description": "Converts a date to the specified format, yyyy/MM/dd HH:mm:ss by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ConvertSizeUnits",
+    "permalink": "/steps/Core/ConvertSizeUnits"
+  },
+  "next": {
+    "title": "Delay",
+    "permalink": "/steps/Core/Delay"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/nuix/nuix-search-and-tag",
+  "id": "version-v0.17.0/examples/connectors/nuix/nuix-search-and-tag",
+  "title": "Search and Tag Items | Nuix Connector Examples",
+  "description": "This example will run a number of searches and tag the responsive",
+  "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/nuix/nuix-search-and-tag.md",
+  "sourceDirName": "examples/connectors/nuix",
+  "slug": "/examples/connectors/nuix/nuix-search-and-tag",
+  "permalink": "/docs/v0.17.0/examples/connectors/nuix/nuix-search-and-tag",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/nuix/nuix-search-and-tag.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "Search and Tag Items | Nuix Connector Examples",
+    "sidebar_label": "Search and Tag Items"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ingest Using a Custom Processing Profile Configured in SCL",
+    "permalink": "/docs/v0.17.0/examples/connectors/nuix/nuix-ingest-custom-profile"
+  },
+  "next": {
+    "title": "PowerShell Connector",
+    "permalink": "/docs/v0.17.0/examples/connectors/powershell/"
+  }
+}

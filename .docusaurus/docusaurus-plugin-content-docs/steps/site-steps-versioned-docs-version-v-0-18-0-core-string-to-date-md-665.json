@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringToDate",
+  "id": "version-v0.18.0/Core/StringToDate",
+  "title": "StringToDate Step | Core SDK Documentation",
+  "description": "Converts a date to the specified format, yyyyMMddHHmm by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringToDate.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringToDate",
+  "permalink": "/steps/Core/StringToDate",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringToDate.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/tags/core"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "StringToDate Step | Core SDK Documentation",
+    "sidebar_label": "StringToDate",
+    "description": "Converts a date to the specified format, yyyyMMddHHmm by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StringToCase",
+    "permalink": "/steps/Core/StringToCase"
+  },
+  "next": {
+    "title": "StringToDouble",
+    "permalink": "/steps/Core/StringToDouble"
+  }
+}

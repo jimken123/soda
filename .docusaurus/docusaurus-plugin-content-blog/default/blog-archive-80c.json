@@ -1,0 +1,170 @@
+{
+  "blogPosts": [
+    {
+      "id": "performance-improvements-in-v0.18.0",
+      "metadata": {
+        "permalink": "/blog/performance-improvements-in-v0.18.0",
+        "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/blog/20221101-performance-improvements/performance_improvements.md",
+        "source": "@site/blog/20221101-performance-improvements/performance_improvements.md",
+        "title": "Performance Improvements in v0.18.0",
+        "description": "We've greatly improved the performance of Sequence with release v0.18.0. Find out how.",
+        "date": "2022-11-01T00:00:00.000Z",
+        "formattedDate": "November 1, 2022",
+        "tags": [
+          {
+            "label": "programming",
+            "permalink": "/blog/tags/programming"
+          },
+          {
+            "label": "software",
+            "permalink": "/blog/tags/software"
+          },
+          {
+            "label": "performance",
+            "permalink": "/blog/tags/performance"
+          },
+          {
+            "label": "C#",
+            "permalink": "/blog/tags/c"
+          },
+          {
+            "label": "csharp",
+            "permalink": "/blog/tags/csharp"
+          },
+          {
+            "label": "scl",
+            "permalink": "/blog/tags/scl"
+          },
+          {
+            "label": "core",
+            "permalink": "/blog/tags/core"
+          }
+        ],
+        "readingTime": 11.6,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "Mark Wainwright",
+            "title": "Sequence Maintainer",
+            "url": "https://github.com/wainwrightmark",
+            "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
+            "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
+          }
+        ],
+        "frontMatter": {
+          "title": "Performance Improvements in v0.18.0",
+          "description": "We've greatly improved the performance of Sequence with release v0.18.0. Find out how.",
+          "slug": "performance-improvements-in-v0.18.0",
+          "date": "2022/11/01",
+          "authors": [
+            {
+              "name": "Mark Wainwright",
+              "title": "Sequence Maintainer",
+              "url": "https://github.com/wainwrightmark",
+              "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
+              "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
+            }
+          ],
+          "tags": [
+            "programming",
+            "software",
+            "performance",
+            "C#",
+            "csharp",
+            "scl",
+            "core"
+          ],
+          "image": "./final_chart.png",
+          "hide_table_of_contents": false
+        },
+        "nextItem": {
+          "title": "Wrangling Dates with SCL",
+          "permalink": "/blog/wrangling-dates-with-scl"
+        }
+      },
+      "content": "The focus for Sequence release v0.18.0 has been on performance.\nThis post explains the changes we've made,\nhow they've improved performance, and why we decided to implement them.\nThis is aimed at both _SCL_ users and _C#_ developers who are interested in performance.\n\n<!--truncate-->\n\n## What is SCL\n\nSequence Configuration Language (SCL) is a programming language for forensic and ediscovery technicians.\nThe typical use case involves reading, writing, and manipulating large amounts of data so performance is critical.\nThe language is implemented in _C#_ so performance improvements are achieved by optimizing _C#_ code.\n\n## Measuring Performance\n\nBefore we improve performance we need to measure it. This means benchmarking.\nI created a new console project and added the excellent\n[benchmark dot net](https://benchmarkdotnet.org/articles/overview.html) package to it.\n\nAs we want to optimize real world performance I found some real world data to run the benchmarks on.\nThis data is a 1MB concordance file (very similar to a CSV) with 1000 rows and 44 columns.\nThe data comes from the _ENRON_ dataset but nevertheless I was very careful to add it to\n`.gitignore` and not commit it to the open source repository.\n\nI wrote several _SCL_ scripts representing different workflows.\nFor example this script removes a column from the data:\n\n```scl\n- <path> = PathCombine ['Data', 'TestData.dat']\n- FileRead <path>\n| FromConcordance\n| EntityMap (EntityRemoveProperty  <> Property: \"Custodian\" )\n| ToConcordance\n| StringLength\n```\n\nNote that `StringLength` at the end. This is to ensure that the stream of concordance data\nis read to the end (and therefore all of the data is converted to concordance).\nIn a real world scenario one would probably write the data to a file or send it across\nthe internet but doing that would make the benchmarks a lot more fiddly and\nthe code that writes to a file is outside my control anyway so there is not much point in benchmarking it.\n\n## Benchmarks\n\nHere is a summary of all the benchmarks and the initial results, running on a 12th gen Intel i7 CPU on _Windows_.\n\n| **Name**       | **Summary**                                                                                                               | **Mean / μs** | **Error / μs** | **Standard Deviation / μs** |\n| :------------- | :------------------------------------------------------------------------------------------------------------------------ | :-----------: | :------------: | :-------------------------: |\n| BasicSCL       | Prints 'Hello World'                                                                                                      |     68.11     |     1.327      |            1.363            |\n| CombineColumns | Reads a concordance file, adds a new column by combining two existing ones, and converts it back to concordance           |  306,342.04   |   2,856.823    |          2,385.576          |\n| ConvertDates   | Reads a concordance file, converts dates to a different representation, and converts it back to concordance               |  121,637.43   |   1,641.555    |          1,535.512          |\n| DatToDat       | Reads a concordance file, and converts it back to concordance                                                             |   92,824.18   |    810.059     |           718.096           |\n| DatToJson      | Reads a concordance file, and converts it json                                                                            |   86,831.86   |   1,723.177    |          2,471.330          |\n| JsonToDat      | Reads a json file and converts it to concordance                                                                          |   74,657.57   |   1,249.805    |          1,169.068          |\n| RemapColumns   | Reads a concordance file, renames one of the columns, and converts it back to concordance                                 |   98,585.92   |   1,902.414    |          2,035.561          |\n| RemoveColumn   | Reads a concordance file, removes one of the columns, and converts it back to concordance                                 |  149,538.83   |   1,581.342    |          1,479.188          |\n| SchemaValidate | Reads a concordance file, confirms that all rows conform to a particular json schema, and converts it back to concordance |  133,736.27   |    793.008     |           702.981           |\n| StringReplace  | Reads a concordance file, performs some string replacements on each row, and converts it to json                          |  335,875.11   |   4,519.005    |          4,227.080          |\n\nNote that all times are in microseconds, so the longest sequences are taking about one third of a second.\n\n## Performance Improvements\n\n### Replacing `Task` with `ValueTask`\n\n_SCL_ steps all have a `Run` method which returns the result wrapped in a `Task`.\nOne of the performance optimizations I was eager to try was wrapping the result in a `ValueTask` instead.\nThis should reduce the number of heap allocations per step by one and\nI was expecting a small performance improvement for sequences which run cheap steps inside a loop.\n\nThe tradeoff is that there are some things you can do with a `Task` but not with a `ValueTask`\nsuch as awaiting them multiple times. Fortunately the `Run` method was only being used\nin a few places and I was able to easily check that none of the missing functionality was being used.\n\nThe results of this update:\n\n| **Name**       | **Initial / μs** | **After ValueTask / μs** |  **Ratio**  |\n| :------------- | :--------------: | :----------------------: | :---------: |\n| BasicSCL       |      68.11       |          64.56           | 0.947878432 |\n| CombineColumns |    306,342.04    |        306,125.29        | 0.999292458 |\n| ConvertDates   |    121,637.43    |        120,553.24        | 0.991086707 |\n| DatToDat       |    92,824.18     |        93,733.29         | 1.009793892 |\n| DatToJson      |    86,831.86     |        86,622.87         | 0.997593165 |\n| JsonToDat      |    74,657.57     |        74,910.93         | 1.003393628 |\n| RemapColumns   |    98,585.92     |        98,365.44         | 0.997763575 |\n| RemoveColumn   |    149,538.83    |        148,584.52        | 0.993618313 |\n| SchemaValidate |    133,736.27    |        131,679.90        | 0.984623693 |\n| StringReplace  |    335,875.11    |        328,927.93        | 0.979316181 |\n\n### Finding a Bug\n\nA 2% performance improvement on the slowest benchmark was nice but I was actually\nhoping for a larger improvement. The StringReplace sequence was taking about three\ntimes as long as the ConvertDates sequence despite doing what seemed like a lot less work.\n\nI thought that the reason might be that `StringReplace` converts the data at the end\ninto JSON rather that concordance like most of the other benchmarks.\nI chose to do this initially because I wanted to make sure that performing an action\non the data first didn't make the conversion to JSON slower.\nAt this stage I wrote additional benchmarks to check if that was what was happening.\nIt wasn't - converting to JSON was consistently ~6000μs faster than converting to\nconcordance across the board.\n\nThinking again, I thought the difference might be down to the fixed cost of running a step.\nConvertDates uses the `Transform` step which applies a JSON schema to every step in\nan entity stream whereas StringReplace is using the `ArrayMap` step to call the\n`StringReplace` step on every entity in the stream.\nThis means that the StringReplace sequence is running about 1000 very cheap steps\nwhere ConvertDates is calling one very expensive step.\n\nI decided to use the Visual Studio performance profiler to try and find out what was going on.\nI stared by using the CPU usage tool as I thought the CPU was the most likely performance bottleneck.\n\nI discovered that a lot of time was being spent in the `IRunnableStep<T>.Run` method.\nThis is not unexpected but what was unexpected was that it was spending almost three\ntimes as long in there as in the `CompoundStep<T>.Run` method despite it having been\ndesigned as a thin wrapper around that method which exists purely to enable logging.\n\nLooking at the method code I immediately spotted the problem:\n\n```csharp\nasync Task<Result<T, IError>> IRunnableStep<T>.Run(IStateMonad stateMonad, CancellationToken cancellationToken)\n{\n    using (stateMonad.Logger.BeginScope(Name))\n    {\n        object[] GetEnterStepArgs()\n        {\n            var properties = AllProperties\n                .ToDictionary(x => x.Name, x => x.Serialize(SerializeOptions.SanitizedName));\n\n            return new object[] { Name, properties };\n        }\n\n        LogSituation.EnterStep.Log(stateMonad, this, GetEnterStepArgs());\n\n        var result = await Run(stateMonad, cancellationToken);\n\n        if (result.IsFailure)\n        {\n            LogSituation.ExitStepFailure.Log(stateMonad, this, Name, result.Error.AsString);\n        }\n        else\n        {\n            var resultValue = result.Value.Serialize(SerializeOptions.SanitizedName);\n\n            LogSituation.ExitStepSuccess.Log(stateMonad, this, Name, resultValue);\n        }\n\n        return result;\n    }\n}\n```\n\nThe EnterStep arguments are being created - using an expensive dictionary - every time the step is run,\nregardless of the logging level (they should only be logged if the log level is `Trace` and the benchmarks are using `Info`).\nClearly what happened was that the `LogSituation.EnterStep.Log` method once took a `Func<object[]>`\nbut was refactored to use an `object[]` at some point and I missed the performance implications\nwhen updating this invocation.\n\nI fixed the code and also checked other invocations of the method to make sure I wasn't\nmaking the same mistake somewhere else (I wasn't). Then I ran the benchmarks again:\n\n| **Name**       | **After ValueTask** | **After EnterStep Fix** |  **Ratio**  |\n| :------------- | :-----------------: | :---------------------: | :---------: |\n| BasicSCL       |        64.56        |          35.39          | 0.548172243 |\n| CombineColumns |     306,125.29      |       103,820.13        | 0.339142611 |\n| ConvertDates   |     120,553.24      |       119,108.53        |  0.988016   |\n| DatToDat       |      93,733.29      |        92,621.39        | 0.988137619 |\n| DatToJson      |      86,622.87      |        86,615.62        | 0.999916304 |\n| JsonToDat      |      74,910.93      |        77,218.89        | 1.030809389 |\n| RemapColumns   |      98,365.44      |        97,755.47        | 0.99379894  |\n| RemoveColumn   |     148,584.52      |        98,192.86        | 0.660855249 |\n| SchemaValidate |     131,679.90      |       131,270.77        | 0.996892996 |\n| StringReplace  |     328,927.93      |        95,778.85        | 0.291184911 |\n\nThe three benchmarks which run steps in a loop all got a lot faster, and the BasicSCL sequence\ngot almost twice as fast. This just goes to show that finding and fixing performance bugs\nis often massively more effective than micro-optimizing heap allocations.\n\n### Rearchitecting Entities\n\nThe other way to get big performance wins is to use the right collections in the right\nplaces. _SCL_ has the type `entity` which is used to represent data. It's a key-value or\nproperty-value container, similar to a javascript object. The most obvious way to represent\nthis in C# was to use a `Dictionary<String, Object>` and that was essentially how the `Entity` type was\nimplemented - though using the SCL-friendly types `StringStream` and `ISCLObject` instead.\nI wanted to try a different implementation using two `ImmutableArray`s instead.\n`ImmutableArray` is an extremely thin wrapper around an array and has exactly the same performance characteristics.\n\nI refactored the `entity` type to use an `ImmutableArray<StringStream>` for the property names\nand `ImmutableArray<ISCLObject>` for the values. I made them private to ensure that they would\nalways be kept in sync. I updated the implementations of all the `entity` methods but not the signatures.\nKeeping the interface the same meant that the refactor was very smooth and I hardly had to\nchange any code outside the `entity` class.\n\nMaking this change also allowed me to sneak in a few other performance optimizations.\nWhen creating entities from a consistent data structure (such as a CSV file or a SQL table)\nI could let all the entities share the same headers collection.\nNote that this would have been a bad idea if I had used a regular rather than immutable array.\n\nI ran the benchmarks again and compared to the previous results:\n\n| **Name**       | **After EnterStep fix** | **After Entity Refactor** | **Change**  |\n| :------------- | :---------------------: | :-----------------------: | :---------: |\n| BasicSCL       |          35.39          |           35.81           | 1.011867759 |\n| CombineColumns |       103,820.13        |         70,840.40         | 0.682337809 |\n| ConvertDates   |       119,108.53        |         62,156.69         | 0.521849191 |\n| DatToDat       |        92,621.39        |         61,528.62         | 0.66430249  |\n| DatToJson      |        86,615.62        |         41,558.64         | 0.479805375 |\n| JsonToDat      |        77,218.89        |         50,542.41         | 0.654534273 |\n| RemapColumns   |        97,755.47        |         60,397.03         | 0.617837856 |\n| RemoveColumn   |        98,192.86        |         62,817.56         | 0.639736535 |\n| SchemaValidate |       131,270.77        |        104,101.35         | 0.793027648 |\n| StringReplace  |        95,778.85        |         52,792.74         | 0.551194131 |\n\nThis change almost :exclamation: **doubled** :exclamation: performance across the board\n(note that the BasicSCL sequence does not use entities). I was very happy.\n\nThe table and charts below show the complete journey.\nSome of the steps were now several times as fast and this difference would likely be\nmagnified in real world scenarios that perform multiple transformations since\nthe costs of reading the file and converting between data formats are fixed.\n\n| **Name**       | **Initial** | **After ValueTask** | **Change**  | **After EnterStep fix** | **Change**  | **After Entity Refactor** | **Change**  | **Total Change** |\n| :------------- | :---------: | :-----------------: | :---------: | :---------------------: | :---------: | :-----------------------: | :---------: | :--------------: |\n| BasicSCL       |    68.11    |        64.56        | 0.947878432 |          35.39          | 0.548172243 |           35.81           | 1.011867759 |   0.525767141    |\n| CombineColumns | 306,342.04  |     306,125.29      | 0.999292458 |       103,820.13        | 0.339142611 |         70,840.40         | 0.682337809 |   0.231246093    |\n| ConvertDates   | 121,637.43  |     120,553.24      | 0.991086707 |       119,108.53        |  0.988016   |         62,156.69         | 0.521849191 |   0.510999698    |\n| DatToDat       |  92,824.18  |      93,733.29      | 1.009793892 |        92,621.39        | 0.988137619 |         61,528.62         | 0.66430249  |    0.66285121    |\n| DatToJson      |  86,831.86  |      86,622.87      | 0.997593165 |        86,615.62        | 0.999916304 |         41,558.64         | 0.479805375 |   0.478610501    |\n| JsonToDat      |  74,657.57  |      74,910.93      | 1.003393628 |        77,218.89        | 1.030809389 |         50,542.41         | 0.654534273 |   0.676989755    |\n| RemapColumns   |  98,585.92  |      98,365.44      | 0.997763575 |        97,755.47        | 0.99379894  |         60,397.03         | 0.617837856 |   0.612633427    |\n| RemoveColumn   | 149,538.83  |     148,584.52      | 0.993618313 |        98,192.86        | 0.660855249 |         62,817.56         | 0.639736535 |   0.420075241    |\n| SchemaValidate | 133,736.27  |     131,679.90      | 0.984623693 |       131,270.77        | 0.996892996 |        104,101.35         | 0.793027648 |   0.778407757    |\n| StringReplace  | 335,875.11  |     328,927.93      | 0.979316181 |        95,778.85        | 0.291184911 |         52,792.74         | 0.551194131 |   0.157179673    |\n\n![Performance Improvement Benchmarks](./final_chart.png)\n\n## Takeaways\n\nThe top takeaways from this project are:\n\n- Fixing bugs is often the best way to improve performance\n- Dictionaries are slow - plain old arrays are often faster even when\n  a `Dictionary` or `Hashmap` is the \"theoretically\" correct choice.\n- Refactoring can be easier than you expect, especially if the code you\n  are changing is well insulated and the API to that code remains consistent.\n\nOne final thing - even though the `ValueTask` update only showed a very small improvement initially,\nthat improvement was orthogonal to the other improvements. It shaved 5ms off the initial StringReplace\nbenchmark and once I had completed the other improvements I tried reverting just the `ValueTask`\nchanges and running the benchmarks again.\nStringReplace was now about 5ms slower. Had I done this change last instead of first it would\nhave looked like an 8% improvement instead of a 2% one.\nThis shows the value of **small incremental improvements**.\nSometimes they don't just add up - they multiply!"
+    },
+    {
+      "id": "wrangling-dates-with-scl",
+      "metadata": {
+        "permalink": "/blog/wrangling-dates-with-scl",
+        "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/blog/20220404-wrangling-dates/wrangling-dates.md",
+        "source": "@site/blog/20220404-wrangling-dates/wrangling-dates.md",
+        "title": "Wrangling Dates with SCL",
+        "description": "Use the Sequence Configuration Language to easily combine and convert dates when working with structured data formats.",
+        "date": "2022-04-04T00:00:00.000Z",
+        "formattedDate": "April 4, 2022",
+        "tags": [
+          {
+            "label": "sequence",
+            "permalink": "/blog/tags/sequence"
+          },
+          {
+            "label": "scl",
+            "permalink": "/blog/tags/scl"
+          },
+          {
+            "label": "examples",
+            "permalink": "/blog/tags/examples"
+          },
+          {
+            "label": "dates",
+            "permalink": "/blog/tags/dates"
+          },
+          {
+            "label": "structured data",
+            "permalink": "/blog/tags/structured-data"
+          },
+          {
+            "label": "transform",
+            "permalink": "/blog/tags/transform"
+          },
+          {
+            "label": "schemas",
+            "permalink": "/blog/tags/schemas"
+          }
+        ],
+        "readingTime": 6.095,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "Mark Wainwright",
+            "title": "Sequence Maintainer",
+            "url": "https://github.com/wainwrightmark",
+            "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
+            "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
+          }
+        ],
+        "frontMatter": {
+          "title": "Wrangling Dates with SCL",
+          "description": "Use the Sequence Configuration Language to easily combine and convert dates when working with structured data formats.",
+          "slug": "wrangling-dates-with-scl",
+          "date": "2022/04/04",
+          "authors": [
+            {
+              "name": "Mark Wainwright",
+              "title": "Sequence Maintainer",
+              "url": "https://github.com/wainwrightmark",
+              "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
+              "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
+            }
+          ],
+          "tags": [
+            "sequence",
+            "scl",
+            "examples",
+            "dates",
+            "structured data",
+            "transform",
+            "schemas"
+          ]
+        },
+        "prevItem": {
+          "title": "Performance Improvements in v0.18.0",
+          "permalink": "/blog/performance-improvements-in-v0.18.0"
+        }
+      },
+      "content": "You have a structured data file you need to process.\nI'll use CSV here but it could be any data format that SCL supports.\nIt has all the information you need but the date fields are spread\nout across multiple columns and several different date formats are used.\n\nIn this blog post I'll show how to use SCL to combine all the date\nfields into one and how to handle multiple formats\n\n<!--truncate-->\n\n## Sample Data\n\nThe following is the CSV file I'll be using in this example.\n\n```text\n\"Date\",\"Time\",\"TimeZone\",\"Location\"\n\"January, 01 2000\",\"01:23:45\",\"+00:00\",\"UK\"\n\"December, 31 1999\",\"15:23:45\",\"-10:00\",\"Hawaii\"\n\"January, 01 2000\",\"02:23:45\",\"+01:00\",\"France\"\n\"January, 01 2000\",\"06:53:45\",\"+05:30\",\"India\"\n\"01/01/2000\",\"01:23:45\",\"+00:00\",\"Iceland\"\n\"31/12/1999\",\"15:23:45\",\"-10:00\",\"Hawaii\"\n\"01/01/2000\",\"02:23:45\",\"+01:00\",\"Germany\"\n\"01/01/2000\",\"06:53:45\",\"+05:30\",\"Sri Lanka\"\n```\n\nIt has the same date and time written in eight different ways with two different\ntime formats and four different timezones.\n\nAs an additional headache, the Date, Time, and Timezone data is spread across\nthree different fields.\n\nDownload the example file [here](./dates-example.csv). Or just copy the example above.\n\n## Reading the Data\n\nTo read the data, make sure you have the [File System](/docs/connectors/filesystem)\nand [Structured Data](/docs/connectors/structureddata) connectors configured,\nthen run:\n\n```scl\n- <data> = FileRead 'dates-example.csv' | FromCSV\n```\n\nThis reads the contents of the file and pipes the resulting stream into the `FromCSV` step\nwhich converts it into [entities](/docs/entities).\n\nThe rest of this process works with any data source, not just CSV.\n\n## Combining the Date Fields\n\nTo parse the dates correctly, we need to combine the three fields.\nWe can use `ArrayMap` to add another field which is the concatenation of all three.\n\n```scl\n- <newdata> = <data>\n| ArrayMap (In <> Set: 'FullDate' To: $\"{<>['Time']} {<>['Date']} {<>['TimeZone']}\")\n```\n\nHere we use `ArrayMap` which maps every entity in our array (`FromCSV` produces\nan Array of Entities) to a new value.\n\nHere the new value is the same entity but with an additional 'FullDate' field added\nwhich is the values of the three other fields concatenated together using an\n[interpolated string](/steps/Core/StringInterpolate).\n\n## The Schema\n\nIn order to convert this date string to an actual date we need to create a\n[schema](/docs/schemas) to tell the `Transform` step what the\ndata is supposed to look like.\n\n```scl\n- <schema> = (\n    'type': 'object'\n    'additionalProperties': false\n    'properties': (\n      'Location': ('type': 'string')\n      'FullDate': ('type': 'string', 'format': 'date-time')\n    )\n    'required': ['FullDate', 'Location']\n  )\n```\n\nTo explain the schema:\n\n- `'type': 'object'` tells the `Transform` step to expect an entity.\n- `'additionalProperties': False` will remove all the properties which are not listed in\n  the schema. This is how we get rid of the now redundant 'Date', 'Time', and 'TimeZone' fields.\n- `'properties':` is the list of properties to expect and their types.\n- `'Location': ('type': 'string')` the location field is just a plain string.\n- `'FullDate': ('type': 'string', 'format':'date-time')` The date field is also a string but the\n  `'format':'date-time'` tells the `Transform` step to convert it into a DateTime.\n- `'required': ['Date', 'Location' ]` tells the `Transform` step to give an error or warning\n  if any of these fields are missing\n\n## The Date Formats\n\n```scl\n- <dateFormats> = ['HH:mm:ss MMMM, dd yyyy zzz', 'HH:mm:ss dd/MM/yyyy zzz']\n```\n\nFor the `Transform` step to correctly parse the dates, we need to tell it what date formats to expect.\nIn this case we give it an array with the two different formats present in the data.\nIt will try the first one first, then the second, and if that is unsucessful it will give you an error message.\n\nIf we had just one date format we could give just that string rather than an array with one element.\n\nIf we had several full date columns with a different format per column we could give an entity\nmapping column names to formats but that is not required in this case.\n\nSCL is run inside C# and uses the C# Date parsing features and format specifiers.\nSee [this document](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings)\nwhich explains how those work and how to use them but briefly:\n\n- `HH:mm:ss` means hours, minutes, and seconds separated by colons\n- `MMMM` is the full word name for the month while 'MM' is the two digit representation\n- `dd` and `yyyy` are day number and year respectively\n- `zzz` is the timezone hours and minutes offset from UTC. The timezone specifiers can\n  be quite fiddly and you may have to use multiple formats to get it right (e.g. if the\n  timezone is omitted or just '0' for UTC but another format everywhere else)\n\n## The Transform Step\n\nNow that we have our data, our schema, and our date formats we can run the `Transform` step.\n\n```scl\n<result> = <newdata> | Transform Schema: <schema> DateInputFormats: <dateFormats>\n```\n\nThe `Transform` step has a lot of optional arguments but apart from `DateInputFormats` the\ndefaults are good enough for us in this case.\n\nWe could have set\n\n- `ErrorBehavior` to control what happens if a transformation is not possible. By default you\n  get an error but you could get a warning or ignore it entirely. This also lets you control\n  whether or not to output the entity which caused the error.\n- `ArrayDelimiters` lets you specify which characters can be array delimiters. This way you\n  could transform strings like 'alpha|beta|gamma' into arrays.\n- `BooleanTrueFormats`, `BooleanFalseFormats`, and `NullFormats` allow you to specify which\n  strings can be converted to `True`, `False`, and `Null` respectively. As with the\n  `DateInputFormats` you can do this on a column by column basis if needed.\n- `CaseSensitive` allows you to specify whether or not the above formats are case sensitive.\n  This is false by default.\n- `RoundingPrecision` lets you control how close a floating point number needs to be to an\n  integer to be rounded to it.\n\n## Exporting the Results\n\nWe can output the data also as a CSV, but this time with tabs as the separator.\n\n```scl\n<result> | ToCSV DateTimeFormat: 'yyyy-MM-dd HH:mm:ss' Delimiter: \"\\t\"\n```\n\n`DateTimeFormat` lets us specify how the `DateTime` is formatted in the output.\n\n:::caution\nThe delimiter `\\t` _must_ be in double quotes. Single quotes are interpreted as a literal string.\n:::\n\n## Final Output\n\nIn the final output we see that all dates are now the same, which is correct:\n\n```csv\nLocation    FullDate\nUK    01:23:45 2000-01-01\nHawaii    01:23:45 2000-01-01\nFrance    01:23:45 2000-01-01\nIndia    01:23:45 2000-01-01\nIceland    01:23:45 2000-01-01\nHawaii    01:23:45 2000-01-01\nGermany    01:23:45 2000-01-01\nSri Lanka    01:23:45 2000-01-01\n```\n\n## Final SCL\n\n```scl\n- <schema> = (\n    'type': 'object'\n    'additionalProperties': false\n    'properties': (\n      'Location': ('type': 'string')\n      'FullDate': ('type': 'string', 'format': 'date-time')\n    )\n    'required': ['FullDate', 'Location']\n  )\n\n- <dateFormats> = ['HH:mm:ss MMMM, dd yyyy zzz', 'HH:mm:ss dd/MM/yyyy zzz']\n\n- <data>\n| FromCSV\n| ArrayMap (In <> Set: 'FullDate' To: $\"{<>['Time']} {<>['Date']} {<>['TimeZone']}\" )\n| Transform Schema: <schema> DateInputFormats: <dateFormats>\n| ToCSV DateTimeFormat: 'yyyy-MM-dd HH:mm:ss' Delimiter: \"\\t\"\n```\n\n## Try on the Playground\n\nYou can try this SCL on the [playground](/playground), just copy, paste, and run.\n\n```scl\n- <data> = \"\"\"\n\"Date\",\"Time\",\"TimeZone\",\"Location\"\n\"January, 01 2000\",\"01:23:45\",\"+00:00\",\"UK\"\n\"December, 31 1999\",\"15:23:45\",\"-10:00\",\"Hawaii\"\n\"January, 01 2000\",\"02:23:45\",\"+01:00\",\"France\"\n\"January, 01 2000\",\"06:53:45\",\"+05:30\",\"India\"\n\"01/01/2000\",\"01:23:45\",\"+00:00\",\"Iceland\"\n\"31/12/1999\",\"15:23:45\",\"-10:00\",\"Hawaii\"\n\"01/01/2000\",\"02:23:45\",\"+01:00\",\"Germany\"\n\"01/01/2000\",\"06:53:45\",\"+05:30\",\"Sri Lanka\"\n\"\"\"\n\n- <schema> = (\n    'type': 'object'\n    'additionalProperties': false\n    'properties': (\n      'Location': ('type': 'string')\n      'FullDate': ('type': 'string', 'format': 'date-time')\n    )\n    'required': ['FullDate', 'Location']\n  )\n\n- <dateFormats> = ['HH:mm:ss MMMM, dd yyyy zzz', 'HH:mm:ss dd/MM/yyyy zzz']\n\n- <data>\n| FromCSV\n| ArrayMap (In <> Set: 'FullDate' To: $\"{<>['Time']} {<>['Date']} {<>['TimeZone']}\" )\n| Transform Schema: <schema> DateInputFormats: <dateFormats>\n| ToCSV DateTimeFormat: 'yyyy-MM-dd HH:mm:ss' Delimiter: \"\\t\"\n| Print\n```"
+    }
+  ]
+}

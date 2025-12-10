@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/sql/read-data-from-table",
+  "id": "version-v0.17.0/examples/connectors/sql/read-data-from-table",
+  "title": "Read Data from a SQL Table | SQL Connector Examples",
+  "description": "Instructions on how to install and setup Sequence and the SQL Connector.",
+  "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/sql/read-data-from-table.md",
+  "sourceDirName": "examples/connectors/sql",
+  "slug": "/examples/connectors/sql/read-data-from-table",
+  "permalink": "/docs/v0.17.0/examples/connectors/sql/read-data-from-table",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/sql/read-data-from-table.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "Read Data from a SQL Table | SQL Connector Examples",
+    "sidebar_label": "Read Data from a SQL Table"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Create SQL Table and Insert Data",
+    "permalink": "/docs/v0.17.0/examples/connectors/sql/create-table-insert-data"
+  },
+  "next": {
+    "title": "Structured Data Connector",
+    "permalink": "/docs/v0.17.0/examples/connectors/structureddata/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/relativity/relativity-import-concordance",
+  "id": "version-v0.18.0/examples/connectors/relativity/relativity-import-concordance",
+  "title": "Import Concordance | Sequence Connector for Relativity Examples",
+  "description": "This example will import documents from a concordance or CSV file into a Relativity Workspace",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-import-concordance.md",
+  "sourceDirName": "examples/connectors/relativity",
+  "slug": "/examples/connectors/relativity/relativity-import-concordance",
+  "permalink": "/docs/examples/connectors/relativity/relativity-import-concordance",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-import-concordance.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "Import Concordance | Sequence Connector for Relativity Examples",
+    "sidebar_label": "Import Concordance"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Export Entities",
+    "permalink": "/docs/examples/connectors/relativity/relativity-export-entities"
+  },
+  "next": {
+    "title": "Import Entities",
+    "permalink": "/docs/examples/connectors/relativity/relativity-import-entities"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Microsoft365",
+  "id": "version-v0.17.0/Microsoft365",
+  "title": "All Steps | Microsoft365 Connector Documentation",
+  "description": "List of all steps for Microsoft365 Connector. Sequence connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365.md",
+  "sourceDirName": ".",
+  "slug": "/Microsoft365",
+  "permalink": "/steps/v0.17.0/Microsoft365",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Microsoft365.md",
+  "tags": [
+    {
+      "label": "Contents",
+      "permalink": "/steps/v0.17.0/tags/contents"
+    },
+    {
+      "label": "Microsoft365",
+      "permalink": "/steps/v0.17.0/tags/microsoft-365"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "All Steps | Microsoft365 Connector Documentation",
+    "sidebar_label": "Microsoft365",
+    "description": "List of all steps for Microsoft365 Connector. Sequence connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+    "tags": [
+      "Contents",
+      "Microsoft365"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "PathCombine",
+    "permalink": "/steps/v0.17.0/FileSystem/PathCombine"
+  },
+  "next": {
+    "title": "M365ChannelMessagesRead",
+    "permalink": "/steps/v0.17.0/Microsoft365/M365ChannelMessagesRead"
+  }
+}

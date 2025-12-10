@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/DirectoryCreate",
+  "id": "FileSystem/DirectoryCreate",
+  "title": "DirectoryCreate Step | File System Connector Documentation",
+  "description": "Creates a new directory in the file system. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/FileSystem/DirectoryCreate.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/DirectoryCreate",
+  "permalink": "/steps/next/FileSystem/DirectoryCreate",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/DirectoryCreate.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/next/tags/file-system"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "DirectoryCreate Step | File System Connector Documentation",
+    "sidebar_label": "DirectoryCreate",
+    "description": "Creates a new directory in the file system. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DirectoryCopy",
+    "permalink": "/steps/next/FileSystem/DirectoryCopy"
+  },
+  "next": {
+    "title": "DirectoryExists",
+    "permalink": "/steps/next/FileSystem/DirectoryExists"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "connectors/rest",
+  "id": "version-v0.18.0/connectors/rest",
+  "title": "REST Connector",
+  "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.",
+  "source": "@site/versioned_docs/version-v0.18.0/connectors/rest.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/rest",
+  "permalink": "/docs/connectors/rest",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/connectors/rest.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Connector for Relativity®",
+    "permalink": "/docs/connectors/relativity"
+  },
+  "next": {
+    "title": "Singer Connector",
+    "permalink": "/docs/connectors/singer"
+  }
+}

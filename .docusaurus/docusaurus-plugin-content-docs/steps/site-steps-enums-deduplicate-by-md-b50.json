@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/DeduplicateBy",
+  "id": "Enums/DeduplicateBy",
+  "title": "DeduplicateBy | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/DeduplicateBy.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/DeduplicateBy",
+  "permalink": "/steps/next/Enums/DeduplicateBy",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/DeduplicateBy.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "DeduplicateBy | Enums",
+    "sidebar_label": "DeduplicateBy",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "AutopsyCaseType",
+    "permalink": "/steps/next/Enums/AutopsyCaseType"
+  },
+  "next": {
+    "title": "EncodingEnum",
+    "permalink": "/steps/next/Enums/EncodingEnum"
+  }
+}

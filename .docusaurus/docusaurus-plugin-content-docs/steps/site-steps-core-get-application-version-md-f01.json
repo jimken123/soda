@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/GetApplicationVersion",
+  "id": "Core/GetApplicationVersion",
+  "title": "GetApplicationVersion Step | Core SDK Documentation",
+  "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/GetApplicationVersion.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/GetApplicationVersion",
+  "permalink": "/steps/next/Core/GetApplicationVersion",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/GetApplicationVersion.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "GetApplicationVersion Step | Core SDK Documentation",
+    "sidebar_label": "GetApplicationVersion",
+    "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ForEach",
+    "permalink": "/steps/next/Core/ForEach"
+  },
+  "next": {
+    "title": "GetAutomaticVariable",
+    "permalink": "/steps/next/Core/GetAutomaticVariable"
+  }
+}

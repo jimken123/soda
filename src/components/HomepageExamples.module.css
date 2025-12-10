@@ -1,0 +1,57 @@
+.section {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  padding: 2rem;
+  width: 100%;
+}
+
+.header {
+  padding: 0rem 4rem;
+}
+
+.header h1 {
+  color: #244b5c;
+}
+
+html[data-theme='dark'] .header h1 {
+  color: #c85a16;
+}
+
+.header h4 {
+  color: var(--ifm-font-color-secondary);
+}
+
+.content {
+  margin-top: 2em;
+}
+
+.code {
+  min-height: 492px;
+  max-width: 540px;
+  width: 90%;
+  margin-top: 0.6em;
+}
+
+/* this is a hack as can't set height to 100% for the prism code div */
+html[data-theme='dark'] .code {
+  background-color: rgb(30, 30, 30);
+}
+
+@media screen and (max-width: 992px) {
+  .content {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+
+  .code {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+}

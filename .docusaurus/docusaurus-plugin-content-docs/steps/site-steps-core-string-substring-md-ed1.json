@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringSubstring",
+  "id": "Core/StringSubstring",
+  "title": "StringSubstring Step | Core SDK Documentation",
+  "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/StringSubstring.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringSubstring",
+  "permalink": "/steps/next/Core/StringSubstring",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringSubstring.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "StringSubstring Step | Core SDK Documentation",
+    "sidebar_label": "StringSubstring",
+    "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StringSplit",
+    "permalink": "/steps/next/Core/StringSplit"
+  },
+  "next": {
+    "title": "StringToBool",
+    "permalink": "/steps/next/Core/StringToBool"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/FileCopy",
+  "id": "version-v0.17.0/FileSystem/FileCopy",
+  "title": "FileCopy Step | File System Connector Documentation",
+  "description": "Copy a file. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/FileSystem/FileCopy.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/FileCopy",
+  "permalink": "/steps/v0.17.0/FileSystem/FileCopy",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/FileSystem/FileCopy.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/v0.17.0/tags/file-system"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "FileCopy Step | File System Connector Documentation",
+    "sidebar_label": "FileCopy",
+    "description": "Copy a file. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DirectoryMove",
+    "permalink": "/steps/v0.17.0/FileSystem/DirectoryMove"
+  },
+  "next": {
+    "title": "FileExists",
+    "permalink": "/steps/v0.17.0/FileSystem/FileExists"
+  }
+}

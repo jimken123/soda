@@ -1,0 +1,19 @@
+# Set the name of your workspace. You could also use Workspace Artifact Id
+- <WorkspaceName> = 'Test Workspace'
+- <Search>        = "'Title' LIKE 'Clouds'"  # Define your search here
+- <Tag>           = 'Important'
+
+- <FilesToTag> = RelativitySendQuery
+                   Workspace: <WorkspaceName>
+                   Condition: <Search>
+                   Start: 0
+                   Length: 100 # The max number of objects to tag
+
+- ForEach <FilesToTag> Action: (
+    RelativityUpdateObject 
+      Workspace: <WorkspaceName>
+      ObjectArtifactId: <>["ArtifactId"]
+      FieldValues: ('Tags': <Tag>)
+  )
+
+- Log $"Tagged {ArrayLength <FilesToTag>} Files."

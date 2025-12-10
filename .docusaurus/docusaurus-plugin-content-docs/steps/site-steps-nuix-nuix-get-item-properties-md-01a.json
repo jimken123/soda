@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixGetItemProperties",
+  "id": "Nuix/NuixGetItemProperties",
+  "title": "NuixGetItemProperties Step | Nuix Connector Documentation",
+  "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixGetItemProperties.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixGetItemProperties",
+  "permalink": "/steps/next/Nuix/NuixGetItemProperties",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixGetItemProperties.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixGetItemProperties Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixGetItemProperties",
+    "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixGetCaseDetails",
+    "permalink": "/steps/next/Nuix/NuixGetCaseDetails"
+  },
+  "next": {
+    "title": "NuixGetLicenseDetails",
+    "permalink": "/steps/next/Nuix/NuixGetLicenseDetails"
+  }
+}

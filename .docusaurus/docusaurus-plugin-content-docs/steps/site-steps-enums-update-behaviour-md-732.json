@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/UpdateBehaviour",
+  "id": "Enums/UpdateBehaviour",
+  "title": "UpdateBehaviour | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/UpdateBehaviour.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/UpdateBehaviour",
+  "permalink": "/steps/next/Enums/UpdateBehaviour",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/UpdateBehaviour.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "UpdateBehaviour | Enums",
+    "sidebar_label": "UpdateBehaviour",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "TrimSide",
+    "permalink": "/steps/next/Enums/TrimSide"
+  },
+  "next": {
+    "title": "FileSystem",
+    "permalink": "/steps/next/FileSystem"
+  }
+}

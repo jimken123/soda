@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativitySendQuery",
+  "id": "version-v0.18.0/Relativity/RelativitySendQuery",
+  "title": "RelativitySendQuery Step | Sequence Connector for Relativity Documentation",
+  "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativitySendQuery.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativitySendQuery",
+  "permalink": "/steps/Relativity/RelativitySendQuery",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativitySendQuery.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/tags/relativity"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "RelativitySendQuery Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativitySendQuery",
+    "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityRetrieveWorkspaceStatistics",
+    "permalink": "/steps/Relativity/RelativityRetrieveWorkspaceStatistics"
+  },
+  "next": {
+    "title": "RelativityUpdateFolder",
+    "permalink": "/steps/Relativity/RelativityUpdateFolder"
+  }
+}

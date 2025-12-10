@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/ArtifactType",
+  "id": "version-v0.18.0/Enums/ArtifactType",
+  "title": "ArtifactType | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/ArtifactType.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/ArtifactType",
+  "permalink": "/steps/Enums/ArtifactType",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/ArtifactType.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/tags/unit"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "ArtifactType | Enums",
+    "sidebar_label": "ArtifactType",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "While",
+    "permalink": "/steps/Core/While"
+  },
+  "next": {
+    "title": "AutopsyCaseType",
+    "permalink": "/steps/Enums/AutopsyCaseType"
+  }
+}

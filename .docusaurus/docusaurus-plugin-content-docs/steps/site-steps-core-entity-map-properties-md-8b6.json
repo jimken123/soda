@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/EntityMapProperties",
+  "id": "Core/EntityMapProperties",
+  "title": "EntityMapProperties Step | Core SDK Documentation",
+  "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/EntityMapProperties.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/EntityMapProperties",
+  "permalink": "/steps/next/Core/EntityMapProperties",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntityMapProperties.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "EntityMapProperties Step | Core SDK Documentation",
+    "sidebar_label": "EntityMapProperties",
+    "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "EntityHasProperty",
+    "permalink": "/steps/next/Core/EntityHasProperty"
+  },
+  "next": {
+    "title": "EntityRemoveProperty",
+    "permalink": "/steps/next/Core/EntityRemoveProperty"
+  }
+}

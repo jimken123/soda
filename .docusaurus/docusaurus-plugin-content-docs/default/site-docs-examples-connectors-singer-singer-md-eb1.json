@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/singer/singer",
+  "id": "examples/connectors/singer/singer",
+  "title": "Singer Connector Examples",
+  "description": "Learn how to use Sequence as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+  "source": "@site/docs/examples/connectors/singer/singer.md",
+  "sourceDirName": "examples/connectors/singer",
+  "slug": "/examples/connectors/singer/",
+  "permalink": "/docs/next/examples/connectors/singer/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/singer/singer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Singer Connector",
+    "sidebar_position": 0,
+    "description": "Learn how to use Sequence as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get Reveal Cases",
+    "permalink": "/docs/next/examples/connectors/rest/reveal-get-cases"
+  },
+  "next": {
+    "title": "Import Data from Slack",
+    "permalink": "/docs/next/examples/connectors/singer/import-data-from-slack"
+  }
+}

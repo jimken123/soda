@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/tsk/tsk-create-case-and-add-data",
+  "id": "version-v0.18.0/examples/connectors/tsk/tsk-create-case-and-add-data",
+  "title": "Create an Autopsy Case and Add Data | The Sleuth Kit Connector Examples",
+  "description": "This example will",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/tsk/tsk-create-case-and-add-data.md",
+  "sourceDirName": "examples/connectors/tsk",
+  "slug": "/examples/connectors/tsk/tsk-create-case-and-add-data",
+  "permalink": "/docs/examples/connectors/tsk/tsk-create-case-and-add-data",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/tsk/tsk-create-case-and-add-data.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "Create an Autopsy Case and Add Data | The Sleuth Kit Connector Examples",
+    "sidebar_label": "Create an Autopsy Case and Add Data"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "The Sleuth Kit Connector",
+    "permalink": "/docs/examples/connectors/tsk/"
+  },
+  "next": {
+    "title": "Generate Reports for Autopsy Case",
+    "permalink": "/docs/examples/connectors/tsk/tsk-create-reports"
+  }
+}

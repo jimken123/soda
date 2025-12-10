@@ -1,0 +1,27 @@
+.section {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  padding: 2rem;
+  width: 100%;
+}
+
+.header {
+  padding: 0rem 4rem;
+}
+
+.header h1 {
+  color: #244b5c;
+}
+
+html[data-theme='dark'] .header h1 {
+  color: #c85a16;
+}
+
+.header h4 {
+  color: var(--ifm-font-color-secondary);
+}
+
+.content {
+  margin-top: 2em;
+}

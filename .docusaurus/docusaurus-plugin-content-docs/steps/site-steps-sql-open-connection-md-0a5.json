@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Sql/OpenConnection",
+  "id": "Sql/OpenConnection",
+  "title": "OpenConnection Step | SQL Database Connector Documentation",
+  "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Sql/OpenConnection.md",
+  "sourceDirName": "Sql",
+  "slug": "/Sql/OpenConnection",
+  "permalink": "/steps/next/Sql/OpenConnection",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Sql/OpenConnection.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Sql",
+      "permalink": "/steps/next/tags/sql"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "OpenConnection Step | SQL Database Connector Documentation",
+    "sidebar_label": "OpenConnection",
+    "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Sql"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "CreatePostgresConnectionString",
+    "permalink": "/steps/next/Sql/CreatePostgresConnectionString"
+  },
+  "next": {
+    "title": "SqlCommand",
+    "permalink": "/steps/next/Sql/SqlCommand"
+  }
+}

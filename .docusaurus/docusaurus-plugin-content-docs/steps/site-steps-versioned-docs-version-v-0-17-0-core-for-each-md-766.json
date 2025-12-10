@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ForEach",
+  "id": "version-v0.17.0/Core/ForEach",
+  "title": "ForEach Step | Core SDK Documentation",
+  "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Core/ForEach.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ForEach",
+  "permalink": "/steps/v0.17.0/Core/ForEach",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/ForEach.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.17.0/tags/core"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "ForEach Step | Core SDK Documentation",
+    "sidebar_label": "ForEach",
+    "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "For",
+    "permalink": "/steps/v0.17.0/Core/For"
+  },
+  "next": {
+    "title": "GetApplicationVersion",
+    "permalink": "/steps/v0.17.0/Core/GetApplicationVersion"
+  }
+}

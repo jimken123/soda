@@ -1,0 +1,866 @@
+{
+  "pluginId": "default",
+  "version": "v0.16.0",
+  "label": "v0.16.0",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-v0.16.0",
+  "isLast": false,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "link",
+        "label": "What is Sequence",
+        "href": "/docs/v0.16.0/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Quick Start",
+        "href": "/docs/v0.16.0/quick-start",
+        "docId": "quick-start"
+      },
+      {
+        "type": "link",
+        "label": "Sequence Configuration Language",
+        "href": "/docs/v0.16.0/sequence-configuration-language",
+        "docId": "sequence-configuration-language"
+      },
+      {
+        "type": "link",
+        "label": "Entities",
+        "href": "/docs/v0.16.0/entities",
+        "docId": "entities"
+      },
+      {
+        "type": "link",
+        "label": "Schemas",
+        "href": "/docs/v0.16.0/schemas",
+        "docId": "schemas"
+      },
+      {
+        "type": "category",
+        "label": "Connectors",
+        "items": [
+          {
+            "type": "link",
+            "label": "Core",
+            "href": "/docs/v0.16.0/connectors/core",
+            "docId": "connectors/core"
+          },
+          {
+            "type": "link",
+            "label": "File System Connector",
+            "href": "/docs/v0.16.0/connectors/filesystem",
+            "docId": "connectors/filesystem"
+          },
+          {
+            "type": "link",
+            "label": "Nuix Connector",
+            "href": "/docs/v0.16.0/connectors/nuix",
+            "docId": "connectors/nuix"
+          },
+          {
+            "type": "link",
+            "label": "PowerShell Connector",
+            "href": "/docs/v0.16.0/connectors/powershell",
+            "docId": "connectors/powershell"
+          },
+          {
+            "type": "link",
+            "label": "Connector for Relativity®",
+            "href": "/docs/v0.16.0/connectors/relativity",
+            "docId": "connectors/relativity"
+          },
+          {
+            "type": "link",
+            "label": "REST Connector",
+            "href": "/docs/v0.16.0/connectors/rest",
+            "docId": "connectors/rest"
+          },
+          {
+            "type": "link",
+            "label": "Singer Connector",
+            "href": "/docs/v0.16.0/connectors/singer",
+            "docId": "connectors/singer"
+          },
+          {
+            "type": "link",
+            "label": "SQL Connector",
+            "href": "/docs/v0.16.0/connectors/sql",
+            "docId": "connectors/sql"
+          },
+          {
+            "type": "link",
+            "label": "Structured Data Connector",
+            "href": "/docs/v0.16.0/connectors/structureddata",
+            "docId": "connectors/structureddata"
+          },
+          {
+            "type": "link",
+            "label": "Tesseract Connector",
+            "href": "/docs/v0.16.0/connectors/tesseract",
+            "docId": "connectors/tesseract"
+          },
+          {
+            "type": "link",
+            "label": "The Sleuth Kit® Connector",
+            "href": "/docs/v0.16.0/connectors/tsk",
+            "docId": "connectors/tsk"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Examples",
+        "items": [
+          {
+            "type": "link",
+            "label": "SCL / Core",
+            "href": "/docs/v0.16.0/examples/core",
+            "docId": "examples/core"
+          },
+          {
+            "type": "link",
+            "label": "Application Settings",
+            "href": "/docs/v0.16.0/examples/application-settings",
+            "docId": "examples/application-settings"
+          },
+          {
+            "type": "category",
+            "label": "File System Connector",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Extract an Archive",
+                "href": "/docs/v0.16.0/examples/connectors/filesystem/extract-an-archive",
+                "docId": "examples/connectors/filesystem/extract-an-archive"
+              },
+              {
+                "type": "link",
+                "label": "Read a File",
+                "href": "/docs/v0.16.0/examples/connectors/filesystem/read-a-file",
+                "docId": "examples/connectors/filesystem/read-a-file"
+              },
+              {
+                "type": "link",
+                "label": "Write a File",
+                "href": "/docs/v0.16.0/examples/connectors/filesystem/write-a-file",
+                "docId": "examples/connectors/filesystem/write-a-file"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/filesystem/"
+          },
+          {
+            "type": "category",
+            "label": "Nuix Connector",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Create Case, Ingest, Filter and Export",
+                "href": "/docs/v0.16.0/examples/connectors/nuix/nuix-create-ingest-export",
+                "docId": "examples/connectors/nuix/nuix-create-ingest-export"
+              },
+              {
+                "type": "link",
+                "label": "Create Case, Ingest and Filter",
+                "href": "/docs/v0.16.0/examples/connectors/nuix/nuix-create-ingest-filter",
+                "docId": "examples/connectors/nuix/nuix-create-ingest-filter"
+              },
+              {
+                "type": "link",
+                "label": "Download Sample Data",
+                "href": "/docs/v0.16.0/examples/connectors/nuix/nuix-download-sample-data",
+                "docId": "examples/connectors/nuix/nuix-download-sample-data"
+              },
+              {
+                "type": "link",
+                "label": "Ingest Using a Custom Processing Profile Configured in SCL",
+                "href": "/docs/v0.16.0/examples/connectors/nuix/nuix-ingest-custom-profile",
+                "docId": "examples/connectors/nuix/nuix-ingest-custom-profile"
+              },
+              {
+                "type": "link",
+                "label": "Search and Tag Items",
+                "href": "/docs/v0.16.0/examples/connectors/nuix/nuix-search-and-tag",
+                "docId": "examples/connectors/nuix/nuix-search-and-tag"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/nuix/"
+          },
+          {
+            "type": "category",
+            "label": "PowerShell Connector",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Download CSV",
+                "href": "/docs/v0.16.0/examples/connectors/powershell/download-csv",
+                "docId": "examples/connectors/powershell/download-csv"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/powershell/"
+          },
+          {
+            "type": "category",
+            "label": "Sequence Connector for Relativity",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Create Workspace",
+                "href": "/docs/v0.16.0/examples/connectors/relativity/relativity-create-workspace",
+                "docId": "examples/connectors/relativity/relativity-create-workspace"
+              },
+              {
+                "type": "link",
+                "label": "End to End Example",
+                "href": "/docs/v0.16.0/examples/connectors/relativity/relativity-end-to-end",
+                "docId": "examples/connectors/relativity/relativity-end-to-end"
+              },
+              {
+                "type": "link",
+                "label": "Export Entities",
+                "href": "/docs/v0.16.0/examples/connectors/relativity/relativity-export-entities",
+                "docId": "examples/connectors/relativity/relativity-export-entities"
+              },
+              {
+                "type": "link",
+                "label": "Import Concordance",
+                "href": "/docs/v0.16.0/examples/connectors/relativity/relativity-import-concordance",
+                "docId": "examples/connectors/relativity/relativity-import-concordance"
+              },
+              {
+                "type": "link",
+                "label": "Import Entities",
+                "href": "/docs/v0.16.0/examples/connectors/relativity/relativity-import-entities",
+                "docId": "examples/connectors/relativity/relativity-import-entities"
+              },
+              {
+                "type": "link",
+                "label": "Import Entities from Nuix",
+                "href": "/docs/v0.16.0/examples/connectors/relativity/relativity-import-from-nuix",
+                "docId": "examples/connectors/relativity/relativity-import-from-nuix"
+              },
+              {
+                "type": "link",
+                "label": "Search and Tag Items",
+                "href": "/docs/v0.16.0/examples/connectors/relativity/relativity-search-and-tag",
+                "docId": "examples/connectors/relativity/relativity-search-and-tag"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/relativity/"
+          },
+          {
+            "type": "category",
+            "label": "REST Connector",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Create Reveal Folder",
+                "href": "/docs/v0.16.0/examples/connectors/rest/reveal-create-folder",
+                "docId": "examples/connectors/rest/reveal-create-folder"
+              },
+              {
+                "type": "link",
+                "label": "Get Document Metadata from Reveal",
+                "href": "/docs/v0.16.0/examples/connectors/rest/reveal-get-all-documents",
+                "docId": "examples/connectors/rest/reveal-get-all-documents"
+              },
+              {
+                "type": "link",
+                "label": "Get All Reveal Fields",
+                "href": "/docs/v0.16.0/examples/connectors/rest/reveal-get-all-fields",
+                "docId": "examples/connectors/rest/reveal-get-all-fields"
+              },
+              {
+                "type": "link",
+                "label": "Get All Reveal Folders",
+                "href": "/docs/v0.16.0/examples/connectors/rest/reveal-get-all-folders",
+                "docId": "examples/connectors/rest/reveal-get-all-folders"
+              },
+              {
+                "type": "link",
+                "label": "Get Reveal Case Statistics",
+                "href": "/docs/v0.16.0/examples/connectors/rest/reveal-get-case-statistics",
+                "docId": "examples/connectors/rest/reveal-get-case-statistics"
+              },
+              {
+                "type": "link",
+                "label": "Get Reveal Cases",
+                "href": "/docs/v0.16.0/examples/connectors/rest/reveal-get-cases",
+                "docId": "examples/connectors/rest/reveal-get-cases"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/rest/"
+          },
+          {
+            "type": "category",
+            "label": "Singer Connector",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Import Data from Slack",
+                "href": "/docs/v0.16.0/examples/connectors/singer/import-data-from-slack",
+                "docId": "examples/connectors/singer/import-data-from-slack"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/singer/"
+          },
+          {
+            "type": "category",
+            "label": "SQL Connector",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Create SQL Table and Insert Data",
+                "href": "/docs/v0.16.0/examples/connectors/sql/create-table-insert-data",
+                "docId": "examples/connectors/sql/create-table-insert-data"
+              },
+              {
+                "type": "link",
+                "label": "Read Data from a SQL Table",
+                "href": "/docs/v0.16.0/examples/connectors/sql/read-data-from-table",
+                "docId": "examples/connectors/sql/read-data-from-table"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/sql/"
+          },
+          {
+            "type": "category",
+            "label": "Structured Data Connector",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Validate Concordance File Using a Schema",
+                "href": "/docs/v0.16.0/examples/connectors/structureddata/concordance",
+                "docId": "examples/connectors/structureddata/concordance"
+              },
+              {
+                "type": "link",
+                "label": "Working with CSV Files",
+                "href": "/docs/v0.16.0/examples/connectors/structureddata/csv-files",
+                "docId": "examples/connectors/structureddata/csv-files"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/structureddata/"
+          },
+          {
+            "type": "link",
+            "label": "Tesseract Connector",
+            "href": "/docs/v0.16.0/examples/connectors/tesseract/",
+            "docId": "examples/connectors/tesseract/tesseract"
+          },
+          {
+            "type": "category",
+            "label": "The Sleuth Kit Connector",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Create an Autopsy Case and Add Data",
+                "href": "/docs/v0.16.0/examples/connectors/tsk/tsk-create-case-and-add-data",
+                "docId": "examples/connectors/tsk/tsk-create-case-and-add-data"
+              },
+              {
+                "type": "link",
+                "label": "Generate Reports for Autopsy Case",
+                "href": "/docs/v0.16.0/examples/connectors/tsk/tsk-create-reports",
+                "docId": "examples/connectors/tsk/tsk-create-reports"
+              },
+              {
+                "type": "link",
+                "label": "Import From Nuix into Autopsy",
+                "href": "/docs/v0.16.0/examples/connectors/tsk/tsk-import-from-nuix",
+                "docId": "examples/connectors/tsk/tsk-import-from-nuix"
+              }
+            ],
+            "href": "/docs/v0.16.0/examples/connectors/tsk/"
+          },
+          {
+            "type": "category",
+            "label": "Schemas",
+            "items": [
+              {
+                "type": "link",
+                "label": "EDRM Schema",
+                "href": "/docs/v0.16.0/examples/schemas/edrm-schema",
+                "docId": "examples/schemas/edrm-schema"
+              },
+              {
+                "type": "link",
+                "label": "Transform Concordance File",
+                "href": "/docs/v0.16.0/examples/schemas/transform-concordance-to-ussec",
+                "docId": "examples/schemas/transform-concordance-to-ussec"
+              },
+              {
+                "type": "link",
+                "label": "Using Schemas to Transform Dates",
+                "href": "/docs/v0.16.0/examples/schemas/using-schemas-to-transform-dates",
+                "docId": "examples/schemas/using-schemas-to-transform-dates"
+              },
+              {
+                "type": "link",
+                "label": "USSEC Schema",
+                "href": "/docs/v0.16.0/examples/schemas/ussec-schema",
+                "docId": "examples/schemas/ussec-schema"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/v0.16.0/examples/schema-examples"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Application Settings",
+        "href": "/docs/v0.16.0/application-settings",
+        "docId": "application-settings"
+      },
+      {
+        "type": "link",
+        "label": "Logging",
+        "href": "/docs/v0.16.0/logging",
+        "docId": "logging"
+      },
+      {
+        "type": "link",
+        "label": "Developers' Guide",
+        "href": "/docs/v0.16.0/developers-guide",
+        "docId": "developers-guide"
+      },
+      {
+        "type": "link",
+        "label": "Build from Source",
+        "href": "/docs/v0.16.0/build-from-source",
+        "docId": "build-from-source"
+      }
+    ]
+  },
+  "docs": {
+    "application-settings": {
+      "id": "application-settings",
+      "title": "Application Settings",
+      "description": "Documentation for logging and connector configuration for Sequence, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "build-from-source": {
+      "id": "build-from-source",
+      "title": "Build Sequence from Source",
+      "description": "Instructions for building releases from source using .NET 6. Sequence is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
+      "sidebar": "docs"
+    },
+    "connectors/core": {
+      "id": "connectors/core",
+      "title": "Core SDK",
+      "description": "Easily automate e-discovery and forensic workflows. Core is the Sequence Configuration Language interpereter and an SDK for building connectors.",
+      "sidebar": "docs"
+    },
+    "connectors/filesystem": {
+      "id": "connectors/filesystem",
+      "title": "File System Connector",
+      "description": "Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
+      "sidebar": "docs"
+    },
+    "connectors/nuix": {
+      "id": "connectors/nuix",
+      "title": "Nuix Connector",
+      "description": "Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+      "sidebar": "docs"
+    },
+    "connectors/powershell": {
+      "id": "connectors/powershell",
+      "title": "PowerShell Connector",
+      "description": "Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "connectors/relativity": {
+      "id": "connectors/relativity",
+      "title": "Connector for Relativity®",
+      "description": "Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+      "sidebar": "docs"
+    },
+    "connectors/rest": {
+      "id": "connectors/rest",
+      "title": "REST Connector",
+      "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.",
+      "sidebar": "docs"
+    },
+    "connectors/singer": {
+      "id": "connectors/singer",
+      "title": "Singer Connector",
+      "description": "Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.",
+      "sidebar": "docs"
+    },
+    "connectors/sql": {
+      "id": "connectors/sql",
+      "title": "SQL Connector",
+      "description": "Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+      "sidebar": "docs"
+    },
+    "connectors/structureddata": {
+      "id": "connectors/structureddata",
+      "title": "Structured Data Connector",
+      "description": "Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+      "sidebar": "docs"
+    },
+    "connectors/tesseract": {
+      "id": "connectors/tesseract",
+      "title": "Tesseract Connector",
+      "description": "Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.",
+      "sidebar": "docs"
+    },
+    "connectors/tsk": {
+      "id": "connectors/tsk",
+      "title": "The Sleuth Kit® Connector",
+      "description": "Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+      "sidebar": "docs"
+    },
+    "developers-guide": {
+      "id": "developers-guide",
+      "title": "Sequence Connector Developers' Guide",
+      "description": "Build your own Sequence connector to automate any application in your forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "entities": {
+      "id": "entities",
+      "title": "Entities, the Data Type for Data Exchange",
+      "description": "Used to store/represent data in Sequence, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+      "sidebar": "docs"
+    },
+    "examples/application-settings": {
+      "id": "examples/application-settings",
+      "title": "Application Settings Examples",
+      "description": "Sequence is configured using the appsettings.json file which can be found",
+      "sidebar": "docs"
+    },
+    "examples/connectors/filesystem/extract-an-archive": {
+      "id": "examples/connectors/filesystem/extract-an-archive",
+      "title": "Extract an Archive | File System Connector Examples",
+      "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/filesystem/filesystem": {
+      "id": "examples/connectors/filesystem/filesystem",
+      "title": "File System Connector Examples",
+      "description": "Learn how to use Sequence to automate various file system actions when creating forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/filesystem/read-a-file": {
+      "id": "examples/connectors/filesystem/read-a-file",
+      "title": "Read a File | File System Connector Examples",
+      "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/filesystem/write-a-file": {
+      "id": "examples/connectors/filesystem/write-a-file",
+      "title": "Write a File | File System Connector Examples",
+      "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/nuix/nuix": {
+      "id": "examples/connectors/nuix/nuix",
+      "title": "Nuix Connector Examples",
+      "description": "Learn how to configure and use the Sequence Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/nuix/nuix-create-ingest-export": {
+      "id": "examples/connectors/nuix/nuix-create-ingest-export",
+      "title": "Create Case, Ingest, Filter and Export | Nuix Connector Examples",
+      "description": "This example will:",
+      "sidebar": "docs"
+    },
+    "examples/connectors/nuix/nuix-create-ingest-filter": {
+      "id": "examples/connectors/nuix/nuix-create-ingest-filter",
+      "title": "Create Case, Ingest and Filter | Nuix Connector Examples",
+      "description": "This example will:",
+      "sidebar": "docs"
+    },
+    "examples/connectors/nuix/nuix-download-sample-data": {
+      "id": "examples/connectors/nuix/nuix-download-sample-data",
+      "title": "Download Sample Data | Nuix Connector Examples",
+      "description": "This SCL will:",
+      "sidebar": "docs"
+    },
+    "examples/connectors/nuix/nuix-ingest-custom-profile": {
+      "id": "examples/connectors/nuix/nuix-ingest-custom-profile",
+      "title": "Ingest Using a Custom Processing Profile Configured in SCL | Nuix Connector Examples",
+      "description": "This example ingests evidence into an existing Nuix case. The",
+      "sidebar": "docs"
+    },
+    "examples/connectors/nuix/nuix-search-and-tag": {
+      "id": "examples/connectors/nuix/nuix-search-and-tag",
+      "title": "Search and Tag Items | Nuix Connector Examples",
+      "description": "This example will run a number of searches and tag the responsive",
+      "sidebar": "docs"
+    },
+    "examples/connectors/powershell/download-csv": {
+      "id": "examples/connectors/powershell/download-csv",
+      "title": "Download CSV | PowerShell Connector Examples",
+      "description": "Instructions on how to install and setup Sequence and the PowerShell Connector.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/powershell/powershell": {
+      "id": "examples/connectors/powershell/powershell",
+      "title": "PowerShell Connector Examples",
+      "description": "Learn how to further customise Sequence by including powershell scripts in your automated forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/relativity/relativity": {
+      "id": "examples/connectors/relativity/relativity",
+      "title": "Sequence Connector for Relativity® Examples",
+      "description": "Examples of how to use Sequence to include Relativity in automated end-to-end forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/relativity/relativity-create-workspace": {
+      "id": "examples/connectors/relativity/relativity-create-workspace",
+      "title": "Create Workspace | Sequence Connector for Relativity Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/relativity/relativity-end-to-end": {
+      "id": "examples/connectors/relativity/relativity-end-to-end",
+      "title": "End to End Example | Sequence Connector for Relativity Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/relativity/relativity-export-entities": {
+      "id": "examples/connectors/relativity/relativity-export-entities",
+      "title": "Export Entities | Sequence Connector for Relativity Examples",
+      "description": "This example will export entities from a Relativity Workspace and write them to a .csv file",
+      "sidebar": "docs"
+    },
+    "examples/connectors/relativity/relativity-import-concordance": {
+      "id": "examples/connectors/relativity/relativity-import-concordance",
+      "title": "Import Concordance | Sequence Connector for Relativity Examples",
+      "description": "This example will import documents from a concordance or CSV file into a Relativity Workspace",
+      "sidebar": "docs"
+    },
+    "examples/connectors/relativity/relativity-import-entities": {
+      "id": "examples/connectors/relativity/relativity-import-entities",
+      "title": "Import Entities | Sequence Connector for Relativity Examples",
+      "description": "This example will import entities into a Relativity Workspace.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/relativity/relativity-import-from-nuix": {
+      "id": "examples/connectors/relativity/relativity-import-from-nuix",
+      "title": "Import Entities from Nuix | Sequence Connector for Relativity Examples",
+      "description": "This example will export entities from a Nuix Case and import them into a Relativity Workspace.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/relativity/relativity-search-and-tag": {
+      "id": "examples/connectors/relativity/relativity-search-and-tag",
+      "title": "Search and Tag Items | Sequence Connector for Relativity Examples",
+      "description": "This example will run a search of a Relativity workspace and set the 'Tags' field of each of the results.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/rest/rest": {
+      "id": "examples/connectors/rest/rest",
+      "title": "REST Connector Examples",
+      "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/rest/reveal-create-folder": {
+      "id": "examples/connectors/rest/reveal-create-folder",
+      "title": "Create Reveal Folder | REST Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/rest/reveal-get-all-documents": {
+      "id": "examples/connectors/rest/reveal-get-all-documents",
+      "title": "Get Document Metadata from Reveal | REST Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/rest/reveal-get-all-fields": {
+      "id": "examples/connectors/rest/reveal-get-all-fields",
+      "title": "Get All Reveal Fields | REST Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/rest/reveal-get-all-folders": {
+      "id": "examples/connectors/rest/reveal-get-all-folders",
+      "title": "Get All Reveal Folders | REST Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/rest/reveal-get-case-statistics": {
+      "id": "examples/connectors/rest/reveal-get-case-statistics",
+      "title": "Get Reveal Case Statistics | REST Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/rest/reveal-get-cases": {
+      "id": "examples/connectors/rest/reveal-get-cases",
+      "title": "Get Reveal Cases | REST Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/singer/import-data-from-slack": {
+      "id": "examples/connectors/singer/import-data-from-slack",
+      "title": "Import Data from Slack | Singer Connector Examples",
+      "description": "Instructions on how to install and setup Sequence and the Singer Connector.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/singer/singer": {
+      "id": "examples/connectors/singer/singer",
+      "title": "Singer Connector Examples",
+      "description": "Learn how to use Sequence as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/sql/create-table-insert-data": {
+      "id": "examples/connectors/sql/create-table-insert-data",
+      "title": "Create SQL Table and Insert Data | SQL Connector Examples",
+      "description": "Instructions on how to install and setup Sequence and the SQL Connector.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/sql/read-data-from-table": {
+      "id": "examples/connectors/sql/read-data-from-table",
+      "title": "Read Data from a SQL Table | SQL Connector Examples",
+      "description": "Instructions on how to install and setup Sequence and the SQL Connector.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/sql/sql": {
+      "id": "examples/connectors/sql/sql",
+      "title": "SQL Connector Examples",
+      "description": "Examples of how to push and pull data from SQL databases when using Sequence to automate forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/structureddata/concordance": {
+      "id": "examples/connectors/structureddata/concordance",
+      "title": "Validate Concordance File Using a Schema | Structured Data Connector Examples",
+      "description": "Instructions on how to install and setup Sequence.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/structureddata/csv-files": {
+      "id": "examples/connectors/structureddata/csv-files",
+      "title": "Working with CSV Files | Structured Data Connector Examples",
+      "description": "Learn how to use Sequence to work with CSV files when automating forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/structureddata/structureddata": {
+      "id": "examples/connectors/structureddata/structureddata",
+      "title": "Structured Data Connector Examples",
+      "description": "Learn how to automatically convert data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/tesseract/tesseract": {
+      "id": "examples/connectors/tesseract/tesseract",
+      "title": "Tesseract Connector Examples",
+      "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/tsk/tsk": {
+      "id": "examples/connectors/tsk/tsk",
+      "title": "The Sleuth Kit® Connector Examples",
+      "description": "Examples of how to use Sequence to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "examples/connectors/tsk/tsk-create-case-and-add-data": {
+      "id": "examples/connectors/tsk/tsk-create-case-and-add-data",
+      "title": "Create an Autopsy Case and Add Data | The Sleuth Kit Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/tsk/tsk-create-reports": {
+      "id": "examples/connectors/tsk/tsk-create-reports",
+      "title": "Generate Reports for Autopsy Case | The Sleuth Kit Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/connectors/tsk/tsk-import-from-nuix": {
+      "id": "examples/connectors/tsk/tsk-import-from-nuix",
+      "title": "Import From Nuix into Autopsy | The Sleuth Kit Connector Examples",
+      "description": "This example will",
+      "sidebar": "docs"
+    },
+    "examples/core": {
+      "id": "examples/core",
+      "title": "Sequence Configuration Language Examples",
+      "description": "Setup",
+      "sidebar": "docs"
+    },
+    "examples/schema-examples": {
+      "id": "examples/schema-examples",
+      "title": "Schema Examples",
+      "description": "Learn how to use Sequence schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+      "sidebar": "docs"
+    },
+    "examples/schemas/edrm-schema": {
+      "id": "examples/schemas/edrm-schema",
+      "title": "EDRM Schema | Schema Examples",
+      "description": "This is a schema which enforces that data meets the",
+      "sidebar": "docs"
+    },
+    "examples/schemas/transform-concordance-to-ussec": {
+      "id": "examples/schemas/transform-concordance-to-ussec",
+      "title": "Transform Concordance File to USSEC Schema | Schema Examples",
+      "description": "This example converts a concordance load file to match a schema.",
+      "sidebar": "docs"
+    },
+    "examples/schemas/using-schemas-to-transform-dates": {
+      "id": "examples/schemas/using-schemas-to-transform-dates",
+      "title": "How to Use Schemas to Transform Dates | Schema Examples",
+      "description": "This example shows how to deal with entities with potentially difficult or inconsistent date fields.",
+      "sidebar": "docs"
+    },
+    "examples/schemas/ussec-schema": {
+      "id": "examples/schemas/ussec-schema",
+      "title": "USSEC Schema | Schema Examples",
+      "description": "This is a schema which enforces that data meets the",
+      "sidebar": "docs"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "What is Sequence",
+      "description": "Sequence is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+      "sidebar": "docs"
+    },
+    "logging": {
+      "id": "logging",
+      "title": "Logging Configuration",
+      "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Sequence. Documentation and examples including structured logging, scopes, and NLog targets.",
+      "sidebar": "docs"
+    },
+    "quick-start": {
+      "id": "quick-start",
+      "title": "Quick Start",
+      "description": "1. Download the latest release here",
+      "sidebar": "docs"
+    },
+    "schemas": {
+      "id": "schemas",
+      "title": "Schemas",
+      "description": "Schemas are a way to ensure that your data (entities, arrays or streams)",
+      "sidebar": "docs"
+    },
+    "sequence-configuration-language": {
+      "id": "sequence-configuration-language",
+      "title": "Sequence Configuration Language",
+      "description": "SCL is the configuration language for defining automated forensic and",
+      "sidebar": "docs"
+    }
+  }
+}

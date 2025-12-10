@@ -1,0 +1,43 @@
+{
+  "unversionedId": "StructuredData/ToConcordance",
+  "id": "version-v0.18.0/StructuredData/ToConcordance",
+  "title": "ToConcordance Step | Structured Data Connector Documentation",
+  "description": "Write entities to a stream in concordance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData/ToConcordance.md",
+  "sourceDirName": "StructuredData",
+  "slug": "/StructuredData/ToConcordance",
+  "permalink": "/steps/StructuredData/ToConcordance",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/ToConcordance.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "StructuredData",
+      "permalink": "/steps/tags/structured-data"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "ToConcordance Step | Structured Data Connector Documentation",
+    "sidebar_label": "ToConcordance",
+    "description": "Write entities to a stream in concordance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "StructuredData"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ToCSV",
+    "permalink": "/steps/StructuredData/ToCSV"
+  },
+  "next": {
+    "title": "ToIDX",
+    "permalink": "/steps/StructuredData/ToIDX"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/powershell/powershell",
+  "id": "version-v0.16.0/examples/connectors/powershell/powershell",
+  "title": "PowerShell Connector Examples",
+  "description": "Learn how to further customise Sequence by including powershell scripts in your automated forensic and ediscovery workflows.",
+  "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/powershell/powershell.md",
+  "sourceDirName": "examples/connectors/powershell",
+  "slug": "/examples/connectors/powershell/",
+  "permalink": "/docs/v0.16.0/examples/connectors/powershell/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/powershell/powershell.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "PowerShell Connector",
+    "sidebar_position": 0,
+    "description": "Learn how to further customise Sequence by including powershell scripts in your automated forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Search and Tag Items",
+    "permalink": "/docs/v0.16.0/examples/connectors/nuix/nuix-search-and-tag"
+  },
+  "next": {
+    "title": "Download CSV",
+    "permalink": "/docs/v0.16.0/examples/connectors/powershell/download-csv"
+  }
+}

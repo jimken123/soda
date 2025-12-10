@@ -1,0 +1,62 @@
+{
+  "label": "Microsoft365",
+  "permalink": "/steps/next/tags/microsoft-365",
+  "allTagsPath": "/steps/next/tags",
+  "count": 9,
+  "items": [
+    {
+      "id": "Microsoft365",
+      "title": "All Steps | Microsoft 365 Connector Documentation",
+      "description": "List of all steps for Microsoft 365 Connector. Sequence connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+      "permalink": "/steps/next/Microsoft365"
+    },
+    {
+      "id": "Microsoft365/M365ChannelMessagesRead",
+      "title": "M365ChannelMessagesRead Step | Microsoft 365 Connector Documentation",
+      "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365ChannelMessagesRead"
+    },
+    {
+      "id": "Microsoft365/M365ChannelsRead",
+      "title": "M365ChannelsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365ChannelsRead"
+    },
+    {
+      "id": "Microsoft365/M365ChatsRead",
+      "title": "M365ChatsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365ChatsRead"
+    },
+    {
+      "id": "Microsoft365/M365GetToken",
+      "title": "M365GetToken Step | Microsoft 365 Connector Documentation",
+      "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365GetToken"
+    },
+    {
+      "id": "Microsoft365/M365Login",
+      "title": "M365Login Step | Microsoft 365 Connector Documentation",
+      "description": "Login to M365. You do not need to do this.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365Login"
+    },
+    {
+      "id": "Microsoft365/M365MailRead",
+      "title": "M365MailRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365MailRead"
+    },
+    {
+      "id": "Microsoft365/M365TeamsRead",
+      "title": "M365TeamsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365TeamsRead"
+    },
+    {
+      "id": "Microsoft365/M365UsersRead",
+      "title": "M365UsersRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/Microsoft365/M365UsersRead"
+    }
+  ]
+}

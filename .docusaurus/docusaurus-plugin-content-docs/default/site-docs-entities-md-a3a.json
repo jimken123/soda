@@ -1,0 +1,28 @@
+{
+  "unversionedId": "entities",
+  "id": "entities",
+  "title": "Entities, the Data Type for Data Exchange",
+  "description": "Used to store/represent data in Sequence, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+  "source": "@site/docs/entities.md",
+  "sourceDirName": ".",
+  "slug": "/entities",
+  "permalink": "/docs/next/entities",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/entities.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Entities, the Data Type for Data Exchange",
+    "sidebar_label": "Entities",
+    "description": "Used to store/represent data in Sequence, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Sequence Configuration Language",
+    "permalink": "/docs/next/sequence-configuration-language"
+  },
+  "next": {
+    "title": "Schemas",
+    "permalink": "/docs/next/schemas"
+  }
+}

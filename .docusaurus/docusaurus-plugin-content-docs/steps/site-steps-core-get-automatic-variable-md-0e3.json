@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/GetAutomaticVariable",
+  "id": "Core/GetAutomaticVariable",
+  "title": "GetAutomaticVariable Step | Core SDK Documentation",
+  "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/GetAutomaticVariable.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/GetAutomaticVariable",
+  "permalink": "/steps/next/Core/GetAutomaticVariable",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/GetAutomaticVariable.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "GetAutomaticVariable Step | Core SDK Documentation",
+    "sidebar_label": "GetAutomaticVariable",
+    "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "GetApplicationVersion",
+    "permalink": "/steps/next/Core/GetApplicationVersion"
+  },
+  "next": {
+    "title": "GetConnectorInformation",
+    "permalink": "/steps/next/Core/GetConnectorInformation"
+  }
+}

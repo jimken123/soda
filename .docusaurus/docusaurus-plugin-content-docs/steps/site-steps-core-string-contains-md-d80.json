@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringContains",
+  "id": "Core/StringContains",
+  "title": "StringContains Step | Core SDK Documentation",
+  "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/StringContains.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringContains",
+  "permalink": "/steps/next/Core/StringContains",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringContains.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "StringContains Step | Core SDK Documentation",
+    "sidebar_label": "StringContains",
+    "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StringAppend",
+    "permalink": "/steps/next/Core/StringAppend"
+  },
+  "next": {
+    "title": "StringFind",
+    "permalink": "/steps/next/Core/StringFind"
+  }
+}

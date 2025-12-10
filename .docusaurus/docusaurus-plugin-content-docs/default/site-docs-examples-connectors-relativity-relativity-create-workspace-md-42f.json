@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/relativity/relativity-create-workspace",
+  "id": "examples/connectors/relativity/relativity-create-workspace",
+  "title": "Create Workspace | Sequence Connector for Relativity Examples",
+  "description": "This example will",
+  "source": "@site/docs/examples/connectors/relativity/relativity-create-workspace.md",
+  "sourceDirName": "examples/connectors/relativity",
+  "slug": "/examples/connectors/relativity/relativity-create-workspace",
+  "permalink": "/docs/next/examples/connectors/relativity/relativity-create-workspace",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/relativity/relativity-create-workspace.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create Workspace | Sequence Connector for Relativity Examples",
+    "sidebar_label": "Create Workspace"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Sequence Connector for Relativity",
+    "permalink": "/docs/next/examples/connectors/relativity/"
+  },
+  "next": {
+    "title": "End to End Example",
+    "permalink": "/docs/next/examples/connectors/relativity/relativity-end-to-end"
+  }
+}

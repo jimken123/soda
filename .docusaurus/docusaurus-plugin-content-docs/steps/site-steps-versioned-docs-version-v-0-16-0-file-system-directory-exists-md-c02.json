@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/DirectoryExists",
+  "id": "version-v0.16.0/FileSystem/DirectoryExists",
+  "title": "DirectoryExists Step | File System Connector Documentation",
+  "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/FileSystem/DirectoryExists.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/DirectoryExists",
+  "permalink": "/steps/v0.16.0/FileSystem/DirectoryExists",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/FileSystem/DirectoryExists.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/v0.16.0/tags/file-system"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "DirectoryExists Step | File System Connector Documentation",
+    "sidebar_label": "DirectoryExists",
+    "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DirectoryCreate",
+    "permalink": "/steps/v0.16.0/FileSystem/DirectoryCreate"
+  },
+  "next": {
+    "title": "DirectoryGetItems",
+    "permalink": "/steps/v0.16.0/FileSystem/DirectoryGetItems"
+  }
+}

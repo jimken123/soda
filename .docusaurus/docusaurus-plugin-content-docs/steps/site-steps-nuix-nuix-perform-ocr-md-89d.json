@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixPerformOCR",
+  "id": "Nuix/NuixPerformOCR",
+  "title": "NuixPerformOCR Step | Nuix Connector Documentation",
+  "description": "Performs optical character recognition on items in a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixPerformOCR.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixPerformOCR",
+  "permalink": "/steps/next/Nuix/NuixPerformOCR",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixPerformOCR.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixPerformOCR Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixPerformOCR",
+    "description": "Performs optical character recognition on items in a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixOpenConnection",
+    "permalink": "/steps/next/Nuix/NuixOpenConnection"
+  },
+  "next": {
+    "title": "NuixRemoveFromItemSet",
+    "permalink": "/steps/next/Nuix/NuixRemoveFromItemSet"
+  }
+}

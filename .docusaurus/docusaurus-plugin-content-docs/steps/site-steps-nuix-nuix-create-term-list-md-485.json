@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixCreateTermList",
+  "id": "Nuix/NuixCreateTermList",
+  "title": "NuixCreateTermList Step | Nuix Connector Documentation",
+  "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixCreateTermList.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixCreateTermList",
+  "permalink": "/steps/next/Nuix/NuixCreateTermList",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixCreateTermList.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixCreateTermList Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixCreateTermList",
+    "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixCreateReport",
+    "permalink": "/steps/next/Nuix/NuixCreateReport"
+  },
+  "next": {
+    "title": "NuixDoesCaseExist",
+    "permalink": "/steps/next/Nuix/NuixDoesCaseExist"
+  }
+}

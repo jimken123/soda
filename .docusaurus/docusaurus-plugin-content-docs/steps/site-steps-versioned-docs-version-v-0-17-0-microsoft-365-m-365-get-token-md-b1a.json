@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Microsoft365/M365GetToken",
+  "id": "version-v0.17.0/Microsoft365/M365GetToken",
+  "title": "M365GetToken Step | Microsoft365 Connector Documentation",
+  "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365/M365GetToken.md",
+  "sourceDirName": "Microsoft365",
+  "slug": "/Microsoft365/M365GetToken",
+  "permalink": "/steps/v0.17.0/Microsoft365/M365GetToken",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Microsoft365/M365GetToken.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.17.0/tags/step"
+    },
+    {
+      "label": "Microsoft365",
+      "permalink": "/steps/v0.17.0/tags/microsoft-365"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "M365GetToken Step | Microsoft365 Connector Documentation",
+    "sidebar_label": "M365GetToken",
+    "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Microsoft365"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "M365ChatsRead",
+    "permalink": "/steps/v0.17.0/Microsoft365/M365ChatsRead"
+  },
+  "next": {
+    "title": "M365Login",
+    "permalink": "/steps/v0.17.0/Microsoft365/M365Login"
+  }
+}

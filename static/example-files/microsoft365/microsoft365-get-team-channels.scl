@@ -1,0 +1,3 @@
+- m365login Token: 'abc'
+- <data> = M365ChannelsRead TeamName:'MyTeam' | map (<>.DisplayName)
+- log <names>

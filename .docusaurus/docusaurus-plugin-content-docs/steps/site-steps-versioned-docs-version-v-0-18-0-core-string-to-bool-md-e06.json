@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringToBool",
+  "id": "version-v0.18.0/Core/StringToBool",
+  "title": "StringToBool Step | Core SDK Documentation",
+  "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringToBool.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringToBool",
+  "permalink": "/steps/Core/StringToBool",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringToBool.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/tags/core"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "StringToBool Step | Core SDK Documentation",
+    "sidebar_label": "StringToBool",
+    "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StringSubstring",
+    "permalink": "/steps/Core/StringSubstring"
+  },
+  "next": {
+    "title": "StringToCase",
+    "permalink": "/steps/Core/StringToCase"
+  }
+}

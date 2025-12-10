@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/SizeUnit",
+  "id": "version-v0.18.0/Enums/SizeUnit",
+  "title": "SizeUnit | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/SizeUnit.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/SizeUnit",
+  "permalink": "/steps/Enums/SizeUnit",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/SizeUnit.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/tags/unit"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "SizeUnit | Enums",
+    "sidebar_label": "SizeUnit",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Severity",
+    "permalink": "/steps/Enums/Severity"
+  },
+  "next": {
+    "title": "SortEnum",
+    "permalink": "/steps/Enums/SortEnum"
+  }
+}

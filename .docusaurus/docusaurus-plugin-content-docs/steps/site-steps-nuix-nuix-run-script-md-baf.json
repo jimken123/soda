@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixRunScript",
+  "id": "Nuix/NuixRunScript",
+  "title": "NuixRunScript Step | Nuix Connector Documentation",
+  "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixRunScript.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixRunScript",
+  "permalink": "/steps/next/Nuix/NuixRunScript",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixRunScript.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixRunScript Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixRunScript",
+    "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixReorderProductionSet",
+    "permalink": "/steps/next/Nuix/NuixReorderProductionSet"
+  },
+  "next": {
+    "title": "NuixSearchAndExclude",
+    "permalink": "/steps/next/Nuix/NuixSearchAndExclude"
+  }
+}

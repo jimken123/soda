@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/SearchScope",
+  "id": "Enums/SearchScope",
+  "title": "SearchScope | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/SearchScope.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/SearchScope",
+  "permalink": "/steps/next/Enums/SearchScope",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/SearchScope.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "SearchScope | Enums",
+    "sidebar_label": "SearchScope",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "PrintPreviewState",
+    "permalink": "/steps/next/Enums/PrintPreviewState"
+  },
+  "next": {
+    "title": "SearchType",
+    "permalink": "/steps/next/Enums/SearchType"
+  }
+}

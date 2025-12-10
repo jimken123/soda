@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Tesseract/GetImageFormat",
+  "id": "Tesseract/GetImageFormat",
+  "title": "GetImageFormat Step | Tesseract OCR Connector Documentation",
+  "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Tesseract/GetImageFormat.md",
+  "sourceDirName": "Tesseract",
+  "slug": "/Tesseract/GetImageFormat",
+  "permalink": "/steps/next/Tesseract/GetImageFormat",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Tesseract/GetImageFormat.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Tesseract",
+      "permalink": "/steps/next/tags/tesseract"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "GetImageFormat Step | Tesseract OCR Connector Documentation",
+    "sidebar_label": "GetImageFormat",
+    "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Tesseract"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Tesseract",
+    "permalink": "/steps/next/Tesseract"
+  },
+  "next": {
+    "title": "TesseractOCR",
+    "permalink": "/steps/next/Tesseract/TesseractOCR"
+  }
+}

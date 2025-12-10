@@ -1,0 +1,43 @@
+{
+  "unversionedId": "TSK/AutopsyListDataSources",
+  "id": "version-v0.18.0/TSK/AutopsyListDataSources",
+  "title": "AutopsyListDataSources Step | TSK Connector Documentation",
+  "description": "List all Data Sources in an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/TSK/AutopsyListDataSources.md",
+  "sourceDirName": "TSK",
+  "slug": "/TSK/AutopsyListDataSources",
+  "permalink": "/steps/TSK/AutopsyListDataSources",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/TSK/AutopsyListDataSources.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "TSK",
+      "permalink": "/steps/tags/tsk"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "AutopsyListDataSources Step | TSK Connector Documentation",
+    "sidebar_label": "AutopsyListDataSources",
+    "description": "List all Data Sources in an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "TSK"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "AutopsyGenerateReports",
+    "permalink": "/steps/TSK/AutopsyGenerateReports"
+  },
+  "next": {
+    "title": "Tesseract",
+    "permalink": "/steps/Tesseract"
+  }
+}

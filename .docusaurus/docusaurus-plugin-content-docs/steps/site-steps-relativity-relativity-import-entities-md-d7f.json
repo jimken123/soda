@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityImportEntities",
+  "id": "Relativity/RelativityImportEntities",
+  "title": "RelativityImportEntities Step | Sequence Connector for Relativity Documentation",
+  "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityImportEntities.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityImportEntities",
+  "permalink": "/steps/next/Relativity/RelativityImportEntities",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityImportEntities.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityImportEntities Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityImportEntities",
+    "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityImport",
+    "permalink": "/steps/next/Relativity/RelativityImport"
+  },
+  "next": {
+    "title": "RelativityMoveFolder",
+    "permalink": "/steps/next/Relativity/RelativityMoveFolder"
+  }
+}

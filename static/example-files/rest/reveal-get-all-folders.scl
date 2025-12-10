@@ -1,0 +1,13 @@
+- <username> = 'username'
+- <password> = 'password'
+
+- <caseId> = '159'
+
+- <session> = Reveal_Login_Get username: <username> password: <password> 
+- <userId> = <session>["UserId"]
+- log $"UserId: {<userId>}" 
+- <LoginSessionId> = <session>["LoginSessionId"]
+
+- <rootFolder> = Reveal_WorkFolder_GetRootFolder caseId: <caseId> InControlAuthToken: <LoginSessionId> userId: <userId>
+- <subFolders> = Reveal_WorkFolder_GetSubFolders caseId: <caseId> InControlAuthToken: <LoginSessionId> 
+- log <subFolders>

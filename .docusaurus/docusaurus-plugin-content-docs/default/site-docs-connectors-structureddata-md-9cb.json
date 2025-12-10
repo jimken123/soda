@@ -1,0 +1,26 @@
+{
+  "unversionedId": "connectors/structureddata",
+  "id": "connectors/structureddata",
+  "title": "Structured Data Connector",
+  "description": "Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+  "source": "@site/docs/connectors/structureddata.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/structureddata",
+  "permalink": "/docs/next/connectors/structureddata",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/connectors/structureddata.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "SQL Connector",
+    "permalink": "/docs/next/connectors/sql"
+  },
+  "next": {
+    "title": "Tesseract Connector",
+    "permalink": "/docs/next/connectors/tesseract"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixReorderProductionSet",
+  "id": "Nuix/NuixReorderProductionSet",
+  "title": "NuixReorderProductionSet Step | Nuix Connector Documentation",
+  "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixReorderProductionSet.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixReorderProductionSet",
+  "permalink": "/steps/next/Nuix/NuixReorderProductionSet",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixReorderProductionSet.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixReorderProductionSet Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixReorderProductionSet",
+    "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixRemoveFromProductionSet",
+    "permalink": "/steps/next/Nuix/NuixRemoveFromProductionSet"
+  },
+  "next": {
+    "title": "NuixRunScript",
+    "permalink": "/steps/next/Nuix/NuixRunScript"
+  }
+}

@@ -1,0 +1,3240 @@
+{
+  "pluginId": "steps",
+  "version": "current",
+  "label": "v0.19.0-alpha 🚧",
+  "banner": "unreleased",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": false,
+  "docsSidebars": {
+    "steps": [
+      {
+        "type": "link",
+        "label": "All Sequence Steps",
+        "href": "/steps/next/all",
+        "docId": "all"
+      },
+      {
+        "type": "category",
+        "label": "Core",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "And",
+            "href": "/steps/next/Core/And",
+            "docId": "Core/And"
+          },
+          {
+            "type": "link",
+            "label": "ArrayConcat",
+            "href": "/steps/next/Core/ArrayConcat",
+            "docId": "Core/ArrayConcat"
+          },
+          {
+            "type": "link",
+            "label": "ArrayDistinct",
+            "href": "/steps/next/Core/ArrayDistinct",
+            "docId": "Core/ArrayDistinct"
+          },
+          {
+            "type": "link",
+            "label": "ArrayElementAtIndex",
+            "href": "/steps/next/Core/ArrayElementAtIndex",
+            "docId": "Core/ArrayElementAtIndex"
+          },
+          {
+            "type": "link",
+            "label": "ArrayFilter",
+            "href": "/steps/next/Core/ArrayFilter",
+            "docId": "Core/ArrayFilter"
+          },
+          {
+            "type": "link",
+            "label": "ArrayFind",
+            "href": "/steps/next/Core/ArrayFind",
+            "docId": "Core/ArrayFind"
+          },
+          {
+            "type": "link",
+            "label": "ArrayFirst",
+            "href": "/steps/next/Core/ArrayFirst",
+            "docId": "Core/ArrayFirst"
+          },
+          {
+            "type": "link",
+            "label": "ArrayGroupBy",
+            "href": "/steps/next/Core/ArrayGroupBy",
+            "docId": "Core/ArrayGroupBy"
+          },
+          {
+            "type": "link",
+            "label": "ArrayIsEmpty",
+            "href": "/steps/next/Core/ArrayIsEmpty",
+            "docId": "Core/ArrayIsEmpty"
+          },
+          {
+            "type": "link",
+            "label": "ArrayLast",
+            "href": "/steps/next/Core/ArrayLast",
+            "docId": "Core/ArrayLast"
+          },
+          {
+            "type": "link",
+            "label": "ArrayLength",
+            "href": "/steps/next/Core/ArrayLength",
+            "docId": "Core/ArrayLength"
+          },
+          {
+            "type": "link",
+            "label": "ArrayMap",
+            "href": "/steps/next/Core/ArrayMap",
+            "docId": "Core/ArrayMap"
+          },
+          {
+            "type": "link",
+            "label": "ArrayNew",
+            "href": "/steps/next/Core/ArrayNew",
+            "docId": "Core/ArrayNew"
+          },
+          {
+            "type": "link",
+            "label": "ArrayReverse",
+            "href": "/steps/next/Core/ArrayReverse",
+            "docId": "Core/ArrayReverse"
+          },
+          {
+            "type": "link",
+            "label": "ArraySkip",
+            "href": "/steps/next/Core/ArraySkip",
+            "docId": "Core/ArraySkip"
+          },
+          {
+            "type": "link",
+            "label": "ArraySort",
+            "href": "/steps/next/Core/ArraySort",
+            "docId": "Core/ArraySort"
+          },
+          {
+            "type": "link",
+            "label": "ArrayTake",
+            "href": "/steps/next/Core/ArrayTake",
+            "docId": "Core/ArrayTake"
+          },
+          {
+            "type": "link",
+            "label": "AssertEqual",
+            "href": "/steps/next/Core/AssertEqual",
+            "docId": "Core/AssertEqual"
+          },
+          {
+            "type": "link",
+            "label": "AssertError",
+            "href": "/steps/next/Core/AssertError",
+            "docId": "Core/AssertError"
+          },
+          {
+            "type": "link",
+            "label": "AssertTrue",
+            "href": "/steps/next/Core/AssertTrue",
+            "docId": "Core/AssertTrue"
+          },
+          {
+            "type": "link",
+            "label": "CharAtIndex",
+            "href": "/steps/next/Core/CharAtIndex",
+            "docId": "Core/CharAtIndex"
+          },
+          {
+            "type": "link",
+            "label": "Clone",
+            "href": "/steps/next/Core/Clone",
+            "docId": "Core/Clone"
+          },
+          {
+            "type": "link",
+            "label": "ConvertSizeUnits",
+            "href": "/steps/next/Core/ConvertSizeUnits",
+            "docId": "Core/ConvertSizeUnits"
+          },
+          {
+            "type": "link",
+            "label": "DateToString",
+            "href": "/steps/next/Core/DateToString",
+            "docId": "Core/DateToString"
+          },
+          {
+            "type": "link",
+            "label": "Delay",
+            "href": "/steps/next/Core/Delay",
+            "docId": "Core/Delay"
+          },
+          {
+            "type": "link",
+            "label": "Divide",
+            "href": "/steps/next/Core/Divide",
+            "docId": "Core/Divide"
+          },
+          {
+            "type": "link",
+            "label": "DoNothing",
+            "href": "/steps/next/Core/DoNothing",
+            "docId": "Core/DoNothing"
+          },
+          {
+            "type": "link",
+            "label": "DocumentationCreate",
+            "href": "/steps/next/Core/DocumentationCreate",
+            "docId": "Core/DocumentationCreate"
+          },
+          {
+            "type": "link",
+            "label": "DoubleDivide",
+            "href": "/steps/next/Core/DoubleDivide",
+            "docId": "Core/DoubleDivide"
+          },
+          {
+            "type": "link",
+            "label": "DoublePower",
+            "href": "/steps/next/Core/DoublePower",
+            "docId": "Core/DoublePower"
+          },
+          {
+            "type": "link",
+            "label": "DoubleProduct",
+            "href": "/steps/next/Core/DoubleProduct",
+            "docId": "Core/DoubleProduct"
+          },
+          {
+            "type": "link",
+            "label": "DoubleSubtract",
+            "href": "/steps/next/Core/DoubleSubtract",
+            "docId": "Core/DoubleSubtract"
+          },
+          {
+            "type": "link",
+            "label": "DoubleSum",
+            "href": "/steps/next/Core/DoubleSum",
+            "docId": "Core/DoubleSum"
+          },
+          {
+            "type": "link",
+            "label": "EntityCombine",
+            "href": "/steps/next/Core/EntityCombine",
+            "docId": "Core/EntityCombine"
+          },
+          {
+            "type": "link",
+            "label": "EntityFlatten",
+            "href": "/steps/next/Core/EntityFlatten",
+            "docId": "Core/EntityFlatten"
+          },
+          {
+            "type": "link",
+            "label": "EntityFormat",
+            "href": "/steps/next/Core/EntityFormat",
+            "docId": "Core/EntityFormat"
+          },
+          {
+            "type": "link",
+            "label": "EntityGetProperties",
+            "href": "/steps/next/Core/EntityGetProperties",
+            "docId": "Core/EntityGetProperties"
+          },
+          {
+            "type": "link",
+            "label": "EntityGetValue",
+            "href": "/steps/next/Core/EntityGetValue",
+            "docId": "Core/EntityGetValue"
+          },
+          {
+            "type": "link",
+            "label": "EntityHasProperty",
+            "href": "/steps/next/Core/EntityHasProperty",
+            "docId": "Core/EntityHasProperty"
+          },
+          {
+            "type": "link",
+            "label": "EntityMapProperties",
+            "href": "/steps/next/Core/EntityMapProperties",
+            "docId": "Core/EntityMapProperties"
+          },
+          {
+            "type": "link",
+            "label": "EntityRemoveProperty",
+            "href": "/steps/next/Core/EntityRemoveProperty",
+            "docId": "Core/EntityRemoveProperty"
+          },
+          {
+            "type": "link",
+            "label": "EntitySetValue",
+            "href": "/steps/next/Core/EntitySetValue",
+            "docId": "Core/EntitySetValue"
+          },
+          {
+            "type": "link",
+            "label": "EntityValidateRelations",
+            "href": "/steps/next/Core/EntityValidateRelations",
+            "docId": "Core/EntityValidateRelations"
+          },
+          {
+            "type": "link",
+            "label": "Equals",
+            "href": "/steps/next/Core/Equals",
+            "docId": "Core/Equals"
+          },
+          {
+            "type": "link",
+            "label": "For",
+            "href": "/steps/next/Core/For",
+            "docId": "Core/For"
+          },
+          {
+            "type": "link",
+            "label": "ForEach",
+            "href": "/steps/next/Core/ForEach",
+            "docId": "Core/ForEach"
+          },
+          {
+            "type": "link",
+            "label": "GetApplicationVersion",
+            "href": "/steps/next/Core/GetApplicationVersion",
+            "docId": "Core/GetApplicationVersion"
+          },
+          {
+            "type": "link",
+            "label": "GetAutomaticVariable",
+            "href": "/steps/next/Core/GetAutomaticVariable",
+            "docId": "Core/GetAutomaticVariable"
+          },
+          {
+            "type": "link",
+            "label": "GetConnectorInformation",
+            "href": "/steps/next/Core/GetConnectorInformation",
+            "docId": "Core/GetConnectorInformation"
+          },
+          {
+            "type": "link",
+            "label": "GetSettings",
+            "href": "/steps/next/Core/GetSettings",
+            "docId": "Core/GetSettings"
+          },
+          {
+            "type": "link",
+            "label": "GetVariable",
+            "href": "/steps/next/Core/GetVariable",
+            "docId": "Core/GetVariable"
+          },
+          {
+            "type": "link",
+            "label": "GreaterThan",
+            "href": "/steps/next/Core/GreaterThan",
+            "docId": "Core/GreaterThan"
+          },
+          {
+            "type": "link",
+            "label": "GreaterThanOrEqual",
+            "href": "/steps/next/Core/GreaterThanOrEqual",
+            "docId": "Core/GreaterThanOrEqual"
+          },
+          {
+            "type": "link",
+            "label": "Hash",
+            "href": "/steps/next/Core/Hash",
+            "docId": "Core/Hash"
+          },
+          {
+            "type": "link",
+            "label": "HttpRequest",
+            "href": "/steps/next/Core/HttpRequest",
+            "docId": "Core/HttpRequest"
+          },
+          {
+            "type": "link",
+            "label": "If",
+            "href": "/steps/next/Core/If",
+            "docId": "Core/If"
+          },
+          {
+            "type": "link",
+            "label": "IncrementVariable",
+            "href": "/steps/next/Core/IncrementVariable",
+            "docId": "Core/IncrementVariable"
+          },
+          {
+            "type": "link",
+            "label": "IsNull",
+            "href": "/steps/next/Core/IsNull",
+            "docId": "Core/IsNull"
+          },
+          {
+            "type": "link",
+            "label": "LessThan",
+            "href": "/steps/next/Core/LessThan",
+            "docId": "Core/LessThan"
+          },
+          {
+            "type": "link",
+            "label": "LessThanOrEqual",
+            "href": "/steps/next/Core/LessThanOrEqual",
+            "docId": "Core/LessThanOrEqual"
+          },
+          {
+            "type": "link",
+            "label": "Log",
+            "href": "/steps/next/Core/Log",
+            "docId": "Core/Log"
+          },
+          {
+            "type": "link",
+            "label": "Modulo",
+            "href": "/steps/next/Core/Modulo",
+            "docId": "Core/Modulo"
+          },
+          {
+            "type": "link",
+            "label": "Not",
+            "href": "/steps/next/Core/Not",
+            "docId": "Core/Not"
+          },
+          {
+            "type": "link",
+            "label": "NotEquals",
+            "href": "/steps/next/Core/NotEquals",
+            "docId": "Core/NotEquals"
+          },
+          {
+            "type": "link",
+            "label": "Or",
+            "href": "/steps/next/Core/Or",
+            "docId": "Core/Or"
+          },
+          {
+            "type": "link",
+            "label": "Power",
+            "href": "/steps/next/Core/Power",
+            "docId": "Core/Power"
+          },
+          {
+            "type": "link",
+            "label": "Print",
+            "href": "/steps/next/Core/Print",
+            "docId": "Core/Print"
+          },
+          {
+            "type": "link",
+            "label": "Product",
+            "href": "/steps/next/Core/Product",
+            "docId": "Core/Product"
+          },
+          {
+            "type": "link",
+            "label": "Repeat",
+            "href": "/steps/next/Core/Repeat",
+            "docId": "Core/Repeat"
+          },
+          {
+            "type": "link",
+            "label": "Round",
+            "href": "/steps/next/Core/Round",
+            "docId": "Core/Round"
+          },
+          {
+            "type": "link",
+            "label": "RunExternalProcess",
+            "href": "/steps/next/Core/RunExternalProcess",
+            "docId": "Core/RunExternalProcess"
+          },
+          {
+            "type": "link",
+            "label": "RunSCL",
+            "href": "/steps/next/Core/RunSCL",
+            "docId": "Core/RunSCL"
+          },
+          {
+            "type": "link",
+            "label": "RunStep",
+            "href": "/steps/next/Core/RunStep",
+            "docId": "Core/RunStep"
+          },
+          {
+            "type": "link",
+            "label": "SchemaCreate",
+            "href": "/steps/next/Core/SchemaCreate",
+            "docId": "Core/SchemaCreate"
+          },
+          {
+            "type": "link",
+            "label": "SchemaCreateCoerced",
+            "href": "/steps/next/Core/SchemaCreateCoerced",
+            "docId": "Core/SchemaCreateCoerced"
+          },
+          {
+            "type": "link",
+            "label": "Sequence",
+            "href": "/steps/next/Core/Sequence",
+            "docId": "Core/Sequence"
+          },
+          {
+            "type": "link",
+            "label": "SetVariable",
+            "href": "/steps/next/Core/SetVariable",
+            "docId": "Core/SetVariable"
+          },
+          {
+            "type": "link",
+            "label": "StandardErrorWrite",
+            "href": "/steps/next/Core/StandardErrorWrite",
+            "docId": "Core/StandardErrorWrite"
+          },
+          {
+            "type": "link",
+            "label": "StandardInRead",
+            "href": "/steps/next/Core/StandardInRead",
+            "docId": "Core/StandardInRead"
+          },
+          {
+            "type": "link",
+            "label": "StandardOutWrite",
+            "href": "/steps/next/Core/StandardOutWrite",
+            "docId": "Core/StandardOutWrite"
+          },
+          {
+            "type": "link",
+            "label": "StringAppend",
+            "href": "/steps/next/Core/StringAppend",
+            "docId": "Core/StringAppend"
+          },
+          {
+            "type": "link",
+            "label": "StringContains",
+            "href": "/steps/next/Core/StringContains",
+            "docId": "Core/StringContains"
+          },
+          {
+            "type": "link",
+            "label": "StringFind",
+            "href": "/steps/next/Core/StringFind",
+            "docId": "Core/StringFind"
+          },
+          {
+            "type": "link",
+            "label": "StringFindLast",
+            "href": "/steps/next/Core/StringFindLast",
+            "docId": "Core/StringFindLast"
+          },
+          {
+            "type": "link",
+            "label": "StringInterpolate",
+            "href": "/steps/next/Core/StringInterpolate",
+            "docId": "Core/StringInterpolate"
+          },
+          {
+            "type": "link",
+            "label": "StringIsEmpty",
+            "href": "/steps/next/Core/StringIsEmpty",
+            "docId": "Core/StringIsEmpty"
+          },
+          {
+            "type": "link",
+            "label": "StringJoin",
+            "href": "/steps/next/Core/StringJoin",
+            "docId": "Core/StringJoin"
+          },
+          {
+            "type": "link",
+            "label": "StringLength",
+            "href": "/steps/next/Core/StringLength",
+            "docId": "Core/StringLength"
+          },
+          {
+            "type": "link",
+            "label": "StringMatch",
+            "href": "/steps/next/Core/StringMatch",
+            "docId": "Core/StringMatch"
+          },
+          {
+            "type": "link",
+            "label": "StringReplace",
+            "href": "/steps/next/Core/StringReplace",
+            "docId": "Core/StringReplace"
+          },
+          {
+            "type": "link",
+            "label": "StringSplit",
+            "href": "/steps/next/Core/StringSplit",
+            "docId": "Core/StringSplit"
+          },
+          {
+            "type": "link",
+            "label": "StringSubstring",
+            "href": "/steps/next/Core/StringSubstring",
+            "docId": "Core/StringSubstring"
+          },
+          {
+            "type": "link",
+            "label": "StringToBool",
+            "href": "/steps/next/Core/StringToBool",
+            "docId": "Core/StringToBool"
+          },
+          {
+            "type": "link",
+            "label": "StringToCase",
+            "href": "/steps/next/Core/StringToCase",
+            "docId": "Core/StringToCase"
+          },
+          {
+            "type": "link",
+            "label": "StringToDate",
+            "href": "/steps/next/Core/StringToDate",
+            "docId": "Core/StringToDate"
+          },
+          {
+            "type": "link",
+            "label": "StringToDouble",
+            "href": "/steps/next/Core/StringToDouble",
+            "docId": "Core/StringToDouble"
+          },
+          {
+            "type": "link",
+            "label": "StringToInt",
+            "href": "/steps/next/Core/StringToInt",
+            "docId": "Core/StringToInt"
+          },
+          {
+            "type": "link",
+            "label": "StringTrim",
+            "href": "/steps/next/Core/StringTrim",
+            "docId": "Core/StringTrim"
+          },
+          {
+            "type": "link",
+            "label": "Subtract",
+            "href": "/steps/next/Core/Subtract",
+            "docId": "Core/Subtract"
+          },
+          {
+            "type": "link",
+            "label": "Sum",
+            "href": "/steps/next/Core/Sum",
+            "docId": "Core/Sum"
+          },
+          {
+            "type": "link",
+            "label": "Transform",
+            "href": "/steps/next/Core/Transform",
+            "docId": "Core/Transform"
+          },
+          {
+            "type": "link",
+            "label": "Try",
+            "href": "/steps/next/Core/Try",
+            "docId": "Core/Try"
+          },
+          {
+            "type": "link",
+            "label": "Validate",
+            "href": "/steps/next/Core/Validate",
+            "docId": "Core/Validate"
+          },
+          {
+            "type": "link",
+            "label": "While",
+            "href": "/steps/next/Core/While",
+            "docId": "Core/While"
+          }
+        ],
+        "href": "/steps/next/Core"
+      },
+      {
+        "type": "category",
+        "label": "Enums",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "ArtifactType",
+            "href": "/steps/next/Enums/ArtifactType",
+            "docId": "Enums/ArtifactType"
+          },
+          {
+            "type": "link",
+            "label": "AutopsyCaseType",
+            "href": "/steps/next/Enums/AutopsyCaseType",
+            "docId": "Enums/AutopsyCaseType"
+          },
+          {
+            "type": "link",
+            "label": "DeduplicateBy",
+            "href": "/steps/next/Enums/DeduplicateBy",
+            "docId": "Enums/DeduplicateBy"
+          },
+          {
+            "type": "link",
+            "label": "EncodingEnum",
+            "href": "/steps/next/Enums/EncodingEnum",
+            "docId": "Enums/EncodingEnum"
+          },
+          {
+            "type": "link",
+            "label": "ErrorBehavior",
+            "href": "/steps/next/Enums/ErrorBehavior",
+            "docId": "Enums/ErrorBehavior"
+          },
+          {
+            "type": "link",
+            "label": "ExportDeduplication",
+            "href": "/steps/next/Enums/ExportDeduplication",
+            "docId": "Enums/ExportDeduplication"
+          },
+          {
+            "type": "link",
+            "label": "ExportSortOrder",
+            "href": "/steps/next/Enums/ExportSortOrder",
+            "docId": "Enums/ExportSortOrder"
+          },
+          {
+            "type": "link",
+            "label": "ExportTraversalStrategy",
+            "href": "/steps/next/Enums/ExportTraversalStrategy",
+            "docId": "Enums/ExportTraversalStrategy"
+          },
+          {
+            "type": "link",
+            "label": "FileImportType",
+            "href": "/steps/next/Enums/FileImportType",
+            "docId": "Enums/FileImportType"
+          },
+          {
+            "type": "link",
+            "label": "HashAlgorithm",
+            "href": "/steps/next/Enums/HashAlgorithm",
+            "docId": "Enums/HashAlgorithm"
+          },
+          {
+            "type": "link",
+            "label": "ImageFormat",
+            "href": "/steps/next/Enums/ImageFormat",
+            "docId": "Enums/ImageFormat"
+          },
+          {
+            "type": "link",
+            "label": "ItemSetDeduplication",
+            "href": "/steps/next/Enums/ItemSetDeduplication",
+            "docId": "Enums/ItemSetDeduplication"
+          },
+          {
+            "type": "link",
+            "label": "ItemSortOrder",
+            "href": "/steps/next/Enums/ItemSortOrder",
+            "docId": "Enums/ItemSortOrder"
+          },
+          {
+            "type": "link",
+            "label": "LoadFileType",
+            "href": "/steps/next/Enums/LoadFileType",
+            "docId": "Enums/LoadFileType"
+          },
+          {
+            "type": "link",
+            "label": "MatterStatus",
+            "href": "/steps/next/Enums/MatterStatus",
+            "docId": "Enums/MatterStatus"
+          },
+          {
+            "type": "link",
+            "label": "PrintPreviewState",
+            "href": "/steps/next/Enums/PrintPreviewState",
+            "docId": "Enums/PrintPreviewState"
+          },
+          {
+            "type": "link",
+            "label": "SearchScope",
+            "href": "/steps/next/Enums/SearchScope",
+            "docId": "Enums/SearchScope"
+          },
+          {
+            "type": "link",
+            "label": "SearchType",
+            "href": "/steps/next/Enums/SearchType",
+            "docId": "Enums/SearchType"
+          },
+          {
+            "type": "link",
+            "label": "Severity",
+            "href": "/steps/next/Enums/Severity",
+            "docId": "Enums/Severity"
+          },
+          {
+            "type": "link",
+            "label": "SizeUnit",
+            "href": "/steps/next/Enums/SizeUnit",
+            "docId": "Enums/SizeUnit"
+          },
+          {
+            "type": "link",
+            "label": "SortEnum",
+            "href": "/steps/next/Enums/SortEnum",
+            "docId": "Enums/SortEnum"
+          },
+          {
+            "type": "link",
+            "label": "SortOrder",
+            "href": "/steps/next/Enums/SortOrder",
+            "docId": "Enums/SortOrder"
+          },
+          {
+            "type": "link",
+            "label": "TextCase",
+            "href": "/steps/next/Enums/TextCase",
+            "docId": "Enums/TextCase"
+          },
+          {
+            "type": "link",
+            "label": "TrimSide",
+            "href": "/steps/next/Enums/TrimSide",
+            "docId": "Enums/TrimSide"
+          },
+          {
+            "type": "link",
+            "label": "UpdateBehaviour",
+            "href": "/steps/next/Enums/UpdateBehaviour",
+            "docId": "Enums/UpdateBehaviour"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "FileSystem",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "DeleteItem",
+            "href": "/steps/next/FileSystem/DeleteItem",
+            "docId": "FileSystem/DeleteItem"
+          },
+          {
+            "type": "link",
+            "label": "DirectoryCopy",
+            "href": "/steps/next/FileSystem/DirectoryCopy",
+            "docId": "FileSystem/DirectoryCopy"
+          },
+          {
+            "type": "link",
+            "label": "DirectoryCreate",
+            "href": "/steps/next/FileSystem/DirectoryCreate",
+            "docId": "FileSystem/DirectoryCreate"
+          },
+          {
+            "type": "link",
+            "label": "DirectoryExists",
+            "href": "/steps/next/FileSystem/DirectoryExists",
+            "docId": "FileSystem/DirectoryExists"
+          },
+          {
+            "type": "link",
+            "label": "DirectoryGetItems",
+            "href": "/steps/next/FileSystem/DirectoryGetItems",
+            "docId": "FileSystem/DirectoryGetItems"
+          },
+          {
+            "type": "link",
+            "label": "DirectoryMove",
+            "href": "/steps/next/FileSystem/DirectoryMove",
+            "docId": "FileSystem/DirectoryMove"
+          },
+          {
+            "type": "link",
+            "label": "FileCopy",
+            "href": "/steps/next/FileSystem/FileCopy",
+            "docId": "FileSystem/FileCopy"
+          },
+          {
+            "type": "link",
+            "label": "FileExists",
+            "href": "/steps/next/FileSystem/FileExists",
+            "docId": "FileSystem/FileExists"
+          },
+          {
+            "type": "link",
+            "label": "FileExtract",
+            "href": "/steps/next/FileSystem/FileExtract",
+            "docId": "FileSystem/FileExtract"
+          },
+          {
+            "type": "link",
+            "label": "FileMove",
+            "href": "/steps/next/FileSystem/FileMove",
+            "docId": "FileSystem/FileMove"
+          },
+          {
+            "type": "link",
+            "label": "FileRead",
+            "href": "/steps/next/FileSystem/FileRead",
+            "docId": "FileSystem/FileRead"
+          },
+          {
+            "type": "link",
+            "label": "FileWrite",
+            "href": "/steps/next/FileSystem/FileWrite",
+            "docId": "FileSystem/FileWrite"
+          },
+          {
+            "type": "link",
+            "label": "PathCombine",
+            "href": "/steps/next/FileSystem/PathCombine",
+            "docId": "FileSystem/PathCombine"
+          }
+        ],
+        "href": "/steps/next/FileSystem"
+      },
+      {
+        "type": "category",
+        "label": "Microsoft365",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "M365ChannelMessagesRead",
+            "href": "/steps/next/Microsoft365/M365ChannelMessagesRead",
+            "docId": "Microsoft365/M365ChannelMessagesRead"
+          },
+          {
+            "type": "link",
+            "label": "M365ChannelsRead",
+            "href": "/steps/next/Microsoft365/M365ChannelsRead",
+            "docId": "Microsoft365/M365ChannelsRead"
+          },
+          {
+            "type": "link",
+            "label": "M365ChatsRead",
+            "href": "/steps/next/Microsoft365/M365ChatsRead",
+            "docId": "Microsoft365/M365ChatsRead"
+          },
+          {
+            "type": "link",
+            "label": "M365GetToken",
+            "href": "/steps/next/Microsoft365/M365GetToken",
+            "docId": "Microsoft365/M365GetToken"
+          },
+          {
+            "type": "link",
+            "label": "M365Login",
+            "href": "/steps/next/Microsoft365/M365Login",
+            "docId": "Microsoft365/M365Login"
+          },
+          {
+            "type": "link",
+            "label": "M365MailRead",
+            "href": "/steps/next/Microsoft365/M365MailRead",
+            "docId": "Microsoft365/M365MailRead"
+          },
+          {
+            "type": "link",
+            "label": "M365TeamsRead",
+            "href": "/steps/next/Microsoft365/M365TeamsRead",
+            "docId": "Microsoft365/M365TeamsRead"
+          },
+          {
+            "type": "link",
+            "label": "M365UsersRead",
+            "href": "/steps/next/Microsoft365/M365UsersRead",
+            "docId": "Microsoft365/M365UsersRead"
+          }
+        ],
+        "href": "/steps/next/Microsoft365"
+      },
+      {
+        "type": "category",
+        "label": "Nuix",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "NuixAddConcordance",
+            "href": "/steps/next/Nuix/NuixAddConcordance",
+            "docId": "Nuix/NuixAddConcordance"
+          },
+          {
+            "type": "link",
+            "label": "NuixAddItem",
+            "href": "/steps/next/Nuix/NuixAddItem",
+            "docId": "Nuix/NuixAddItem"
+          },
+          {
+            "type": "link",
+            "label": "NuixAddToItemSet",
+            "href": "/steps/next/Nuix/NuixAddToItemSet",
+            "docId": "Nuix/NuixAddToItemSet"
+          },
+          {
+            "type": "link",
+            "label": "NuixAddToProductionSet",
+            "href": "/steps/next/Nuix/NuixAddToProductionSet",
+            "docId": "Nuix/NuixAddToProductionSet"
+          },
+          {
+            "type": "link",
+            "label": "NuixAnnotateDocumentIdList",
+            "href": "/steps/next/Nuix/NuixAnnotateDocumentIdList",
+            "docId": "Nuix/NuixAnnotateDocumentIdList"
+          },
+          {
+            "type": "link",
+            "label": "NuixAssertPrintPreviewState",
+            "href": "/steps/next/Nuix/NuixAssertPrintPreviewState",
+            "docId": "Nuix/NuixAssertPrintPreviewState"
+          },
+          {
+            "type": "link",
+            "label": "NuixAssignCustodian",
+            "href": "/steps/next/Nuix/NuixAssignCustodian",
+            "docId": "Nuix/NuixAssignCustodian"
+          },
+          {
+            "type": "link",
+            "label": "NuixCloseConnection",
+            "href": "/steps/next/Nuix/NuixCloseConnection",
+            "docId": "Nuix/NuixCloseConnection"
+          },
+          {
+            "type": "link",
+            "label": "NuixCountItems",
+            "href": "/steps/next/Nuix/NuixCountItems",
+            "docId": "Nuix/NuixCountItems"
+          },
+          {
+            "type": "link",
+            "label": "NuixCreateCase",
+            "href": "/steps/next/Nuix/NuixCreateCase",
+            "docId": "Nuix/NuixCreateCase"
+          },
+          {
+            "type": "link",
+            "label": "NuixCreateIrregularItemsReport",
+            "href": "/steps/next/Nuix/NuixCreateIrregularItemsReport",
+            "docId": "Nuix/NuixCreateIrregularItemsReport"
+          },
+          {
+            "type": "link",
+            "label": "NuixCreateNRTReport",
+            "href": "/steps/next/Nuix/NuixCreateNRTReport",
+            "docId": "Nuix/NuixCreateNRTReport"
+          },
+          {
+            "type": "link",
+            "label": "NuixCreateReport",
+            "href": "/steps/next/Nuix/NuixCreateReport",
+            "docId": "Nuix/NuixCreateReport"
+          },
+          {
+            "type": "link",
+            "label": "NuixCreateTermList",
+            "href": "/steps/next/Nuix/NuixCreateTermList",
+            "docId": "Nuix/NuixCreateTermList"
+          },
+          {
+            "type": "link",
+            "label": "NuixDoesCaseExist",
+            "href": "/steps/next/Nuix/NuixDoesCaseExist",
+            "docId": "Nuix/NuixDoesCaseExist"
+          },
+          {
+            "type": "link",
+            "label": "NuixExcludeDecryptedItems",
+            "href": "/steps/next/Nuix/NuixExcludeDecryptedItems",
+            "docId": "Nuix/NuixExcludeDecryptedItems"
+          },
+          {
+            "type": "link",
+            "label": "NuixExportConcordance",
+            "href": "/steps/next/Nuix/NuixExportConcordance",
+            "docId": "Nuix/NuixExportConcordance"
+          },
+          {
+            "type": "link",
+            "label": "NuixExtractEntities",
+            "href": "/steps/next/Nuix/NuixExtractEntities",
+            "docId": "Nuix/NuixExtractEntities"
+          },
+          {
+            "type": "link",
+            "label": "NuixGeneratePrintPreviews",
+            "href": "/steps/next/Nuix/NuixGeneratePrintPreviews",
+            "docId": "Nuix/NuixGeneratePrintPreviews"
+          },
+          {
+            "type": "link",
+            "label": "NuixGetAuditedSize",
+            "href": "/steps/next/Nuix/NuixGetAuditedSize",
+            "docId": "Nuix/NuixGetAuditedSize"
+          },
+          {
+            "type": "link",
+            "label": "NuixGetCaseDetails",
+            "href": "/steps/next/Nuix/NuixGetCaseDetails",
+            "docId": "Nuix/NuixGetCaseDetails"
+          },
+          {
+            "type": "link",
+            "label": "NuixGetItemProperties",
+            "href": "/steps/next/Nuix/NuixGetItemProperties",
+            "docId": "Nuix/NuixGetItemProperties"
+          },
+          {
+            "type": "link",
+            "label": "NuixGetLicenseDetails",
+            "href": "/steps/next/Nuix/NuixGetLicenseDetails",
+            "docId": "Nuix/NuixGetLicenseDetails"
+          },
+          {
+            "type": "link",
+            "label": "NuixGetVersion",
+            "href": "/steps/next/Nuix/NuixGetVersion",
+            "docId": "Nuix/NuixGetVersion"
+          },
+          {
+            "type": "link",
+            "label": "NuixImportDocumentIds",
+            "href": "/steps/next/Nuix/NuixImportDocumentIds",
+            "docId": "Nuix/NuixImportDocumentIds"
+          },
+          {
+            "type": "link",
+            "label": "NuixMigrateCase",
+            "href": "/steps/next/Nuix/NuixMigrateCase",
+            "docId": "Nuix/NuixMigrateCase"
+          },
+          {
+            "type": "link",
+            "label": "NuixOpenCase",
+            "href": "/steps/next/Nuix/NuixOpenCase",
+            "docId": "Nuix/NuixOpenCase"
+          },
+          {
+            "type": "link",
+            "label": "NuixOpenConnection",
+            "href": "/steps/next/Nuix/NuixOpenConnection",
+            "docId": "Nuix/NuixOpenConnection"
+          },
+          {
+            "type": "link",
+            "label": "NuixPerformOCR",
+            "href": "/steps/next/Nuix/NuixPerformOCR",
+            "docId": "Nuix/NuixPerformOCR"
+          },
+          {
+            "type": "link",
+            "label": "NuixRemoveFromItemSet",
+            "href": "/steps/next/Nuix/NuixRemoveFromItemSet",
+            "docId": "Nuix/NuixRemoveFromItemSet"
+          },
+          {
+            "type": "link",
+            "label": "NuixRemoveFromProductionSet",
+            "href": "/steps/next/Nuix/NuixRemoveFromProductionSet",
+            "docId": "Nuix/NuixRemoveFromProductionSet"
+          },
+          {
+            "type": "link",
+            "label": "NuixReorderProductionSet",
+            "href": "/steps/next/Nuix/NuixReorderProductionSet",
+            "docId": "Nuix/NuixReorderProductionSet"
+          },
+          {
+            "type": "link",
+            "label": "NuixRunScript",
+            "href": "/steps/next/Nuix/NuixRunScript",
+            "docId": "Nuix/NuixRunScript"
+          },
+          {
+            "type": "link",
+            "label": "NuixSearchAndExclude",
+            "href": "/steps/next/Nuix/NuixSearchAndExclude",
+            "docId": "Nuix/NuixSearchAndExclude"
+          },
+          {
+            "type": "link",
+            "label": "NuixSearchAndTag",
+            "href": "/steps/next/Nuix/NuixSearchAndTag",
+            "docId": "Nuix/NuixSearchAndTag"
+          }
+        ],
+        "href": "/steps/next/Nuix"
+      },
+      {
+        "type": "category",
+        "label": "Pwsh",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "PwshRunScript",
+            "href": "/steps/next/Pwsh/PwshRunScript",
+            "docId": "Pwsh/PwshRunScript"
+          },
+          {
+            "type": "link",
+            "label": "PwshRunScriptAsync",
+            "href": "/steps/next/Pwsh/PwshRunScriptAsync",
+            "docId": "Pwsh/PwshRunScriptAsync"
+          }
+        ],
+        "href": "/steps/next/Pwsh"
+      },
+      {
+        "type": "category",
+        "label": "Relativity",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "RelativityCreateDynamicObjects",
+            "href": "/steps/next/Relativity/RelativityCreateDynamicObjects",
+            "docId": "Relativity/RelativityCreateDynamicObjects"
+          },
+          {
+            "type": "link",
+            "label": "RelativityCreateField",
+            "href": "/steps/next/Relativity/RelativityCreateField",
+            "docId": "Relativity/RelativityCreateField"
+          },
+          {
+            "type": "link",
+            "label": "RelativityCreateFolder",
+            "href": "/steps/next/Relativity/RelativityCreateFolder",
+            "docId": "Relativity/RelativityCreateFolder"
+          },
+          {
+            "type": "link",
+            "label": "RelativityCreateKeywordSearch",
+            "href": "/steps/next/Relativity/RelativityCreateKeywordSearch",
+            "docId": "Relativity/RelativityCreateKeywordSearch"
+          },
+          {
+            "type": "link",
+            "label": "RelativityCreateMatter",
+            "href": "/steps/next/Relativity/RelativityCreateMatter",
+            "docId": "Relativity/RelativityCreateMatter"
+          },
+          {
+            "type": "link",
+            "label": "RelativityCreateWorkspace",
+            "href": "/steps/next/Relativity/RelativityCreateWorkspace",
+            "docId": "Relativity/RelativityCreateWorkspace"
+          },
+          {
+            "type": "link",
+            "label": "RelativityDeleteDocument",
+            "href": "/steps/next/Relativity/RelativityDeleteDocument",
+            "docId": "Relativity/RelativityDeleteDocument"
+          },
+          {
+            "type": "link",
+            "label": "RelativityDeleteKeywordSearch",
+            "href": "/steps/next/Relativity/RelativityDeleteKeywordSearch",
+            "docId": "Relativity/RelativityDeleteKeywordSearch"
+          },
+          {
+            "type": "link",
+            "label": "RelativityDeleteMatter",
+            "href": "/steps/next/Relativity/RelativityDeleteMatter",
+            "docId": "Relativity/RelativityDeleteMatter"
+          },
+          {
+            "type": "link",
+            "label": "RelativityDeleteUnusedFolders",
+            "href": "/steps/next/Relativity/RelativityDeleteUnusedFolders",
+            "docId": "Relativity/RelativityDeleteUnusedFolders"
+          },
+          {
+            "type": "link",
+            "label": "RelativityDeleteWorkspace",
+            "href": "/steps/next/Relativity/RelativityDeleteWorkspace",
+            "docId": "Relativity/RelativityDeleteWorkspace"
+          },
+          {
+            "type": "link",
+            "label": "RelativityExport",
+            "href": "/steps/next/Relativity/RelativityExport",
+            "docId": "Relativity/RelativityExport"
+          },
+          {
+            "type": "link",
+            "label": "RelativityGetClients",
+            "href": "/steps/next/Relativity/RelativityGetClients",
+            "docId": "Relativity/RelativityGetClients"
+          },
+          {
+            "type": "link",
+            "label": "RelativityGetMatterStatuses",
+            "href": "/steps/next/Relativity/RelativityGetMatterStatuses",
+            "docId": "Relativity/RelativityGetMatterStatuses"
+          },
+          {
+            "type": "link",
+            "label": "RelativityGetSubfolders",
+            "href": "/steps/next/Relativity/RelativityGetSubfolders",
+            "docId": "Relativity/RelativityGetSubfolders"
+          },
+          {
+            "type": "link",
+            "label": "RelativityImport",
+            "href": "/steps/next/Relativity/RelativityImport",
+            "docId": "Relativity/RelativityImport"
+          },
+          {
+            "type": "link",
+            "label": "RelativityImportEntities",
+            "href": "/steps/next/Relativity/RelativityImportEntities",
+            "docId": "Relativity/RelativityImportEntities"
+          },
+          {
+            "type": "link",
+            "label": "RelativityMoveFolder",
+            "href": "/steps/next/Relativity/RelativityMoveFolder",
+            "docId": "Relativity/RelativityMoveFolder"
+          },
+          {
+            "type": "link",
+            "label": "RelativityReadKeywordSearch",
+            "href": "/steps/next/Relativity/RelativityReadKeywordSearch",
+            "docId": "Relativity/RelativityReadKeywordSearch"
+          },
+          {
+            "type": "link",
+            "label": "RelativityRetrieveMatter",
+            "href": "/steps/next/Relativity/RelativityRetrieveMatter",
+            "docId": "Relativity/RelativityRetrieveMatter"
+          },
+          {
+            "type": "link",
+            "label": "RelativityRetrieveRootFolder",
+            "href": "/steps/next/Relativity/RelativityRetrieveRootFolder",
+            "docId": "Relativity/RelativityRetrieveRootFolder"
+          },
+          {
+            "type": "link",
+            "label": "RelativityRetrieveWorkspace",
+            "href": "/steps/next/Relativity/RelativityRetrieveWorkspace",
+            "docId": "Relativity/RelativityRetrieveWorkspace"
+          },
+          {
+            "type": "link",
+            "label": "RelativityRetrieveWorkspaceStatistics",
+            "href": "/steps/next/Relativity/RelativityRetrieveWorkspaceStatistics",
+            "docId": "Relativity/RelativityRetrieveWorkspaceStatistics"
+          },
+          {
+            "type": "link",
+            "label": "RelativitySendQuery",
+            "href": "/steps/next/Relativity/RelativitySendQuery",
+            "docId": "Relativity/RelativitySendQuery"
+          },
+          {
+            "type": "link",
+            "label": "RelativityUpdateFolder",
+            "href": "/steps/next/Relativity/RelativityUpdateFolder",
+            "docId": "Relativity/RelativityUpdateFolder"
+          },
+          {
+            "type": "link",
+            "label": "RelativityUpdateMatter",
+            "href": "/steps/next/Relativity/RelativityUpdateMatter",
+            "docId": "Relativity/RelativityUpdateMatter"
+          },
+          {
+            "type": "link",
+            "label": "RelativityUpdateObject",
+            "href": "/steps/next/Relativity/RelativityUpdateObject",
+            "docId": "Relativity/RelativityUpdateObject"
+          }
+        ],
+        "href": "/steps/next/Relativity"
+      },
+      {
+        "type": "category",
+        "label": "Rest",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "RESTDelete",
+            "href": "/steps/next/Rest/RESTDelete",
+            "docId": "Rest/RESTDelete"
+          },
+          {
+            "type": "link",
+            "label": "RESTGetJSON",
+            "href": "/steps/next/Rest/RESTGetJSON",
+            "docId": "Rest/RESTGetJSON"
+          },
+          {
+            "type": "link",
+            "label": "RESTGetStream",
+            "href": "/steps/next/Rest/RESTGetStream",
+            "docId": "Rest/RESTGetStream"
+          },
+          {
+            "type": "link",
+            "label": "RESTPatch",
+            "href": "/steps/next/Rest/RESTPatch",
+            "docId": "Rest/RESTPatch"
+          },
+          {
+            "type": "link",
+            "label": "RESTPost",
+            "href": "/steps/next/Rest/RESTPost",
+            "docId": "Rest/RESTPost"
+          },
+          {
+            "type": "link",
+            "label": "RESTPut",
+            "href": "/steps/next/Rest/RESTPut",
+            "docId": "Rest/RESTPut"
+          }
+        ],
+        "href": "/steps/next/Rest"
+      },
+      {
+        "type": "category",
+        "label": "Singer",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "FromSinger",
+            "href": "/steps/next/Singer/FromSinger",
+            "docId": "Singer/FromSinger"
+          }
+        ],
+        "href": "/steps/next/Singer"
+      },
+      {
+        "type": "category",
+        "label": "Sql",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "CreateMsSQLConnectionString",
+            "href": "/steps/next/Sql/CreateMsSQLConnectionString",
+            "docId": "Sql/CreateMsSQLConnectionString"
+          },
+          {
+            "type": "link",
+            "label": "CreateMySQLConnectionString",
+            "href": "/steps/next/Sql/CreateMySQLConnectionString",
+            "docId": "Sql/CreateMySQLConnectionString"
+          },
+          {
+            "type": "link",
+            "label": "CreatePostgresConnectionString",
+            "href": "/steps/next/Sql/CreatePostgresConnectionString",
+            "docId": "Sql/CreatePostgresConnectionString"
+          },
+          {
+            "type": "link",
+            "label": "OpenConnection",
+            "href": "/steps/next/Sql/OpenConnection",
+            "docId": "Sql/OpenConnection"
+          },
+          {
+            "type": "link",
+            "label": "SqlCommand",
+            "href": "/steps/next/Sql/SqlCommand",
+            "docId": "Sql/SqlCommand"
+          },
+          {
+            "type": "link",
+            "label": "SqlCreateSchemaFromTable",
+            "href": "/steps/next/Sql/SqlCreateSchemaFromTable",
+            "docId": "Sql/SqlCreateSchemaFromTable"
+          },
+          {
+            "type": "link",
+            "label": "SqlCreateTable",
+            "href": "/steps/next/Sql/SqlCreateTable",
+            "docId": "Sql/SqlCreateTable"
+          },
+          {
+            "type": "link",
+            "label": "SqlInsert",
+            "href": "/steps/next/Sql/SqlInsert",
+            "docId": "Sql/SqlInsert"
+          },
+          {
+            "type": "link",
+            "label": "SqlQuery",
+            "href": "/steps/next/Sql/SqlQuery",
+            "docId": "Sql/SqlQuery"
+          }
+        ],
+        "href": "/steps/next/Sql"
+      },
+      {
+        "type": "category",
+        "label": "StructuredData",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "FromCSV",
+            "href": "/steps/next/StructuredData/FromCSV",
+            "docId": "StructuredData/FromCSV"
+          },
+          {
+            "type": "link",
+            "label": "FromConcordance",
+            "href": "/steps/next/StructuredData/FromConcordance",
+            "docId": "StructuredData/FromConcordance"
+          },
+          {
+            "type": "link",
+            "label": "FromIDX",
+            "href": "/steps/next/StructuredData/FromIDX",
+            "docId": "StructuredData/FromIDX"
+          },
+          {
+            "type": "link",
+            "label": "FromJson",
+            "href": "/steps/next/StructuredData/FromJson",
+            "docId": "StructuredData/FromJson"
+          },
+          {
+            "type": "link",
+            "label": "FromJsonArray",
+            "href": "/steps/next/StructuredData/FromJsonArray",
+            "docId": "StructuredData/FromJsonArray"
+          },
+          {
+            "type": "link",
+            "label": "FromXml",
+            "href": "/steps/next/StructuredData/FromXml",
+            "docId": "StructuredData/FromXml"
+          },
+          {
+            "type": "link",
+            "label": "FromXmlArray",
+            "href": "/steps/next/StructuredData/FromXmlArray",
+            "docId": "StructuredData/FromXmlArray"
+          },
+          {
+            "type": "link",
+            "label": "FromYaml",
+            "href": "/steps/next/StructuredData/FromYaml",
+            "docId": "StructuredData/FromYaml"
+          },
+          {
+            "type": "link",
+            "label": "ToCSV",
+            "href": "/steps/next/StructuredData/ToCSV",
+            "docId": "StructuredData/ToCSV"
+          },
+          {
+            "type": "link",
+            "label": "ToConcordance",
+            "href": "/steps/next/StructuredData/ToConcordance",
+            "docId": "StructuredData/ToConcordance"
+          },
+          {
+            "type": "link",
+            "label": "ToIDX",
+            "href": "/steps/next/StructuredData/ToIDX",
+            "docId": "StructuredData/ToIDX"
+          },
+          {
+            "type": "link",
+            "label": "ToJson",
+            "href": "/steps/next/StructuredData/ToJson",
+            "docId": "StructuredData/ToJson"
+          },
+          {
+            "type": "link",
+            "label": "ToJsonArray",
+            "href": "/steps/next/StructuredData/ToJsonArray",
+            "docId": "StructuredData/ToJsonArray"
+          },
+          {
+            "type": "link",
+            "label": "ToXml",
+            "href": "/steps/next/StructuredData/ToXml",
+            "docId": "StructuredData/ToXml"
+          },
+          {
+            "type": "link",
+            "label": "ToXmlArray",
+            "href": "/steps/next/StructuredData/ToXmlArray",
+            "docId": "StructuredData/ToXmlArray"
+          },
+          {
+            "type": "link",
+            "label": "ToYaml",
+            "href": "/steps/next/StructuredData/ToYaml",
+            "docId": "StructuredData/ToYaml"
+          }
+        ],
+        "href": "/steps/next/StructuredData"
+      },
+      {
+        "type": "category",
+        "label": "TSK",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "AutopsyAddDataSource",
+            "href": "/steps/next/TSK/AutopsyAddDataSource",
+            "docId": "TSK/AutopsyAddDataSource"
+          },
+          {
+            "type": "link",
+            "label": "AutopsyCreateNewCase",
+            "href": "/steps/next/TSK/AutopsyCreateNewCase",
+            "docId": "TSK/AutopsyCreateNewCase"
+          },
+          {
+            "type": "link",
+            "label": "AutopsyGenerateReports",
+            "href": "/steps/next/TSK/AutopsyGenerateReports",
+            "docId": "TSK/AutopsyGenerateReports"
+          },
+          {
+            "type": "link",
+            "label": "AutopsyListDataSources",
+            "href": "/steps/next/TSK/AutopsyListDataSources",
+            "docId": "TSK/AutopsyListDataSources"
+          }
+        ],
+        "href": "/steps/next/TSK"
+      },
+      {
+        "type": "category",
+        "label": "Tesseract",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "GetImageFormat",
+            "href": "/steps/next/Tesseract/GetImageFormat",
+            "docId": "Tesseract/GetImageFormat"
+          },
+          {
+            "type": "link",
+            "label": "TesseractOCR",
+            "href": "/steps/next/Tesseract/TesseractOCR",
+            "docId": "Tesseract/TesseractOCR"
+          }
+        ],
+        "href": "/steps/next/Tesseract"
+      }
+    ]
+  },
+  "docs": {
+    "all": {
+      "id": "all",
+      "title": "All Sequence Core and Connector Steps",
+      "description": "List of all steps for Sequence, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.",
+      "sidebar": "steps"
+    },
+    "Core": {
+      "id": "Core",
+      "title": "All Steps | Core SDK Documentation",
+      "description": "List of all steps for Core SDK. An SDK for automating e-discovery and forensic workflows. Core is the SCL language grammar and interpreter, and an SDK for building connectors.",
+      "sidebar": "steps"
+    },
+    "Core/And": {
+      "id": "Core/And",
+      "title": "And Step | Core SDK Documentation",
+      "description": "Returns true if all terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayConcat": {
+      "id": "Core/ArrayConcat",
+      "title": "ArrayConcat Step | Core SDK Documentation",
+      "description": "Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayDistinct": {
+      "id": "Core/ArrayDistinct",
+      "title": "ArrayDistinct Step | Core SDK Documentation",
+      "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayElementAtIndex": {
+      "id": "Core/ArrayElementAtIndex",
+      "title": "ArrayElementAtIndex Step | Core SDK Documentation",
+      "description": "Gets the array element at a particular index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayFilter": {
+      "id": "Core/ArrayFilter",
+      "title": "ArrayFilter Step | Core SDK Documentation",
+      "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayFind": {
+      "id": "Core/ArrayFind",
+      "title": "ArrayFind Step | Core SDK Documentation",
+      "description": "Gets the first index of an element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayFirst": {
+      "id": "Core/ArrayFirst",
+      "title": "ArrayFirst Step | Core SDK Documentation",
+      "description": "Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayGroupBy": {
+      "id": "Core/ArrayGroupBy",
+      "title": "ArrayGroupBy Step | Core SDK Documentation",
+      "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayIsEmpty": {
+      "id": "Core/ArrayIsEmpty",
+      "title": "ArrayIsEmpty Step | Core SDK Documentation",
+      "description": "Checks if an array is empty.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayLast": {
+      "id": "Core/ArrayLast",
+      "title": "ArrayLast Step | Core SDK Documentation",
+      "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayLength": {
+      "id": "Core/ArrayLength",
+      "title": "ArrayLength Step | Core SDK Documentation",
+      "description": "Counts the elements in an array or entities in an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayMap": {
+      "id": "Core/ArrayMap",
+      "title": "ArrayMap Step | Core SDK Documentation",
+      "description": "Map each element of an array or entity stream to a new value. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayNew": {
+      "id": "Core/ArrayNew",
+      "title": "ArrayNew Step | Core SDK Documentation",
+      "description": "Represents an ordered collection of objects.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayReverse": {
+      "id": "Core/ArrayReverse",
+      "title": "ArrayReverse Step | Core SDK Documentation",
+      "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArraySkip": {
+      "id": "Core/ArraySkip",
+      "title": "ArraySkip Step | Core SDK Documentation",
+      "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArraySort": {
+      "id": "Core/ArraySort",
+      "title": "ArraySort Step | Core SDK Documentation",
+      "description": "Reorder an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ArrayTake": {
+      "id": "Core/ArrayTake",
+      "title": "ArrayTake Step | Core SDK Documentation",
+      "description": "Take the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/AssertEqual": {
+      "id": "Core/AssertEqual",
+      "title": "AssertEqual Step | Core SDK Documentation",
+      "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/AssertError": {
+      "id": "Core/AssertError",
+      "title": "AssertError Step | Core SDK Documentation",
+      "description": "Returns success if the ValueIf step returns an error and a failure otherwise.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/AssertTrue": {
+      "id": "Core/AssertTrue",
+      "title": "AssertTrue Step | Core SDK Documentation",
+      "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/CharAtIndex": {
+      "id": "Core/CharAtIndex",
+      "title": "CharAtIndex Step | Core SDK Documentation",
+      "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Clone": {
+      "id": "Core/Clone",
+      "title": "Clone Step | Core SDK Documentation",
+      "description": "Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ConvertSizeUnits": {
+      "id": "Core/ConvertSizeUnits",
+      "title": "ConvertSizeUnits Step | Core SDK Documentation",
+      "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/DateToString": {
+      "id": "Core/DateToString",
+      "title": "DateToString Step | Core SDK Documentation",
+      "description": "Converts a date to the specified format, yyyy/MM/dd HH:mm:ss by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Delay": {
+      "id": "Core/Delay",
+      "title": "Delay Step | Core SDK Documentation",
+      "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Divide": {
+      "id": "Core/Divide",
+      "title": "Divide Step | Core SDK Documentation",
+      "description": "Divide an integer by a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/DocumentationCreate": {
+      "id": "Core/DocumentationCreate",
+      "title": "DocumentationCreate Step | Core SDK Documentation",
+      "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/DoNothing": {
+      "id": "Core/DoNothing",
+      "title": "DoNothing Step | Core SDK Documentation",
+      "description": "Does nothing.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/DoubleDivide": {
+      "id": "Core/DoubleDivide",
+      "title": "DoubleDivide Step | Core SDK Documentation",
+      "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/DoublePower": {
+      "id": "Core/DoublePower",
+      "title": "DoublePower Step | Core SDK Documentation",
+      "description": "Raises a double to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/DoubleProduct": {
+      "id": "Core/DoubleProduct",
+      "title": "DoubleProduct Step | Core SDK Documentation",
+      "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/DoubleSubtract": {
+      "id": "Core/DoubleSubtract",
+      "title": "DoubleSubtract Step | Core SDK Documentation",
+      "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/DoubleSum": {
+      "id": "Core/DoubleSum",
+      "title": "DoubleSum Step | Core SDK Documentation",
+      "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityCombine": {
+      "id": "Core/EntityCombine",
+      "title": "EntityCombine Step | Core SDK Documentation",
+      "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityFlatten": {
+      "id": "Core/EntityFlatten",
+      "title": "EntityFlatten Step | Core SDK Documentation",
+      "description": "Recursively flatten an entity, turning all nested entities into separate fields. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityFormat": {
+      "id": "Core/EntityFormat",
+      "title": "EntityFormat Step | Core SDK Documentation",
+      "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityGetProperties": {
+      "id": "Core/EntityGetProperties",
+      "title": "EntityGetProperties Step | Core SDK Documentation",
+      "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityGetValue": {
+      "id": "Core/EntityGetValue",
+      "title": "EntityGetValue Step | Core SDK Documentation",
+      "description": "Gets the value of a property from an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityHasProperty": {
+      "id": "Core/EntityHasProperty",
+      "title": "EntityHasProperty Step | Core SDK Documentation",
+      "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityMapProperties": {
+      "id": "Core/EntityMapProperties",
+      "title": "EntityMapProperties Step | Core SDK Documentation",
+      "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityRemoveProperty": {
+      "id": "Core/EntityRemoveProperty",
+      "title": "EntityRemoveProperty Step | Core SDK Documentation",
+      "description": "Returns a copy of the entity with the specified property removed. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntitySetValue": {
+      "id": "Core/EntitySetValue",
+      "title": "EntitySetValue Step | Core SDK Documentation",
+      "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/EntityValidateRelations": {
+      "id": "Core/EntityValidateRelations",
+      "title": "EntityValidateRelations Step | Core SDK Documentation",
+      "description": "For each entity in the stream, check that the value of the `ParentIdProperty` is the value of the `IdProperty` for at least one entity in the stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Equals": {
+      "id": "Core/Equals",
+      "title": "Equals Step | Core SDK Documentation",
+      "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/For": {
+      "id": "Core/For",
+      "title": "For Step | Core SDK Documentation",
+      "description": "Do an action for each value of <i> in a range.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/ForEach": {
+      "id": "Core/ForEach",
+      "title": "ForEach Step | Core SDK Documentation",
+      "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/GetApplicationVersion": {
+      "id": "Core/GetApplicationVersion",
+      "title": "GetApplicationVersion Step | Core SDK Documentation",
+      "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/GetAutomaticVariable": {
+      "id": "Core/GetAutomaticVariable",
+      "title": "GetAutomaticVariable Step | Core SDK Documentation",
+      "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/GetConnectorInformation": {
+      "id": "Core/GetConnectorInformation",
+      "title": "GetConnectorInformation Step | Core SDK Documentation",
+      "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/GetSettings": {
+      "id": "Core/GetSettings",
+      "title": "GetSettings Step | Core SDK Documentation",
+      "description": "Get an entity containing SCL settings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/GetVariable": {
+      "id": "Core/GetVariable",
+      "title": "GetVariable Step | Core SDK Documentation",
+      "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/GreaterThan": {
+      "id": "Core/GreaterThan",
+      "title": "GreaterThan Step | Core SDK Documentation",
+      "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/GreaterThanOrEqual": {
+      "id": "Core/GreaterThanOrEqual",
+      "title": "GreaterThanOrEqual Step | Core SDK Documentation",
+      "description": "Returns true if each term is greater than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Hash": {
+      "id": "Core/Hash",
+      "title": "Hash Step | Core SDK Documentation",
+      "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/HttpRequest": {
+      "id": "Core/HttpRequest",
+      "title": "HttpRequest Step | Core SDK Documentation",
+      "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/If": {
+      "id": "Core/If",
+      "title": "If Step | Core SDK Documentation",
+      "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/IncrementVariable": {
+      "id": "Core/IncrementVariable",
+      "title": "IncrementVariable Step | Core SDK Documentation",
+      "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/IsNull": {
+      "id": "Core/IsNull",
+      "title": "IsNull Step | Core SDK Documentation",
+      "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/LessThan": {
+      "id": "Core/LessThan",
+      "title": "LessThan Step | Core SDK Documentation",
+      "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/LessThanOrEqual": {
+      "id": "Core/LessThanOrEqual",
+      "title": "LessThanOrEqual Step | Core SDK Documentation",
+      "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Log": {
+      "id": "Core/Log",
+      "title": "Log Step | Core SDK Documentation",
+      "description": "Write a value to the logs. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Modulo": {
+      "id": "Core/Modulo",
+      "title": "Modulo Step | Core SDK Documentation",
+      "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Not": {
+      "id": "Core/Not",
+      "title": "Not Step | Core SDK Documentation",
+      "description": "Negation of a boolean value.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/NotEquals": {
+      "id": "Core/NotEquals",
+      "title": "NotEquals Step | Core SDK Documentation",
+      "description": "Returns true if each term is not equal to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Or": {
+      "id": "Core/Or",
+      "title": "Or Step | Core SDK Documentation",
+      "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Power": {
+      "id": "Core/Power",
+      "title": "Power Step | Core SDK Documentation",
+      "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Print": {
+      "id": "Core/Print",
+      "title": "Print Step | Core SDK Documentation",
+      "description": "Prints a value to the console.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Product": {
+      "id": "Core/Product",
+      "title": "Product Step | Core SDK Documentation",
+      "description": "Calculate the product of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Repeat": {
+      "id": "Core/Repeat",
+      "title": "Repeat Step | Core SDK Documentation",
+      "description": "Repeat a step a set number of times.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Round": {
+      "id": "Core/Round",
+      "title": "Round Step | Core SDK Documentation",
+      "description": "Round an SCL double to a fixed number of decimal places. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/RunExternalProcess": {
+      "id": "Core/RunExternalProcess",
+      "title": "RunExternalProcess Step | Core SDK Documentation",
+      "description": "Runs an external executable program.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/RunSCL": {
+      "id": "Core/RunSCL",
+      "title": "RunSCL Step | Core SDK Documentation",
+      "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/RunStep": {
+      "id": "Core/RunStep",
+      "title": "RunStep Step | Core SDK Documentation",
+      "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/SchemaCreate": {
+      "id": "Core/SchemaCreate",
+      "title": "SchemaCreate Step | Core SDK Documentation",
+      "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/SchemaCreateCoerced": {
+      "id": "Core/SchemaCreateCoerced",
+      "title": "SchemaCreateCoerced Step | Core SDK Documentation",
+      "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Sequence": {
+      "id": "Core/Sequence",
+      "title": "Sequence Step | Core SDK Documentation",
+      "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/SetVariable": {
+      "id": "Core/SetVariable",
+      "title": "SetVariable Step | Core SDK Documentation",
+      "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StandardErrorWrite": {
+      "id": "Core/StandardErrorWrite",
+      "title": "StandardErrorWrite Step | Core SDK Documentation",
+      "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StandardInRead": {
+      "id": "Core/StandardInRead",
+      "title": "StandardInRead Step | Core SDK Documentation",
+      "description": "Reads the Console standard input. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StandardOutWrite": {
+      "id": "Core/StandardOutWrite",
+      "title": "StandardOutWrite Step | Core SDK Documentation",
+      "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringAppend": {
+      "id": "Core/StringAppend",
+      "title": "StringAppend Step | Core SDK Documentation",
+      "description": "Appends a string to an existing string variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringContains": {
+      "id": "Core/StringContains",
+      "title": "StringContains Step | Core SDK Documentation",
+      "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringFind": {
+      "id": "Core/StringFind",
+      "title": "StringFind Step | Core SDK Documentation",
+      "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringFindLast": {
+      "id": "Core/StringFindLast",
+      "title": "StringFindLast Step | Core SDK Documentation",
+      "description": "Gets the last instance of substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringInterpolate": {
+      "id": "Core/StringInterpolate",
+      "title": "StringInterpolate Step | Core SDK Documentation",
+      "description": "Joins strings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringIsEmpty": {
+      "id": "Core/StringIsEmpty",
+      "title": "StringIsEmpty Step | Core SDK Documentation",
+      "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringJoin": {
+      "id": "Core/StringJoin",
+      "title": "StringJoin Step | Core SDK Documentation",
+      "description": "Join strings with a delimiter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringLength": {
+      "id": "Core/StringLength",
+      "title": "StringLength Step | Core SDK Documentation",
+      "description": "Calculates the length of the string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringMatch": {
+      "id": "Core/StringMatch",
+      "title": "StringMatch Step | Core SDK Documentation",
+      "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringReplace": {
+      "id": "Core/StringReplace",
+      "title": "StringReplace Step | Core SDK Documentation",
+      "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringSplit": {
+      "id": "Core/StringSplit",
+      "title": "StringSplit Step | Core SDK Documentation",
+      "description": "Splits a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringSubstring": {
+      "id": "Core/StringSubstring",
+      "title": "StringSubstring Step | Core SDK Documentation",
+      "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringToBool": {
+      "id": "Core/StringToBool",
+      "title": "StringToBool Step | Core SDK Documentation",
+      "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringToCase": {
+      "id": "Core/StringToCase",
+      "title": "StringToCase Step | Core SDK Documentation",
+      "description": "Converts a string to a particular case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringToDate": {
+      "id": "Core/StringToDate",
+      "title": "StringToDate Step | Core SDK Documentation",
+      "description": "Converts a date to the specified format, yyyyMMddHHmm by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringToDouble": {
+      "id": "Core/StringToDouble",
+      "title": "StringToDouble Step | Core SDK Documentation",
+      "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringToInt": {
+      "id": "Core/StringToInt",
+      "title": "StringToInt Step | Core SDK Documentation",
+      "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/StringTrim": {
+      "id": "Core/StringTrim",
+      "title": "StringTrim Step | Core SDK Documentation",
+      "description": "Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Subtract": {
+      "id": "Core/Subtract",
+      "title": "Subtract Step | Core SDK Documentation",
+      "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Sum": {
+      "id": "Core/Sum",
+      "title": "Sum Step | Core SDK Documentation",
+      "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Transform": {
+      "id": "Core/Transform",
+      "title": "Transform Step | Core SDK Documentation",
+      "description": "Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Try": {
+      "id": "Core/Try",
+      "title": "Try Step | Core SDK Documentation",
+      "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/Validate": {
+      "id": "Core/Validate",
+      "title": "Validate Step | Core SDK Documentation",
+      "description": "Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Core/While": {
+      "id": "Core/While",
+      "title": "While Step | Core SDK Documentation",
+      "description": "Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/ArtifactType": {
+      "id": "Enums/ArtifactType",
+      "title": "ArtifactType | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/AutopsyCaseType": {
+      "id": "Enums/AutopsyCaseType",
+      "title": "AutopsyCaseType | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/DeduplicateBy": {
+      "id": "Enums/DeduplicateBy",
+      "title": "DeduplicateBy | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/EncodingEnum": {
+      "id": "Enums/EncodingEnum",
+      "title": "EncodingEnum | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/ErrorBehavior": {
+      "id": "Enums/ErrorBehavior",
+      "title": "ErrorBehavior | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/ExportDeduplication": {
+      "id": "Enums/ExportDeduplication",
+      "title": "ExportDeduplication | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/ExportSortOrder": {
+      "id": "Enums/ExportSortOrder",
+      "title": "ExportSortOrder | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/ExportTraversalStrategy": {
+      "id": "Enums/ExportTraversalStrategy",
+      "title": "ExportTraversalStrategy | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/FileImportType": {
+      "id": "Enums/FileImportType",
+      "title": "FileImportType | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/HashAlgorithm": {
+      "id": "Enums/HashAlgorithm",
+      "title": "HashAlgorithm | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/ImageFormat": {
+      "id": "Enums/ImageFormat",
+      "title": "ImageFormat | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/ItemSetDeduplication": {
+      "id": "Enums/ItemSetDeduplication",
+      "title": "ItemSetDeduplication | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/ItemSortOrder": {
+      "id": "Enums/ItemSortOrder",
+      "title": "ItemSortOrder | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/LoadFileType": {
+      "id": "Enums/LoadFileType",
+      "title": "LoadFileType | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/MatterStatus": {
+      "id": "Enums/MatterStatus",
+      "title": "MatterStatus | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/PrintPreviewState": {
+      "id": "Enums/PrintPreviewState",
+      "title": "PrintPreviewState | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/SearchScope": {
+      "id": "Enums/SearchScope",
+      "title": "SearchScope | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/SearchType": {
+      "id": "Enums/SearchType",
+      "title": "SearchType | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/Severity": {
+      "id": "Enums/Severity",
+      "title": "Severity | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/SizeUnit": {
+      "id": "Enums/SizeUnit",
+      "title": "SizeUnit | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/SortEnum": {
+      "id": "Enums/SortEnum",
+      "title": "SortEnum | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/SortOrder": {
+      "id": "Enums/SortOrder",
+      "title": "SortOrder | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/TextCase": {
+      "id": "Enums/TextCase",
+      "title": "TextCase | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/TrimSide": {
+      "id": "Enums/TrimSide",
+      "title": "TrimSide | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Enums/UpdateBehaviour": {
+      "id": "Enums/UpdateBehaviour",
+      "title": "UpdateBehaviour | Enums",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem": {
+      "id": "FileSystem",
+      "title": "All Steps | File System Connector Documentation",
+      "description": "List of all steps for File System Connector. Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
+      "sidebar": "steps"
+    },
+    "FileSystem/DeleteItem": {
+      "id": "FileSystem/DeleteItem",
+      "title": "DeleteItem Step | File System Connector Documentation",
+      "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/DirectoryCopy": {
+      "id": "FileSystem/DirectoryCopy",
+      "title": "DirectoryCopy Step | File System Connector Documentation",
+      "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/DirectoryCreate": {
+      "id": "FileSystem/DirectoryCreate",
+      "title": "DirectoryCreate Step | File System Connector Documentation",
+      "description": "Creates a new directory in the file system. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/DirectoryExists": {
+      "id": "FileSystem/DirectoryExists",
+      "title": "DirectoryExists Step | File System Connector Documentation",
+      "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/DirectoryGetItems": {
+      "id": "FileSystem/DirectoryGetItems",
+      "title": "DirectoryGetItems Step | File System Connector Documentation",
+      "description": "Gets all items in a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/DirectoryMove": {
+      "id": "FileSystem/DirectoryMove",
+      "title": "DirectoryMove Step | File System Connector Documentation",
+      "description": "Move a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/FileCopy": {
+      "id": "FileSystem/FileCopy",
+      "title": "FileCopy Step | File System Connector Documentation",
+      "description": "Copy a file. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/FileExists": {
+      "id": "FileSystem/FileExists",
+      "title": "FileExists Step | File System Connector Documentation",
+      "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/FileExtract": {
+      "id": "FileSystem/FileExtract",
+      "title": "FileExtract Step | File System Connector Documentation",
+      "description": "Extract a file in the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/FileMove": {
+      "id": "FileSystem/FileMove",
+      "title": "FileMove Step | File System Connector Documentation",
+      "description": "Move a file. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/FileRead": {
+      "id": "FileSystem/FileRead",
+      "title": "FileRead Step | File System Connector Documentation",
+      "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/FileWrite": {
+      "id": "FileSystem/FileWrite",
+      "title": "FileWrite Step | File System Connector Documentation",
+      "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "FileSystem/PathCombine": {
+      "id": "FileSystem/PathCombine",
+      "title": "PathCombine Step | File System Connector Documentation",
+      "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Microsoft365": {
+      "id": "Microsoft365",
+      "title": "All Steps | Microsoft 365 Connector Documentation",
+      "description": "List of all steps for Microsoft 365 Connector. Sequence connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+      "sidebar": "steps"
+    },
+    "Microsoft365/M365ChannelMessagesRead": {
+      "id": "Microsoft365/M365ChannelMessagesRead",
+      "title": "M365ChannelMessagesRead Step | Microsoft 365 Connector Documentation",
+      "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Microsoft365/M365ChannelsRead": {
+      "id": "Microsoft365/M365ChannelsRead",
+      "title": "M365ChannelsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Microsoft365/M365ChatsRead": {
+      "id": "Microsoft365/M365ChatsRead",
+      "title": "M365ChatsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Microsoft365/M365GetToken": {
+      "id": "Microsoft365/M365GetToken",
+      "title": "M365GetToken Step | Microsoft 365 Connector Documentation",
+      "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Microsoft365/M365Login": {
+      "id": "Microsoft365/M365Login",
+      "title": "M365Login Step | Microsoft 365 Connector Documentation",
+      "description": "Login to M365. You do not need to do this.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Microsoft365/M365MailRead": {
+      "id": "Microsoft365/M365MailRead",
+      "title": "M365MailRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Microsoft365/M365TeamsRead": {
+      "id": "Microsoft365/M365TeamsRead",
+      "title": "M365TeamsRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Microsoft365/M365UsersRead": {
+      "id": "Microsoft365/M365UsersRead",
+      "title": "M365UsersRead Step | Microsoft 365 Connector Documentation",
+      "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix": {
+      "id": "Nuix",
+      "title": "All Steps | Nuix Connector Documentation",
+      "description": "List of all steps for Nuix Connector. Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixAddConcordance": {
+      "id": "Nuix/NuixAddConcordance",
+      "title": "NuixAddConcordance Step | Nuix Connector Documentation",
+      "description": "Adds data from a Concordance file to a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixAddItem": {
+      "id": "Nuix/NuixAddItem",
+      "title": "NuixAddItem Step | Nuix Connector Documentation",
+      "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixAddToItemSet": {
+      "id": "Nuix/NuixAddToItemSet",
+      "title": "NuixAddToItemSet Step | Nuix Connector Documentation",
+      "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixAddToProductionSet": {
+      "id": "Nuix/NuixAddToProductionSet",
+      "title": "NuixAddToProductionSet Step | Nuix Connector Documentation",
+      "description": "Run a search query in Nuix and add all items found to a production set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixAnnotateDocumentIdList": {
+      "id": "Nuix/NuixAnnotateDocumentIdList",
+      "title": "NuixAnnotateDocumentIdList Step | Nuix Connector Documentation",
+      "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixAssertPrintPreviewState": {
+      "id": "Nuix/NuixAssertPrintPreviewState",
+      "title": "NuixAssertPrintPreviewState Step | Nuix Connector Documentation",
+      "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixAssignCustodian": {
+      "id": "Nuix/NuixAssignCustodian",
+      "title": "NuixAssignCustodian Step | Nuix Connector Documentation",
+      "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixCloseConnection": {
+      "id": "Nuix/NuixCloseConnection",
+      "title": "NuixCloseConnection Step | Nuix Connector Documentation",
+      "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixCountItems": {
+      "id": "Nuix/NuixCountItems",
+      "title": "NuixCountItems Step | Nuix Connector Documentation",
+      "description": "Returns the number of items matching a particular search term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixCreateCase": {
+      "id": "Nuix/NuixCreateCase",
+      "title": "NuixCreateCase Step | Nuix Connector Documentation",
+      "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixCreateIrregularItemsReport": {
+      "id": "Nuix/NuixCreateIrregularItemsReport",
+      "title": "NuixCreateIrregularItemsReport Step | Nuix Connector Documentation",
+      "description": "Creates a list of all irregular items in a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixCreateNRTReport": {
+      "id": "Nuix/NuixCreateNRTReport",
+      "title": "NuixCreateNRTReport Step | Nuix Connector Documentation",
+      "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixCreateReport": {
+      "id": "Nuix/NuixCreateReport",
+      "title": "NuixCreateReport Step | Nuix Connector Documentation",
+      "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixCreateTermList": {
+      "id": "Nuix/NuixCreateTermList",
+      "title": "NuixCreateTermList Step | Nuix Connector Documentation",
+      "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixDoesCaseExist": {
+      "id": "Nuix/NuixDoesCaseExist",
+      "title": "NuixDoesCaseExist Step | Nuix Connector Documentation",
+      "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixExcludeDecryptedItems": {
+      "id": "Nuix/NuixExcludeDecryptedItems",
+      "title": "NuixExcludeDecryptedItems Step | Nuix Connector Documentation",
+      "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixExportConcordance": {
+      "id": "Nuix/NuixExportConcordance",
+      "title": "NuixExportConcordance Step | Nuix Connector Documentation",
+      "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixExtractEntities": {
+      "id": "Nuix/NuixExtractEntities",
+      "title": "NuixExtractEntities Step | Nuix Connector Documentation",
+      "description": "Extract Entities from a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixGeneratePrintPreviews": {
+      "id": "Nuix/NuixGeneratePrintPreviews",
+      "title": "NuixGeneratePrintPreviews Step | Nuix Connector Documentation",
+      "description": "Generates print previews for items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixGetAuditedSize": {
+      "id": "Nuix/NuixGetAuditedSize",
+      "title": "NuixGetAuditedSize Step | Nuix Connector Documentation",
+      "description": "Calculate the total audited size for a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixGetCaseDetails": {
+      "id": "Nuix/NuixGetCaseDetails",
+      "title": "NuixGetCaseDetails Step | Nuix Connector Documentation",
+      "description": "Returns an Entity with information about the current case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixGetItemProperties": {
+      "id": "Nuix/NuixGetItemProperties",
+      "title": "NuixGetItemProperties Step | Nuix Connector Documentation",
+      "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixGetLicenseDetails": {
+      "id": "Nuix/NuixGetLicenseDetails",
+      "title": "NuixGetLicenseDetails Step | Nuix Connector Documentation",
+      "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixGetVersion": {
+      "id": "Nuix/NuixGetVersion",
+      "title": "NuixGetVersion Step | Nuix Connector Documentation",
+      "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixImportDocumentIds": {
+      "id": "Nuix/NuixImportDocumentIds",
+      "title": "NuixImportDocumentIds Step | Nuix Connector Documentation",
+      "description": "Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixMigrateCase": {
+      "id": "Nuix/NuixMigrateCase",
+      "title": "NuixMigrateCase Step | Nuix Connector Documentation",
+      "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixOpenCase": {
+      "id": "Nuix/NuixOpenCase",
+      "title": "NuixOpenCase Step | Nuix Connector Documentation",
+      "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixOpenConnection": {
+      "id": "Nuix/NuixOpenConnection",
+      "title": "NuixOpenConnection Step | Nuix Connector Documentation",
+      "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixPerformOCR": {
+      "id": "Nuix/NuixPerformOCR",
+      "title": "NuixPerformOCR Step | Nuix Connector Documentation",
+      "description": "Performs optical character recognition on items in a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixRemoveFromItemSet": {
+      "id": "Nuix/NuixRemoveFromItemSet",
+      "title": "NuixRemoveFromItemSet Step | Nuix Connector Documentation",
+      "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixRemoveFromProductionSet": {
+      "id": "Nuix/NuixRemoveFromProductionSet",
+      "title": "NuixRemoveFromProductionSet Step | Nuix Connector Documentation",
+      "description": "Removes particular items from a Nuix production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixReorderProductionSet": {
+      "id": "Nuix/NuixReorderProductionSet",
+      "title": "NuixReorderProductionSet Step | Nuix Connector Documentation",
+      "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixRunScript": {
+      "id": "Nuix/NuixRunScript",
+      "title": "NuixRunScript Step | Nuix Connector Documentation",
+      "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixSearchAndExclude": {
+      "id": "Nuix/NuixSearchAndExclude",
+      "title": "NuixSearchAndExclude Step | Nuix Connector Documentation",
+      "description": "Run a search query in Nuix and exclude all items found.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Nuix/NuixSearchAndTag": {
+      "id": "Nuix/NuixSearchAndTag",
+      "title": "NuixSearchAndTag Step | Nuix Connector Documentation",
+      "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Pwsh": {
+      "id": "Pwsh",
+      "title": "All Steps | PowerShell Connector Documentation",
+      "description": "List of all steps for PowerShell Connector. Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+      "sidebar": "steps"
+    },
+    "Pwsh/PwshRunScript": {
+      "id": "Pwsh/PwshRunScript",
+      "title": "PwshRunScript Step | PowerShell Connector Documentation",
+      "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Pwsh/PwshRunScriptAsync": {
+      "id": "Pwsh/PwshRunScriptAsync",
+      "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
+      "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity": {
+      "id": "Relativity",
+      "title": "All Steps | Sequence Connector for Relativity Documentation",
+      "description": "List of all steps for Sequence Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityCreateDynamicObjects": {
+      "id": "Relativity/RelativityCreateDynamicObjects",
+      "title": "RelativityCreateDynamicObjects Step | Sequence Connector for Relativity Documentation",
+      "description": "Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityCreateField": {
+      "id": "Relativity/RelativityCreateField",
+      "title": "RelativityCreateField Step | Sequence Connector for Relativity Documentation",
+      "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityCreateFolder": {
+      "id": "Relativity/RelativityCreateFolder",
+      "title": "RelativityCreateFolder Step | Sequence Connector for Relativity Documentation",
+      "description": "Create a folder in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityCreateKeywordSearch": {
+      "id": "Relativity/RelativityCreateKeywordSearch",
+      "title": "RelativityCreateKeywordSearch Step | Sequence Connector for Relativity Documentation",
+      "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityCreateMatter": {
+      "id": "Relativity/RelativityCreateMatter",
+      "title": "RelativityCreateMatter Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityCreateWorkspace": {
+      "id": "Relativity/RelativityCreateWorkspace",
+      "title": "RelativityCreateWorkspace Step | Sequence Connector for Relativity Documentation",
+      "description": "Creates a new Relativity Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityDeleteDocument": {
+      "id": "Relativity/RelativityDeleteDocument",
+      "title": "RelativityDeleteDocument Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityDeleteKeywordSearch": {
+      "id": "Relativity/RelativityDeleteKeywordSearch",
+      "title": "RelativityDeleteKeywordSearch Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityDeleteMatter": {
+      "id": "Relativity/RelativityDeleteMatter",
+      "title": "RelativityDeleteMatter Step | Sequence Connector for Relativity Documentation",
+      "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityDeleteUnusedFolders": {
+      "id": "Relativity/RelativityDeleteUnusedFolders",
+      "title": "RelativityDeleteUnusedFolders Step | Sequence Connector for Relativity Documentation",
+      "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityDeleteWorkspace": {
+      "id": "Relativity/RelativityDeleteWorkspace",
+      "title": "RelativityDeleteWorkspace Step | Sequence Connector for Relativity Documentation",
+      "description": "Deletes a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityExport": {
+      "id": "Relativity/RelativityExport",
+      "title": "RelativityExport Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityGetClients": {
+      "id": "Relativity/RelativityGetClients",
+      "title": "RelativityGetClients Step | Sequence Connector for Relativity Documentation",
+      "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityGetMatterStatuses": {
+      "id": "Relativity/RelativityGetMatterStatuses",
+      "title": "RelativityGetMatterStatuses Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityGetSubfolders": {
+      "id": "Relativity/RelativityGetSubfolders",
+      "title": "RelativityGetSubfolders Step | Sequence Connector for Relativity Documentation",
+      "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityImport": {
+      "id": "Relativity/RelativityImport",
+      "title": "RelativityImport Step | Sequence Connector for Relativity Documentation",
+      "description": "Imports a load file into Relativity using the desktop client. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityImportEntities": {
+      "id": "Relativity/RelativityImportEntities",
+      "title": "RelativityImportEntities Step | Sequence Connector for Relativity Documentation",
+      "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityMoveFolder": {
+      "id": "Relativity/RelativityMoveFolder",
+      "title": "RelativityMoveFolder Step | Sequence Connector for Relativity Documentation",
+      "description": "Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityReadKeywordSearch": {
+      "id": "Relativity/RelativityReadKeywordSearch",
+      "title": "RelativityReadKeywordSearch Step | Sequence Connector for Relativity Documentation",
+      "description": "Reads a search. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityRetrieveMatter": {
+      "id": "Relativity/RelativityRetrieveMatter",
+      "title": "RelativityRetrieveMatter Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityRetrieveRootFolder": {
+      "id": "Relativity/RelativityRetrieveRootFolder",
+      "title": "RelativityRetrieveRootFolder Step | Sequence Connector for Relativity Documentation",
+      "description": "Retrieve the root folder of a Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityRetrieveWorkspace": {
+      "id": "Relativity/RelativityRetrieveWorkspace",
+      "title": "RelativityRetrieveWorkspace Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityRetrieveWorkspaceStatistics": {
+      "id": "Relativity/RelativityRetrieveWorkspaceStatistics",
+      "title": "RelativityRetrieveWorkspaceStatistics Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativitySendQuery": {
+      "id": "Relativity/RelativitySendQuery",
+      "title": "RelativitySendQuery Step | Sequence Connector for Relativity Documentation",
+      "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityUpdateFolder": {
+      "id": "Relativity/RelativityUpdateFolder",
+      "title": "RelativityUpdateFolder Step | Sequence Connector for Relativity Documentation",
+      "description": "Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityUpdateMatter": {
+      "id": "Relativity/RelativityUpdateMatter",
+      "title": "RelativityUpdateMatter Step | Sequence Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Relativity/RelativityUpdateObject": {
+      "id": "Relativity/RelativityUpdateObject",
+      "title": "RelativityUpdateObject Step | Sequence Connector for Relativity Documentation",
+      "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Rest": {
+      "id": "Rest",
+      "title": "All Steps | REST Connector Documentation",
+      "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.",
+      "sidebar": "steps"
+    },
+    "Rest/RESTDelete": {
+      "id": "Rest/RESTDelete",
+      "title": "RESTDelete Step | REST Connector Documentation",
+      "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Rest/RESTGetJSON": {
+      "id": "Rest/RESTGetJSON",
+      "title": "RESTGetJSON Step | REST Connector Documentation",
+      "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Rest/RESTGetStream": {
+      "id": "Rest/RESTGetStream",
+      "title": "RESTGetStream Step | REST Connector Documentation",
+      "description": "Get data from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Rest/RESTPatch": {
+      "id": "Rest/RESTPatch",
+      "title": "RESTPatch Step | REST Connector Documentation",
+      "description": "Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Rest/RESTPost": {
+      "id": "Rest/RESTPost",
+      "title": "RESTPost Step | REST Connector Documentation",
+      "description": "Create a REST resource and return the id of the created resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Rest/RESTPut": {
+      "id": "Rest/RESTPut",
+      "title": "RESTPut Step | REST Connector Documentation",
+      "description": "Executes a REST Put request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Singer": {
+      "id": "Singer",
+      "title": "All Steps | Singer Target Documentation",
+      "description": "List of all steps for Singer Target. Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.",
+      "sidebar": "steps"
+    },
+    "Singer/FromSinger": {
+      "id": "Singer/FromSinger",
+      "title": "FromSinger Step | Singer Target Documentation",
+      "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql": {
+      "id": "Sql",
+      "title": "All Steps | SQL Database Connector Documentation",
+      "description": "List of all steps for SQL Database Connector. Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+      "sidebar": "steps"
+    },
+    "Sql/CreateMsSQLConnectionString": {
+      "id": "Sql/CreateMsSQLConnectionString",
+      "title": "CreateMsSQLConnectionString Step | SQL Database Connector Documentation",
+      "description": "Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql/CreateMySQLConnectionString": {
+      "id": "Sql/CreateMySQLConnectionString",
+      "title": "CreateMySQLConnectionString Step | SQL Database Connector Documentation",
+      "description": "Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql/CreatePostgresConnectionString": {
+      "id": "Sql/CreatePostgresConnectionString",
+      "title": "CreatePostgresConnectionString Step | SQL Database Connector Documentation",
+      "description": "Creates a PostgreSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql/OpenConnection": {
+      "id": "Sql/OpenConnection",
+      "title": "OpenConnection Step | SQL Database Connector Documentation",
+      "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql/SqlCommand": {
+      "id": "Sql/SqlCommand",
+      "title": "SqlCommand Step | SQL Database Connector Documentation",
+      "description": "Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql/SqlCreateSchemaFromTable": {
+      "id": "Sql/SqlCreateSchemaFromTable",
+      "title": "SqlCreateSchemaFromTable Step | SQL Database Connector Documentation",
+      "description": "Creates a Schema entity from a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql/SqlCreateTable": {
+      "id": "Sql/SqlCreateTable",
+      "title": "SqlCreateTable Step | SQL Database Connector Documentation",
+      "description": "Create a SQL table from a given schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql/SqlInsert": {
+      "id": "Sql/SqlInsert",
+      "title": "SqlInsert Step | SQL Database Connector Documentation",
+      "description": "Inserts data into a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Sql/SqlQuery": {
+      "id": "Sql/SqlQuery",
+      "title": "SqlQuery Step | SQL Database Connector Documentation",
+      "description": "Executes a SQL query and returns the result as an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData": {
+      "id": "StructuredData",
+      "title": "All Steps | Structured Data Connector Documentation",
+      "description": "List of all steps for Structured Data Connector. Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+      "sidebar": "steps"
+    },
+    "StructuredData/FromConcordance": {
+      "id": "StructuredData/FromConcordance",
+      "title": "FromConcordance Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/FromCSV": {
+      "id": "StructuredData/FromCSV",
+      "title": "FromCSV Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a CSV stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/FromIDX": {
+      "id": "StructuredData/FromIDX",
+      "title": "FromIDX Step | Structured Data Connector Documentation",
+      "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/FromJson": {
+      "id": "StructuredData/FromJson",
+      "title": "FromJson Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/FromJsonArray": {
+      "id": "StructuredData/FromJsonArray",
+      "title": "FromJsonArray Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/FromXml": {
+      "id": "StructuredData/FromXml",
+      "title": "FromXml Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Xml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/FromXmlArray": {
+      "id": "StructuredData/FromXmlArray",
+      "title": "FromXmlArray Step | Structured Data Connector Documentation",
+      "description": "Extracts entities from a Xml stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/FromYaml": {
+      "id": "StructuredData/FromYaml",
+      "title": "FromYaml Step | Structured Data Connector Documentation",
+      "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/ToConcordance": {
+      "id": "StructuredData/ToConcordance",
+      "title": "ToConcordance Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in concordance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/ToCSV": {
+      "id": "StructuredData/ToCSV",
+      "title": "ToCSV Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/ToIDX": {
+      "id": "StructuredData/ToIDX",
+      "title": "ToIDX Step | Structured Data Connector Documentation",
+      "description": "Write an entity to a stream in IDX format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/ToJson": {
+      "id": "StructuredData/ToJson",
+      "title": "ToJson Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in JSON format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/ToJsonArray": {
+      "id": "StructuredData/ToJsonArray",
+      "title": "ToJsonArray Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in Json format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/ToXml": {
+      "id": "StructuredData/ToXml",
+      "title": "ToXml Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in XML format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/ToXmlArray": {
+      "id": "StructuredData/ToXmlArray",
+      "title": "ToXmlArray Step | Structured Data Connector Documentation",
+      "description": "Write entities to a stream in Xml format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "StructuredData/ToYaml": {
+      "id": "StructuredData/ToYaml",
+      "title": "ToYaml Step | Structured Data Connector Documentation",
+      "description": "Writes an entity to a stream in YAML format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Tesseract": {
+      "id": "Tesseract",
+      "title": "All Steps | Tesseract OCR Connector Documentation",
+      "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.",
+      "sidebar": "steps"
+    },
+    "Tesseract/GetImageFormat": {
+      "id": "Tesseract/GetImageFormat",
+      "title": "GetImageFormat Step | Tesseract OCR Connector Documentation",
+      "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "Tesseract/TesseractOCR": {
+      "id": "Tesseract/TesseractOCR",
+      "title": "TesseractOCR Step | Tesseract OCR Connector Documentation",
+      "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "TSK": {
+      "id": "TSK",
+      "title": "All Steps | TSK Connector Documentation",
+      "description": "List of all steps for TSK Connector. Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+      "sidebar": "steps"
+    },
+    "TSK/AutopsyAddDataSource": {
+      "id": "TSK/AutopsyAddDataSource",
+      "title": "AutopsyAddDataSource Step | TSK Connector Documentation",
+      "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "TSK/AutopsyCreateNewCase": {
+      "id": "TSK/AutopsyCreateNewCase",
+      "title": "AutopsyCreateNewCase Step | TSK Connector Documentation",
+      "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "TSK/AutopsyGenerateReports": {
+      "id": "TSK/AutopsyGenerateReports",
+      "title": "AutopsyGenerateReports Step | TSK Connector Documentation",
+      "description": "Generate Reports. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    },
+    "TSK/AutopsyListDataSources": {
+      "id": "TSK/AutopsyListDataSources",
+      "title": "AutopsyListDataSources Step | TSK Connector Documentation",
+      "description": "List all Data Sources in an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "sidebar": "steps"
+    }
+  }
+}

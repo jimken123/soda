@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/tesseract/tesseract",
+  "id": "version-v0.18.0/examples/connectors/tesseract/tesseract",
+  "title": "Tesseract Connector Examples",
+  "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows.",
+  "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/tesseract/tesseract.md",
+  "sourceDirName": "examples/connectors/tesseract",
+  "slug": "/examples/connectors/tesseract/",
+  "permalink": "/docs/examples/connectors/tesseract/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/tesseract/tesseract.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Tesseract Connector",
+    "sidebar_position": 0,
+    "description": "Learn how to include Tesseract OCR in automated forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Working with CSV Files",
+    "permalink": "/docs/examples/connectors/structureddata/csv-files"
+  },
+  "next": {
+    "title": "The Sleuth Kit Connector",
+    "permalink": "/docs/examples/connectors/tsk/"
+  }
+}

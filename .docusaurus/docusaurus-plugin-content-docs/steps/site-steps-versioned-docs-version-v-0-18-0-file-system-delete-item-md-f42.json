@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/DeleteItem",
+  "id": "version-v0.18.0/FileSystem/DeleteItem",
+  "title": "DeleteItem Step | File System Connector Documentation",
+  "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/FileSystem/DeleteItem.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/DeleteItem",
+  "permalink": "/steps/FileSystem/DeleteItem",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/DeleteItem.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/tags/file-system"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "DeleteItem Step | File System Connector Documentation",
+    "sidebar_label": "DeleteItem",
+    "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FileSystem",
+    "permalink": "/steps/FileSystem"
+  },
+  "next": {
+    "title": "DirectoryCopy",
+    "permalink": "/steps/FileSystem/DirectoryCopy"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/relativity/relativity",
+  "id": "version-v0.16.0/examples/connectors/relativity/relativity",
+  "title": "Sequence Connector for Relativity® Examples",
+  "description": "Examples of how to use Sequence to include Relativity in automated end-to-end forensic and ediscovery workflows.",
+  "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity.md",
+  "sourceDirName": "examples/connectors/relativity",
+  "slug": "/examples/connectors/relativity/",
+  "permalink": "/docs/v0.16.0/examples/connectors/relativity/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/relativity/relativity.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Sequence Connector for Relativity",
+    "sidebar_position": 0,
+    "description": "Examples of how to use Sequence to include Relativity in automated end-to-end forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Download CSV",
+    "permalink": "/docs/v0.16.0/examples/connectors/powershell/download-csv"
+  },
+  "next": {
+    "title": "Create Workspace",
+    "permalink": "/docs/v0.16.0/examples/connectors/relativity/relativity-create-workspace"
+  }
+}

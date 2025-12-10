@@ -1,0 +1,43 @@
+{
+  "unversionedId": "StructuredData/FromIDX",
+  "id": "StructuredData/FromIDX",
+  "title": "FromIDX Step | Structured Data Connector Documentation",
+  "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/StructuredData/FromIDX.md",
+  "sourceDirName": "StructuredData",
+  "slug": "/StructuredData/FromIDX",
+  "permalink": "/steps/next/StructuredData/FromIDX",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/StructuredData/FromIDX.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "StructuredData",
+      "permalink": "/steps/next/tags/structured-data"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "FromIDX Step | Structured Data Connector Documentation",
+    "sidebar_label": "FromIDX",
+    "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "StructuredData"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FromConcordance",
+    "permalink": "/steps/next/StructuredData/FromConcordance"
+  },
+  "next": {
+    "title": "FromJson",
+    "permalink": "/steps/next/StructuredData/FromJson"
+  }
+}

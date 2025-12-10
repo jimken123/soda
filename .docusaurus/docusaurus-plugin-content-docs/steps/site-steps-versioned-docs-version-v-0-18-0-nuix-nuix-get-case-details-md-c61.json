@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixGetCaseDetails",
+  "id": "version-v0.18.0/Nuix/NuixGetCaseDetails",
+  "title": "NuixGetCaseDetails Step | Nuix Connector Documentation",
+  "description": "Returns an Entity with information about the current case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetCaseDetails.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixGetCaseDetails",
+  "permalink": "/steps/Nuix/NuixGetCaseDetails",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetCaseDetails.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/tags/nuix"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "NuixGetCaseDetails Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixGetCaseDetails",
+    "description": "Returns an Entity with information about the current case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixGetAuditedSize",
+    "permalink": "/steps/Nuix/NuixGetAuditedSize"
+  },
+  "next": {
+    "title": "NuixGetItemProperties",
+    "permalink": "/steps/Nuix/NuixGetItemProperties"
+  }
+}

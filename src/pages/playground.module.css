@@ -1,0 +1,43 @@
+.bannerRow {
+  justify-content: center;
+  align-items: center;
+}
+
+.banner {
+  width: 60%;
+  box-shadow: var(--ifm-global-shadow-md);
+}
+
+@media screen and (max-width: 966px) {
+  .banner {
+    width: 80%;
+  }
+}
+
+.header {
+  color: #244b5c;
+  text-align: center;
+}
+
+html[data-theme='dark'] .header {
+  color: #c85a16;
+}
+
+.buttonRow {
+  text-align: center;
+}
+
+.buttonYes,
+.buttonNo {
+  min-width: 300px;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+@media screen and (max-width: 966px) {
+  .buttonYes,
+  .buttonNo {
+    min-width: 100px;
+    width: 100%;
+  }
+}

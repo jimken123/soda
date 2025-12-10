@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringSplit",
+  "id": "version-v0.16.0/Core/StringSplit",
+  "title": "StringSplit Step | Core SDK Documentation",
+  "description": "Splits a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringSplit.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringSplit",
+  "permalink": "/steps/v0.16.0/Core/StringSplit",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringSplit.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.16.0/tags/core"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "StringSplit Step | Core SDK Documentation",
+    "sidebar_label": "StringSplit",
+    "description": "Splits a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StringReplace",
+    "permalink": "/steps/v0.16.0/Core/StringReplace"
+  },
+  "next": {
+    "title": "StringSubstring",
+    "permalink": "/steps/v0.16.0/Core/StringSubstring"
+  }
+}

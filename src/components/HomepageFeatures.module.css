@@ -1,0 +1,26 @@
+.features {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+@media screen and (max-width: 992px) {
+  .feature {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .feature {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/DirectoryCopy",
+  "id": "FileSystem/DirectoryCopy",
+  "title": "DirectoryCopy Step | File System Connector Documentation",
+  "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/FileSystem/DirectoryCopy.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/DirectoryCopy",
+  "permalink": "/steps/next/FileSystem/DirectoryCopy",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/DirectoryCopy.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/next/tags/file-system"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "DirectoryCopy Step | File System Connector Documentation",
+    "sidebar_label": "DirectoryCopy",
+    "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DeleteItem",
+    "permalink": "/steps/next/FileSystem/DeleteItem"
+  },
+  "next": {
+    "title": "DirectoryCreate",
+    "permalink": "/steps/next/FileSystem/DirectoryCreate"
+  }
+}

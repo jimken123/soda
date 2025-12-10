@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/EntityCombine",
+  "id": "Core/EntityCombine",
+  "title": "EntityCombine Step | Core SDK Documentation",
+  "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/EntityCombine.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/EntityCombine",
+  "permalink": "/steps/next/Core/EntityCombine",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntityCombine.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "EntityCombine Step | Core SDK Documentation",
+    "sidebar_label": "EntityCombine",
+    "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "DoubleSum",
+    "permalink": "/steps/next/Core/DoubleSum"
+  },
+  "next": {
+    "title": "EntityFlatten",
+    "permalink": "/steps/next/Core/EntityFlatten"
+  }
+}

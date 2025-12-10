@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityUpdateMatter",
+  "id": "Relativity/RelativityUpdateMatter",
+  "title": "RelativityUpdateMatter Step | Sequence Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityUpdateMatter.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityUpdateMatter",
+  "permalink": "/steps/next/Relativity/RelativityUpdateMatter",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityUpdateMatter.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityUpdateMatter Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityUpdateMatter",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityUpdateFolder",
+    "permalink": "/steps/next/Relativity/RelativityUpdateFolder"
+  },
+  "next": {
+    "title": "RelativityUpdateObject",
+    "permalink": "/steps/next/Relativity/RelativityUpdateObject"
+  }
+}

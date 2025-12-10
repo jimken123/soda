@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Transform",
+  "id": "Core/Transform",
+  "title": "Transform Step | Core SDK Documentation",
+  "description": "Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/Transform.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Transform",
+  "permalink": "/steps/next/Core/Transform",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Transform.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Transform Step | Core SDK Documentation",
+    "sidebar_label": "Transform",
+    "description": "Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Sum",
+    "permalink": "/steps/next/Core/Sum"
+  },
+  "next": {
+    "title": "Try",
+    "permalink": "/steps/next/Core/Try"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringToInt",
+  "id": "Core/StringToInt",
+  "title": "StringToInt Step | Core SDK Documentation",
+  "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/StringToInt.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringToInt",
+  "permalink": "/steps/next/Core/StringToInt",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringToInt.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "StringToInt Step | Core SDK Documentation",
+    "sidebar_label": "StringToInt",
+    "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StringToDouble",
+    "permalink": "/steps/next/Core/StringToDouble"
+  },
+  "next": {
+    "title": "StringTrim",
+    "permalink": "/steps/next/Core/StringTrim"
+  }
+}

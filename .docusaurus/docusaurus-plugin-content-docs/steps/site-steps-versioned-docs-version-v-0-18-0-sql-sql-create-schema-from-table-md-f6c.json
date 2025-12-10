@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Sql/SqlCreateSchemaFromTable",
+  "id": "version-v0.18.0/Sql/SqlCreateSchemaFromTable",
+  "title": "SqlCreateSchemaFromTable Step | SQL Database Connector Documentation",
+  "description": "Creates a Schema entity from a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Sql/SqlCreateSchemaFromTable.md",
+  "sourceDirName": "Sql",
+  "slug": "/Sql/SqlCreateSchemaFromTable",
+  "permalink": "/steps/Sql/SqlCreateSchemaFromTable",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Sql/SqlCreateSchemaFromTable.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Sql",
+      "permalink": "/steps/tags/sql"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "SqlCreateSchemaFromTable Step | SQL Database Connector Documentation",
+    "sidebar_label": "SqlCreateSchemaFromTable",
+    "description": "Creates a Schema entity from a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Sql"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "SqlCommand",
+    "permalink": "/steps/Sql/SqlCommand"
+  },
+  "next": {
+    "title": "SqlCreateTable",
+    "permalink": "/steps/Sql/SqlCreateTable"
+  }
+}

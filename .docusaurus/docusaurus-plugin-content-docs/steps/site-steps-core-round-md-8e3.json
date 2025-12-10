@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Round",
+  "id": "Core/Round",
+  "title": "Round Step | Core SDK Documentation",
+  "description": "Round an SCL double to a fixed number of decimal places. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/Round.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Round",
+  "permalink": "/steps/next/Core/Round",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Round.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Round Step | Core SDK Documentation",
+    "sidebar_label": "Round",
+    "description": "Round an SCL double to a fixed number of decimal places. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Repeat",
+    "permalink": "/steps/next/Core/Repeat"
+  },
+  "next": {
+    "title": "RunExternalProcess",
+    "permalink": "/steps/next/Core/RunExternalProcess"
+  }
+}

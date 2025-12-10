@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Sql/SqlInsert",
+  "id": "version-v0.18.0/Sql/SqlInsert",
+  "title": "SqlInsert Step | SQL Database Connector Documentation",
+  "description": "Inserts data into a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.18.0/Sql/SqlInsert.md",
+  "sourceDirName": "Sql",
+  "slug": "/Sql/SqlInsert",
+  "permalink": "/steps/Sql/SqlInsert",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Sql/SqlInsert.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/tags/step"
+    },
+    {
+      "label": "Sql",
+      "permalink": "/steps/tags/sql"
+    }
+  ],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "SqlInsert Step | SQL Database Connector Documentation",
+    "sidebar_label": "SqlInsert",
+    "description": "Inserts data into a SQL table. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Sql"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "SqlCreateTable",
+    "permalink": "/steps/Sql/SqlCreateTable"
+  },
+  "next": {
+    "title": "SqlQuery",
+    "permalink": "/steps/Sql/SqlQuery"
+  }
+}

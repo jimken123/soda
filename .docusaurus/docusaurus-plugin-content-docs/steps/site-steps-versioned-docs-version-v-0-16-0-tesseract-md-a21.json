@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Tesseract",
+  "id": "version-v0.16.0/Tesseract",
+  "title": "All Steps | Tesseract OCR Connector Documentation",
+  "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Tesseract.md",
+  "sourceDirName": ".",
+  "slug": "/Tesseract",
+  "permalink": "/steps/v0.16.0/Tesseract",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Tesseract.md",
+  "tags": [
+    {
+      "label": "Contents",
+      "permalink": "/steps/v0.16.0/tags/contents"
+    },
+    {
+      "label": "Tesseract",
+      "permalink": "/steps/v0.16.0/tags/tesseract"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "All Steps | Tesseract OCR Connector Documentation",
+    "sidebar_label": "Tesseract",
+    "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.",
+    "tags": [
+      "Contents",
+      "Tesseract"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "AutopsyListDataSources",
+    "permalink": "/steps/v0.16.0/TSK/AutopsyListDataSources"
+  },
+  "next": {
+    "title": "GetImageFormat",
+    "permalink": "/steps/v0.16.0/Tesseract/GetImageFormat"
+  }
+}

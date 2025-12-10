@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Modulo",
+  "id": "Core/Modulo",
+  "title": "Modulo Step | Core SDK Documentation",
+  "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/Modulo.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Modulo",
+  "permalink": "/steps/next/Core/Modulo",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Modulo.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Modulo Step | Core SDK Documentation",
+    "sidebar_label": "Modulo",
+    "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Log",
+    "permalink": "/steps/next/Core/Log"
+  },
+  "next": {
+    "title": "Not",
+    "permalink": "/steps/next/Core/Not"
+  }
+}

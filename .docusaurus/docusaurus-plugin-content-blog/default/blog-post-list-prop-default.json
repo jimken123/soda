@@ -1,0 +1,13 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Performance Improvements in v0.18.0",
+      "permalink": "/blog/performance-improvements-in-v0.18.0"
+    },
+    {
+      "title": "Wrangling Dates with SCL",
+      "permalink": "/blog/wrangling-dates-with-scl"
+    }
+  ]
+}

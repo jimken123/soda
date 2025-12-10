@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/EntityGetProperties",
+  "id": "Core/EntityGetProperties",
+  "title": "EntityGetProperties Step | Core SDK Documentation",
+  "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/EntityGetProperties.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/EntityGetProperties",
+  "permalink": "/steps/next/Core/EntityGetProperties",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntityGetProperties.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "EntityGetProperties Step | Core SDK Documentation",
+    "sidebar_label": "EntityGetProperties",
+    "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "EntityFormat",
+    "permalink": "/steps/next/Core/EntityFormat"
+  },
+  "next": {
+    "title": "EntityGetValue",
+    "permalink": "/steps/next/Core/EntityGetValue"
+  }
+}

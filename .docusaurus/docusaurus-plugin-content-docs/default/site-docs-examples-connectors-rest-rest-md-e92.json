@@ -1,0 +1,29 @@
+{
+  "unversionedId": "examples/connectors/rest/rest",
+  "id": "examples/connectors/rest/rest",
+  "title": "REST Connector Examples",
+  "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows.",
+  "source": "@site/docs/examples/connectors/rest/rest.md",
+  "sourceDirName": "examples/connectors/rest",
+  "slug": "/examples/connectors/rest/",
+  "permalink": "/docs/next/examples/connectors/rest/",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/rest/rest.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "REST Connector",
+    "sidebar_position": 0,
+    "description": "Examples of how to automatically generate steps from OpenAPI specifications, and include them in your automated forensic and ediscovery workflows."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Search and Tag Items",
+    "permalink": "/docs/next/examples/connectors/relativity/relativity-search-and-tag"
+  },
+  "next": {
+    "title": "Create Reveal Folder",
+    "permalink": "/docs/next/examples/connectors/rest/reveal-create-folder"
+  }
+}

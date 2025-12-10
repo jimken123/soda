@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/rest/reveal-get-cases",
+  "id": "version-v0.17.0/examples/connectors/rest/reveal-get-cases",
+  "title": "Get Reveal Cases | REST Connector Examples",
+  "description": "This example will",
+  "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/rest/reveal-get-cases.md",
+  "sourceDirName": "examples/connectors/rest",
+  "slug": "/examples/connectors/rest/reveal-get-cases",
+  "permalink": "/docs/v0.17.0/examples/connectors/rest/reveal-get-cases",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/rest/reveal-get-cases.md",
+  "tags": [],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "Get Reveal Cases | REST Connector Examples",
+    "sidebar_label": "Get Reveal Cases"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get Reveal Case Statistics",
+    "permalink": "/docs/v0.17.0/examples/connectors/rest/reveal-get-case-statistics"
+  },
+  "next": {
+    "title": "Singer Connector",
+    "permalink": "/docs/v0.17.0/examples/connectors/singer/"
+  }
+}

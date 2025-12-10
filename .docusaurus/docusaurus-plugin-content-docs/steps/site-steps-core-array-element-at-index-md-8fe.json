@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayElementAtIndex",
+  "id": "Core/ArrayElementAtIndex",
+  "title": "ArrayElementAtIndex Step | Core SDK Documentation",
+  "description": "Gets the array element at a particular index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayElementAtIndex.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayElementAtIndex",
+  "permalink": "/steps/next/Core/ArrayElementAtIndex",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayElementAtIndex.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayElementAtIndex Step | Core SDK Documentation",
+    "sidebar_label": "ArrayElementAtIndex",
+    "description": "Gets the array element at a particular index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ArrayDistinct",
+    "permalink": "/steps/next/Core/ArrayDistinct"
+  },
+  "next": {
+    "title": "ArrayFilter",
+    "permalink": "/steps/next/Core/ArrayFilter"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "connectors/nuix",
+  "id": "version-v0.16.0/connectors/nuix",
+  "title": "Nuix Connector",
+  "description": "Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+  "source": "@site/versioned_docs/version-v0.16.0/connectors/nuix.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/nuix",
+  "permalink": "/docs/v0.16.0/connectors/nuix",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/connectors/nuix.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "description": "Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "File System Connector",
+    "permalink": "/docs/v0.16.0/connectors/filesystem"
+  },
+  "next": {
+    "title": "PowerShell Connector",
+    "permalink": "/docs/v0.16.0/connectors/powershell"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Enums/ExportTraversalStrategy",
+  "id": "Enums/ExportTraversalStrategy",
+  "title": "ExportTraversalStrategy | Enums",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Enums/ExportTraversalStrategy.md",
+  "sourceDirName": "Enums",
+  "slug": "/Enums/ExportTraversalStrategy",
+  "permalink": "/steps/next/Enums/ExportTraversalStrategy",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/ExportTraversalStrategy.md",
+  "tags": [
+    {
+      "label": "Enums",
+      "permalink": "/steps/next/tags/enums"
+    },
+    {
+      "label": "Unit",
+      "permalink": "/steps/next/tags/unit"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ExportTraversalStrategy | Enums",
+    "sidebar_label": "ExportTraversalStrategy",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Enums",
+      "Unit"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ExportSortOrder",
+    "permalink": "/steps/next/Enums/ExportSortOrder"
+  },
+  "next": {
+    "title": "FileImportType",
+    "permalink": "/steps/next/Enums/FileImportType"
+  }
+}

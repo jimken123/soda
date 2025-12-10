@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Relativity/RelativityGetMatterStatuses",
+  "id": "Relativity/RelativityGetMatterStatuses",
+  "title": "RelativityGetMatterStatuses Step | Sequence Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Relativity/RelativityGetMatterStatuses.md",
+  "sourceDirName": "Relativity",
+  "slug": "/Relativity/RelativityGetMatterStatuses",
+  "permalink": "/steps/next/Relativity/RelativityGetMatterStatuses",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityGetMatterStatuses.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Relativity",
+      "permalink": "/steps/next/tags/relativity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "RelativityGetMatterStatuses Step | Sequence Connector for Relativity Documentation",
+    "sidebar_label": "RelativityGetMatterStatuses",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Relativity"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RelativityGetClients",
+    "permalink": "/steps/next/Relativity/RelativityGetClients"
+  },
+  "next": {
+    "title": "RelativityGetSubfolders",
+    "permalink": "/steps/next/Relativity/RelativityGetSubfolders"
+  }
+}

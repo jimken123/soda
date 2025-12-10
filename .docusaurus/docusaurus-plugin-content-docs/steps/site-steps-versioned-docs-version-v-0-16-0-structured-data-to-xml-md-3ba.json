@@ -1,0 +1,43 @@
+{
+  "unversionedId": "StructuredData/ToXml",
+  "id": "version-v0.16.0/StructuredData/ToXml",
+  "title": "ToXml Step | Structured Data Connector Documentation",
+  "description": "Writes an entity to a stream in XML format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/StructuredData/ToXml.md",
+  "sourceDirName": "StructuredData",
+  "slug": "/StructuredData/ToXml",
+  "permalink": "/steps/v0.16.0/StructuredData/ToXml",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/StructuredData/ToXml.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "StructuredData",
+      "permalink": "/steps/v0.16.0/tags/structured-data"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "ToXml Step | Structured Data Connector Documentation",
+    "sidebar_label": "ToXml",
+    "description": "Writes an entity to a stream in XML format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "StructuredData"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "ToJsonArray",
+    "permalink": "/steps/v0.16.0/StructuredData/ToJsonArray"
+  },
+  "next": {
+    "title": "ToXmlArray",
+    "permalink": "/steps/v0.16.0/StructuredData/ToXmlArray"
+  }
+}

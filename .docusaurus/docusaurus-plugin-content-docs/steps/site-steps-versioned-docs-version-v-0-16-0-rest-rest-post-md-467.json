@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Rest/RESTPost",
+  "id": "version-v0.16.0/Rest/RESTPost",
+  "title": "RESTPost Step | REST Connector Documentation",
+  "description": "Create a REST resource and return the id of the created resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Rest/RESTPost.md",
+  "sourceDirName": "Rest",
+  "slug": "/Rest/RESTPost",
+  "permalink": "/steps/v0.16.0/Rest/RESTPost",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Rest/RESTPost.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Rest",
+      "permalink": "/steps/v0.16.0/tags/rest"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "RESTPost Step | REST Connector Documentation",
+    "sidebar_label": "RESTPost",
+    "description": "Create a REST resource and return the id of the created resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Rest"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "RESTPatch",
+    "permalink": "/steps/v0.16.0/Rest/RESTPatch"
+  },
+  "next": {
+    "title": "RESTPut",
+    "permalink": "/steps/v0.16.0/Rest/RESTPut"
+  }
+}

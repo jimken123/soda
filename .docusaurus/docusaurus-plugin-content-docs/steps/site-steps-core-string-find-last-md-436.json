@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/StringFindLast",
+  "id": "Core/StringFindLast",
+  "title": "StringFindLast Step | Core SDK Documentation",
+  "description": "Gets the last instance of substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/StringFindLast.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/StringFindLast",
+  "permalink": "/steps/next/Core/StringFindLast",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringFindLast.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "StringFindLast Step | Core SDK Documentation",
+    "sidebar_label": "StringFindLast",
+    "description": "Gets the last instance of substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "StringFind",
+    "permalink": "/steps/next/Core/StringFind"
+  },
+  "next": {
+    "title": "StringInterpolate",
+    "permalink": "/steps/next/Core/StringInterpolate"
+  }
+}

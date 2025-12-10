@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/ArrayConcat",
+  "id": "Core/ArrayConcat",
+  "title": "ArrayConcat Step | Core SDK Documentation",
+  "description": "Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Core/ArrayConcat.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/ArrayConcat",
+  "permalink": "/steps/next/Core/ArrayConcat",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayConcat.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/next/tags/core"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "ArrayConcat Step | Core SDK Documentation",
+    "sidebar_label": "ArrayConcat",
+    "description": "Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "And",
+    "permalink": "/steps/next/Core/And"
+  },
+  "next": {
+    "title": "ArrayDistinct",
+    "permalink": "/steps/next/Core/ArrayDistinct"
+  }
+}

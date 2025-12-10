@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixOpenCase",
+  "id": "Nuix/NuixOpenCase",
+  "title": "NuixOpenCase Step | Nuix Connector Documentation",
+  "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixOpenCase.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixOpenCase",
+  "permalink": "/steps/next/Nuix/NuixOpenCase",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixOpenCase.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixOpenCase Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixOpenCase",
+    "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixMigrateCase",
+    "permalink": "/steps/next/Nuix/NuixMigrateCase"
+  },
+  "next": {
+    "title": "NuixOpenConnection",
+    "permalink": "/steps/next/Nuix/NuixOpenConnection"
+  }
+}

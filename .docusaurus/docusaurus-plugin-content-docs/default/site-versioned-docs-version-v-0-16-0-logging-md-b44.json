@@ -1,0 +1,28 @@
+{
+  "unversionedId": "logging",
+  "id": "version-v0.16.0/logging",
+  "title": "Logging Configuration",
+  "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Sequence. Documentation and examples including structured logging, scopes, and NLog targets.",
+  "source": "@site/versioned_docs/version-v0.16.0/logging.md",
+  "sourceDirName": ".",
+  "slug": "/logging",
+  "permalink": "/docs/v0.16.0/logging",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/logging.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "Logging Configuration",
+    "sidebar_label": "Logging",
+    "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Sequence. Documentation and examples including structured logging, scopes, and NLog targets."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Application Settings",
+    "permalink": "/docs/v0.16.0/application-settings"
+  },
+  "next": {
+    "title": "Developers' Guide",
+    "permalink": "/docs/v0.16.0/developers-guide"
+  }
+}

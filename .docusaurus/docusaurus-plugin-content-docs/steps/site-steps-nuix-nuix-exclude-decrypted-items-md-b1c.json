@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixExcludeDecryptedItems",
+  "id": "Nuix/NuixExcludeDecryptedItems",
+  "title": "NuixExcludeDecryptedItems Step | Nuix Connector Documentation",
+  "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixExcludeDecryptedItems.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixExcludeDecryptedItems",
+  "permalink": "/steps/next/Nuix/NuixExcludeDecryptedItems",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixExcludeDecryptedItems.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixExcludeDecryptedItems Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixExcludeDecryptedItems",
+    "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixDoesCaseExist",
+    "permalink": "/steps/next/Nuix/NuixDoesCaseExist"
+  },
+  "next": {
+    "title": "NuixExportConcordance",
+    "permalink": "/steps/next/Nuix/NuixExportConcordance"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Core/Divide",
+  "id": "version-v0.16.0/Core/Divide",
+  "title": "Divide Step | Core SDK Documentation",
+  "description": "Divide an integer by a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Divide.md",
+  "sourceDirName": "Core",
+  "slug": "/Core/Divide",
+  "permalink": "/steps/v0.16.0/Core/Divide",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Divide.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/v0.16.0/tags/step"
+    },
+    {
+      "label": "Core",
+      "permalink": "/steps/v0.16.0/tags/core"
+    }
+  ],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "Divide Step | Core SDK Documentation",
+    "sidebar_label": "Divide",
+    "description": "Divide an integer by a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Core"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "Delay",
+    "permalink": "/steps/v0.16.0/Core/Delay"
+  },
+  "next": {
+    "title": "DoNothing",
+    "permalink": "/steps/v0.16.0/Core/DoNothing"
+  }
+}

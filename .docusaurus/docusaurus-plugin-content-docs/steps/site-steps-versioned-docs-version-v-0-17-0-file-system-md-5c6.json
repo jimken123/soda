@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem",
+  "id": "version-v0.17.0/FileSystem",
+  "title": "All Steps | File System Connector Documentation",
+  "description": "List of all steps for File System Connector. Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
+  "source": "@site/steps_versioned_docs/version-v0.17.0/FileSystem.md",
+  "sourceDirName": ".",
+  "slug": "/FileSystem",
+  "permalink": "/steps/v0.17.0/FileSystem",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/FileSystem.md",
+  "tags": [
+    {
+      "label": "Contents",
+      "permalink": "/steps/v0.17.0/tags/contents"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/v0.17.0/tags/file-system"
+    }
+  ],
+  "version": "v0.17.0",
+  "frontMatter": {
+    "title": "All Steps | File System Connector Documentation",
+    "sidebar_label": "FileSystem",
+    "description": "List of all steps for File System Connector. Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
+    "tags": [
+      "Contents",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "UpdateBehaviour",
+    "permalink": "/steps/v0.17.0/Enums/UpdateBehaviour"
+  },
+  "next": {
+    "title": "DeleteItem",
+    "permalink": "/steps/v0.17.0/FileSystem/DeleteItem"
+  }
+}

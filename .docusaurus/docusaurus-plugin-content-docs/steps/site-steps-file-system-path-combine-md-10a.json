@@ -1,0 +1,43 @@
+{
+  "unversionedId": "FileSystem/PathCombine",
+  "id": "FileSystem/PathCombine",
+  "title": "PathCombine Step | File System Connector Documentation",
+  "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/FileSystem/PathCombine.md",
+  "sourceDirName": "FileSystem",
+  "slug": "/FileSystem/PathCombine",
+  "permalink": "/steps/next/FileSystem/PathCombine",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/PathCombine.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "FileSystem",
+      "permalink": "/steps/next/tags/file-system"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "PathCombine Step | File System Connector Documentation",
+    "sidebar_label": "PathCombine",
+    "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "FileSystem"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "FileWrite",
+    "permalink": "/steps/next/FileSystem/FileWrite"
+  },
+  "next": {
+    "title": "Microsoft365",
+    "permalink": "/steps/next/Microsoft365"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "label": "FileSystem",
+  "permalink": "/steps/next/tags/file-system",
+  "allTagsPath": "/steps/next/tags",
+  "count": 14,
+  "items": [
+    {
+      "id": "FileSystem",
+      "title": "All Steps | File System Connector Documentation",
+      "description": "List of all steps for File System Connector. Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
+      "permalink": "/steps/next/FileSystem"
+    },
+    {
+      "id": "FileSystem/DeleteItem",
+      "title": "DeleteItem Step | File System Connector Documentation",
+      "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DeleteItem"
+    },
+    {
+      "id": "FileSystem/DirectoryCopy",
+      "title": "DirectoryCopy Step | File System Connector Documentation",
+      "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryCopy"
+    },
+    {
+      "id": "FileSystem/DirectoryCreate",
+      "title": "DirectoryCreate Step | File System Connector Documentation",
+      "description": "Creates a new directory in the file system. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryCreate"
+    },
+    {
+      "id": "FileSystem/DirectoryExists",
+      "title": "DirectoryExists Step | File System Connector Documentation",
+      "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryExists"
+    },
+    {
+      "id": "FileSystem/DirectoryGetItems",
+      "title": "DirectoryGetItems Step | File System Connector Documentation",
+      "description": "Gets all items in a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryGetItems"
+    },
+    {
+      "id": "FileSystem/DirectoryMove",
+      "title": "DirectoryMove Step | File System Connector Documentation",
+      "description": "Move a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/DirectoryMove"
+    },
+    {
+      "id": "FileSystem/FileCopy",
+      "title": "FileCopy Step | File System Connector Documentation",
+      "description": "Copy a file. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileCopy"
+    },
+    {
+      "id": "FileSystem/FileExists",
+      "title": "FileExists Step | File System Connector Documentation",
+      "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileExists"
+    },
+    {
+      "id": "FileSystem/FileExtract",
+      "title": "FileExtract Step | File System Connector Documentation",
+      "description": "Extract a file in the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileExtract"
+    },
+    {
+      "id": "FileSystem/FileMove",
+      "title": "FileMove Step | File System Connector Documentation",
+      "description": "Move a file. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileMove"
+    },
+    {
+      "id": "FileSystem/FileRead",
+      "title": "FileRead Step | File System Connector Documentation",
+      "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileRead"
+    },
+    {
+      "id": "FileSystem/FileWrite",
+      "title": "FileWrite Step | File System Connector Documentation",
+      "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/FileWrite"
+    },
+    {
+      "id": "FileSystem/PathCombine",
+      "title": "PathCombine Step | File System Connector Documentation",
+      "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "permalink": "/steps/next/FileSystem/PathCombine"
+    }
+  ]
+}

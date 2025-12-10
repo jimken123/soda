@@ -1,0 +1,27 @@
+{
+  "unversionedId": "examples/connectors/filesystem/read-a-file",
+  "id": "version-v0.16.0/examples/connectors/filesystem/read-a-file",
+  "title": "Read a File | File System Connector Examples",
+  "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+  "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/filesystem/read-a-file.md",
+  "sourceDirName": "examples/connectors/filesystem",
+  "slug": "/examples/connectors/filesystem/read-a-file",
+  "permalink": "/docs/v0.16.0/examples/connectors/filesystem/read-a-file",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/filesystem/read-a-file.md",
+  "tags": [],
+  "version": "v0.16.0",
+  "frontMatter": {
+    "title": "Read a File | File System Connector Examples",
+    "sidebar_label": "Read a File"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Extract an Archive",
+    "permalink": "/docs/v0.16.0/examples/connectors/filesystem/extract-an-archive"
+  },
+  "next": {
+    "title": "Write a File",
+    "permalink": "/docs/v0.16.0/examples/connectors/filesystem/write-a-file"
+  }
+}

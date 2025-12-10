@@ -1,0 +1,28 @@
+{
+  "unversionedId": "connectors/core",
+  "id": "version-v0.18.0/connectors/core",
+  "title": "Core SDK",
+  "description": "Easily automate e-discovery and forensic workflows. Core is the Sequence Configuration Language interpereter and an SDK for building connectors.",
+  "source": "@site/versioned_docs/version-v0.18.0/connectors/core.md",
+  "sourceDirName": "connectors",
+  "slug": "/connectors/core",
+  "permalink": "/docs/connectors/core",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/connectors/core.md",
+  "tags": [],
+  "version": "v0.18.0",
+  "frontMatter": {
+    "title": "Core SDK",
+    "sidebar_label": "Core",
+    "description": "Easily automate e-discovery and forensic workflows. Core is the Sequence Configuration Language interpereter and an SDK for building connectors."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Schemas",
+    "permalink": "/docs/schemas"
+  },
+  "next": {
+    "title": "File System Connector",
+    "permalink": "/docs/connectors/filesystem"
+  }
+}

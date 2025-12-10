@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Nuix/NuixAnnotateDocumentIdList",
+  "id": "Nuix/NuixAnnotateDocumentIdList",
+  "title": "NuixAnnotateDocumentIdList Step | Nuix Connector Documentation",
+  "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Nuix/NuixAnnotateDocumentIdList.md",
+  "sourceDirName": "Nuix",
+  "slug": "/Nuix/NuixAnnotateDocumentIdList",
+  "permalink": "/steps/next/Nuix/NuixAnnotateDocumentIdList",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixAnnotateDocumentIdList.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Nuix",
+      "permalink": "/steps/next/tags/nuix"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NuixAnnotateDocumentIdList Step | Nuix Connector Documentation",
+    "sidebar_label": "NuixAnnotateDocumentIdList",
+    "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Nuix"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "NuixAddToProductionSet",
+    "permalink": "/steps/next/Nuix/NuixAddToProductionSet"
+  },
+  "next": {
+    "title": "NuixAssertPrintPreviewState",
+    "permalink": "/steps/next/Nuix/NuixAssertPrintPreviewState"
+  }
+}

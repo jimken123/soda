@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Microsoft365/M365ChannelsRead",
+  "id": "Microsoft365/M365ChannelsRead",
+  "title": "M365ChannelsRead Step | Microsoft 365 Connector Documentation",
+  "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "source": "@site/steps/Microsoft365/M365ChannelsRead.md",
+  "sourceDirName": "Microsoft365",
+  "slug": "/Microsoft365/M365ChannelsRead",
+  "permalink": "/steps/next/Microsoft365/M365ChannelsRead",
+  "draft": false,
+  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Microsoft365/M365ChannelsRead.md",
+  "tags": [
+    {
+      "label": "Step",
+      "permalink": "/steps/next/tags/step"
+    },
+    {
+      "label": "Microsoft365",
+      "permalink": "/steps/next/tags/microsoft-365"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "M365ChannelsRead Step | Microsoft 365 Connector Documentation",
+    "sidebar_label": "M365ChannelsRead",
+    "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "tags": [
+      "Step",
+      "Microsoft365"
+    ],
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "steps",
+  "previous": {
+    "title": "M365ChannelMessagesRead",
+    "permalink": "/steps/next/Microsoft365/M365ChannelMessagesRead"
+  },
+  "next": {
+    "title": "M365ChatsRead",
+    "permalink": "/steps/next/Microsoft365/M365ChatsRead"
+  }
+}
