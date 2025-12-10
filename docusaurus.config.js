@@ -68,7 +68,7 @@ function getNextVersionName() {
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Sequence',
-  tagline: 'Automate the mundane',
+  tagline: 'Automate all the tings',
   url: 'https://sequence.sh',
   baseUrl: '/',
   onBrokenLinks: 'throw',
