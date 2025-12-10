@@ -1,0 +1,83 @@
+---
+title: Transform Concordance File to USSEC Schema | Schema Examples
+sidebar_label: Transform Concordance File
+---
+
+# Transform Concordance File to USSEC Schema
+
+This example converts a concordance load file to match a schema.
+Workflow:
+
+- Load the [USSEC schema](ussec-schema.md) from a file
+- Read the `ExampleLoadFile.dat` file and convert it into an entity stream
+- Convert `File Size` field from a string to an integer
+- Map properties to match the USSEC schema
+- Add missing "SUBJECT" field
+- Transform entities to match the target schema
+- Print the transformed entities
+
+## Resources
+
+- Example concordance file: [ExampleLoadFile.dat](pathname:///example-files/schema/ExampleLoadFile.dat)
+- USSEC Schema file: [ussec-schema.json](pathname:///example-files/schema/ussec-schema.json)
+
+:::caution
+This example requires the [FileSystem](../../connectors/filesystem.md)
+and [StructuredData](../../connectors/structureddata.md) connectors.
+:::
+
+## SCL
+
+Download this SCL file: [transform-concordance-to-ussec.scl](pathname:///example-files/schema/transform-concordance-to-ussec.scl)
+
+```scl
+- <mappings> = (
+    'FIRSTBATES': "BEGINBATES"
+    'LASTBATES': "ENDBATES"
+    'ATTACHRANGE': "ATTACH_DOCID"
+    'BEGATTACH': "BEGINGROUP"
+    'ENDATTACH': "ENDGROUP"
+    'PARENT_BATES': "PARENT_DOCID"
+    'FROM': "From"
+    'TO': "To"
+    'CC': "Cc"
+    'BCC': "Bcc"
+    'FILE_NAME': "Name"
+    'LINK': "ITEMPATH"
+    'MIME_TYPE': "File Type"
+    'FILE_EXTEN': "File Extension (Original)"
+    'AUTHOR': "Author"
+    'LAST_AUTHOR': "Last Author"
+    'DATE_CREATED': "File Created"
+    'TIME_CREATED/TIME_ZONE': "File Created"
+    'DATE_MOD': "File Modified"
+    'TIME_MOD/TIME_ZONE': "File Modified"
+    'DATE_ACCESSD': "File Accessed"
+    'TIME_ACCESSD/TIME_ZONE': "File Accessed"
+    'PRINTED_DATE': "Last Printed"
+    'FILE_SIZE': "File Size"
+    'PGCOUNT': "PAGECOUNT"
+    'PATH': "Path Name"
+    'INTMSGID': "GUID"
+    'MD5HASH': "MD5 Digest"
+    'OCRPATH': "TEXTPATH"
+  )
+
+- <schema> = FileRead 'ussec-schema.json' | FromJson
+
+- FileRead 'ExampleLoadFile.dat'
+| FromConcordance # Convert the dat file to an entity stream
+#Change the file size from e.g. 4kb to 4000
+| ArrayMap (EntitySetValue <> "File Size"
+  (
+    if ( StringIsEmpty <>["File Size"])             0 #If File Size is empty, use 0
+    if (StringContains <>["File Size"] "null" true) 0 #If File Size is null, use 0
+    if (StringContains <>["File Size"] "kb" true)   (stringToDouble (stringreplace <>["File Size"] '\s*kb\s*' "" ignorecase: true)) * 1000
+    <>["FileSize"]
+  )
+)
+| EntityMapProperties <mappings> # Rename all the properties
+| ArrayMap (<> + ("SUBJECT" : "")) # Add the subject field
+| Transform <schema> CaseSensitive: false # Transform the entity properties to match the USSEC schema
+| ForEach (Print EntityFormat <>) # Print all entities
+```

@@ -1,0 +1,259 @@
+// @ts-check
+// Note: type annotations allow type checking and IDEs autocompletion
+
+const lightCodeTheme = require('prism-react-renderer/themes/vsLight');
+const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
+const versions = require('./versions.json');
+
+// examples/connectors naming. If not here, first letter is capitalized.
+const ConnectorLookup = {
+  relativity: 'Relativity®',
+  rest: 'REST',
+  sql: 'SQL',
+  structureddata: 'StructuredData',
+  tsk: 'TSK',
+};
+
+function capitalizeCategoryNames(items) {
+  return items.map((i) => {
+    if (i.type === 'category') {
+      if (ConnectorLookup[i.label]) {
+        i.label = ConnectorLookup[i.label];
+      } else {
+        i.label = i.label.charAt(0).toUpperCase() + i.label.slice(1);
+      }
+    }
+    return i;
+  });
+}
+
+async function generateStepsSidebar({
+  defaultSidebarItemsGenerator,
+  numberPrefixParser,
+  item,
+  version,
+  docs,
+}) {
+  const connectors = {};
+  docs.forEach((doc) => {
+    if (doc.sourceDirName === '.') return;
+    const connector = doc.sourceDirName;
+    if (!connectors[connector]) {
+      const newCon = {
+        type: 'category',
+        label: connector,
+        collapsible: true,
+        collapsed: true,
+        link: connector === 'Enums' ? null : { type: 'doc', id: connector },
+        items: [],
+      };
+      connectors[connector] = newCon;
+    }
+    connectors[connector].items.push({ type: 'doc', id: doc.id });
+  });
+  return [{ type: 'doc', id: 'all' }].concat(
+    Object.keys(connectors)
+      .sort()
+      .map((k) => connectors[k])
+  );
+}
+
+function getNextVersionName() {
+  const latest = versions[0];
+  const split = latest.split('.');
+  const next = `${split[0]}.${parseInt(split[1]) + 1}.${split[2]}-alpha 🚧`;
+  return next;
+}
+
+/** @type {import('@docusaurus/types').Config} */
+const config = {
+  title: 'Sequence',
+  tagline: 'Automate the mundane',
+  url: 'https://sequence.sh',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.png',
+  organizationName: 'sequence',
+  projectName: 'sequence-docs',
+  customFields: {
+    homeTitle: 'End-to-end automation for forensics and ediscovery',
+    description:
+      'Flexible and powerful open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.',
+    downloads: 'https://get.sequence.sh',
+  },
+  staticDirectories: ['static', 'playground'],
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
+        docs: {
+          path: 'docs',
+          routeBasePath: 'docs',
+          sidebarPath: require.resolve('./sidebarsDocs.js'),
+          editUrl: 'https://gitlab.com/sequence/sequence-docs/edit/main',
+          sidebarItemsGenerator: async function ({ defaultSidebarItemsGenerator, ...args }) {
+            const sidebarItems = await defaultSidebarItemsGenerator(args);
+            return capitalizeCategoryNames(sidebarItems);
+          },
+          versions: {
+            current: {
+              label: getNextVersionName(),
+            },
+          },
+        },
+        blog: {
+          path: 'blog',
+          routeBasePath: 'blog',
+          editUrl: 'https://gitlab.com/sequence/sequence-docs/edit/main',
+          postsPerPage: 10,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Reductech Ltd`,
+          },
+          blogSidebarCount: 'ALL',
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      }),
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      /** @type {import('@docusaurus/plugin-content-docs').Options} */
+      ({
+        id: 'steps',
+        path: 'steps',
+        routeBasePath: 'steps',
+        sidebarPath: require.resolve('./sidebarsSteps.js'),
+        editUrl: 'https://gitlab.com/sequence/sequence-docs/edit/main',
+        sidebarItemsGenerator: generateStepsSidebar,
+        versions: {
+          current: {
+            label: getNextVersionName(),
+          },
+        },
+      }),
+    ],
+  ],
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
+      navbar: {
+        title: 'Sequence',
+        logo: {
+          alt: 'Sequence Logo',
+          src: 'img/sequence_icon_light_opt.svg',
+          srcDark: 'img/sequence_icon_dark_opt.svg',
+        },
+        hideOnScroll: true,
+        items: [
+          {
+            type: 'docsVersion',
+            docId: 'intro',
+            position: 'left',
+            label: 'Documentation',
+          },
+          {
+            type: 'docsVersion',
+            docsPluginId: 'steps',
+            docId: 'all',
+            position: 'left',
+            label: 'Steps',
+          },
+          { to: 'blog', label: 'Blog', position: 'left' },
+          { href: '/playground', label: 'Playground', position: 'left' },
+          {
+            label: 'Download',
+            href: '/download',
+            position: 'right',
+            className: 'button button-download button--primary button--lg',
+          },
+          {
+            type: 'docsVersionDropdown',
+            position: 'right',
+          },
+          {
+            href: 'https://gitlab.com/sequence',
+            position: 'right',
+            className: 'header-gitlab-link',
+            'aria-label': 'GitLab Repository',
+          },
+        ],
+      },
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Learn',
+            items: [
+              {
+                label: 'Connectors',
+                to: '/docs/quick-start#connectors',
+              },
+              {
+                label: 'Installation and Configuration',
+                to: '/docs/quick-start',
+              },
+              {
+                label: 'Sequence Configuration Language',
+                to: '/docs/sequence-configuration-language',
+              },
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              // {
+              //   label: 'Ask a Question on Discord',
+              //   href: 'https://discordapp.com/invite/docusaurus',
+              // },
+              {
+                label: 'Check out the Source Code',
+                href: 'https://gitlab.com/sequence',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/sequence_sh',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Search',
+                href: '/search',
+              },
+              {
+                label: 'Reductech',
+                href: 'https://reductech.io',
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} Reductech Ltd. Built with <a href="https://docusaurus.io" target="_blank" rel="noopener">Docusaurus</a>. Sequence is a UK registered trademark of Reductech Ltd.`,
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+        additionalLanguages: ['powershell', 'csharp'],
+      },
+      algolia: {
+        appId: 'CKHLUDXFLE',
+        apiKey: 'eefd45babb6696e6fc0fe9943a9d631c',
+        indexName: 'sequence-sh',
+        contextualSearch: true,
+      },
+    }),
+};
+
+module.exports = config;
