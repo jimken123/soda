@@ -4,7 +4,7 @@ description: Easily include Relativity when automating forensic and ediscovery w
 
 # Connector for Relativity®
 
-The Sequence Connector for Relativity® allows users to automate e-discovery workflows using
+The Phoenix Connector for Relativity® allows users to automate e-discovery workflows using
 [Relativity®](https://www.relativity.com/).
 
 This connector has [Steps](/steps/Relativity) to:
@@ -14,11 +14,11 @@ This connector has [Steps](/steps/Relativity) to:
 - Search and tag items
 - Export Data as entities
 
-[Sequence Connector for Relativity® SCL examples available here](../examples/connectors/relativity/relativity.md).
+[Phoenix Connector for Relativity® SCL examples available here](../examples/connectors/relativity/relativity.md).
 
-Source code available on [GitLab](https://gitlab.com/sequence/connectors/relativity).
+Source code available on [GitLab](https://gitlab.com/Phoenix/connectors/relativity).
 
-## Sequence Connector for Relativity® Settings
+## Phoenix Connector for Relativity® Settings
 
 This connector requires additional configuration which can be
 provided using the `settings` key in `connectors.json`.
@@ -37,8 +37,8 @@ provided using the `settings` key in `connectors.json`.
 ### Example Settings
 
 ```json
-"Sequence.Connectors.Relativity": {
-  "id": "Sequence.Connectors.Relativity",
+"Phoenix.Connectors.Relativity": {
+  "id": "Phoenix.Connectors.Relativity",
   "enable": true,
   "version": "0.11.0",
   "settings": {

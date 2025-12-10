@@ -1,7 +1,7 @@
 ---
 title: CreateMsSQLConnectionString Step | SQL Database Connector Documentation
 sidebar_label: CreateMsSQLConnectionString
-description: Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Sql]
 hide_title: true
 hide_table_of_contents: true

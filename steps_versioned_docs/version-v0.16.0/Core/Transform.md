@@ -1,7 +1,7 @@
 ---
 title: Transform Step | Core SDK Documentation
 sidebar_label: Transform
-description: Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

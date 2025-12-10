@@ -2,13 +2,13 @@
   "unversionedId": "Core/GetAutomaticVariable",
   "id": "Core/GetAutomaticVariable",
   "title": "GetAutomaticVariable Step | Core SDK Documentation",
-  "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/GetAutomaticVariable.md",
   "sourceDirName": "Core",
   "slug": "/Core/GetAutomaticVariable",
   "permalink": "/steps/next/Core/GetAutomaticVariable",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/GetAutomaticVariable.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/GetAutomaticVariable.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "GetAutomaticVariable Step | Core SDK Documentation",
     "sidebar_label": "GetAutomaticVariable",
-    "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

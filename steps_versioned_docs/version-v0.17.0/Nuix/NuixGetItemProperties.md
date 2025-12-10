@@ -1,7 +1,7 @@
 ---
 title: NuixGetItemProperties Step | Nuix Connector Documentation
 sidebar_label: NuixGetItemProperties
-description: A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

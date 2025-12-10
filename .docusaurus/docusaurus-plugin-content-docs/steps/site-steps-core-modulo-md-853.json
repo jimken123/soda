@@ -2,13 +2,13 @@
   "unversionedId": "Core/Modulo",
   "id": "Core/Modulo",
   "title": "Modulo Step | Core SDK Documentation",
-  "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/Modulo.md",
   "sourceDirName": "Core",
   "slug": "/Core/Modulo",
   "permalink": "/steps/next/Core/Modulo",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Modulo.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/Modulo.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Modulo Step | Core SDK Documentation",
     "sidebar_label": "Modulo",
-    "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

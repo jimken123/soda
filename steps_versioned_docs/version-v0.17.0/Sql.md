@@ -1,7 +1,7 @@
 ---
 title: All Steps | SQL Database Connector Documentation
 sidebar_label: Sql
-description: List of all steps for SQL Database Connector. Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.
+description: List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.
 tags: [Contents, Sql]
 hide_title: true
 hide_table_of_contents: true

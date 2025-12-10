@@ -1,7 +1,7 @@
 ---
 title: ArrayFilter Step | Core SDK Documentation
 sidebar_label: ArrayFilter
-description: Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

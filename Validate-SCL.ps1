@@ -20,7 +20,7 @@ Get-ChildItem -Path $Path -Recurse -Filter *.md | ForEach-Object {
             $tempFile = New-TemporaryFile
             $scl | Out-File -FilePath $tempFile -Encoding utf8NoBOM
             Write-Verbose $scl
-            $output = ./.sequence/sequence.exe validate path $tempFile
+            $output = ./.Phoenix/Phoenix.exe validate path $tempFile
             if (!$?) {
                 Write-Warning "#################### $([System.IO.Path]::GetRelativePath($cp, $_.FullName)) ####################`n`n$($scl)`n$($output -join "`n")`n"
             }

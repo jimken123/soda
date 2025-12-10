@@ -1,7 +1,7 @@
 ---
 title: AutopsyAddDataSource Step | TSK Connector Documentation
 sidebar_label: AutopsyAddDataSource
-description: Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, TSK]
 hide_title: true
 hide_table_of_contents: true

@@ -1,7 +1,7 @@
 ---
-title: RelativityCreateDynamicObjects Step | Sequence Connector for Relativity Documentation
+title: RelativityCreateDynamicObjects Step | Phoenix Connector for Relativity Documentation
 sidebar_label: RelativityCreateDynamicObjects
-description: Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Relativity]
 hide_title: true
 hide_table_of_contents: true

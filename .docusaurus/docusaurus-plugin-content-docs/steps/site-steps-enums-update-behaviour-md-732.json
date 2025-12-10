@@ -2,13 +2,13 @@
   "unversionedId": "Enums/UpdateBehaviour",
   "id": "Enums/UpdateBehaviour",
   "title": "UpdateBehaviour | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Enums/UpdateBehaviour.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/UpdateBehaviour",
   "permalink": "/steps/next/Enums/UpdateBehaviour",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/UpdateBehaviour.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/UpdateBehaviour.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "UpdateBehaviour | Enums",
     "sidebar_label": "UpdateBehaviour",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

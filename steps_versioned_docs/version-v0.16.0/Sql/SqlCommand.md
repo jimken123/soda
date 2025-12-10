@@ -1,7 +1,7 @@
 ---
 title: SqlCommand Step | SQL Database Connector Documentation
 sidebar_label: SqlCommand
-description: Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Sql]
 hide_title: true
 hide_table_of_contents: true

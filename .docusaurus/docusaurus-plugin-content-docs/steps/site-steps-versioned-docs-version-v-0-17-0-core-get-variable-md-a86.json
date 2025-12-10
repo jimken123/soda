@@ -2,13 +2,13 @@
   "unversionedId": "Core/GetVariable",
   "id": "version-v0.17.0/Core/GetVariable",
   "title": "GetVariable Step | Core SDK Documentation",
-  "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/GetVariable.md",
   "sourceDirName": "Core",
   "slug": "/Core/GetVariable",
   "permalink": "/steps/v0.17.0/Core/GetVariable",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/GetVariable.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/GetVariable.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "GetVariable Step | Core SDK Documentation",
     "sidebar_label": "GetVariable",
-    "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

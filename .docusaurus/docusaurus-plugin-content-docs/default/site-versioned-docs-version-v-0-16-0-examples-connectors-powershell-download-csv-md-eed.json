@@ -2,13 +2,13 @@
   "unversionedId": "examples/connectors/powershell/download-csv",
   "id": "version-v0.16.0/examples/connectors/powershell/download-csv",
   "title": "Download CSV | PowerShell Connector Examples",
-  "description": "Instructions on how to install and setup Sequence and the PowerShell Connector.",
+  "description": "Instructions on how to install and setup Phoenix and the PowerShell Connector.",
   "source": "@site/versioned_docs/version-v0.16.0/examples/connectors/powershell/download-csv.md",
   "sourceDirName": "examples/connectors/powershell",
   "slug": "/examples/connectors/powershell/download-csv",
   "permalink": "/docs/v0.16.0/examples/connectors/powershell/download-csv",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/powershell/download-csv.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/examples/connectors/powershell/download-csv.md",
   "tags": [],
   "version": "v0.16.0",
   "frontMatter": {
@@ -21,7 +21,7 @@
     "permalink": "/docs/v0.16.0/examples/connectors/powershell/"
   },
   "next": {
-    "title": "Sequence Connector for Relativity",
+    "title": "Phoenix Connector for Relativity",
     "permalink": "/docs/v0.16.0/examples/connectors/relativity/"
   }
 }

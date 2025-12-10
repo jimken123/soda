@@ -2,13 +2,13 @@
   "unversionedId": "Core/ConvertSizeUnits",
   "id": "version-v0.16.0/Core/ConvertSizeUnits",
   "title": "ConvertSizeUnits Step | Core SDK Documentation",
-  "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/ConvertSizeUnits.md",
   "sourceDirName": "Core",
   "slug": "/Core/ConvertSizeUnits",
   "permalink": "/steps/v0.16.0/Core/ConvertSizeUnits",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ConvertSizeUnits.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ConvertSizeUnits.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ConvertSizeUnits Step | Core SDK Documentation",
     "sidebar_label": "ConvertSizeUnits",
-    "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

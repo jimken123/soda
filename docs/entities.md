@@ -1,13 +1,13 @@
 ---
 title: Entities, the Data Type for Data Exchange
 sidebar_label: Entities
-description: Used to store/represent data in Sequence, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.
+description: Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.
 ---
 
 # Entities
 
 An entity is a collection of property-value or key-value pairs.
-Entities are used to store/represent data in Sequence.
+Entities are used to store/represent data in Phoenix.
 
 Entities are defined in SCL using round brackets:
 

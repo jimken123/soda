@@ -2,13 +2,13 @@
   "unversionedId": "Microsoft365/M365UsersRead",
   "id": "Microsoft365/M365UsersRead",
   "title": "M365UsersRead Step | Microsoft 365 Connector Documentation",
-  "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Microsoft365/M365UsersRead.md",
   "sourceDirName": "Microsoft365",
   "slug": "/Microsoft365/M365UsersRead",
   "permalink": "/steps/next/Microsoft365/M365UsersRead",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Microsoft365/M365UsersRead.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Microsoft365/M365UsersRead.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "M365UsersRead Step | Microsoft 365 Connector Documentation",
     "sidebar_label": "M365UsersRead",
-    "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Read a list of users from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Microsoft365"

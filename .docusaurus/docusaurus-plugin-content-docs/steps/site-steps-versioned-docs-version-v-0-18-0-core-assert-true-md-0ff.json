@@ -2,13 +2,13 @@
   "unversionedId": "Core/AssertTrue",
   "id": "version-v0.18.0/Core/AssertTrue",
   "title": "AssertTrue Step | Core SDK Documentation",
-  "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/AssertTrue.md",
   "sourceDirName": "Core",
   "slug": "/Core/AssertTrue",
   "permalink": "/steps/Core/AssertTrue",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/AssertTrue.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/AssertTrue.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "AssertTrue Step | Core SDK Documentation",
     "sidebar_label": "AssertTrue",
-    "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -2,20 +2,20 @@
   "unversionedId": "examples/connectors/microsoft365/microsoft365",
   "id": "version-v0.18.0/examples/connectors/microsoft365/microsoft365",
   "title": "Microsoft365 Connector Examples",
-  "description": "Examples of how to use Sequence to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.",
+  "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/microsoft365/microsoft365.md",
   "sourceDirName": "examples/connectors/microsoft365",
   "slug": "/examples/connectors/microsoft365/",
   "permalink": "/docs/examples/connectors/microsoft365/",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/microsoft365/microsoft365.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/microsoft365/microsoft365.md",
   "tags": [],
   "version": "v0.18.0",
   "sidebarPosition": 0,
   "frontMatter": {
     "sidebar_label": "Microsoft365 Connector",
     "sidebar_position": 0,
-    "description": "Examples of how to use Sequence to include Microsoft365 in automated end-to-end forensic and ediscovery workflows."
+    "description": "Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "previous": {

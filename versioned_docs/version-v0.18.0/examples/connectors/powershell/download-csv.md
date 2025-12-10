@@ -5,9 +5,9 @@ sidebar_label: Download CSV
 
 # Download CSV
 
-[Instructions on how to install and setup Sequence and the PowerShell Connector.](powershell.md)
+[Instructions on how to install and setup Phoenix and the PowerShell Connector.](powershell.md)
 
-This powershell connector Sequence can be used to download
+This powershell connector Phoenix can be used to download
 a copy of the `artwork_data.csv` which is used in some of the
 other examples.
 

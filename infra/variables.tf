@@ -5,12 +5,12 @@ variable "environment" {
 
 variable "application" {
   type    = string
-  default = "sequence"
+  default = "Phoenix"
 }
 
 variable "domain" {
   type    = string
-  default = "sequence.sh"
+  default = "Phoenix.sh"
 }
 
 variable "aws_cloudfront_priceclass" {

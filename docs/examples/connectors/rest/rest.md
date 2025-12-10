@@ -6,7 +6,7 @@ description: Examples of how to automatically generate steps from OpenAPI specif
 
 # REST Connector Examples
 
-These are examples of how to use the Sequence REST connector.
+These are examples of how to use the Phoenix REST connector.
 
 The connector works by generating steps from an OpenAPI specification.
 
@@ -14,16 +14,16 @@ The examples here use the Reveal V2 API.
 
 ## Setup
 
-1. Download and set up Sequence. See the [quick start](../../../quick-start.md) for more info.
+1. Download and set up Phoenix. See the [quick start](../../../quick-start.md) for more info.
 2. Add the REST Connector. See [connectors](../../../quick-start.md#connectors)
    for more info on managing connectors.
 
 ```poweshell
-PS > .\sequence.exe connector add Sequence.Connectors.Rest
+PS > .\Phoenix.exe connector add Phoenix.Connectors.Rest
 ```
 
 3. Add the required configuration to `./lib/connectors.json`.
-   See [Sequence Connector for REST](../../../connectors/rest.md)
+   See [Phoenix Connector for REST](../../../connectors/rest.md)
 
 ## Examples
 

@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityImportEntities",
   "id": "version-v0.17.0/Relativity/RelativityImportEntities",
-  "title": "RelativityImportEntities Step | Sequence Connector for Relativity Documentation",
-  "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityImportEntities Step | Phoenix Connector for Relativity Documentation",
+  "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativityImportEntities.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityImportEntities",
   "permalink": "/steps/v0.17.0/Relativity/RelativityImportEntities",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityImportEntities.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityImportEntities.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.17.0",
   "frontMatter": {
-    "title": "RelativityImportEntities Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityImportEntities Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityImportEntities",
-    "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

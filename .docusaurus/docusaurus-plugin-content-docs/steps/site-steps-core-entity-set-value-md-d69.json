@@ -2,13 +2,13 @@
   "unversionedId": "Core/EntitySetValue",
   "id": "Core/EntitySetValue",
   "title": "EntitySetValue Step | Core SDK Documentation",
-  "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/EntitySetValue.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntitySetValue",
   "permalink": "/steps/next/Core/EntitySetValue",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntitySetValue.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/EntitySetValue.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "EntitySetValue Step | Core SDK Documentation",
     "sidebar_label": "EntitySetValue",
-    "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -1,7 +1,7 @@
 ---
 title: StringFind Step | Core SDK Documentation
 sidebar_label: StringFind
-description: Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

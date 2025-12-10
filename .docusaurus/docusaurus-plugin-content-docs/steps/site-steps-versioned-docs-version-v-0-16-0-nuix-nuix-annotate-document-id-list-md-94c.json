@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixAnnotateDocumentIdList",
   "id": "version-v0.16.0/Nuix/NuixAnnotateDocumentIdList",
   "title": "NuixAnnotateDocumentIdList Step | Nuix Connector Documentation",
-  "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixAnnotateDocumentIdList.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixAnnotateDocumentIdList",
   "permalink": "/steps/v0.16.0/Nuix/NuixAnnotateDocumentIdList",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixAnnotateDocumentIdList.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixAnnotateDocumentIdList.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixAnnotateDocumentIdList Step | Nuix Connector Documentation",
     "sidebar_label": "NuixAnnotateDocumentIdList",
-    "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

@@ -2,13 +2,13 @@
   "unversionedId": "Tesseract/TesseractOCR",
   "id": "version-v0.16.0/Tesseract/TesseractOCR",
   "title": "TesseractOCR Step | Tesseract OCR Connector Documentation",
-  "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Tesseract/TesseractOCR.md",
   "sourceDirName": "Tesseract",
   "slug": "/Tesseract/TesseractOCR",
   "permalink": "/steps/v0.16.0/Tesseract/TesseractOCR",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Tesseract/TesseractOCR.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Tesseract/TesseractOCR.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "TesseractOCR Step | Tesseract OCR Connector Documentation",
     "sidebar_label": "TesseractOCR",
-    "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Tesseract"

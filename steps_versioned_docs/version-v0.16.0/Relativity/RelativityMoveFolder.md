@@ -1,7 +1,7 @@
 ---
-title: RelativityMoveFolder Step | Sequence Connector for Relativity Documentation
+title: RelativityMoveFolder Step | Phoenix Connector for Relativity Documentation
 sidebar_label: RelativityMoveFolder
-description: Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Relativity]
 hide_title: true
 hide_table_of_contents: true

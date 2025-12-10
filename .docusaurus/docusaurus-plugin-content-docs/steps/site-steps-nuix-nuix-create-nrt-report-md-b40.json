@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixCreateNRTReport",
   "id": "Nuix/NuixCreateNRTReport",
   "title": "NuixCreateNRTReport Step | Nuix Connector Documentation",
-  "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Nuix/NuixCreateNRTReport.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCreateNRTReport",
   "permalink": "/steps/next/Nuix/NuixCreateNRTReport",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixCreateNRTReport.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixCreateNRTReport.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixCreateNRTReport Step | Nuix Connector Documentation",
     "sidebar_label": "NuixCreateNRTReport",
-    "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

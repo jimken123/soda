@@ -2,13 +2,13 @@
   "unversionedId": "Core/StandardOutWrite",
   "id": "version-v0.18.0/Core/StandardOutWrite",
   "title": "StandardOutWrite Step | Core SDK Documentation",
-  "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StandardOutWrite.md",
   "sourceDirName": "Core",
   "slug": "/Core/StandardOutWrite",
   "permalink": "/steps/Core/StandardOutWrite",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StandardOutWrite.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StandardOutWrite.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StandardOutWrite Step | Core SDK Documentation",
     "sidebar_label": "StandardOutWrite",
-    "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

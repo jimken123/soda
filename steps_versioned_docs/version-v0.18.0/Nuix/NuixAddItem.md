@@ -1,7 +1,7 @@
 ---
 title: NuixAddItem Step | Nuix Connector Documentation
 sidebar_label: NuixAddItem
-description: Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

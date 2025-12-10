@@ -1,7 +1,7 @@
 ---
 title: NuixOpenConnection Step | Nuix Connector Documentation
 sidebar_label: NuixOpenConnection
-description: Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

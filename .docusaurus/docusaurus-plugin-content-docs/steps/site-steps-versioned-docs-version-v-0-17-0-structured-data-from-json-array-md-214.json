@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/FromJsonArray",
   "id": "version-v0.17.0/StructuredData/FromJsonArray",
   "title": "FromJsonArray Step | Structured Data Connector Documentation",
-  "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/StructuredData/FromJsonArray.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromJsonArray",
   "permalink": "/steps/v0.17.0/StructuredData/FromJsonArray",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/StructuredData/FromJsonArray.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/StructuredData/FromJsonArray.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromJsonArray Step | Structured Data Connector Documentation",
     "sidebar_label": "FromJsonArray",
-    "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extracts entities from a Json stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

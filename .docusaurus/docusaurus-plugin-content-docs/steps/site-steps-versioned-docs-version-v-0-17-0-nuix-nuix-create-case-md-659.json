@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixCreateCase",
   "id": "version-v0.17.0/Nuix/NuixCreateCase",
   "title": "NuixCreateCase Step | Nuix Connector Documentation",
-  "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateCase.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCreateCase",
   "permalink": "/steps/v0.17.0/Nuix/NuixCreateCase",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateCase.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateCase.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixCreateCase Step | Nuix Connector Documentation",
     "sidebar_label": "NuixCreateCase",
-    "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

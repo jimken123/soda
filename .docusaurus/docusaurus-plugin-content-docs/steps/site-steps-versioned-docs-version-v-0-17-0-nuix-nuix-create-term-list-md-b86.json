@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixCreateTermList",
   "id": "version-v0.17.0/Nuix/NuixCreateTermList",
   "title": "NuixCreateTermList Step | Nuix Connector Documentation",
-  "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateTermList.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCreateTermList",
   "permalink": "/steps/v0.17.0/Nuix/NuixCreateTermList",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateTermList.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixCreateTermList.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixCreateTermList Step | Nuix Connector Documentation",
     "sidebar_label": "NuixCreateTermList",
-    "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

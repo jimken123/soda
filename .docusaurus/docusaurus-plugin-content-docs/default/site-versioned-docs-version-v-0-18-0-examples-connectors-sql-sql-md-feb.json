@@ -2,20 +2,20 @@
   "unversionedId": "examples/connectors/sql/sql",
   "id": "version-v0.18.0/examples/connectors/sql/sql",
   "title": "SQL Connector Examples",
-  "description": "Examples of how to push and pull data from SQL databases when using Sequence to automate forensic and ediscovery workflows.",
+  "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/sql/sql.md",
   "sourceDirName": "examples/connectors/sql",
   "slug": "/examples/connectors/sql/",
   "permalink": "/docs/examples/connectors/sql/",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/sql/sql.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/sql/sql.md",
   "tags": [],
   "version": "v0.18.0",
   "sidebarPosition": 0,
   "frontMatter": {
     "sidebar_label": "SQL Connector",
     "sidebar_position": 0,
-    "description": "Examples of how to push and pull data from SQL databases when using Sequence to automate forensic and ediscovery workflows."
+    "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "previous": {

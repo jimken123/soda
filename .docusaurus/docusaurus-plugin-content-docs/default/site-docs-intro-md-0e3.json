@@ -1,18 +1,18 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "What is Sequence",
-  "description": "Sequence is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+  "title": "What is Phoenix",
+  "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
   "permalink": "/docs/next/intro",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/intro.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "description": "Sequence is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows."
+    "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "next": {

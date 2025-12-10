@@ -1,7 +1,7 @@
 ---
 title: ToIDX Step | Structured Data Connector Documentation
 sidebar_label: ToIDX
-description: Write an entity to a stream in IDX format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Write an entity to a stream in IDX format.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, StructuredData]
 hide_title: true
 hide_table_of_contents: true

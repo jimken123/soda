@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixAssertPrintPreviewState",
   "id": "version-v0.18.0/Nuix/NuixAssertPrintPreviewState",
   "title": "NuixAssertPrintPreviewState Step | Nuix Connector Documentation",
-  "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixAssertPrintPreviewState.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixAssertPrintPreviewState",
   "permalink": "/steps/Nuix/NuixAssertPrintPreviewState",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixAssertPrintPreviewState.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixAssertPrintPreviewState.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixAssertPrintPreviewState Step | Nuix Connector Documentation",
     "sidebar_label": "NuixAssertPrintPreviewState",
-    "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

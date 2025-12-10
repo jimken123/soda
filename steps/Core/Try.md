@@ -1,7 +1,7 @@
 ---
 title: Try Step | Core SDK Documentation
 sidebar_label: Try
-description: Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true
@@ -17,7 +17,7 @@ Tries to execute a step and recovers if that step results in failure.
 
 |Parameter                        |Type    |Required|Position|Default Value                                |Summary                           |
 |:--------------------------------|:------:|:------:|:------:|:-------------------------------------------:|:---------------------------------|
-|Statement<br/>_Sequence_<br/>_Do_|`T`     |✔       |1       |                                             |The statement to try.             |
+|Statement<br/>_Phoenix_<br/>_Do_|`T`     |✔       |1       |                                             |The statement to try.             |
 |Recover<br/>_OnError_            |`string`|        |        |Returns the default value of the return type.|The action to perform on an error.|
 ## Examples
 ### Example 1
@@ -81,7 +81,7 @@ TryTo Do: (
 #### Expected Logs
 ```
 123
-Error Caught in Sequence: Attempt to Divide by Zero.
+Error Caught in Phoenix: Attempt to Divide by Zero.
 ```
 #### Expected Output
 ```scl

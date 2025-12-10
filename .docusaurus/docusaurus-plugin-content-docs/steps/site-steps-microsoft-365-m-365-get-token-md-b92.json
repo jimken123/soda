@@ -2,13 +2,13 @@
   "unversionedId": "Microsoft365/M365GetToken",
   "id": "Microsoft365/M365GetToken",
   "title": "M365GetToken Step | Microsoft 365 Connector Documentation",
-  "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Microsoft365/M365GetToken.md",
   "sourceDirName": "Microsoft365",
   "slug": "/Microsoft365/M365GetToken",
   "permalink": "/steps/next/Microsoft365/M365GetToken",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Microsoft365/M365GetToken.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Microsoft365/M365GetToken.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "M365GetToken Step | Microsoft 365 Connector Documentation",
     "sidebar_label": "M365GetToken",
-    "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the M365 Token that was used to login.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Microsoft365"

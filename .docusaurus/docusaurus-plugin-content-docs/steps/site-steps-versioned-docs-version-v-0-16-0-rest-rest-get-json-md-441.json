@@ -2,13 +2,13 @@
   "unversionedId": "Rest/RESTGetJSON",
   "id": "version-v0.16.0/Rest/RESTGetJSON",
   "title": "RESTGetJSON Step | REST Connector Documentation",
-  "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Rest/RESTGetJSON.md",
   "sourceDirName": "Rest",
   "slug": "/Rest/RESTGetJSON",
   "permalink": "/steps/v0.16.0/Rest/RESTGetJSON",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Rest/RESTGetJSON.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Rest/RESTGetJSON.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "RESTGetJSON Step | REST Connector Documentation",
     "sidebar_label": "RESTGetJSON",
-    "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Get JSON from a REST service. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Rest"

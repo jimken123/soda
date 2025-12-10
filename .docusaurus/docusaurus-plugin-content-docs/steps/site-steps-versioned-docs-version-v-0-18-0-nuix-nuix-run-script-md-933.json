@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixRunScript",
   "id": "version-v0.18.0/Nuix/NuixRunScript",
   "title": "NuixRunScript Step | Nuix Connector Documentation",
-  "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixRunScript.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixRunScript",
   "permalink": "/steps/Nuix/NuixRunScript",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixRunScript.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixRunScript.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixRunScript Step | Nuix Connector Documentation",
     "sidebar_label": "NuixRunScript",
-    "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

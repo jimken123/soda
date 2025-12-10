@@ -2,13 +2,13 @@
   "unversionedId": "Core/Equals",
   "id": "version-v0.18.0/Core/Equals",
   "title": "Equals Step | Core SDK Documentation",
-  "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/Equals.md",
   "sourceDirName": "Core",
   "slug": "/Core/Equals",
   "permalink": "/steps/Core/Equals",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/Equals.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/Equals.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Equals Step | Core SDK Documentation",
     "sidebar_label": "Equals",
-    "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

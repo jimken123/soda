@@ -7,217 +7,217 @@
     {
       "id": "version-v0.18.0/Nuix",
       "title": "All Steps | Nuix Connector Documentation",
-      "description": "List of all steps for Nuix Connector. Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+      "description": "List of all steps for Nuix Connector. Phoenix connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
       "permalink": "/steps/Nuix"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixAddConcordance",
       "title": "NuixAddConcordance Step | Nuix Connector Documentation",
-      "description": "Adds data from a Concordance file to a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Adds data from a Concordance file to a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixAddConcordance"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixAddItem",
       "title": "NuixAddItem Step | Nuix Connector Documentation",
-      "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixAddItem"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixAddToItemSet",
       "title": "NuixAddToItemSet Step | Nuix Connector Documentation",
-      "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixAddToItemSet"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixAddToProductionSet",
       "title": "NuixAddToProductionSet Step | Nuix Connector Documentation",
-      "description": "Run a search query in Nuix and add all items found to a production set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Run a search query in Nuix and add all items found to a production set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixAddToProductionSet"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixAnnotateDocumentIdList",
       "title": "NuixAnnotateDocumentIdList Step | Nuix Connector Documentation",
-      "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Annotates a document ID list to add production set names to it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixAnnotateDocumentIdList"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixAssertPrintPreviewState",
       "title": "NuixAssertPrintPreviewState Step | Nuix Connector Documentation",
-      "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Checks the print preview state of the production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixAssertPrintPreviewState"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixAssignCustodian",
       "title": "NuixAssignCustodian Step | Nuix Connector Documentation",
-      "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixAssignCustodian"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixCloseConnection",
       "title": "NuixCloseConnection Step | Nuix Connector Documentation",
-      "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixCloseConnection"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixCountItems",
       "title": "NuixCountItems Step | Nuix Connector Documentation",
-      "description": "Returns the number of items matching a particular search term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns the number of items matching a particular search term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixCountItems"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixCreateCase",
       "title": "NuixCreateCase Step | Nuix Connector Documentation",
-      "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixCreateCase"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixCreateIrregularItemsReport",
       "title": "NuixCreateIrregularItemsReport Step | Nuix Connector Documentation",
-      "description": "Creates a list of all irregular items in a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Creates a list of all irregular items in a case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixCreateIrregularItemsReport"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixCreateNRTReport",
       "title": "NuixCreateNRTReport Step | Nuix Connector Documentation",
-      "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixCreateNRTReport"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixCreateReport",
       "title": "NuixCreateReport Step | Nuix Connector Documentation",
-      "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixCreateReport"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixCreateTermList",
       "title": "NuixCreateTermList Step | Nuix Connector Documentation",
-      "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixCreateTermList"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixDoesCaseExist",
       "title": "NuixDoesCaseExist Step | Nuix Connector Documentation",
-      "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixDoesCaseExist"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixExcludeDecryptedItems",
       "title": "NuixExcludeDecryptedItems Step | Nuix Connector Documentation",
-      "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixExcludeDecryptedItems"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixExportConcordance",
       "title": "NuixExportConcordance Step | Nuix Connector Documentation",
-      "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixExportConcordance"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixExtractEntities",
       "title": "NuixExtractEntities Step | Nuix Connector Documentation",
-      "description": "Extract Entities from a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Extract Entities from a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixExtractEntities"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixGeneratePrintPreviews",
       "title": "NuixGeneratePrintPreviews Step | Nuix Connector Documentation",
-      "description": "Generates print previews for items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Generates print previews for items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixGeneratePrintPreviews"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixGetAuditedSize",
       "title": "NuixGetAuditedSize Step | Nuix Connector Documentation",
-      "description": "Calculate the total audited size for a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Calculate the total audited size for a case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixGetAuditedSize"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixGetCaseDetails",
       "title": "NuixGetCaseDetails Step | Nuix Connector Documentation",
-      "description": "Returns an Entity with information about the current case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns an Entity with information about the current case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixGetCaseDetails"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixGetItemProperties",
       "title": "NuixGetItemProperties Step | Nuix Connector Documentation",
-      "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixGetItemProperties"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixGetLicenseDetails",
       "title": "NuixGetLicenseDetails Step | Nuix Connector Documentation",
-      "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixGetLicenseDetails"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixGetVersion",
       "title": "NuixGetVersion Step | Nuix Connector Documentation",
-      "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixGetVersion"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixImportDocumentIds",
       "title": "NuixImportDocumentIds Step | Nuix Connector Documentation",
-      "description": "Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixImportDocumentIds"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixMigrateCase",
       "title": "NuixMigrateCase Step | Nuix Connector Documentation",
-      "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixMigrateCase"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixOpenCase",
       "title": "NuixOpenCase Step | Nuix Connector Documentation",
-      "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixOpenCase"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixOpenConnection",
       "title": "NuixOpenConnection Step | Nuix Connector Documentation",
-      "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixOpenConnection"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixPerformOCR",
       "title": "NuixPerformOCR Step | Nuix Connector Documentation",
-      "description": "Performs optical character recognition on items in a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Performs optical character recognition on items in a NUIX case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixPerformOCR"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixRemoveFromItemSet",
       "title": "NuixRemoveFromItemSet Step | Nuix Connector Documentation",
-      "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixRemoveFromItemSet"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixRemoveFromProductionSet",
       "title": "NuixRemoveFromProductionSet Step | Nuix Connector Documentation",
-      "description": "Removes particular items from a Nuix production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Removes particular items from a Nuix production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixRemoveFromProductionSet"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixReorderProductionSet",
       "title": "NuixReorderProductionSet Step | Nuix Connector Documentation",
-      "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixReorderProductionSet"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixRunScript",
       "title": "NuixRunScript Step | Nuix Connector Documentation",
-      "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Run an arbitrary ruby script in nuix. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixRunScript"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixSearchAndExclude",
       "title": "NuixSearchAndExclude Step | Nuix Connector Documentation",
-      "description": "Run a search query in Nuix and exclude all items found.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Run a search query in Nuix and exclude all items found.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixSearchAndExclude"
     },
     {
       "id": "version-v0.18.0/Nuix/NuixSearchAndTag",
       "title": "NuixSearchAndTag Step | Nuix Connector Documentation",
-      "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/Nuix/NuixSearchAndTag"
     }
   ]

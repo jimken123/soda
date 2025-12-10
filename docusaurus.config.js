@@ -1,11 +1,7 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/vsLight');
 const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 const versions = require('./versions.json');
 
-// examples/connectors naming. If not here, first letter is capitalized.
 const ConnectorLookup = {
   relativity: 'Relativity®',
   rest: 'REST',
@@ -67,20 +63,20 @@ function getNextVersionName() {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SequenceSoda',
+  title: 'PhoenixSoda',
   tagline: 'Automate all the tings',
-  url: 'https://sequence.sh',
+  url: 'https://Phoenix.sh',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'sequence',
-  projectName: 'sequence-docs',
+  organizationName: 'loremipsum',
+  projectName: 'Phoenix-docs',
   customFields: {
     homeTitle: 'End-to-end automation for forensics and ediscovery',
     description:
       'Flexible and powerful open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.',
-    downloads: 'https://get.sequence.sh',
+    downloads: 'https://get.Phoenix.sh',
   },
   staticDirectories: ['static', 'playground'],
   presets: [
@@ -92,7 +88,7 @@ const config = {
           path: 'docs',
           routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebarsDocs.js'),
-          editUrl: 'https://gitlab.com/sequence/sequence-docs/edit/main',
+          editUrl: 'https://gitlab.com/Phoenix/Phoenix-docs/edit/main',
           sidebarItemsGenerator: async function ({ defaultSidebarItemsGenerator, ...args }) {
             const sidebarItems = await defaultSidebarItemsGenerator(args);
             return capitalizeCategoryNames(sidebarItems);
@@ -106,7 +102,7 @@ const config = {
         blog: {
           path: 'blog',
           routeBasePath: 'blog',
-          editUrl: 'https://gitlab.com/sequence/sequence-docs/edit/main',
+          editUrl: 'https://gitlab.com/Phoenix/Phoenix-docs/edit/main',
           postsPerPage: 10,
           feedOptions: {
             type: 'all',
@@ -129,7 +125,7 @@ const config = {
         path: 'steps',
         routeBasePath: 'steps',
         sidebarPath: require.resolve('./sidebarsSteps.js'),
-        editUrl: 'https://gitlab.com/sequence/sequence-docs/edit/main',
+        editUrl: 'https://gitlab.com/Phoenix/Phoenix-docs/edit/main',
         sidebarItemsGenerator: generateStepsSidebar,
         versions: {
           current: {
@@ -148,13 +144,13 @@ const config = {
         },
       },
       navbar: {
-        title: 'Sequence',
+        title: 'Phoenix',
         logo: {
-          alt: 'Sequence Logo',
-          src: 'img/sequence_icon_light_opt.svg',
-          srcDark: 'img/sequence_icon_dark_opt.svg',
+          alt: 'Phoenix Logo',
+          src: 'img/phoenix.svg',
+          srcDark: 'img/phoenix.svg',
         },
-        hideOnScroll: true,
+        hideOnScroll: false,
         items: [
           {
             type: 'docsVersion',
@@ -170,7 +166,6 @@ const config = {
             label: 'Steps',
           },
           { to: 'blog', label: 'Blog', position: 'left' },
-          { href: '/playground', label: 'Playground', position: 'left' },
           {
             label: 'Download',
             href: '/download',
@@ -182,7 +177,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://gitlab.com/sequence',
+            href: 'https://gitlab.com/Phoenix',
             position: 'right',
             className: 'header-gitlab-link',
             'aria-label': 'GitLab Repository',
@@ -193,54 +188,34 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Learn',
+            title: 'Lorem',
             items: [
               {
-                label: 'Connectors',
+                label: 'Ting',
                 to: '/docs/quick-start#connectors',
               },
-              {
-                label: 'Installation and Configuration',
-                to: '/docs/quick-start',
-              },
-              {
-                label: 'Sequence Configuration Language',
-                to: '/docs/sequence-configuration-language',
-              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Ipsum',
             items: [
-              // {
-              //   label: 'Ask a Question on Discord',
-              //   href: 'https://discordapp.com/invite/docusaurus',
-              // },
               {
                 label: 'Check out the Source Code',
-                href: 'https://gitlab.com/sequence',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/sequence_sh',
+                href: 'https://gitlab.com/Phoenix',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Dolor',
             items: [
               {
                 label: 'Search',
                 href: '/search',
               },
-              {
-                label: 'Reductech',
-                href: 'https://reductech.io',
-              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Reductech Ltd. Built with <a href="https://docusaurus.io" target="_blank" rel="noopener">Docusaurus</a>. Sequence is a UK registered trademark of Reductech Ltd.`,
+        copyright: `Copyright ©${new Date().getFullYear()} LoremIpsum. Built with <a href="https://docusaurus.io" target="_blank" rel="noopener">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -250,7 +225,7 @@ const config = {
       algolia: {
         appId: 'CKHLUDXFLE',
         apiKey: 'eefd45babb6696e6fc0fe9943a9d631c',
-        indexName: 'sequence-sh',
+        indexName: 'Phoenix-sh',
         contextualSearch: true,
       },
     }),

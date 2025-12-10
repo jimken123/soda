@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityDeleteUnusedFolders",
   "id": "version-v0.17.0/Relativity/RelativityDeleteUnusedFolders",
-  "title": "RelativityDeleteUnusedFolders Step | Sequence Connector for Relativity Documentation",
-  "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityDeleteUnusedFolders Step | Phoenix Connector for Relativity Documentation",
+  "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativityDeleteUnusedFolders.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityDeleteUnusedFolders",
   "permalink": "/steps/v0.17.0/Relativity/RelativityDeleteUnusedFolders",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityDeleteUnusedFolders.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityDeleteUnusedFolders.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.17.0",
   "frontMatter": {
-    "title": "RelativityDeleteUnusedFolders Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityDeleteUnusedFolders Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityDeleteUnusedFolders",
-    "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

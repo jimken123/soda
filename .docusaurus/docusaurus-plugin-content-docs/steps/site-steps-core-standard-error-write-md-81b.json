@@ -2,13 +2,13 @@
   "unversionedId": "Core/StandardErrorWrite",
   "id": "Core/StandardErrorWrite",
   "title": "StandardErrorWrite Step | Core SDK Documentation",
-  "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/StandardErrorWrite.md",
   "sourceDirName": "Core",
   "slug": "/Core/StandardErrorWrite",
   "permalink": "/steps/next/Core/StandardErrorWrite",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StandardErrorWrite.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StandardErrorWrite.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StandardErrorWrite Step | Core SDK Documentation",
     "sidebar_label": "StandardErrorWrite",
-    "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

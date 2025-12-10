@@ -2,13 +2,13 @@
   "unversionedId": "Core/IsNull",
   "id": "Core/IsNull",
   "title": "IsNull Step | Core SDK Documentation",
-  "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/IsNull.md",
   "sourceDirName": "Core",
   "slug": "/Core/IsNull",
   "permalink": "/steps/next/Core/IsNull",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/IsNull.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/IsNull.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "IsNull Step | Core SDK Documentation",
     "sidebar_label": "IsNull",
-    "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -2,19 +2,19 @@
   "unversionedId": "connectors/core",
   "id": "connectors/core",
   "title": "Core SDK",
-  "description": "Easily automate e-discovery and forensic workflows. Core is the Sequence Configuration Language interpereter and an SDK for building connectors.",
+  "description": "Easily automate e-discovery and forensic workflows. Core is the Phoenix Configuration Language interpereter and an SDK for building connectors.",
   "source": "@site/docs/connectors/core.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/core",
   "permalink": "/docs/next/connectors/core",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/connectors/core.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/core.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Core SDK",
     "sidebar_label": "Core",
-    "description": "Easily automate e-discovery and forensic workflows. Core is the Sequence Configuration Language interpereter and an SDK for building connectors."
+    "description": "Easily automate e-discovery and forensic workflows. Core is the Phoenix Configuration Language interpereter and an SDK for building connectors."
   },
   "sidebar": "docs",
   "previous": {

@@ -1,4 +1,4 @@
-export type SequenceVersion = {
+export type PhoenixVersion = {
   version: string;
   platform: string;
   download: string;

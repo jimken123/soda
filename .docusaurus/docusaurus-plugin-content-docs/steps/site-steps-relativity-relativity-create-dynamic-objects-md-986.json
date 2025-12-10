@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityCreateDynamicObjects",
   "id": "Relativity/RelativityCreateDynamicObjects",
-  "title": "RelativityCreateDynamicObjects Step | Sequence Connector for Relativity Documentation",
-  "description": "Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityCreateDynamicObjects Step | Phoenix Connector for Relativity Documentation",
+  "description": "Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Relativity/RelativityCreateDynamicObjects.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityCreateDynamicObjects",
   "permalink": "/steps/next/Relativity/RelativityCreateDynamicObjects",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityCreateDynamicObjects.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityCreateDynamicObjects.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "current",
   "frontMatter": {
-    "title": "RelativityCreateDynamicObjects Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityCreateDynamicObjects Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityCreateDynamicObjects",
-    "description": "Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

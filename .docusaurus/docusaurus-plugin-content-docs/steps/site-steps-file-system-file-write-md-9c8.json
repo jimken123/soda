@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/FileWrite",
   "id": "FileSystem/FileWrite",
   "title": "FileWrite Step | File System Connector Documentation",
-  "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/FileSystem/FileWrite.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/FileWrite",
   "permalink": "/steps/next/FileSystem/FileWrite",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/FileWrite.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/FileSystem/FileWrite.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FileWrite Step | File System Connector Documentation",
     "sidebar_label": "FileWrite",
-    "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Writes a file to the local file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

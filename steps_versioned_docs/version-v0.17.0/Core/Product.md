@@ -1,7 +1,7 @@
 ---
 title: Product Step | Core SDK Documentation
 sidebar_label: Product
-description: Calculate the product of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Calculate the product of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

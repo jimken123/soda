@@ -12,7 +12,7 @@ This example will
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Sequence Connector for Microsoft 365](microsoft365.md)
+[Instructions on how to install and setup Phoenix and the Phoenix Connector for Microsoft 365](microsoft365.md)
 
 ## SCL
 
@@ -21,7 +21,7 @@ Download the SCL here: [microsoft365-get-teams.scl](pathname:///example-files/mi
 To run:
 
 ```powershell
-PS > ./sequence.exe run microsoft365-get-teams.scl
+PS > ./Phoenix.exe run microsoft365-get-teams.scl
 ```
 
 ```scl

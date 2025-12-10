@@ -1,7 +1,7 @@
 ---
 title: Validate Step | Core SDK Documentation
 sidebar_label: Validate
-description: Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

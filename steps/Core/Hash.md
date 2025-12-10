@@ -1,7 +1,7 @@
 ---
 title: Hash Step | Core SDK Documentation
 sidebar_label: Hash
-description: Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

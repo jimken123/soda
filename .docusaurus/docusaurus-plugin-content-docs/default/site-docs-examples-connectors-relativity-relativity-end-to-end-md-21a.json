@@ -1,18 +1,18 @@
 {
   "unversionedId": "examples/connectors/relativity/relativity-end-to-end",
   "id": "examples/connectors/relativity/relativity-end-to-end",
-  "title": "End to End Example | Sequence Connector for Relativity Examples",
+  "title": "End to End Example | Phoenix Connector for Relativity Examples",
   "description": "This example will",
   "source": "@site/docs/examples/connectors/relativity/relativity-end-to-end.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/relativity-end-to-end",
   "permalink": "/docs/next/examples/connectors/relativity/relativity-end-to-end",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/relativity/relativity-end-to-end.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/relativity/relativity-end-to-end.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "End to End Example | Sequence Connector for Relativity Examples",
+    "title": "End to End Example | Phoenix Connector for Relativity Examples",
     "sidebar_label": "End to End Example"
   },
   "sidebar": "docs",

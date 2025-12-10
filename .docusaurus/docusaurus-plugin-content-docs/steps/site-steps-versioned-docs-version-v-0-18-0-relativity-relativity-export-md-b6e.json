@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityExport",
   "id": "version-v0.18.0/Relativity/RelativityExport",
-  "title": "RelativityExport Step | Sequence Connector for Relativity Documentation",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityExport Step | Phoenix Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityExport.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityExport",
   "permalink": "/steps/Relativity/RelativityExport",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityExport.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityExport.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.18.0",
   "frontMatter": {
-    "title": "RelativityExport Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityExport Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityExport",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

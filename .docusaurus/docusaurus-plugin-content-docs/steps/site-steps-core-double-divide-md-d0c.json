@@ -2,13 +2,13 @@
   "unversionedId": "Core/DoubleDivide",
   "id": "Core/DoubleDivide",
   "title": "DoubleDivide Step | Core SDK Documentation",
-  "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/DoubleDivide.md",
   "sourceDirName": "Core",
   "slug": "/Core/DoubleDivide",
   "permalink": "/steps/next/Core/DoubleDivide",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/DoubleDivide.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/DoubleDivide.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "DoubleDivide Step | Core SDK Documentation",
     "sidebar_label": "DoubleDivide",
-    "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

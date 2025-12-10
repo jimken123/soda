@@ -2,17 +2,17 @@
   "unversionedId": "connectors/microsoft365",
   "id": "version-v0.17.0/connectors/microsoft365",
   "title": "Microsoft365 Connector",
-  "description": "Sequence connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications.",
+  "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications.",
   "source": "@site/versioned_docs/version-v0.17.0/connectors/microsoft365.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/microsoft365",
   "permalink": "/docs/v0.17.0/connectors/microsoft365",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/connectors/microsoft365.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/connectors/microsoft365.md",
   "tags": [],
   "version": "v0.17.0",
   "frontMatter": {
-    "description": "Sequence connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications."
+    "description": "Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications."
   },
   "sidebar": "docs",
   "previous": {

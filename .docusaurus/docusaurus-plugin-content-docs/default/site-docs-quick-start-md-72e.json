@@ -8,17 +8,17 @@
   "slug": "/quick-start",
   "permalink": "/docs/next/quick-start",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/quick-start.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/quick-start.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "docs",
   "previous": {
-    "title": "What is Sequence",
+    "title": "What is Phoenix",
     "permalink": "/docs/next/intro"
   },
   "next": {
-    "title": "Sequence Configuration Language",
+    "title": "Phoenix Configuration Language",
     "permalink": "/docs/next/sequence-configuration-language"
   }
 }

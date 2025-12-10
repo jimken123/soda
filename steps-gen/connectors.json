@@ -1,16 +1,16 @@
 {
-  "Sequence.Connectors.FileSystem": {
-    "id": "Sequence.Connectors.FileSystem",
+  "Phoenix.Connectors.FileSystem": {
+    "id": "Phoenix.Connectors.FileSystem",
     "version": "0.18.0",
     "enable": true
   },
-  "Sequence.Connectors.StructuredData": {
-    "id": "Sequence.Connectors.StructuredData",
+  "Phoenix.Connectors.StructuredData": {
+    "id": "Phoenix.Connectors.StructuredData",
     "version": "0.18.0",
     "enable": true
   },
-  "Sequence.Connectors.Nuix": {
-    "id": "Sequence.Connectors.Nuix",
+  "Phoenix.Connectors.Nuix": {
+    "id": "Phoenix.Connectors.Nuix",
     "version": "0.18.0",
     "enable": true,
     "settings": {
@@ -27,43 +27,43 @@
       ]
     }
   },
-  "Sequence.Connectors.Sql": {
-    "id": "Sequence.Connectors.Sql",
+  "Phoenix.Connectors.Sql": {
+    "id": "Phoenix.Connectors.Sql",
     "version": "0.18.0",
     "enable": true
   },
-  "Sequence.Connectors.Singer": {
-    "id": "Sequence.Connectors.Singer",
+  "Phoenix.Connectors.Singer": {
+    "id": "Phoenix.Connectors.Singer",
     "version": "0.18.0",
     "enable": true
   },
-  "Sequence.Connectors.Pwsh": {
-    "id": "Sequence.Connectors.Pwsh",
+  "Phoenix.Connectors.Pwsh": {
+    "id": "Phoenix.Connectors.Pwsh",
     "version": "0.18.0",
     "enable": true
   },
-  "Sequence.Connectors.Relativity": {
-    "id": "Sequence.Connectors.Relativity",
+  "Phoenix.Connectors.Relativity": {
+    "id": "Phoenix.Connectors.Relativity",
     "version": "0.18.0",
     "enable": true
   },
-  "Sequence.Connectors.TSK": {
-    "id": "Sequence.Connectors.TSK",
+  "Phoenix.Connectors.TSK": {
+    "id": "Phoenix.Connectors.TSK",
     "version": "0.18.0",
     "enable": true
   },
-  "Sequence.Connectors.Tesseract": {
-    "id": "Sequence.Connectors.Tesseract",
+  "Phoenix.Connectors.Tesseract": {
+    "id": "Phoenix.Connectors.Tesseract",
     "version": "0.18.0-alpha.1",
     "enable": true
   },
-  "Sequence.Connectors.Rest": {
-    "id": "Sequence.Connectors.Rest",
+  "Phoenix.Connectors.Rest": {
+    "id": "Phoenix.Connectors.Rest",
     "version": "0.18.0",
     "enable": true
   },
-  "Sequence.Connectors.Microsoft365": {
-    "id": "Sequence.Connectors.Microsoft365",
+  "Phoenix.Connectors.Microsoft365": {
+    "id": "Phoenix.Connectors.Microsoft365",
     "version": "0.18.0",
     "enable": true
   }

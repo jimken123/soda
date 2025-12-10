@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityUpdateObject",
   "id": "version-v0.18.0/Relativity/RelativityUpdateObject",
-  "title": "RelativityUpdateObject Step | Sequence Connector for Relativity Documentation",
-  "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityUpdateObject Step | Phoenix Connector for Relativity Documentation",
+  "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityUpdateObject.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityUpdateObject",
   "permalink": "/steps/Relativity/RelativityUpdateObject",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityUpdateObject.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityUpdateObject.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.18.0",
   "frontMatter": {
-    "title": "RelativityUpdateObject Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityUpdateObject Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityUpdateObject",
-    "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

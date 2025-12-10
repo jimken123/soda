@@ -1,5 +1,5 @@
 # There is no step currently to download files, so using the powershell connector instead
-# To add: ./sequence.exe connector add Sequence.Connectors.Pwsh
+# To add: ./Phoenix.exe connector add Phoenix.Connectors.Pwsh
 - <output> = './data'
 - AssertTrue (Not (DoesDirectoryExist <output>))
 - If (Not (DoesDirectoryExist <output>)) (CreateDirectory <output>)
@@ -9,7 +9,7 @@
     Variables: (
       EdrmMicroUrl: 'https://www.edrm.net/download/28896/'
       EdrmMicroPath: <edrm>
-      EncryptedUrl: 'https://gitlab.com/sequence/connectors/nuix/-/raw/main/Nuix.Tests/AllData/encrypted.pdf?inline=false'
+      EncryptedUrl: 'https://gitlab.com/Phoenix/connectors/nuix/-/raw/main/Nuix.Tests/AllData/encrypted.pdf?inline=false'
       EncryptedPath: <encrypted>
     )
     Script: '

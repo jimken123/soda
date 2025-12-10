@@ -1,5 +1,5 @@
 ---
-title: Import Entities from Nuix | Sequence Connector for Relativity Examples
+title: Import Entities from Nuix | Phoenix Connector for Relativity Examples
 sidebar_label: Import Entities from Nuix
 ---
 
@@ -9,8 +9,8 @@ This example will export entities from a Nuix Case and import them into a Relati
 
 ## Setup
 
-- [Instructions on how to install and setup Sequence and the Sequence Connector for Relativity®.](relativity.md)
-- [Instructions on how to install and setup Sequence and the Nuix Connector.](../nuix/nuix.md)
+- [Instructions on how to install and setup Phoenix and the Phoenix Connector for Relativity®.](relativity.md)
+- [Instructions on how to install and setup Phoenix and the Nuix Connector.](../nuix/nuix.md)
 
 You will also need to create a .kwe file to map the properties.
 To find out how to do this look at [Relativity Import Concordance.](relativity-import-concordance.md)
@@ -22,7 +22,7 @@ Download the SCL here: [relativity-import-from-nuix.scl](pathname:///example-fil
 To run:
 
 ```powershell
-PS > ./sequence.exe run relativity-import-from-nuix.scl
+PS > ./Phoenix.exe run relativity-import-from-nuix.scl
 ```
 
 ```scl

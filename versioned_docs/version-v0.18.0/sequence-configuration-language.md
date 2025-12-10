@@ -1,11 +1,11 @@
-# Sequence Configuration Language
+# Phoenix Configuration Language
 
 SCL is the configuration language for defining automated forensic and
 ediscovery workflows, with features to simplify data interchange between
 platforms and connectors to automate any application in your lab.
 
 The building blocks of SCL are [`Steps`](#steps), which can be combined
-to form [`Sequences`](#sequences).
+to form [`Phoenixs`](#Phoenixs).
 
 ## Steps
 
@@ -117,10 +117,10 @@ FileRead 'C:/data.txt' Decompress: true
 FileRead 'C:/data.txt' true # results in error because true is not a valid value for the `Encoding` parameter.
 ```
 
-## Sequences
+## Phoenixs
 
-A `Sequence` is one or more `Steps` that are executed in order.
-Steps in a sequence are indicated with a `-` on a new line
+A `Phoenix` is one or more `Steps` that are executed in order.
+Steps in a Phoenix are indicated with a `-` on a new line
 
 ```scl
 - <variable1> = 1
@@ -222,17 +222,17 @@ or special characters.
 
 Additional whitespace and newline characters are ignored.
 The only exception is the newline character before a new
-step in a [sequence](#sequences).
+step in a [Phoenix](#Phoenixs).
 
 The names of [steps](#steps), [parameters](#arguments-and-parameters), and
 [variables](#variables) are case-insensitve.
 
-You are encouraged to lay out your sequences in the way that
+You are encouraged to lay out your Phoenixs in the way that
 is most readable to you.
 
 You can also use tools like the
 [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=reductech.reductech-scl)
-to format your sequence automatically.
+to format your Phoenix automatically.
 
 ## Step and Parameter Aliases
 
@@ -246,7 +246,7 @@ their parameters have aliases. For example,
 - Delete Folder: 'c:\temp\folder'
 ```
 
-These two Sequences are the same:
+These two Phoenixs are the same:
 
 ```scl
 - FileRead Path: 'data.csv'

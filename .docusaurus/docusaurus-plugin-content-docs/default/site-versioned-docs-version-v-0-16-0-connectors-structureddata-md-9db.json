@@ -2,17 +2,17 @@
   "unversionedId": "connectors/structureddata",
   "id": "version-v0.16.0/connectors/structureddata",
   "title": "Structured Data Connector",
-  "description": "Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+  "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
   "source": "@site/versioned_docs/version-v0.16.0/connectors/structureddata.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/structureddata",
   "permalink": "/docs/v0.16.0/connectors/structureddata",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.16.0/connectors/structureddata.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.16.0/connectors/structureddata.md",
   "tags": [],
   "version": "v0.16.0",
   "frontMatter": {
-    "description": "Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
+    "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML."
   },
   "sidebar": "docs",
   "previous": {

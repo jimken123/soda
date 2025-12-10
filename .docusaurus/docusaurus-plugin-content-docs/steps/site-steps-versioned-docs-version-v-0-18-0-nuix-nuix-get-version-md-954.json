@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixGetVersion",
   "id": "version-v0.18.0/Nuix/NuixGetVersion",
   "title": "NuixGetVersion Step | Nuix Connector Documentation",
-  "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetVersion.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixGetVersion",
   "permalink": "/steps/Nuix/NuixGetVersion",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetVersion.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Nuix/NuixGetVersion.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixGetVersion Step | Nuix Connector Documentation",
     "sidebar_label": "NuixGetVersion",
-    "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns the Nuix version. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

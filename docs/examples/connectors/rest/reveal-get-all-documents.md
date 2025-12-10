@@ -13,7 +13,7 @@ This example will
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Sequence Connector for Rest.](rest.md)
+[Instructions on how to install and setup Phoenix and the Phoenix Connector for Rest.](rest.md)
 
 ## SCL
 
@@ -22,7 +22,7 @@ Download the SCL here: [reveal-get-all-documents.scl](pathname:///example-files/
 To run:
 
 ```powershell
-PS > ./sequence.exe run reveal-get-all-documents.scl
+PS > ./Phoenix.exe run reveal-get-all-documents.scl
 ```
 
 ```scl #ignore

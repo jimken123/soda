@@ -1,7 +1,7 @@
 ---
 title: StringTrim Step | Core SDK Documentation
 sidebar_label: StringTrim
-description: Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

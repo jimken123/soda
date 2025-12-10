@@ -13,625 +13,625 @@
     {
       "id": "Core/And",
       "title": "And Step | Core SDK Documentation",
-      "description": "Returns true if all terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if all terms are true. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/And"
     },
     {
       "id": "Core/ArrayConcat",
       "title": "ArrayConcat Step | Core SDK Documentation",
-      "description": "Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayConcat"
     },
     {
       "id": "Core/ArrayDistinct",
       "title": "ArrayDistinct Step | Core SDK Documentation",
-      "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayDistinct"
     },
     {
       "id": "Core/ArrayElementAtIndex",
       "title": "ArrayElementAtIndex Step | Core SDK Documentation",
-      "description": "Gets the array element at a particular index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the array element at a particular index. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayElementAtIndex"
     },
     {
       "id": "Core/ArrayFilter",
       "title": "ArrayFilter Step | Core SDK Documentation",
-      "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayFilter"
     },
     {
       "id": "Core/ArrayFind",
       "title": "ArrayFind Step | Core SDK Documentation",
-      "description": "Gets the first index of an element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the first index of an element in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayFind"
     },
     {
       "id": "Core/ArrayFirst",
       "title": "ArrayFirst Step | Core SDK Documentation",
-      "description": "Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayFirst"
     },
     {
       "id": "Core/ArrayGroupBy",
       "title": "ArrayGroupBy Step | Core SDK Documentation",
-      "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayGroupBy"
     },
     {
       "id": "Core/ArrayIsEmpty",
       "title": "ArrayIsEmpty Step | Core SDK Documentation",
-      "description": "Checks if an array is empty.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Checks if an array is empty.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayIsEmpty"
     },
     {
       "id": "Core/ArrayLast",
       "title": "ArrayLast Step | Core SDK Documentation",
-      "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayLast"
     },
     {
       "id": "Core/ArrayLength",
       "title": "ArrayLength Step | Core SDK Documentation",
-      "description": "Counts the elements in an array or entities in an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Counts the elements in an array or entities in an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayLength"
     },
     {
       "id": "Core/ArrayMap",
       "title": "ArrayMap Step | Core SDK Documentation",
-      "description": "Map each element of an array or entity stream to a new value. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Map each element of an array or entity stream to a new value. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayMap"
     },
     {
       "id": "Core/ArrayNew",
       "title": "ArrayNew Step | Core SDK Documentation",
-      "description": "Represents an ordered collection of objects.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Represents an ordered collection of objects.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayNew"
     },
     {
       "id": "Core/ArrayReverse",
       "title": "ArrayReverse Step | Core SDK Documentation",
-      "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayReverse"
     },
     {
       "id": "Core/ArraySkip",
       "title": "ArraySkip Step | Core SDK Documentation",
-      "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArraySkip"
     },
     {
       "id": "Core/ArraySort",
       "title": "ArraySort Step | Core SDK Documentation",
-      "description": "Reorder an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Reorder an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArraySort"
     },
     {
       "id": "Core/ArrayTake",
       "title": "ArrayTake Step | Core SDK Documentation",
-      "description": "Take the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Take the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ArrayTake"
     },
     {
       "id": "Core/AssertEqual",
       "title": "AssertEqual Step | Core SDK Documentation",
-      "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/AssertEqual"
     },
     {
       "id": "Core/AssertError",
       "title": "AssertError Step | Core SDK Documentation",
-      "description": "Returns success if the ValueIf step returns an error and a failure otherwise.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns success if the ValueIf step returns an error and a failure otherwise.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/AssertError"
     },
     {
       "id": "Core/AssertTrue",
       "title": "AssertTrue Step | Core SDK Documentation",
-      "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns an error if the nested step does not return true.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/AssertTrue"
     },
     {
       "id": "Core/CharAtIndex",
       "title": "CharAtIndex Step | Core SDK Documentation",
-      "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/CharAtIndex"
     },
     {
       "id": "Core/Clone",
       "title": "Clone Step | Core SDK Documentation",
-      "description": "Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Clone"
     },
     {
       "id": "Core/ConvertSizeUnits",
       "title": "ConvertSizeUnits Step | Core SDK Documentation",
-      "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ConvertSizeUnits"
     },
     {
       "id": "Core/DateToString",
       "title": "DateToString Step | Core SDK Documentation",
-      "description": "Converts a date to the specified format, yyyy/MM/dd HH:mm:ss by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Converts a date to the specified format, yyyy/MM/dd HH:mm:ss by default. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/DateToString"
     },
     {
       "id": "Core/Delay",
       "title": "Delay Step | Core SDK Documentation",
-      "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Delay"
     },
     {
       "id": "Core/Divide",
       "title": "Divide Step | Core SDK Documentation",
-      "description": "Divide an integer by a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Divide an integer by a list of integers. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Divide"
     },
     {
       "id": "Core/DocumentationCreate",
       "title": "DocumentationCreate Step | Core SDK Documentation",
-      "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/DocumentationCreate"
     },
     {
       "id": "Core/DoNothing",
       "title": "DoNothing Step | Core SDK Documentation",
-      "description": "Does nothing.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Does nothing.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/DoNothing"
     },
     {
       "id": "Core/DoubleDivide",
       "title": "DoubleDivide Step | Core SDK Documentation",
-      "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Divide a double by a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/DoubleDivide"
     },
     {
       "id": "Core/DoublePower",
       "title": "DoublePower Step | Core SDK Documentation",
-      "description": "Raises a double to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Raises a double to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/DoublePower"
     },
     {
       "id": "Core/DoubleProduct",
       "title": "DoubleProduct Step | Core SDK Documentation",
-      "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/DoubleProduct"
     },
     {
       "id": "Core/DoubleSubtract",
       "title": "DoubleSubtract Step | Core SDK Documentation",
-      "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/DoubleSubtract"
     },
     {
       "id": "Core/DoubleSum",
       "title": "DoubleSum Step | Core SDK Documentation",
-      "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/DoubleSum"
     },
     {
       "id": "Core/EntityCombine",
       "title": "EntityCombine Step | Core SDK Documentation",
-      "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityCombine"
     },
     {
       "id": "Core/EntityFlatten",
       "title": "EntityFlatten Step | Core SDK Documentation",
-      "description": "Recursively flatten an entity, turning all nested entities into separate fields. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Recursively flatten an entity, turning all nested entities into separate fields. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityFlatten"
     },
     {
       "id": "Core/EntityFormat",
       "title": "EntityFormat Step | Core SDK Documentation",
-      "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityFormat"
     },
     {
       "id": "Core/EntityGetProperties",
       "title": "EntityGetProperties Step | Core SDK Documentation",
-      "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityGetProperties"
     },
     {
       "id": "Core/EntityGetValue",
       "title": "EntityGetValue Step | Core SDK Documentation",
-      "description": "Gets the value of a property from an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the value of a property from an entity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityGetValue"
     },
     {
       "id": "Core/EntityHasProperty",
       "title": "EntityHasProperty Step | Core SDK Documentation",
-      "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityHasProperty"
     },
     {
       "id": "Core/EntityMapProperties",
       "title": "EntityMapProperties Step | Core SDK Documentation",
-      "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityMapProperties"
     },
     {
       "id": "Core/EntityRemoveProperty",
       "title": "EntityRemoveProperty Step | Core SDK Documentation",
-      "description": "Returns a copy of the entity with the specified property removed. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns a copy of the entity with the specified property removed. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityRemoveProperty"
     },
     {
       "id": "Core/EntitySetValue",
       "title": "EntitySetValue Step | Core SDK Documentation",
-      "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns a copy of the entity with this property set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntitySetValue"
     },
     {
       "id": "Core/EntityValidateRelations",
       "title": "EntityValidateRelations Step | Core SDK Documentation",
-      "description": "For each entity in the stream, check that the value of the `ParentIdProperty` is the value of the `IdProperty` for at least one entity in the stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "For each entity in the stream, check that the value of the `ParentIdProperty` is the value of the `IdProperty` for at least one entity in the stream.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/EntityValidateRelations"
     },
     {
       "id": "Core/Equals",
       "title": "Equals Step | Core SDK Documentation",
-      "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true is all terms are equal. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Equals"
     },
     {
       "id": "Core/For",
       "title": "For Step | Core SDK Documentation",
-      "description": "Do an action for each value of <i> in a range.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Do an action for each value of <i> in a range.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/For"
     },
     {
       "id": "Core/ForEach",
       "title": "ForEach Step | Core SDK Documentation",
-      "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/ForEach"
     },
     {
       "id": "Core/GetApplicationVersion",
       "title": "GetApplicationVersion Step | Core SDK Documentation",
-      "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/GetApplicationVersion"
     },
     {
       "id": "Core/GetAutomaticVariable",
       "title": "GetAutomaticVariable Step | Core SDK Documentation",
-      "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the value of the automatic variable. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/GetAutomaticVariable"
     },
     {
       "id": "Core/GetConnectorInformation",
       "title": "GetConnectorInformation Step | Core SDK Documentation",
-      "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/GetConnectorInformation"
     },
     {
       "id": "Core/GetSettings",
       "title": "GetSettings Step | Core SDK Documentation",
-      "description": "Get an entity containing SCL settings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Get an entity containing SCL settings. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/GetSettings"
     },
     {
       "id": "Core/GetVariable",
       "title": "GetVariable Step | Core SDK Documentation",
-      "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/GetVariable"
     },
     {
       "id": "Core/GreaterThan",
       "title": "GreaterThan Step | Core SDK Documentation",
-      "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/GreaterThan"
     },
     {
       "id": "Core/GreaterThanOrEqual",
       "title": "GreaterThanOrEqual Step | Core SDK Documentation",
-      "description": "Returns true if each term is greater than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if each term is greater than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/GreaterThanOrEqual"
     },
     {
       "id": "Core/Hash",
       "title": "Hash Step | Core SDK Documentation",
-      "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Hash"
     },
     {
       "id": "Core/HttpRequest",
       "title": "HttpRequest Step | Core SDK Documentation",
-      "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/HttpRequest"
     },
     {
       "id": "Core/If",
       "title": "If Step | Core SDK Documentation",
-      "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/If"
     },
     {
       "id": "Core/IncrementVariable",
       "title": "IncrementVariable Step | Core SDK Documentation",
-      "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/IncrementVariable"
     },
     {
       "id": "Core/IsNull",
       "title": "IsNull Step | Core SDK Documentation",
-      "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Checks if a step returns null. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/IsNull"
     },
     {
       "id": "Core/LessThan",
       "title": "LessThan Step | Core SDK Documentation",
-      "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/LessThan"
     },
     {
       "id": "Core/LessThanOrEqual",
       "title": "LessThanOrEqual Step | Core SDK Documentation",
-      "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/LessThanOrEqual"
     },
     {
       "id": "Core/Log",
       "title": "Log Step | Core SDK Documentation",
-      "description": "Write a value to the logs. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Write a value to the logs. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Log"
     },
     {
       "id": "Core/Modulo",
       "title": "Modulo Step | Core SDK Documentation",
-      "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Modulo a number by a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Modulo"
     },
     {
       "id": "Core/Not",
       "title": "Not Step | Core SDK Documentation",
-      "description": "Negation of a boolean value.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Negation of a boolean value.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Not"
     },
     {
       "id": "Core/NotEquals",
       "title": "NotEquals Step | Core SDK Documentation",
-      "description": "Returns true if each term is not equal to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if each term is not equal to the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/NotEquals"
     },
     {
       "id": "Core/Or",
       "title": "Or Step | Core SDK Documentation",
-      "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Or"
+    },
+    {
+      "id": "Core/Sequence",
+      "title": "Phoenix Step | Core SDK Documentation",
+      "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
+      "permalink": "/steps/next/Core/Sequence"
     },
     {
       "id": "Core/Power",
       "title": "Power Step | Core SDK Documentation",
-      "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Power"
     },
     {
       "id": "Core/Print",
       "title": "Print Step | Core SDK Documentation",
-      "description": "Prints a value to the console.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Prints a value to the console.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Print"
     },
     {
       "id": "Core/Product",
       "title": "Product Step | Core SDK Documentation",
-      "description": "Calculate the product of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Calculate the product of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Product"
     },
     {
       "id": "Core/Repeat",
       "title": "Repeat Step | Core SDK Documentation",
-      "description": "Repeat a step a set number of times.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Repeat a step a set number of times.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Repeat"
     },
     {
       "id": "Core/Round",
       "title": "Round Step | Core SDK Documentation",
-      "description": "Round an SCL double to a fixed number of decimal places. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Round an SCL double to a fixed number of decimal places. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Round"
     },
     {
       "id": "Core/RunExternalProcess",
       "title": "RunExternalProcess Step | Core SDK Documentation",
-      "description": "Runs an external executable program.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Runs an external executable program.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/RunExternalProcess"
     },
     {
       "id": "Core/RunSCL",
       "title": "RunSCL Step | Core SDK Documentation",
-      "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/RunSCL"
     },
     {
       "id": "Core/RunStep",
       "title": "RunStep Step | Core SDK Documentation",
-      "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/RunStep"
     },
     {
       "id": "Core/SchemaCreate",
       "title": "SchemaCreate Step | Core SDK Documentation",
-      "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/SchemaCreate"
     },
     {
       "id": "Core/SchemaCreateCoerced",
       "title": "SchemaCreateCoerced Step | Core SDK Documentation",
-      "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/SchemaCreateCoerced"
-    },
-    {
-      "id": "Core/Sequence",
-      "title": "Sequence Step | Core SDK Documentation",
-      "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
-      "permalink": "/steps/next/Core/Sequence"
     },
     {
       "id": "Core/SetVariable",
       "title": "SetVariable Step | Core SDK Documentation",
-      "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/SetVariable"
     },
     {
       "id": "Core/StandardErrorWrite",
       "title": "StandardErrorWrite Step | Core SDK Documentation",
-      "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StandardErrorWrite"
     },
     {
       "id": "Core/StandardInRead",
       "title": "StandardInRead Step | Core SDK Documentation",
-      "description": "Reads the Console standard input. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Reads the Console standard input. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StandardInRead"
     },
     {
       "id": "Core/StandardOutWrite",
       "title": "StandardOutWrite Step | Core SDK Documentation",
-      "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Writes to the console standard output. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StandardOutWrite"
     },
     {
       "id": "Core/StringAppend",
       "title": "StringAppend Step | Core SDK Documentation",
-      "description": "Appends a string to an existing string variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Appends a string to an existing string variable.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringAppend"
     },
     {
       "id": "Core/StringContains",
       "title": "StringContains Step | Core SDK Documentation",
-      "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringContains"
     },
     {
       "id": "Core/StringFind",
       "title": "StringFind Step | Core SDK Documentation",
-      "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringFind"
     },
     {
       "id": "Core/StringFindLast",
       "title": "StringFindLast Step | Core SDK Documentation",
-      "description": "Gets the last instance of substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the last instance of substring in a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringFindLast"
     },
     {
       "id": "Core/StringInterpolate",
       "title": "StringInterpolate Step | Core SDK Documentation",
-      "description": "Joins strings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Joins strings. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringInterpolate"
     },
     {
       "id": "Core/StringIsEmpty",
       "title": "StringIsEmpty Step | Core SDK Documentation",
-      "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringIsEmpty"
     },
     {
       "id": "Core/StringJoin",
       "title": "StringJoin Step | Core SDK Documentation",
-      "description": "Join strings with a delimiter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Join strings with a delimiter.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringJoin"
     },
     {
       "id": "Core/StringLength",
       "title": "StringLength Step | Core SDK Documentation",
-      "description": "Calculates the length of the string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Calculates the length of the string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringLength"
     },
     {
       "id": "Core/StringMatch",
       "title": "StringMatch Step | Core SDK Documentation",
-      "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringMatch"
     },
     {
       "id": "Core/StringReplace",
       "title": "StringReplace Step | Core SDK Documentation",
-      "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringReplace"
     },
     {
       "id": "Core/StringSplit",
       "title": "StringSplit Step | Core SDK Documentation",
-      "description": "Splits a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Splits a string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringSplit"
     },
     {
       "id": "Core/StringSubstring",
       "title": "StringSubstring Step | Core SDK Documentation",
-      "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringSubstring"
     },
     {
       "id": "Core/StringToBool",
       "title": "StringToBool Step | Core SDK Documentation",
-      "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringToBool"
     },
     {
       "id": "Core/StringToCase",
       "title": "StringToCase Step | Core SDK Documentation",
-      "description": "Converts a string to a particular case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Converts a string to a particular case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringToCase"
     },
     {
       "id": "Core/StringToDate",
       "title": "StringToDate Step | Core SDK Documentation",
-      "description": "Converts a date to the specified format, yyyyMMddHHmm by default. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Converts a date to the specified format, yyyyMMddHHmm by default. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringToDate"
     },
     {
       "id": "Core/StringToDouble",
       "title": "StringToDouble Step | Core SDK Documentation",
-      "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringToDouble"
     },
     {
       "id": "Core/StringToInt",
       "title": "StringToInt Step | Core SDK Documentation",
-      "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringToInt"
     },
     {
       "id": "Core/StringTrim",
       "title": "StringTrim Step | Core SDK Documentation",
-      "description": "Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Trims a string, removing whitespace from the `TrimSide`.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/StringTrim"
     },
     {
       "id": "Core/Subtract",
       "title": "Subtract Step | Core SDK Documentation",
-      "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Subtract a list of numbers from a number. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Subtract"
     },
     {
       "id": "Core/Sum",
       "title": "Sum Step | Core SDK Documentation",
-      "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Sum"
     },
     {
       "id": "Core/Transform",
       "title": "Transform Step | Core SDK Documentation",
-      "description": "Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Transform"
     },
     {
       "id": "Core/Try",
       "title": "Try Step | Core SDK Documentation",
-      "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Try"
     },
     {
       "id": "Core/Validate",
       "title": "Validate Step | Core SDK Documentation",
-      "description": "Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/Validate"
     },
     {
       "id": "Core/While",
       "title": "While Step | Core SDK Documentation",
-      "description": "Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Core/While"
     }
   ]

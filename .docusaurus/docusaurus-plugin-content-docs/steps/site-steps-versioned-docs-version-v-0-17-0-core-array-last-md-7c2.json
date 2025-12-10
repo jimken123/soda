@@ -2,13 +2,13 @@
   "unversionedId": "Core/ArrayLast",
   "id": "version-v0.17.0/Core/ArrayLast",
   "title": "ArrayLast Step | Core SDK Documentation",
-  "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/ArrayLast.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayLast",
   "permalink": "/steps/v0.17.0/Core/ArrayLast",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/ArrayLast.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/ArrayLast.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ArrayLast Step | Core SDK Documentation",
     "sidebar_label": "ArrayLast",
-    "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the last element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

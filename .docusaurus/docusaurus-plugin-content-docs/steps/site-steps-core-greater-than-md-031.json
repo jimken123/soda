@@ -2,13 +2,13 @@
   "unversionedId": "Core/GreaterThan",
   "id": "Core/GreaterThan",
   "title": "GreaterThan Step | Core SDK Documentation",
-  "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/GreaterThan.md",
   "sourceDirName": "Core",
   "slug": "/Core/GreaterThan",
   "permalink": "/steps/next/Core/GreaterThan",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/GreaterThan.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/GreaterThan.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "GreaterThan Step | Core SDK Documentation",
     "sidebar_label": "GreaterThan",
-    "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

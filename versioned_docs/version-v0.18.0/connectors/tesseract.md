@@ -1,5 +1,5 @@
 ---
-description: Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.
+description: Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.
 ---
 
 # Tesseract Connector
@@ -10,4 +10,4 @@ open source library as the OCR engine.
 
 SCL examples available [here](../examples/connectors/tesseract/tesseract.md).
 
-Source code available on [GitLab](https://gitlab.com/sequence/connectors/tesseract).
+Source code available on [GitLab](https://gitlab.com/Phoenix/connectors/tesseract).

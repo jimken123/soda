@@ -2,13 +2,13 @@
   "unversionedId": "Core/ForEach",
   "id": "Core/ForEach",
   "title": "ForEach Step | Core SDK Documentation",
-  "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/ForEach.md",
   "sourceDirName": "Core",
   "slug": "/Core/ForEach",
   "permalink": "/steps/next/Core/ForEach",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ForEach.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ForEach.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ForEach Step | Core SDK Documentation",
     "sidebar_label": "ForEach",
-    "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Do an action for each element in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

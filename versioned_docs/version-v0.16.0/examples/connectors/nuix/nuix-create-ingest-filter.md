@@ -16,7 +16,7 @@ This example will:
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Nuix Connector.](nuix.md)
+[Instructions on how to install and setup Phoenix and the Nuix Connector.](nuix.md)
 
 To download and setup the data for this example, use the SCL from
 [this example](nuix-download-sample-data.md). Manual steps:
@@ -31,7 +31,7 @@ Download the SCL here: [nuix-create-ingest-filter.scl](pathname:///example-files
 To run:
 
 ```powershell
-PS > ./sequence.exe run nuix-create-ingest-filter.scl
+PS > ./Phoenix.exe run nuix-create-ingest-filter.scl
 ```
 
 Details of the case and the evidence can be customised by updating the relevant

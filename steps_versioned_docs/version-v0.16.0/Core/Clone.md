@@ -1,7 +1,7 @@
 ---
 title: Clone Step | Core SDK Documentation
 sidebar_label: Clone
-description: Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

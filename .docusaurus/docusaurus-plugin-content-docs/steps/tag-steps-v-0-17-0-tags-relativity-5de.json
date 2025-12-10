@@ -6,170 +6,170 @@
   "items": [
     {
       "id": "version-v0.17.0/Relativity",
-      "title": "All Steps | Sequence Connector for Relativity Documentation",
-      "description": "List of all steps for Sequence Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+      "title": "All Steps | Phoenix Connector for Relativity Documentation",
+      "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
       "permalink": "/steps/v0.17.0/Relativity"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityCreateDynamicObjects",
-      "title": "RelativityCreateDynamicObjects Step | Sequence Connector for Relativity Documentation",
-      "description": "Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityCreateDynamicObjects Step | Phoenix Connector for Relativity Documentation",
+      "description": "Create a relativity dynamic objects from entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityCreateDynamicObjects"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityCreateField",
-      "title": "RelativityCreateField Step | Sequence Connector for Relativity Documentation",
-      "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityCreateField Step | Phoenix Connector for Relativity Documentation",
+      "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityCreateField"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityCreateFolder",
-      "title": "RelativityCreateFolder Step | Sequence Connector for Relativity Documentation",
-      "description": "Create a folder in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityCreateFolder Step | Phoenix Connector for Relativity Documentation",
+      "description": "Create a folder in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityCreateFolder"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityCreateKeywordSearch",
-      "title": "RelativityCreateKeywordSearch Step | Sequence Connector for Relativity Documentation",
-      "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityCreateKeywordSearch Step | Phoenix Connector for Relativity Documentation",
+      "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityCreateKeywordSearch"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityCreateMatter",
-      "title": "RelativityCreateMatter Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityCreateMatter Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityCreateMatter"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityCreateWorkspace",
-      "title": "RelativityCreateWorkspace Step | Sequence Connector for Relativity Documentation",
-      "description": "Creates a new Relativity Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityCreateWorkspace Step | Phoenix Connector for Relativity Documentation",
+      "description": "Creates a new Relativity Workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityCreateWorkspace"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityDeleteDocument",
-      "title": "RelativityDeleteDocument Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityDeleteDocument Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityDeleteDocument"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityDeleteKeywordSearch",
-      "title": "RelativityDeleteKeywordSearch Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityDeleteKeywordSearch Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityDeleteKeywordSearch"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityDeleteMatter",
-      "title": "RelativityDeleteMatter Step | Sequence Connector for Relativity Documentation",
-      "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityDeleteMatter Step | Phoenix Connector for Relativity Documentation",
+      "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityDeleteMatter"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityDeleteUnusedFolders",
-      "title": "RelativityDeleteUnusedFolders Step | Sequence Connector for Relativity Documentation",
-      "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityDeleteUnusedFolders Step | Phoenix Connector for Relativity Documentation",
+      "description": "Deletes unused folders in a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityDeleteUnusedFolders"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityDeleteWorkspace",
-      "title": "RelativityDeleteWorkspace Step | Sequence Connector for Relativity Documentation",
-      "description": "Deletes a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityDeleteWorkspace Step | Phoenix Connector for Relativity Documentation",
+      "description": "Deletes a relativity workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityDeleteWorkspace"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityExport",
-      "title": "RelativityExport Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityExport Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityExport"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityGetClients",
-      "title": "RelativityGetClients Step | Sequence Connector for Relativity Documentation",
-      "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityGetClients Step | Phoenix Connector for Relativity Documentation",
+      "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityGetClients"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityGetMatterStatuses",
-      "title": "RelativityGetMatterStatuses Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityGetMatterStatuses Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityGetMatterStatuses"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityGetSubfolders",
-      "title": "RelativityGetSubfolders Step | Sequence Connector for Relativity Documentation",
-      "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityGetSubfolders Step | Phoenix Connector for Relativity Documentation",
+      "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityGetSubfolders"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityImport",
-      "title": "RelativityImport Step | Sequence Connector for Relativity Documentation",
-      "description": "Imports a load file into Relativity using the desktop client. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityImport Step | Phoenix Connector for Relativity Documentation",
+      "description": "Imports a load file into Relativity using the desktop client. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityImport"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityImportEntities",
-      "title": "RelativityImportEntities Step | Sequence Connector for Relativity Documentation",
-      "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityImportEntities Step | Phoenix Connector for Relativity Documentation",
+      "description": "Import Entities into Relativity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityImportEntities"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityMoveFolder",
-      "title": "RelativityMoveFolder Step | Sequence Connector for Relativity Documentation",
-      "description": "Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityMoveFolder Step | Phoenix Connector for Relativity Documentation",
+      "description": "Move a folder and its children, including subfolders and documents. . Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityMoveFolder"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityReadKeywordSearch",
-      "title": "RelativityReadKeywordSearch Step | Sequence Connector for Relativity Documentation",
-      "description": "Reads a search. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityReadKeywordSearch Step | Phoenix Connector for Relativity Documentation",
+      "description": "Reads a search. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityReadKeywordSearch"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityRetrieveMatter",
-      "title": "RelativityRetrieveMatter Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityRetrieveMatter Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityRetrieveMatter"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityRetrieveRootFolder",
-      "title": "RelativityRetrieveRootFolder Step | Sequence Connector for Relativity Documentation",
-      "description": "Retrieve the root folder of a Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityRetrieveRootFolder Step | Phoenix Connector for Relativity Documentation",
+      "description": "Retrieve the root folder of a Workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityRetrieveRootFolder"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityRetrieveWorkspace",
-      "title": "RelativityRetrieveWorkspace Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityRetrieveWorkspace Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityRetrieveWorkspace"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityRetrieveWorkspaceStatistics",
-      "title": "RelativityRetrieveWorkspaceStatistics Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityRetrieveWorkspaceStatistics Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityRetrieveWorkspaceStatistics"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativitySendQuery",
-      "title": "RelativitySendQuery Step | Sequence Connector for Relativity Documentation",
-      "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativitySendQuery Step | Phoenix Connector for Relativity Documentation",
+      "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativitySendQuery"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityUpdateFolder",
-      "title": "RelativityUpdateFolder Step | Sequence Connector for Relativity Documentation",
-      "description": "Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityUpdateFolder Step | Phoenix Connector for Relativity Documentation",
+      "description": "Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityUpdateFolder"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityUpdateMatter",
-      "title": "RelativityUpdateMatter Step | Sequence Connector for Relativity Documentation",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityUpdateMatter Step | Phoenix Connector for Relativity Documentation",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityUpdateMatter"
     },
     {
       "id": "version-v0.17.0/Relativity/RelativityUpdateObject",
-      "title": "RelativityUpdateObject Step | Sequence Connector for Relativity Documentation",
-      "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "title": "RelativityUpdateObject Step | Phoenix Connector for Relativity Documentation",
+      "description": "Update a Relativity Object. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.17.0/Relativity/RelativityUpdateObject"
     }
   ]

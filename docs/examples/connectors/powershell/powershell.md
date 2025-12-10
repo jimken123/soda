@@ -1,19 +1,19 @@
 ---
 sidebar_label: PowerShell Connector
 sidebar_position: 0
-description: Learn how to further customise Sequence by including powershell scripts in your automated forensic and ediscovery workflows.
+description: Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.
 ---
 
 # PowerShell Connector Examples
 
 ## Setup
 
-1. Download and set up Sequence. See the [quick start](../../../quick-start.md) for more info.
+1. Download and set up Phoenix. See the [quick start](../../../quick-start.md) for more info.
 2. Add the PowerShell connector. See [connectors](../../../quick-start.md#connectors)
    for more info on managing connectors.
 
 ```powershell
-./sequence.exe connector add Sequence.Connectors.Pwsh
+./Phoenix.exe connector add Phoenix.Connectors.Pwsh
 ```
 
 ## Examples

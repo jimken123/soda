@@ -1,5 +1,5 @@
 ---
-description: Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.
+description: Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.
 ---
 
 # The Sleuth Kit® Connector
@@ -17,7 +17,7 @@ This connector has [Steps](/steps/TSK) to:
 
 [TSK SCL examples available here](../examples/connectors/tsk/tsk.md).
 
-Source code available on [GitLab](https://gitlab.com/sequence/connectors/tsk).
+Source code available on [GitLab](https://gitlab.com/Phoenix/connectors/tsk).
 
 The Steps all use the [Autopsy command line](http://sleuthkit.org/autopsy/docs/user-docs/4.19.0/command_line_ingest_page.html).
 
@@ -35,8 +35,8 @@ provided using the `settings` key in `connectors.json`.
 ### Example Settings
 
 ```json
-"Sequence.Connectors.TSK": {
-  "id": "Sequence.Connectors.TSK",
+"Phoenix.Connectors.TSK": {
+  "id": "Phoenix.Connectors.TSK",
   "enable": true,
   "version": "0.13.0",
   "settings": {

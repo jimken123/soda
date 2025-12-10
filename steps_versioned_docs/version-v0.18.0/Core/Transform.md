@@ -1,7 +1,7 @@
 ---
 title: Transform Step | Core SDK Documentation
 sidebar_label: Transform
-description: Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Attempts to transform entities in the stream so that they match the schema. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true
@@ -12,7 +12,7 @@ _Alias_:`Transform`, `SchemaTransform`
 
 _Output_:`Array<T>`
 
-Attempts to transform entities in the stream so that they match the schema.              Will transform strings into ints, datetimes, booleans, array, or nulls where appropriate.              The properties of the transformed entities will be in the same order as in the schema              For more information on schemas please see the [documentation](https://sequence.sh/docs/schemas/).
+Attempts to transform entities in the stream so that they match the schema.              Will transform strings into ints, datetimes, booleans, array, or nulls where appropriate.              The properties of the transformed entities will be in the same order as in the schema              For more information on schemas please see the [documentation](https://Phoenix.sh/docs/schemas/).
 
 
 |Parameter            |Type                                      |Required|Position|Default Value                                     |Summary                                                                                                                                                                                                       |

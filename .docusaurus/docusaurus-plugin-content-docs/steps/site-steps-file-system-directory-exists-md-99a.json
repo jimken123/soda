@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/DirectoryExists",
   "id": "FileSystem/DirectoryExists",
   "title": "DirectoryExists Step | File System Connector Documentation",
-  "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/FileSystem/DirectoryExists.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/DirectoryExists",
   "permalink": "/steps/next/FileSystem/DirectoryExists",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/DirectoryExists.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/FileSystem/DirectoryExists.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "DirectoryExists Step | File System Connector Documentation",
     "sidebar_label": "DirectoryExists",
-    "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns whether a directory on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

@@ -2,20 +2,20 @@
   "unversionedId": "examples/connectors/singer/singer",
   "id": "version-v0.17.0/examples/connectors/singer/singer",
   "title": "Singer Connector Examples",
-  "description": "Learn how to use Sequence as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+  "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
   "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/singer/singer.md",
   "sourceDirName": "examples/connectors/singer",
   "slug": "/examples/connectors/singer/",
   "permalink": "/docs/v0.17.0/examples/connectors/singer/",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/singer/singer.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/singer/singer.md",
   "tags": [],
   "version": "v0.17.0",
   "sidebarPosition": 0,
   "frontMatter": {
     "sidebar_label": "Singer Connector",
     "sidebar_position": 0,
-    "description": "Learn how to use Sequence as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows."
+    "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "previous": {

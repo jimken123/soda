@@ -2,17 +2,17 @@
   "unversionedId": "application-settings",
   "id": "version-v0.17.0/application-settings",
   "title": "Application Settings",
-  "description": "Documentation for logging and connector configuration for Sequence, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
+  "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
   "source": "@site/versioned_docs/version-v0.17.0/application-settings.md",
   "sourceDirName": ".",
   "slug": "/application-settings",
   "permalink": "/docs/v0.17.0/application-settings",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/application-settings.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/application-settings.md",
   "tags": [],
   "version": "v0.17.0",
   "frontMatter": {
-    "description": "Documentation for logging and connector configuration for Sequence, the open-source automation toolkit for end-to-end forensic and ediscovery workflows."
+    "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "previous": {

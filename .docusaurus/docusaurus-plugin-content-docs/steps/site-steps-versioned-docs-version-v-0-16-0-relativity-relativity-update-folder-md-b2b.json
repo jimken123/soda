@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityUpdateFolder",
   "id": "version-v0.16.0/Relativity/RelativityUpdateFolder",
-  "title": "RelativityUpdateFolder Step | Sequence Connector for Relativity Documentation",
-  "description": "Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityUpdateFolder Step | Phoenix Connector for Relativity Documentation",
+  "description": "Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity/RelativityUpdateFolder.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityUpdateFolder",
   "permalink": "/steps/v0.16.0/Relativity/RelativityUpdateFolder",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityUpdateFolder.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityUpdateFolder.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.16.0",
   "frontMatter": {
-    "title": "RelativityUpdateFolder Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityUpdateFolder Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityUpdateFolder",
-    "description": "Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

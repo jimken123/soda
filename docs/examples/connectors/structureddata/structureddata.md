@@ -8,7 +8,7 @@ description: Learn how to automatically convert data between popular ediscovery 
 
 ## Setup
 
-1. Download and set up Sequence. See the [quick start](../../../quick-start.md) for more info.
+1. Download and set up Phoenix. See the [quick start](../../../quick-start.md) for more info.
 2. Add the StructuredData connector.
    See [connectors](../../../quick-start.md#connectors) for more info on managing connectors.
 

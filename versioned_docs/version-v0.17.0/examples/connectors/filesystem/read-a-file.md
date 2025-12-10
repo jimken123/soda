@@ -5,7 +5,7 @@ sidebar_label: Read a File
 
 # Read a File
 
-[Instructions on how to install and setup Sequence and the FileSystem Connector.](filesystem.md)
+[Instructions on how to install and setup Phoenix and the FileSystem Connector.](filesystem.md)
 
 This workflow:
 

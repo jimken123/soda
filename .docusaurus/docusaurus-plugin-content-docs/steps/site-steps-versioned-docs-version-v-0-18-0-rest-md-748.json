@@ -2,13 +2,13 @@
   "unversionedId": "Rest",
   "id": "version-v0.18.0/Rest",
   "title": "All Steps | REST Connector Documentation",
-  "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.",
+  "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Rest.md",
   "sourceDirName": ".",
   "slug": "/Rest",
   "permalink": "/steps/Rest",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Rest.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Rest.md",
   "tags": [
     {
       "label": "Contents",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "All Steps | REST Connector Documentation",
     "sidebar_label": "Rest",
-    "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.",
+    "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
     "tags": [
       "Contents",
       "Rest"

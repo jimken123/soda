@@ -1,7 +1,7 @@
 ---
 title: All Steps | File System Connector Documentation
 sidebar_label: FileSystem
-description: List of all steps for File System Connector. Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.
+description: List of all steps for File System Connector. Phoenix connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.
 tags: [Contents, FileSystem]
 hide_title: true
 hide_table_of_contents: true

@@ -1,7 +1,7 @@
 ---
 title: NuixCreateTermList Step | Nuix Connector Documentation
 sidebar_label: NuixCreateTermList
-description: Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Creates a list of all terms appearing in the case and their frequencies. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

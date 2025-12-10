@@ -2,19 +2,19 @@
   "unversionedId": "examples/schema-examples",
   "id": "version-v0.18.0/examples/schema-examples",
   "title": "Schema Examples",
-  "description": "Learn how to use Sequence schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+  "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
   "source": "@site/versioned_docs/version-v0.18.0/examples/schema-examples.md",
   "sourceDirName": "examples",
   "slug": "/examples/schema-examples",
   "permalink": "/docs/examples/schema-examples",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/schema-examples.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/schema-examples.md",
   "tags": [],
   "version": "v0.18.0",
   "frontMatter": {
     "title": "Schema Examples",
     "sidebar_label": "Schemas",
-    "description": "Learn how to use Sequence schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications."
+    "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications."
   },
   "sidebar": "docs",
   "previous": {

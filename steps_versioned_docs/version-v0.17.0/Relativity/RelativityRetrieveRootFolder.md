@@ -1,7 +1,7 @@
 ---
-title: RelativityRetrieveRootFolder Step | Sequence Connector for Relativity Documentation
+title: RelativityRetrieveRootFolder Step | Phoenix Connector for Relativity Documentation
 sidebar_label: RelativityRetrieveRootFolder
-description: Retrieve the root folder of a Workspace. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Retrieve the root folder of a Workspace. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Relativity]
 hide_title: true
 hide_table_of_contents: true

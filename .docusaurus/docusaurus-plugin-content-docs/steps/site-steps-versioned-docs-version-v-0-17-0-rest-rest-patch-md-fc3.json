@@ -2,13 +2,13 @@
   "unversionedId": "Rest/RESTPatch",
   "id": "version-v0.17.0/Rest/RESTPatch",
   "title": "RESTPatch Step | REST Connector Documentation",
-  "description": "Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Rest/RESTPatch.md",
   "sourceDirName": "Rest",
   "slug": "/Rest/RESTPatch",
   "permalink": "/steps/v0.17.0/Rest/RESTPatch",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Rest/RESTPatch.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Rest/RESTPatch.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "RESTPatch Step | REST Connector Documentation",
     "sidebar_label": "RESTPatch",
-    "description": "Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Rest"

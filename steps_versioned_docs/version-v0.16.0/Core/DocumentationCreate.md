@@ -1,7 +1,7 @@
 ---
 title: DocumentationCreate Step | Core SDK Documentation
 sidebar_label: DocumentationCreate
-description: Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true
@@ -23,7 +23,7 @@ Generates documentation for all available steps.
 Logs all the file paths
 #### SCL
 ```scl
-- <root> = 'sequence/steps'
+- <root> = 'Phoenix/steps'
 - (DocumentationCreate)['AllPages'] | ForEach (
     - <path> = $"{<root>}/{<>['Directory']}/{<>['FileName']}"
     - log <path>

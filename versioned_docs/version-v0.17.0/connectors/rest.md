@@ -1,23 +1,23 @@
 ---
-description: Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.
+description: Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.
 ---
 
 # REST Connector
 
-The Sequence REST Connector allows users to connect to REST services.
+The Phoenix REST Connector allows users to connect to REST services.
 
 This connector works by generating steps from an OpenAPI specification defined in
 the configuration.
 
 SCL examples available [here](../examples/connectors/rest/rest.md).
 
-Source code available on [GitLab](https://gitlab.com/sequence/connectors/rest).
+Source code available on [GitLab](https://gitlab.com/Phoenix/connectors/rest).
 
 ## Connector Settings
 
 ```json
-"Sequence.Connectors.Rest": {
-  "Id": "Sequence.Connectors.Rest",
+"Phoenix.Connectors.Rest": {
+  "Id": "Phoenix.Connectors.Rest",
   "Version": "0.18.0",
   "Settings": {
     "Specifications": [{

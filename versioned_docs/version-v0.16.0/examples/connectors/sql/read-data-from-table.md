@@ -5,7 +5,7 @@ sidebar_label: Read Data from a SQL Table
 
 # Read Data from a SQL Table
 
-[Instructions on how to install and setup Sequence and the SQL Connector.](sql.md)
+[Instructions on how to install and setup Phoenix and the SQL Connector.](sql.md)
 
 This workflow:
 

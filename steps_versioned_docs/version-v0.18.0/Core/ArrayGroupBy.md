@@ -1,7 +1,7 @@
 ---
 title: ArrayGroupBy Step | Core SDK Documentation
 sidebar_label: ArrayGroupBy
-description: Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

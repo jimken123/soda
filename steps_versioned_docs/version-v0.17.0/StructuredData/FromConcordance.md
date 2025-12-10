@@ -1,7 +1,7 @@
 ---
 title: FromConcordance Step | Structured Data Connector Documentation
 sidebar_label: FromConcordance
-description: Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, StructuredData]
 hide_title: true
 hide_table_of_contents: true

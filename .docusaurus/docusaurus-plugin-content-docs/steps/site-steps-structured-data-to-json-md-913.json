@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/ToJson",
   "id": "StructuredData/ToJson",
   "title": "ToJson Step | Structured Data Connector Documentation",
-  "description": "Writes an entity to a stream in JSON format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Writes an entity to a stream in JSON format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/StructuredData/ToJson.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/ToJson",
   "permalink": "/steps/next/StructuredData/ToJson",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/StructuredData/ToJson.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/StructuredData/ToJson.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ToJson Step | Structured Data Connector Documentation",
     "sidebar_label": "ToJson",
-    "description": "Writes an entity to a stream in JSON format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Writes an entity to a stream in JSON format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

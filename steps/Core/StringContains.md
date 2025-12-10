@@ -1,7 +1,7 @@
 ---
 title: StringContains Step | Core SDK Documentation
 sidebar_label: StringContains
-description: Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

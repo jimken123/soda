@@ -1,7 +1,7 @@
 ---
 title: FromSinger Step | Singer Target Documentation
 sidebar_label: FromSinger
-description: Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Singer]
 hide_title: true
 hide_table_of_contents: true

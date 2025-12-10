@@ -1,9 +1,9 @@
 {
   "permalink": "/blog/performance-improvements-in-v0.18.0",
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/blog/20221101-performance-improvements/performance_improvements.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/blog/20221101-performance-improvements/performance_improvements.md",
   "source": "@site/blog/20221101-performance-improvements/performance_improvements.md",
   "title": "Performance Improvements in v0.18.0",
-  "description": "We've greatly improved the performance of Sequence with release v0.18.0. Find out how.",
+  "description": "We've greatly improved the performance of Phoenix with release v0.18.0. Find out how.",
   "date": "2022-11-01T00:00:00.000Z",
   "formattedDate": "November 1, 2022",
   "tags": [
@@ -41,7 +41,7 @@
   "authors": [
     {
       "name": "Mark Wainwright",
-      "title": "Sequence Maintainer",
+      "title": "Phoenix Maintainer",
       "url": "https://github.com/wainwrightmark",
       "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
       "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
@@ -49,13 +49,13 @@
   ],
   "frontMatter": {
     "title": "Performance Improvements in v0.18.0",
-    "description": "We've greatly improved the performance of Sequence with release v0.18.0. Find out how.",
+    "description": "We've greatly improved the performance of Phoenix with release v0.18.0. Find out how.",
     "slug": "performance-improvements-in-v0.18.0",
     "date": "2022/11/01",
     "authors": [
       {
         "name": "Mark Wainwright",
-        "title": "Sequence Maintainer",
+        "title": "Phoenix Maintainer",
         "url": "https://github.com/wainwrightmark",
         "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
         "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"

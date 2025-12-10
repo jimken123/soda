@@ -2,13 +2,13 @@
   "unversionedId": "TSK/AutopsyCreateNewCase",
   "id": "TSK/AutopsyCreateNewCase",
   "title": "AutopsyCreateNewCase Step | TSK Connector Documentation",
-  "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/TSK/AutopsyCreateNewCase.md",
   "sourceDirName": "TSK",
   "slug": "/TSK/AutopsyCreateNewCase",
   "permalink": "/steps/next/TSK/AutopsyCreateNewCase",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/TSK/AutopsyCreateNewCase.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/TSK/AutopsyCreateNewCase.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "AutopsyCreateNewCase Step | TSK Connector Documentation",
     "sidebar_label": "AutopsyCreateNewCase",
-    "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "TSK"

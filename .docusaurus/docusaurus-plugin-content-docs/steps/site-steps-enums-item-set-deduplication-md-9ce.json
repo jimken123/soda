@@ -2,13 +2,13 @@
   "unversionedId": "Enums/ItemSetDeduplication",
   "id": "Enums/ItemSetDeduplication",
   "title": "ItemSetDeduplication | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Enums/ItemSetDeduplication.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/ItemSetDeduplication",
   "permalink": "/steps/next/Enums/ItemSetDeduplication",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/ItemSetDeduplication.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/ItemSetDeduplication.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ItemSetDeduplication | Enums",
     "sidebar_label": "ItemSetDeduplication",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

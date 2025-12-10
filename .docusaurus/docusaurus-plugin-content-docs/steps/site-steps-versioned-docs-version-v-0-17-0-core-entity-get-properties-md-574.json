@@ -2,13 +2,13 @@
   "unversionedId": "Core/EntityGetProperties",
   "id": "version-v0.17.0/Core/EntityGetProperties",
   "title": "EntityGetProperties Step | Core SDK Documentation",
-  "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/EntityGetProperties.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityGetProperties",
   "permalink": "/steps/v0.17.0/Core/EntityGetProperties",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/EntityGetProperties.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/EntityGetProperties.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "EntityGetProperties Step | Core SDK Documentation",
     "sidebar_label": "EntityGetProperties",
-    "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

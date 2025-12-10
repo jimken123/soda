@@ -1,7 +1,7 @@
 ---
 title: SqlQuery Step | SQL Database Connector Documentation
 sidebar_label: SqlQuery
-description: Executes a SQL query and returns the result as an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Executes a SQL query and returns the result as an entity stream.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Sql]
 hide_title: true
 hide_table_of_contents: true

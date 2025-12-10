@@ -1,14 +1,14 @@
 ---
 title: Wrangling Dates with SCL
-description: Use the Sequence Configuration Language to easily combine and convert dates when working with structured data formats.
+description: Use the Phoenix Configuration Language to easily combine and convert dates when working with structured data formats.
 slug: wrangling-dates-with-scl
 date: 2022/04/04
 authors:
   - name: Mark Wainwright
-    title: Sequence Maintainer
+    title: Phoenix Maintainer
     url: https://github.com/wainwrightmark
     image_url: https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4
-tags: [sequence, scl, examples, dates, structured data, transform, schemas]
+tags: [Phoenix, scl, examples, dates, structured data, transform, schemas]
 ---
 
 # Wrangling Dates with SCL

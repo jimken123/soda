@@ -2,13 +2,13 @@
   "unversionedId": "Sql/CreatePostgresConnectionString",
   "id": "Sql/CreatePostgresConnectionString",
   "title": "CreatePostgresConnectionString Step | SQL Database Connector Documentation",
-  "description": "Creates a PostgreSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Creates a PostgreSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Sql/CreatePostgresConnectionString.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/CreatePostgresConnectionString",
   "permalink": "/steps/next/Sql/CreatePostgresConnectionString",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Sql/CreatePostgresConnectionString.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Sql/CreatePostgresConnectionString.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "CreatePostgresConnectionString Step | SQL Database Connector Documentation",
     "sidebar_label": "CreatePostgresConnectionString",
-    "description": "Creates a PostgreSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates a PostgreSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Sql"

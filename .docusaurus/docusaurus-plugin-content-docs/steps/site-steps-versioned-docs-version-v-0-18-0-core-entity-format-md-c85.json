@@ -2,13 +2,13 @@
   "unversionedId": "Core/EntityFormat",
   "id": "version-v0.18.0/Core/EntityFormat",
   "title": "EntityFormat Step | Core SDK Documentation",
-  "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/EntityFormat.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityFormat",
   "permalink": "/steps/Core/EntityFormat",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/EntityFormat.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/EntityFormat.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "EntityFormat Step | Core SDK Documentation",
     "sidebar_label": "EntityFormat",
-    "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

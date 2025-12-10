@@ -1,5 +1,5 @@
 ---
-title: Sequence Configuration Language Examples
+title: Phoenix Configuration Language Examples
 sidebar_label: SCL / Core
 ---
 
@@ -8,11 +8,11 @@ sidebar_label: SCL / Core
 ## Setup
 
 See the [quick start](../quick-start.md) for more info on
-how to download and set up Sequence.
+how to download and set up Phoenix.
 
-## Generate Sequence Documentation
+## Generate Phoenix Documentation
 
-We use SCL to generate the [Sequence Steps](/steps/all) documentation.
+We use SCL to generate the [Phoenix Steps](/steps/all) documentation.
 Here's how it's done:
 
 ```scl

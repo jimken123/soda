@@ -2,13 +2,13 @@
   "unversionedId": "Core/Hash",
   "id": "version-v0.16.0/Core/Hash",
   "title": "Hash Step | Core SDK Documentation",
-  "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Hash.md",
   "sourceDirName": "Core",
   "slug": "/Core/Hash",
   "permalink": "/steps/v0.16.0/Core/Hash",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Hash.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Hash.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Hash Step | Core SDK Documentation",
     "sidebar_label": "Hash",
-    "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Produce a hash for some data using the specified hash algorithm. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

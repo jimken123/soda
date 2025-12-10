@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/FromCSV",
   "id": "StructuredData/FromCSV",
   "title": "FromCSV Step | Structured Data Connector Documentation",
-  "description": "Extracts entities from a CSV stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extracts entities from a CSV stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/StructuredData/FromCSV.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromCSV",
   "permalink": "/steps/next/StructuredData/FromCSV",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/StructuredData/FromCSV.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/StructuredData/FromCSV.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromCSV Step | Structured Data Connector Documentation",
     "sidebar_label": "FromCSV",
-    "description": "Extracts entities from a CSV stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extracts entities from a CSV stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

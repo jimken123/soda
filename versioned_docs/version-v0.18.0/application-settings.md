@@ -1,10 +1,10 @@
 ---
-description: Documentation for logging and connector configuration for Sequence, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.
+description: Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.
 ---
 
 # Application Settings
 
-Sequence requires an `appsettings.json` that contains the following sections:
+Phoenix requires an `appsettings.json` that contains the following sections:
 
 - [NLog](#logging) should contain logging configuration
 
@@ -16,7 +16,7 @@ Examples can be found [here](./examples/application-settings.md).
 ## Logging
 
 Core uses structured logging across its Steps and Connectors, and
-Sequence uses [NLog](https://nlog-project.org) for writing log output to
+Phoenix uses [NLog](https://nlog-project.org) for writing log output to
 various targets. NLog is fully configurable using the `appsettings.json`
 file.
 
@@ -28,7 +28,7 @@ Please see the [logging documentation](logging.md) for details and configuration
 ## Connector Configuration
 
 Connectors can be configured using the `connectors.json` file.
-However, most configuration should be done by using `sequence connector` command.
+However, most configuration should be done by using `Phoenix connector` command.
 See the [quick start](quick-start.md#connectors) for more info.
 
 An example connector configuration:

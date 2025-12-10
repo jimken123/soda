@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityCreateField",
   "id": "Relativity/RelativityCreateField",
-  "title": "RelativityCreateField Step | Sequence Connector for Relativity Documentation",
-  "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityCreateField Step | Phoenix Connector for Relativity Documentation",
+  "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Relativity/RelativityCreateField.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityCreateField",
   "permalink": "/steps/next/Relativity/RelativityCreateField",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityCreateField.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityCreateField.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "current",
   "frontMatter": {
-    "title": "RelativityCreateField Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityCreateField Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityCreateField",
-    "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

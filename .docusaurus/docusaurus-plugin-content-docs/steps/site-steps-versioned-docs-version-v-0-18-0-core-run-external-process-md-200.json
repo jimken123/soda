@@ -2,13 +2,13 @@
   "unversionedId": "Core/RunExternalProcess",
   "id": "version-v0.18.0/Core/RunExternalProcess",
   "title": "RunExternalProcess Step | Core SDK Documentation",
-  "description": "Runs an external executable program.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Runs an external executable program.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/RunExternalProcess.md",
   "sourceDirName": "Core",
   "slug": "/Core/RunExternalProcess",
   "permalink": "/steps/Core/RunExternalProcess",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/RunExternalProcess.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/RunExternalProcess.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "RunExternalProcess Step | Core SDK Documentation",
     "sidebar_label": "RunExternalProcess",
-    "description": "Runs an external executable program.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Runs an external executable program.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

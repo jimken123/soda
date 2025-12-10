@@ -2,7 +2,7 @@
   "type": "mdx",
   "permalink": "/scl-grammar-test",
   "source": "@site/src/pages/scl-grammar-test.md",
-  "title": "Sequence Configuration Language Grammar Test",
+  "title": "Phoenix Configuration Language Grammar Test",
   "description": "Dev Page to Test SCL Grammar Parsing in SCL.",
   "frontMatter": {}
 }

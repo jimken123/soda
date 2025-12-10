@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/FromYaml",
   "id": "StructuredData/FromYaml",
   "title": "FromYaml Step | Structured Data Connector Documentation",
-  "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/StructuredData/FromYaml.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromYaml",
   "permalink": "/steps/next/StructuredData/FromYaml",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/StructuredData/FromYaml.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/StructuredData/FromYaml.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromYaml Step | Structured Data Connector Documentation",
     "sidebar_label": "FromYaml",
-    "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extracts the entity from a Yaml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

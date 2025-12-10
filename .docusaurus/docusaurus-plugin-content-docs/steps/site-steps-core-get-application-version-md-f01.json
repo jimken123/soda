@@ -2,13 +2,13 @@
   "unversionedId": "Core/GetApplicationVersion",
   "id": "Core/GetApplicationVersion",
   "title": "GetApplicationVersion Step | Core SDK Documentation",
-  "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/GetApplicationVersion.md",
   "sourceDirName": "Core",
   "slug": "/Core/GetApplicationVersion",
   "permalink": "/steps/next/Core/GetApplicationVersion",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/GetApplicationVersion.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/GetApplicationVersion.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "GetApplicationVersion Step | Core SDK Documentation",
     "sidebar_label": "GetApplicationVersion",
-    "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the current version of the application. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

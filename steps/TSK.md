@@ -1,7 +1,7 @@
 ---
 title: All Steps | TSK Connector Documentation
 sidebar_label: TSK
-description: List of all steps for TSK Connector. Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.
+description: List of all steps for TSK Connector. Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.
 tags: [Contents, TSK]
 hide_title: true
 hide_table_of_contents: true

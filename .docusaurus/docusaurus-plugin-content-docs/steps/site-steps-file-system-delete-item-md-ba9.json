@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/DeleteItem",
   "id": "FileSystem/DeleteItem",
   "title": "DeleteItem Step | File System Connector Documentation",
-  "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/FileSystem/DeleteItem.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/DeleteItem",
   "permalink": "/steps/next/FileSystem/DeleteItem",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/DeleteItem.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/FileSystem/DeleteItem.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "DeleteItem Step | File System Connector Documentation",
     "sidebar_label": "DeleteItem",
-    "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

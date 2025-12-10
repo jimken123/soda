@@ -2,13 +2,13 @@
   "unversionedId": "Core/AssertEqual",
   "id": "version-v0.18.0/Core/AssertEqual",
   "title": "AssertEqual Step | Core SDK Documentation",
-  "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/AssertEqual.md",
   "sourceDirName": "Core",
   "slug": "/Core/AssertEqual",
   "permalink": "/steps/Core/AssertEqual",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/AssertEqual.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/AssertEqual.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "AssertEqual Step | Core SDK Documentation",
     "sidebar_label": "AssertEqual",
-    "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Asserts that two objects are equal. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

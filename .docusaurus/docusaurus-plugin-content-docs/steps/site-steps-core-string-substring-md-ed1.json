@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringSubstring",
   "id": "Core/StringSubstring",
   "title": "StringSubstring Step | Core SDK Documentation",
-  "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/StringSubstring.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringSubstring",
   "permalink": "/steps/next/Core/StringSubstring",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringSubstring.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringSubstring.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringSubstring Step | Core SDK Documentation",
     "sidebar_label": "StringSubstring",
-    "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

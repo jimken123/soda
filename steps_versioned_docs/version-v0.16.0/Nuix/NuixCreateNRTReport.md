@@ -1,7 +1,7 @@
 ---
 title: NuixCreateNRTReport Step | Nuix Connector Documentation
 sidebar_label: NuixCreateNRTReport
-description: Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Create a case report using an NRT file.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

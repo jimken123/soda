@@ -1,20 +1,20 @@
 {
   "unversionedId": "developers-guide",
   "id": "developers-guide",
-  "title": "Sequence Connector Developers' Guide",
-  "description": "Build your own Sequence connector to automate any application in your forensic and ediscovery workflows.",
+  "title": "Phoenix Connector Developers' Guide",
+  "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.",
   "source": "@site/docs/developers-guide.md",
   "sourceDirName": ".",
   "slug": "/developers-guide",
   "permalink": "/docs/next/developers-guide",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/developers-guide.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/developers-guide.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Sequence Connector Developers' Guide",
+    "title": "Phoenix Connector Developers' Guide",
     "sidebar_label": "Developers' Guide",
-    "description": "Build your own Sequence connector to automate any application in your forensic and ediscovery workflows."
+    "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "previous": {

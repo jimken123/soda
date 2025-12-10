@@ -11,7 +11,7 @@ text processing options are defined for a number of mime types.
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Nuix Connector.](nuix.md)
+[Instructions on how to install and setup Phoenix and the Nuix Connector.](nuix.md)
 
 To download and setup the data for this example, use the SCL from
 [this example](nuix-download-sample-data.md) then run the
@@ -23,7 +23,7 @@ Manual steps:
 1. Download the [EDRM Micro Dataset](https://edrm.net/resources/data-sets/edrm-micro-datasets/)
    and extract to the `./data` directory.
 2. To test encrypted file export, a PDF is available
-   [here](https://gitlab.com/sequence/connectors/nuix/-/blob/main/Nuix.Tests/AllData/encrypted.pdf).
+   [here](https://gitlab.com/Phoenix/connectors/nuix/-/blob/main/Nuix.Tests/AllData/encrypted.pdf).
    Once downloaded, place it into `./data/EDRM specific data`
 3. Run this example to create the case: [Create Case, Ingest and Filter](nuix-create-ingest-filter.md)
 
@@ -34,7 +34,7 @@ Download the SCL here: [nuix-ingest-custom-profile.scl](pathname:///example-file
 To run:
 
 ```powershell
-PS > ./sequence.exe run nuix-ingest-custom-profile.scl
+PS > ./Phoenix.exe run nuix-ingest-custom-profile.scl
 ```
 
 Details of the case and the evidence can be customised by updating the relavant
@@ -68,9 +68,9 @@ these arrays.
   ]
 
 ################################################################################
-# The version of this sequence which will be added as custom metadata to all
-# imported items. Helps identify which sequences are responsilble for what items.
-- <SequenceVersion> = '1.0.0'
+# The version of this Phoenix which will be added as custom metadata to all
+# imported items. Helps identify which Phoenixs are responsilble for what items.
+- <PhoenixVersion> = '1.0.0'
 
 ################################################################################
 # Custom processing settings
@@ -182,9 +182,9 @@ these arrays.
 
 ################################################################################
 
-# Get the version for the Sequence Nuix Connector, this is then applied as a custom
+# Get the version for the Phoenix Nuix Connector, this is then applied as a custom
 # metadata field to the imported items
-- <SequenceVersion> = (GetConnectorInformation | Filter (StringContains <>['Id'] 'Nuix'))[0]['Version']
+- <PhoenixVersion> = (GetConnectorInformation | Filter (StringContains <>['Id'] 'Nuix'))[0]['Version']
 
 - NuixOpenCase <CasePath>
 
@@ -198,7 +198,7 @@ these arrays.
       ProcessingSettings: <ProcessingSettings>
       ParallelProcessingSettings: <ParallelProcessingSettings>
       MimeTypeSettings: <MimeTypeSettings>
-      CustomMetadata: (SequenceNuixConnectorVersion: <SequenceVersion> SequenceVersion: <SequenceVersion>)
+      CustomMetadata: (PhoenixNuixConnectorVersion: <PhoenixVersion> PhoenixVersion: <PhoenixVersion>)
       ProgressInterval: <IngestProgressInterval>
       PasswordFile: <PasswordFile>
   )

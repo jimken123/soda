@@ -2,13 +2,13 @@
   "unversionedId": "Core/ArraySort",
   "id": "version-v0.16.0/Core/ArraySort",
   "title": "ArraySort Step | Core SDK Documentation",
-  "description": "Reorder an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Reorder an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/ArraySort.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArraySort",
   "permalink": "/steps/v0.16.0/Core/ArraySort",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ArraySort.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ArraySort.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ArraySort Step | Core SDK Documentation",
     "sidebar_label": "ArraySort",
-    "description": "Reorder an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Reorder an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

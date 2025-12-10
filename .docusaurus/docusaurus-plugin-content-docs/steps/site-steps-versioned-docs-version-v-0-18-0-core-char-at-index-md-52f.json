@@ -2,13 +2,13 @@
   "unversionedId": "Core/CharAtIndex",
   "id": "version-v0.18.0/Core/CharAtIndex",
   "title": "CharAtIndex Step | Core SDK Documentation",
-  "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/CharAtIndex.md",
   "sourceDirName": "Core",
   "slug": "/Core/CharAtIndex",
   "permalink": "/steps/Core/CharAtIndex",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/CharAtIndex.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/CharAtIndex.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "CharAtIndex Step | Core SDK Documentation",
     "sidebar_label": "CharAtIndex",
-    "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the letter that appears at a specific index. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -1,30 +1,30 @@
 ---
 sidebar_label: Nuix Connector
 sidebar_position: 0
-description: Learn how to configure and use the Sequence Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.
+description: Learn how to configure and use the Phoenix Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.
 ---
 
 # Nuix Connector Examples
 
 ## Setup
 
-1. Download and set up Sequence. See the [quick start](../../../quick-start.md) for more info.
+1. Download and set up Phoenix. See the [quick start](../../../quick-start.md) for more info.
 2. Add the Nuix connector. See [connectors](../../../quick-start.md#connectors)
    for more info on managing connectors.
 
 ```poweshell
-PS > .\sequence.exe connector add Sequence.Connectors.Nuix
+PS > .\Phoenix.exe connector add Phoenix.Connectors.Nuix
 ```
 
 3. Add the required Nuix configuration to `./lib/connectors.json`.
    See [Nuix Connector Settings](../../../connectors/nuix.md#nuix-connector-settings)
-   for more information on how to setup Sequence to work with a dongle or a license server.
+   for more information on how to setup Phoenix to work with a dongle or a license server.
    Here is an example configuration for dongle. If you've added the connector using
    step 2, then you'll only need to add the `settings` block.
 
 ```json
-"Sequence.Connectors.Nuix": {
-  "id": "Sequence.Connectors.Nuix",
+"Phoenix.Connectors.Nuix": {
+  "id": "Phoenix.Connectors.Nuix",
   "enable": true,
   "version": "0.10.0",
   "settings": {

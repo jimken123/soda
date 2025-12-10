@@ -2,13 +2,13 @@
   "unversionedId": "Core/ArrayDistinct",
   "id": "Core/ArrayDistinct",
   "title": "ArrayDistinct Step | Core SDK Documentation",
-  "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/ArrayDistinct.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayDistinct",
   "permalink": "/steps/next/Core/ArrayDistinct",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayDistinct.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ArrayDistinct.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ArrayDistinct Step | Core SDK Documentation",
     "sidebar_label": "ArrayDistinct",
-    "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Removes duplicate elements in an array or entities in an entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

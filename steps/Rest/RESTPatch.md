@@ -1,7 +1,7 @@
 ---
 title: RESTPatch Step | REST Connector Documentation
 sidebar_label: RESTPatch
-description: Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Executes a REST Patch request. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Rest]
 hide_title: true
 hide_table_of_contents: true

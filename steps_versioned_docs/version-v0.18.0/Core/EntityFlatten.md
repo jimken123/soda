@@ -1,7 +1,7 @@
 ---
 title: EntityFlatten Step | Core SDK Documentation
 sidebar_label: EntityFlatten
-description: Recursively flatten an entity, turning all nested entities into separate fields. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Recursively flatten an entity, turning all nested entities into separate fields. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

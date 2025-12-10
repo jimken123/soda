@@ -2,13 +2,13 @@
   "unversionedId": "Enums/HashAlgorithm",
   "id": "version-v0.17.0/Enums/HashAlgorithm",
   "title": "HashAlgorithm | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Enums/HashAlgorithm.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/HashAlgorithm",
   "permalink": "/steps/v0.17.0/Enums/HashAlgorithm",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Enums/HashAlgorithm.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Enums/HashAlgorithm.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "HashAlgorithm | Enums",
     "sidebar_label": "HashAlgorithm",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

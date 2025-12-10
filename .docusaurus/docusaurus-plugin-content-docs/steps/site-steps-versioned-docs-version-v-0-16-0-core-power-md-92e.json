@@ -2,13 +2,13 @@
   "unversionedId": "Core/Power",
   "id": "version-v0.16.0/Core/Power",
   "title": "Power Step | Core SDK Documentation",
-  "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Power.md",
   "sourceDirName": "Core",
   "slug": "/Core/Power",
   "permalink": "/steps/v0.16.0/Core/Power",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Power.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Power.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Power Step | Core SDK Documentation",
     "sidebar_label": "Power",
-    "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Raises an integer to the power of a list of integers sequentially. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -2,13 +2,13 @@
   "unversionedId": "Core/Try",
   "id": "version-v0.16.0/Core/Try",
   "title": "Try Step | Core SDK Documentation",
-  "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Try.md",
   "sourceDirName": "Core",
   "slug": "/Core/Try",
   "permalink": "/steps/v0.16.0/Core/Try",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Try.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Try.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Try Step | Core SDK Documentation",
     "sidebar_label": "Try",
-    "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Tries to execute a step and recovers if that step results in failure.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

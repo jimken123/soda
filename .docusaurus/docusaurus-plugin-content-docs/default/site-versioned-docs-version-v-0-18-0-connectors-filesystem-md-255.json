@@ -2,17 +2,17 @@
   "unversionedId": "connectors/filesystem",
   "id": "version-v0.18.0/connectors/filesystem",
   "title": "File System Connector",
-  "description": "Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
+  "description": "Phoenix connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
   "source": "@site/versioned_docs/version-v0.18.0/connectors/filesystem.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/filesystem",
   "permalink": "/docs/connectors/filesystem",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/connectors/filesystem.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/connectors/filesystem.md",
   "tags": [],
   "version": "v0.18.0",
   "frontMatter": {
-    "description": "Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression."
+    "description": "Phoenix connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression."
   },
   "sidebar": "docs",
   "previous": {

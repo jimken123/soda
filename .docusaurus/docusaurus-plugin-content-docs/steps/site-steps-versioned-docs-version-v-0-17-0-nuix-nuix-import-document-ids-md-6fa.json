@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixImportDocumentIds",
   "id": "version-v0.17.0/Nuix/NuixImportDocumentIds",
   "title": "NuixImportDocumentIds Step | Nuix Connector Documentation",
-  "description": "Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixImportDocumentIds.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixImportDocumentIds",
   "permalink": "/steps/v0.17.0/Nuix/NuixImportDocumentIds",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixImportDocumentIds.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixImportDocumentIds.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixImportDocumentIds Step | Nuix Connector Documentation",
     "sidebar_label": "NuixImportDocumentIds",
-    "description": "Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

@@ -1,7 +1,7 @@
 ---
 title: DoubleProduct Step | Core SDK Documentation
 sidebar_label: DoubleProduct
-description: Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

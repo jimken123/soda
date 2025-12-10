@@ -2,13 +2,13 @@
   "unversionedId": "Sql/CreateMySQLConnectionString",
   "id": "version-v0.16.0/Sql/CreateMySQLConnectionString",
   "title": "CreateMySQLConnectionString Step | SQL Database Connector Documentation",
-  "description": "Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Sql/CreateMySQLConnectionString.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/CreateMySQLConnectionString",
   "permalink": "/steps/v0.16.0/Sql/CreateMySQLConnectionString",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Sql/CreateMySQLConnectionString.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Sql/CreateMySQLConnectionString.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "CreateMySQLConnectionString Step | SQL Database Connector Documentation",
     "sidebar_label": "CreateMySQLConnectionString",
-    "description": "Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Sql"

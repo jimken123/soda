@@ -5,7 +5,7 @@ sidebar_label: Validate Concordance File Using a Schema
 
 # Validate Concordance File Using a Schema
 
-[Instructions on how to install and setup Sequence.](structureddata.md)
+[Instructions on how to install and setup Phoenix.](structureddata.md)
 
 More details on schemas [here](../../../schemas.md).
 

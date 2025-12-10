@@ -2,13 +2,13 @@
   "unversionedId": "Core/ArrayReverse",
   "id": "version-v0.18.0/Core/ArrayReverse",
   "title": "ArrayReverse Step | Core SDK Documentation",
-  "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/ArrayReverse.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayReverse",
   "permalink": "/steps/Core/ArrayReverse",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/ArrayReverse.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/ArrayReverse.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ArrayReverse Step | Core SDK Documentation",
     "sidebar_label": "ArrayReverse",
-    "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Reverse the order of elements in an array. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

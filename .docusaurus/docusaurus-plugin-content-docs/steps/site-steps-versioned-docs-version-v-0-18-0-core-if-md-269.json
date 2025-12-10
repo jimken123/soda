@@ -2,13 +2,13 @@
   "unversionedId": "Core/If",
   "id": "version-v0.18.0/Core/If",
   "title": "If Step | Core SDK Documentation",
-  "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/If.md",
   "sourceDirName": "Core",
   "slug": "/Core/If",
   "permalink": "/steps/Core/If",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/If.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/If.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "If Step | Core SDK Documentation",
     "sidebar_label": "If",
-    "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

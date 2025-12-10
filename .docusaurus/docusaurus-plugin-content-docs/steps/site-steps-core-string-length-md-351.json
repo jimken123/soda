@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringLength",
   "id": "Core/StringLength",
   "title": "StringLength Step | Core SDK Documentation",
-  "description": "Calculates the length of the string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Calculates the length of the string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/StringLength.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringLength",
   "permalink": "/steps/next/Core/StringLength",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringLength.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringLength.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringLength Step | Core SDK Documentation",
     "sidebar_label": "StringLength",
-    "description": "Calculates the length of the string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Calculates the length of the string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

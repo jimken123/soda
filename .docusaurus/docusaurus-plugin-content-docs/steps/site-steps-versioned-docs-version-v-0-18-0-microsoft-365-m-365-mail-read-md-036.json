@@ -2,13 +2,13 @@
   "unversionedId": "Microsoft365/M365MailRead",
   "id": "version-v0.18.0/Microsoft365/M365MailRead",
   "title": "M365MailRead Step | Microsoft 365 Connector Documentation",
-  "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Microsoft365/M365MailRead.md",
   "sourceDirName": "Microsoft365",
   "slug": "/Microsoft365/M365MailRead",
   "permalink": "/steps/Microsoft365/M365MailRead",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Microsoft365/M365MailRead.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Microsoft365/M365MailRead.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "M365MailRead Step | Microsoft 365 Connector Documentation",
     "sidebar_label": "M365MailRead",
-    "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Microsoft365"

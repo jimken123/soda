@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixCloseConnection",
   "id": "version-v0.16.0/Nuix/NuixCloseConnection",
   "title": "NuixCloseConnection Step | Nuix Connector Documentation",
-  "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixCloseConnection.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCloseConnection",
   "permalink": "/steps/v0.16.0/Nuix/NuixCloseConnection",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixCloseConnection.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixCloseConnection.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixCloseConnection Step | Nuix Connector Documentation",
     "sidebar_label": "NuixCloseConnection",
-    "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Close the connection to nuix. Also closes all cases. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

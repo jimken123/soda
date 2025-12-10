@@ -1,7 +1,7 @@
 ---
 title: ArrayConcat Step | Core SDK Documentation
 sidebar_label: ArrayConcat
-description: Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Concatenates arrays or streams of entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

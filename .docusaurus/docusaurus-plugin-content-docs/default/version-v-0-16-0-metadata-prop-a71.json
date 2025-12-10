@@ -11,7 +11,7 @@
     "docs": [
       {
         "type": "link",
-        "label": "What is Sequence",
+        "label": "What is Phoenix",
         "href": "/docs/v0.16.0/intro",
         "docId": "intro"
       },
@@ -23,7 +23,7 @@
       },
       {
         "type": "link",
-        "label": "Sequence Configuration Language",
+        "label": "Phoenix Configuration Language",
         "href": "/docs/v0.16.0/sequence-configuration-language",
         "docId": "sequence-configuration-language"
       },
@@ -212,7 +212,7 @@
           },
           {
             "type": "category",
-            "label": "Sequence Connector for Relativity",
+            "label": "Phoenix Connector for Relativity",
             "collapsible": true,
             "collapsed": true,
             "items": [
@@ -463,37 +463,37 @@
     "application-settings": {
       "id": "application-settings",
       "title": "Application Settings",
-      "description": "Documentation for logging and connector configuration for Sequence, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
+      "description": "Documentation for logging and connector configuration for Phoenix, the open-source automation toolkit for end-to-end forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "build-from-source": {
       "id": "build-from-source",
-      "title": "Build Sequence from Source",
-      "description": "Instructions for building releases from source using .NET 6. Sequence is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
+      "title": "Build Phoenix from Source",
+      "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
       "sidebar": "docs"
     },
     "connectors/core": {
       "id": "connectors/core",
       "title": "Core SDK",
-      "description": "Easily automate e-discovery and forensic workflows. Core is the Sequence Configuration Language interpereter and an SDK for building connectors.",
+      "description": "Easily automate e-discovery and forensic workflows. Core is the Phoenix Configuration Language interpereter and an SDK for building connectors.",
       "sidebar": "docs"
     },
     "connectors/filesystem": {
       "id": "connectors/filesystem",
       "title": "File System Connector",
-      "description": "Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
+      "description": "Phoenix connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
       "sidebar": "docs"
     },
     "connectors/nuix": {
       "id": "connectors/nuix",
       "title": "Nuix Connector",
-      "description": "Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+      "description": "Phoenix connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
       "sidebar": "docs"
     },
     "connectors/powershell": {
       "id": "connectors/powershell",
       "title": "PowerShell Connector",
-      "description": "Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+      "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "connectors/relativity": {
@@ -505,85 +505,85 @@
     "connectors/rest": {
       "id": "connectors/rest",
       "title": "REST Connector",
-      "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.",
+      "description": "Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
       "sidebar": "docs"
     },
     "connectors/singer": {
       "id": "connectors/singer",
       "title": "Singer Connector",
-      "description": "Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.",
+      "description": "Phoenix connector for Singer. Allows Phoenix to act as a singer target, receiving data from any of the 100+ singer taps.",
       "sidebar": "docs"
     },
     "connectors/sql": {
       "id": "connectors/sql",
       "title": "SQL Connector",
-      "description": "Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+      "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
       "sidebar": "docs"
     },
     "connectors/structureddata": {
       "id": "connectors/structureddata",
       "title": "Structured Data Connector",
-      "description": "Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+      "description": "Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
       "sidebar": "docs"
     },
     "connectors/tesseract": {
       "id": "connectors/tesseract",
       "title": "Tesseract Connector",
-      "description": "Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.",
+      "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
       "sidebar": "docs"
     },
     "connectors/tsk": {
       "id": "connectors/tsk",
       "title": "The Sleuth Kit® Connector",
-      "description": "Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+      "description": "Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
       "sidebar": "docs"
     },
     "developers-guide": {
       "id": "developers-guide",
-      "title": "Sequence Connector Developers' Guide",
-      "description": "Build your own Sequence connector to automate any application in your forensic and ediscovery workflows.",
+      "title": "Phoenix Connector Developers' Guide",
+      "description": "Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "entities": {
       "id": "entities",
       "title": "Entities, the Data Type for Data Exchange",
-      "description": "Used to store/represent data in Sequence, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+      "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
       "sidebar": "docs"
     },
     "examples/application-settings": {
       "id": "examples/application-settings",
       "title": "Application Settings Examples",
-      "description": "Sequence is configured using the appsettings.json file which can be found",
+      "description": "Phoenix is configured using the appsettings.json file which can be found",
       "sidebar": "docs"
     },
     "examples/connectors/filesystem/extract-an-archive": {
       "id": "examples/connectors/filesystem/extract-an-archive",
       "title": "Extract an Archive | File System Connector Examples",
-      "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+      "description": "Instructions on how to install and setup Phoenix and the FileSystem Connector.",
       "sidebar": "docs"
     },
     "examples/connectors/filesystem/filesystem": {
       "id": "examples/connectors/filesystem/filesystem",
       "title": "File System Connector Examples",
-      "description": "Learn how to use Sequence to automate various file system actions when creating forensic and ediscovery workflows.",
+      "description": "Learn how to use Phoenix to automate various file system actions when creating forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "examples/connectors/filesystem/read-a-file": {
       "id": "examples/connectors/filesystem/read-a-file",
       "title": "Read a File | File System Connector Examples",
-      "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+      "description": "Instructions on how to install and setup Phoenix and the FileSystem Connector.",
       "sidebar": "docs"
     },
     "examples/connectors/filesystem/write-a-file": {
       "id": "examples/connectors/filesystem/write-a-file",
       "title": "Write a File | File System Connector Examples",
-      "description": "Instructions on how to install and setup Sequence and the FileSystem Connector.",
+      "description": "Instructions on how to install and setup Phoenix and the FileSystem Connector.",
       "sidebar": "docs"
     },
     "examples/connectors/nuix/nuix": {
       "id": "examples/connectors/nuix/nuix",
       "title": "Nuix Connector Examples",
-      "description": "Learn how to configure and use the Sequence Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.",
+      "description": "Learn how to configure and use the Phoenix Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.",
       "sidebar": "docs"
     },
     "examples/connectors/nuix/nuix-create-ingest-export": {
@@ -619,60 +619,60 @@
     "examples/connectors/powershell/download-csv": {
       "id": "examples/connectors/powershell/download-csv",
       "title": "Download CSV | PowerShell Connector Examples",
-      "description": "Instructions on how to install and setup Sequence and the PowerShell Connector.",
+      "description": "Instructions on how to install and setup Phoenix and the PowerShell Connector.",
       "sidebar": "docs"
     },
     "examples/connectors/powershell/powershell": {
       "id": "examples/connectors/powershell/powershell",
       "title": "PowerShell Connector Examples",
-      "description": "Learn how to further customise Sequence by including powershell scripts in your automated forensic and ediscovery workflows.",
+      "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "examples/connectors/relativity/relativity": {
       "id": "examples/connectors/relativity/relativity",
-      "title": "Sequence Connector for Relativity® Examples",
-      "description": "Examples of how to use Sequence to include Relativity in automated end-to-end forensic and ediscovery workflows.",
+      "title": "Phoenix Connector for Relativity® Examples",
+      "description": "Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "examples/connectors/relativity/relativity-create-workspace": {
       "id": "examples/connectors/relativity/relativity-create-workspace",
-      "title": "Create Workspace | Sequence Connector for Relativity Examples",
+      "title": "Create Workspace | Phoenix Connector for Relativity Examples",
       "description": "This example will",
       "sidebar": "docs"
     },
     "examples/connectors/relativity/relativity-end-to-end": {
       "id": "examples/connectors/relativity/relativity-end-to-end",
-      "title": "End to End Example | Sequence Connector for Relativity Examples",
+      "title": "End to End Example | Phoenix Connector for Relativity Examples",
       "description": "This example will",
       "sidebar": "docs"
     },
     "examples/connectors/relativity/relativity-export-entities": {
       "id": "examples/connectors/relativity/relativity-export-entities",
-      "title": "Export Entities | Sequence Connector for Relativity Examples",
+      "title": "Export Entities | Phoenix Connector for Relativity Examples",
       "description": "This example will export entities from a Relativity Workspace and write them to a .csv file",
       "sidebar": "docs"
     },
     "examples/connectors/relativity/relativity-import-concordance": {
       "id": "examples/connectors/relativity/relativity-import-concordance",
-      "title": "Import Concordance | Sequence Connector for Relativity Examples",
+      "title": "Import Concordance | Phoenix Connector for Relativity Examples",
       "description": "This example will import documents from a concordance or CSV file into a Relativity Workspace",
       "sidebar": "docs"
     },
     "examples/connectors/relativity/relativity-import-entities": {
       "id": "examples/connectors/relativity/relativity-import-entities",
-      "title": "Import Entities | Sequence Connector for Relativity Examples",
+      "title": "Import Entities | Phoenix Connector for Relativity Examples",
       "description": "This example will import entities into a Relativity Workspace.",
       "sidebar": "docs"
     },
     "examples/connectors/relativity/relativity-import-from-nuix": {
       "id": "examples/connectors/relativity/relativity-import-from-nuix",
-      "title": "Import Entities from Nuix | Sequence Connector for Relativity Examples",
+      "title": "Import Entities from Nuix | Phoenix Connector for Relativity Examples",
       "description": "This example will export entities from a Nuix Case and import them into a Relativity Workspace.",
       "sidebar": "docs"
     },
     "examples/connectors/relativity/relativity-search-and-tag": {
       "id": "examples/connectors/relativity/relativity-search-and-tag",
-      "title": "Search and Tag Items | Sequence Connector for Relativity Examples",
+      "title": "Search and Tag Items | Phoenix Connector for Relativity Examples",
       "description": "This example will run a search of a Relativity workspace and set the 'Tags' field of each of the results.",
       "sidebar": "docs"
     },
@@ -721,43 +721,43 @@
     "examples/connectors/singer/import-data-from-slack": {
       "id": "examples/connectors/singer/import-data-from-slack",
       "title": "Import Data from Slack | Singer Connector Examples",
-      "description": "Instructions on how to install and setup Sequence and the Singer Connector.",
+      "description": "Instructions on how to install and setup Phoenix and the Singer Connector.",
       "sidebar": "docs"
     },
     "examples/connectors/singer/singer": {
       "id": "examples/connectors/singer/singer",
       "title": "Singer Connector Examples",
-      "description": "Learn how to use Sequence as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
+      "description": "Learn how to use Phoenix as a Singer target and receive data from any of its taps when automating forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "examples/connectors/sql/create-table-insert-data": {
       "id": "examples/connectors/sql/create-table-insert-data",
       "title": "Create SQL Table and Insert Data | SQL Connector Examples",
-      "description": "Instructions on how to install and setup Sequence and the SQL Connector.",
+      "description": "Instructions on how to install and setup Phoenix and the SQL Connector.",
       "sidebar": "docs"
     },
     "examples/connectors/sql/read-data-from-table": {
       "id": "examples/connectors/sql/read-data-from-table",
       "title": "Read Data from a SQL Table | SQL Connector Examples",
-      "description": "Instructions on how to install and setup Sequence and the SQL Connector.",
+      "description": "Instructions on how to install and setup Phoenix and the SQL Connector.",
       "sidebar": "docs"
     },
     "examples/connectors/sql/sql": {
       "id": "examples/connectors/sql/sql",
       "title": "SQL Connector Examples",
-      "description": "Examples of how to push and pull data from SQL databases when using Sequence to automate forensic and ediscovery workflows.",
+      "description": "Examples of how to push and pull data from SQL databases when using Phoenix to automate forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "examples/connectors/structureddata/concordance": {
       "id": "examples/connectors/structureddata/concordance",
       "title": "Validate Concordance File Using a Schema | Structured Data Connector Examples",
-      "description": "Instructions on how to install and setup Sequence.",
+      "description": "Instructions on how to install and setup Phoenix.",
       "sidebar": "docs"
     },
     "examples/connectors/structureddata/csv-files": {
       "id": "examples/connectors/structureddata/csv-files",
       "title": "Working with CSV Files | Structured Data Connector Examples",
-      "description": "Learn how to use Sequence to work with CSV files when automating forensic and ediscovery workflows.",
+      "description": "Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "examples/connectors/structureddata/structureddata": {
@@ -775,7 +775,7 @@
     "examples/connectors/tsk/tsk": {
       "id": "examples/connectors/tsk/tsk",
       "title": "The Sleuth Kit® Connector Examples",
-      "description": "Examples of how to use Sequence to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+      "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "examples/connectors/tsk/tsk-create-case-and-add-data": {
@@ -798,14 +798,14 @@
     },
     "examples/core": {
       "id": "examples/core",
-      "title": "Sequence Configuration Language Examples",
+      "title": "Phoenix Configuration Language Examples",
       "description": "Setup",
       "sidebar": "docs"
     },
     "examples/schema-examples": {
       "id": "examples/schema-examples",
       "title": "Schema Examples",
-      "description": "Learn how to use Sequence schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
+      "description": "Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.",
       "sidebar": "docs"
     },
     "examples/schemas/edrm-schema": {
@@ -834,14 +834,14 @@
     },
     "intro": {
       "id": "intro",
-      "title": "What is Sequence",
-      "description": "Sequence is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
+      "title": "What is Phoenix",
+      "description": "Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",
       "sidebar": "docs"
     },
     "logging": {
       "id": "logging",
       "title": "Logging Configuration",
-      "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Sequence. Documentation and examples including structured logging, scopes, and NLog targets.",
+      "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Phoenix. Documentation and examples including structured logging, scopes, and NLog targets.",
       "sidebar": "docs"
     },
     "quick-start": {
@@ -858,7 +858,7 @@
     },
     "sequence-configuration-language": {
       "id": "sequence-configuration-language",
-      "title": "Sequence Configuration Language",
+      "title": "Phoenix Configuration Language",
       "description": "SCL is the configuration language for defining automated forensic and",
       "sidebar": "docs"
     }

@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData",
   "id": "version-v0.16.0/StructuredData",
   "title": "All Steps | Structured Data Connector Documentation",
-  "description": "List of all steps for Structured Data Connector. Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+  "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/StructuredData.md",
   "sourceDirName": ".",
   "slug": "/StructuredData",
   "permalink": "/steps/v0.16.0/StructuredData",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/StructuredData.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/StructuredData.md",
   "tags": [
     {
       "label": "Contents",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "All Steps | Structured Data Connector Documentation",
     "sidebar_label": "StructuredData",
-    "description": "List of all steps for Structured Data Connector. Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+    "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
     "tags": [
       "Contents",
       "StructuredData"

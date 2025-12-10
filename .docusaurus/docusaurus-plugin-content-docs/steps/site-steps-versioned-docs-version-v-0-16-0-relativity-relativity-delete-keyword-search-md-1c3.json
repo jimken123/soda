@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityDeleteKeywordSearch",
   "id": "version-v0.16.0/Relativity/RelativityDeleteKeywordSearch",
-  "title": "RelativityDeleteKeywordSearch Step | Sequence Connector for Relativity Documentation",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityDeleteKeywordSearch Step | Phoenix Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity/RelativityDeleteKeywordSearch.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityDeleteKeywordSearch",
   "permalink": "/steps/v0.16.0/Relativity/RelativityDeleteKeywordSearch",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityDeleteKeywordSearch.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityDeleteKeywordSearch.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.16.0",
   "frontMatter": {
-    "title": "RelativityDeleteKeywordSearch Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityDeleteKeywordSearch Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityDeleteKeywordSearch",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

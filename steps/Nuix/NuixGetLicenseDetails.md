@@ -1,7 +1,7 @@
 ---
 title: NuixGetLicenseDetails Step | Nuix Connector Documentation
 sidebar_label: NuixGetLicenseDetails
-description: Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

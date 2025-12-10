@@ -1,7 +1,7 @@
 ---
 title: ArrayMap Step | Core SDK Documentation
 sidebar_label: ArrayMap
-description: Map each element of an array or entity stream to a new value. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Map each element of an array or entity stream to a new value. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

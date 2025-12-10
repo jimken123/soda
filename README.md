@@ -1,4 +1,4 @@
-# Sequence® Documentation
+# Phoenix® Documentation
 
 Built using [Docusaurus](https://docusaurus.io).
 
@@ -10,30 +10,30 @@ npm run start
 
 ## Building Steps Documentation
 
-Update the `Sequence` submodule to the latest version.
+Update the `Phoenix` submodule to the latest version.
 
 ```powershell
-git -C ./steps-gen/sequence fetch
-git -C ./steps-gen/sequence checkout <VERSION>
+git -C ./steps-gen/Phoenix fetch
+git -C ./steps-gen/Phoenix checkout <VERSION>
 ```
 
-Build sequence console:
+Build Phoenix console:
 
 ```powershell
-dotnet publish -c Release -o ./.sequence steps-gen/sequence/Sequence/Sequence.csproj
-cp ./steps-gen/sequence-appsettings.json ./.sequence/appsettings.json
-cp ./steps-gen/connectors.json ./.sequence/connectors.json
+dotnet publish -c Release -o ./.Phoenix steps-gen/Phoenix/Phoenix/Phoenix.csproj
+cp ./steps-gen/Phoenix-appsettings.json ./.Phoenix/appsettings.json
+cp ./steps-gen/connectors.json ./.Phoenix/connectors.json
 ```
 
 Run the doc generation SCL:
 
 ```powershell
-./.sequence/sequence run ./steps-gen/build-docs.scl
+./.Phoenix/Phoenix run ./steps-gen/build-docs.scl
 ```
 
 ## Validating Documentation SCL
 
-Build `sequence console` first. Then run the `Validate-SCL` script which
+Build `Phoenix console` first. Then run the `Validate-SCL` script which
 will validate all `scl` code blocks in `.md` files in the `./docs` directory.
 
 ```powershell
@@ -68,10 +68,10 @@ All the documentation that is in the `docs` and `steps` folders
 is published as the `-alpha` version. For release version, a
 snapshot needs to be created:
 
-1. Remove previous version of sequence console (if exists) and steps
+1. Remove previous version of Phoenix console (if exists) and steps
 
    ```powershell
-   rm -rec -for ./.sequence
+   rm -rec -for ./.Phoenix
    rm -rec -for ./steps/*
    ```
 
@@ -98,8 +98,8 @@ snapshot needs to be created:
 
 This is done automatically in the CI, but if developing locally:
 
-Clone the [scl-editor](https://gitlab.com/sequence/scl-editor) project
-into the same directory as `sequence-docs`.
+Clone the [scl-editor](https://gitlab.com/Phoenix/scl-editor) project
+into the same directory as `Phoenix-docs`.
 
 ```powershell
 Remove-Item -rec -for ./playground -ErrorAction SilentlyContinue

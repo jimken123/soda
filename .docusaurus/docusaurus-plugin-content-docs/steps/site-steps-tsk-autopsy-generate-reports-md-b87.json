@@ -2,13 +2,13 @@
   "unversionedId": "TSK/AutopsyGenerateReports",
   "id": "TSK/AutopsyGenerateReports",
   "title": "AutopsyGenerateReports Step | TSK Connector Documentation",
-  "description": "Generate Reports. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Generate Reports. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/TSK/AutopsyGenerateReports.md",
   "sourceDirName": "TSK",
   "slug": "/TSK/AutopsyGenerateReports",
   "permalink": "/steps/next/TSK/AutopsyGenerateReports",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/TSK/AutopsyGenerateReports.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/TSK/AutopsyGenerateReports.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "AutopsyGenerateReports Step | TSK Connector Documentation",
     "sidebar_label": "AutopsyGenerateReports",
-    "description": "Generate Reports. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Generate Reports. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "TSK"

@@ -1,10 +1,10 @@
 ---
-description: Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.
+description: Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.
 ---
 
 # SQL Connector
 
-The Sequence SQL Connector allows users to connect to SQL databases and manipulate tables.
+The Phoenix SQL Connector allows users to connect to SQL databases and manipulate tables.
 
 This connector has [Steps](/steps/Sql) to:
 
@@ -24,4 +24,4 @@ The following flavors of SQL are supported
 
 SCL examples available [here](../examples/connectors/sql/sql.md).
 
-Source code available on [GitLab](https://gitlab.com/sequence/connectors/sql).
+Source code available on [GitLab](https://gitlab.com/Phoenix/connectors/sql).

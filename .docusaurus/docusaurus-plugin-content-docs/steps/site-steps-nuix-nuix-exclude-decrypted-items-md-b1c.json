@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixExcludeDecryptedItems",
   "id": "Nuix/NuixExcludeDecryptedItems",
   "title": "NuixExcludeDecryptedItems Step | Nuix Connector Documentation",
-  "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Nuix/NuixExcludeDecryptedItems.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixExcludeDecryptedItems",
   "permalink": "/steps/next/Nuix/NuixExcludeDecryptedItems",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixExcludeDecryptedItems.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixExcludeDecryptedItems.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixExcludeDecryptedItems Step | Nuix Connector Documentation",
     "sidebar_label": "NuixExcludeDecryptedItems",
-    "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Excludes password protected items once they have been decrypted. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

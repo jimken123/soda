@@ -1,5 +1,5 @@
 ---
-title: Export Entities | Sequence Connector for Relativity Examples
+title: Export Entities | Phoenix Connector for Relativity Examples
 sidebar_label: Export Entities
 ---
 
@@ -9,7 +9,7 @@ This example will export entities from a Relativity Workspace and write them to 
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Sequence Connector for Relativity®.](relativity.md)
+[Instructions on how to install and setup Phoenix and the Phoenix Connector for Relativity®.](relativity.md)
 
 To write the data to a .csv file you need to add the StructuredData and FileSystem connectors
 
@@ -20,7 +20,7 @@ Download the SCL here: [relativity-export-entities.scl](pathname:///example-file
 To run:
 
 ```powershell
-PS > ./sequence.exe run relativity-export-entities.scl
+PS > ./Phoenix.exe run relativity-export-entities.scl
 ```
 
 ```scl

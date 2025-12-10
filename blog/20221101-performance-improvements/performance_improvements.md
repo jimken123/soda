@@ -1,11 +1,11 @@
 ---
 title: Performance Improvements in v0.18.0
-description: We've greatly improved the performance of Sequence with release v0.18.0. Find out how.
+description: We've greatly improved the performance of Phoenix with release v0.18.0. Find out how.
 slug: performance-improvements-in-v0.18.0
 date: 2022/11/01
 authors:
   - name: Mark Wainwright
-    title: Sequence Maintainer
+    title: Phoenix Maintainer
     url: https://github.com/wainwrightmark
     image_url: https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4
 tags: [programming, software, performance, C#, csharp, scl, core]
@@ -15,7 +15,7 @@ hide_table_of_contents: false
 
 # Performance Improvements at Reductech
 
-The focus for Sequence release v0.18.0 has been on performance.
+The focus for Phoenix release v0.18.0 has been on performance.
 This post explains the changes we've made,
 how they've improved performance, and why we decided to implement them.
 This is aimed at both _SCL_ users and _C#_ developers who are interested in performance.
@@ -24,7 +24,7 @@ This is aimed at both _SCL_ users and _C#_ developers who are interested in perf
 
 ## What is SCL
 
-Sequence Configuration Language (SCL) is a programming language for forensic and ediscovery technicians.
+Phoenix Configuration Language (SCL) is a programming language for forensic and ediscovery technicians.
 The typical use case involves reading, writing, and manipulating large amounts of data so performance is critical.
 The language is implemented in _C#_ so performance improvements are achieved by optimizing _C#_ code.
 
@@ -74,7 +74,7 @@ Here is a summary of all the benchmarks and the initial results, running on a 12
 | SchemaValidate | Reads a concordance file, confirms that all rows conform to a particular json schema, and converts it back to concordance |  133,736.27   |    793.008     |           702.981           |
 | StringReplace  | Reads a concordance file, performs some string replacements on each row, and converts it to json                          |  335,875.11   |   4,519.005    |          4,227.080          |
 
-Note that all times are in microseconds, so the longest sequences are taking about one third of a second.
+Note that all times are in microseconds, so the longest Phoenixs are taking about one third of a second.
 
 ## Performance Improvements
 
@@ -83,7 +83,7 @@ Note that all times are in microseconds, so the longest sequences are taking abo
 _SCL_ steps all have a `Run` method which returns the result wrapped in a `Task`.
 One of the performance optimizations I was eager to try was wrapping the result in a `ValueTask` instead.
 This should reduce the number of heap allocations per step by one and
-I was expecting a small performance improvement for sequences which run cheap steps inside a loop.
+I was expecting a small performance improvement for Phoenixs which run cheap steps inside a loop.
 
 The tradeoff is that there are some things you can do with a `Task` but not with a `ValueTask`
 such as awaiting them multiple times. Fortunately the `Run` method was only being used
@@ -107,8 +107,8 @@ The results of this update:
 ### Finding a Bug
 
 A 2% performance improvement on the slowest benchmark was nice but I was actually
-hoping for a larger improvement. The StringReplace sequence was taking about three
-times as long as the ConvertDates sequence despite doing what seemed like a lot less work.
+hoping for a larger improvement. The StringReplace Phoenix was taking about three
+times as long as the ConvertDates Phoenix despite doing what seemed like a lot less work.
 
 I thought that the reason might be that `StringReplace` converts the data at the end
 into JSON rather that concordance like most of the other benchmarks.
@@ -122,7 +122,7 @@ Thinking again, I thought the difference might be down to the fixed cost of runn
 ConvertDates uses the `Transform` step which applies a JSON schema to every step in
 an entity stream whereas StringReplace is using the `ArrayMap` step to call the
 `StringReplace` step on every entity in the stream.
-This means that the StringReplace sequence is running about 1000 very cheap steps
+This means that the StringReplace Phoenix is running about 1000 very cheap steps
 where ConvertDates is calling one very expensive step.
 
 I decided to use the Visual Studio performance profiler to try and find out what was going on.
@@ -190,7 +190,7 @@ making the same mistake somewhere else (I wasn't). Then I ran the benchmarks aga
 | SchemaValidate |     131,679.90      |       131,270.77        | 0.996892996 |
 | StringReplace  |     328,927.93      |        95,778.85        | 0.291184911 |
 
-The three benchmarks which run steps in a loop all got a lot faster, and the BasicSCL sequence
+The three benchmarks which run steps in a loop all got a lot faster, and the BasicSCL Phoenix
 got almost twice as fast. This just goes to show that finding and fixing performance bugs
 is often massively more effective than micro-optimizing heap allocations.
 
@@ -231,7 +231,7 @@ I ran the benchmarks again and compared to the previous results:
 | StringReplace  |        95,778.85        |         52,792.74         | 0.551194131 |
 
 This change almost :exclamation: **doubled** :exclamation: performance across the board
-(note that the BasicSCL sequence does not use entities). I was very happy.
+(note that the BasicSCL Phoenix does not use entities). I was very happy.
 
 The table and charts below show the complete journey.
 Some of the steps were now several times as fast and this difference would likely be

@@ -2,13 +2,13 @@
   "unversionedId": "Core/For",
   "id": "Core/For",
   "title": "For Step | Core SDK Documentation",
-  "description": "Do an action for each value of <i> in a range.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Do an action for each value of <i> in a range.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/For.md",
   "sourceDirName": "Core",
   "slug": "/Core/For",
   "permalink": "/steps/next/Core/For",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/For.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/For.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "For Step | Core SDK Documentation",
     "sidebar_label": "For",
-    "description": "Do an action for each value of <i> in a range.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Do an action for each value of <i> in a range.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

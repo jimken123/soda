@@ -2,23 +2,23 @@
   "unversionedId": "entities",
   "id": "version-v0.17.0/entities",
   "title": "Entities, the Data Type for Data Exchange",
-  "description": "Used to store/represent data in Sequence, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
+  "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows.",
   "source": "@site/versioned_docs/version-v0.17.0/entities.md",
   "sourceDirName": ".",
   "slug": "/entities",
   "permalink": "/docs/v0.17.0/entities",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/entities.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/entities.md",
   "tags": [],
   "version": "v0.17.0",
   "frontMatter": {
     "title": "Entities, the Data Type for Data Exchange",
     "sidebar_label": "Entities",
-    "description": "Used to store/represent data in Sequence, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows."
+    "description": "Used to store/represent data in Phoenix, entities are the intermediary format for sharing data between forensic and ediscovery applications in automated workflows."
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Sequence Configuration Language",
+    "title": "Phoenix Configuration Language",
     "permalink": "/docs/v0.17.0/sequence-configuration-language"
   },
   "next": {

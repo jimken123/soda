@@ -2,13 +2,13 @@
   "unversionedId": "Sql/CreateMsSQLConnectionString",
   "id": "version-v0.18.0/Sql/CreateMsSQLConnectionString",
   "title": "CreateMsSQLConnectionString Step | SQL Database Connector Documentation",
-  "description": "Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Sql/CreateMsSQLConnectionString.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/CreateMsSQLConnectionString",
   "permalink": "/steps/Sql/CreateMsSQLConnectionString",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Sql/CreateMsSQLConnectionString.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Sql/CreateMsSQLConnectionString.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "CreateMsSQLConnectionString Step | SQL Database Connector Documentation",
     "sidebar_label": "CreateMsSQLConnectionString",
-    "description": "Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates an MSSQL connection string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Sql"

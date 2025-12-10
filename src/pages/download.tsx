@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './download.module.css';
-import { SequenceVersion } from '@site/src/types/SequenceVersion';
+import { PhoenixVersion } from '@site/src/types/PhoenixVersion';
 import DownloadContent from '@site/src/components/DownloadContent';
 import Link from '@docusaurus/Link';
 
@@ -11,13 +11,13 @@ export default function Download(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
 
   const [versionState, setVersionState] = useState<{
-    versions?: SequenceVersion[];
+    versions?: PhoenixVersion[];
     done: boolean;
     error?: string;
   }>({ done: false });
 
-  const getSequenceVersions = () => {
-    fetch('https://get.sequence.sh/sequence.json')
+  const getPhoenixVersions = () => {
+    fetch('https://get.Phoenix.sh/Phoenix.json')
       .then((res) => res.json())
       .then((json) => setVersionState({ versions: json, done: true }))
       .catch((err) => {
@@ -27,7 +27,7 @@ export default function Download(): JSX.Element {
   };
 
   useEffect(() => {
-    getSequenceVersions();
+    getPhoenixVersions();
   }, []);
 
   let content: JSX.Element;
@@ -40,7 +40,7 @@ export default function Download(): JSX.Element {
         <h3>Sorry, an error has occured whilst fetching the latest version.</h3>
         <h4 className={styles.errorMessage}>{versionState.error}</h4>
         <h4>
-          <Link to="https://gitlab.com/sequence/sequence-docs">
+          <Link to="https://gitlab.com/Phoenix/Phoenix-docs">
             Please submit an issue in GitLab.
           </Link>
         </h4>
@@ -52,12 +52,12 @@ export default function Download(): JSX.Element {
 
   return (
     <Layout
-      title="Download Sequence, the forensic and ediscovery automation toolkit"
+      title="Download Phoenix, the forensic and ediscovery automation toolkit"
       description={`${siteConfig.customFields.description}`}
     >
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">Download Sequence</h1>
+          <h1 className="hero__title">Download Phoenix</h1>
           <p className="hero__subtitle">
             And start automating your forensic and ediscovery workflows today...
           </p>

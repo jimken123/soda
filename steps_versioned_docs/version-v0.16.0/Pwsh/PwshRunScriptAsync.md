@@ -1,7 +1,7 @@
 ---
 title: PwshRunScriptAsync Step | PowerShell Connector Documentation
 sidebar_label: PwshRunScriptAsync
-description: Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Pwsh]
 hide_title: true
 hide_table_of_contents: true

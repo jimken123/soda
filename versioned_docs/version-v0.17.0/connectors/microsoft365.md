@@ -1,13 +1,13 @@
 ---
-description: Sequence connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications.
+description: Phoenix connector for the Microsoft Graph API. Easily automate forensic and ediscovery workflows that interact with Microsoft365 applications.
 ---
 
 # Microsoft365 Connector
 
-The Sequence Connector for Microsoft 365 allows users to automate ediscovery
+The Phoenix Connector for Microsoft 365 allows users to automate ediscovery
 and forensic workflows that use [Microsoft Graph](https://docs.microsoft.com/en-us/graph/).
 
-This connector has [Steps](https://sequence.sh/steps/Microsoft365) to:
+This connector has [Steps](https://Phoenix.sh/steps/Microsoft365) to:
 
 - Read Email
 - Read Chats
@@ -16,9 +16,9 @@ This connector has [Steps](https://sequence.sh/steps/Microsoft365) to:
 - List Channels of a Team
 - Read messages in a channel
 
-[Sequence Connector for Microsoft365 examples available here](../examples/connectors/microsoft365/microsoft365.md).
+[Phoenix Connector for Microsoft365 examples available here](../examples/connectors/microsoft365/microsoft365.md).
 
-Source code available on [GitLab](https://gitlab.com/sequence/connectors/microsoft365).
+Source code available on [GitLab](https://gitlab.com/Phoenix/connectors/microsoft365).
 
 ## Microsoft365 Connector Settings
 
@@ -49,8 +49,8 @@ follow this instructions [on this page](https://docs.microsoft.com/en-us/graph/t
 ### Example Settings
 
 ```json
-"Sequence.Connectors.Microsoft365": {
-  "id": "Sequence.Connectors.Microsoft365",
+"Phoenix.Connectors.Microsoft365": {
+  "id": "Phoenix.Connectors.Microsoft365",
   "enable": true,
   "version": "0.17.0",
   "settings": {

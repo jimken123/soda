@@ -1,7 +1,7 @@
 ---
 title: M365ChannelMessagesRead Step | Microsoft365 Connector Documentation
 sidebar_label: M365ChannelMessagesRead
-description: Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Microsoft365]
 hide_title: true
 hide_table_of_contents: true

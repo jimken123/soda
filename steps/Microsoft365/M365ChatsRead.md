@@ -1,7 +1,7 @@
 ---
 title: M365ChatsRead Step | Microsoft 365 Connector Documentation
 sidebar_label: M365ChatsRead
-description: Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Read User mail from Microsoft 365. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Microsoft365]
 hide_title: true
 hide_table_of_contents: true

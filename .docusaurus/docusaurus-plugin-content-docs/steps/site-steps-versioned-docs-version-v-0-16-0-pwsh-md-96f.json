@@ -2,13 +2,13 @@
   "unversionedId": "Pwsh",
   "id": "version-v0.16.0/Pwsh",
   "title": "All Steps | PowerShell Connector Documentation",
-  "description": "List of all steps for PowerShell Connector. Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+  "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Pwsh.md",
   "sourceDirName": ".",
   "slug": "/Pwsh",
   "permalink": "/steps/v0.16.0/Pwsh",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Pwsh.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Pwsh.md",
   "tags": [
     {
       "label": "Contents",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "All Steps | PowerShell Connector Documentation",
     "sidebar_label": "Pwsh",
-    "description": "List of all steps for PowerShell Connector. Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+    "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
     "tags": [
       "Contents",
       "Pwsh"

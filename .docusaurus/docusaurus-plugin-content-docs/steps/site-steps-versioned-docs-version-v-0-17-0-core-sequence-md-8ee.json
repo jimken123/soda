@@ -1,14 +1,14 @@
 {
   "unversionedId": "Core/Sequence",
   "id": "version-v0.17.0/Core/Sequence",
-  "title": "Sequence Step | Core SDK Documentation",
-  "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "Phoenix Step | Core SDK Documentation",
+  "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/Sequence.md",
   "sourceDirName": "Core",
   "slug": "/Core/Sequence",
   "permalink": "/steps/v0.17.0/Core/Sequence",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/Sequence.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/Sequence.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.17.0",
   "frontMatter": {
-    "title": "Sequence Step | Core SDK Documentation",
-    "sidebar_label": "Sequence",
-    "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "title": "Phoenix Step | Core SDK Documentation",
+    "sidebar_label": "Phoenix",
+    "description": "A chain of steps to be run one after the other.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

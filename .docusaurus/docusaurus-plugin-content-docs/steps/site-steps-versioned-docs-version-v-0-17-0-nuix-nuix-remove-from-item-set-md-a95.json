@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixRemoveFromItemSet",
   "id": "version-v0.17.0/Nuix/NuixRemoveFromItemSet",
   "title": "NuixRemoveFromItemSet Step | Nuix Connector Documentation",
-  "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixRemoveFromItemSet.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixRemoveFromItemSet",
   "permalink": "/steps/v0.17.0/Nuix/NuixRemoveFromItemSet",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixRemoveFromItemSet.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixRemoveFromItemSet.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixRemoveFromItemSet Step | Nuix Connector Documentation",
     "sidebar_label": "NuixRemoveFromItemSet",
-    "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Removes particular items from a Nuix item set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

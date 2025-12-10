@@ -1,7 +1,7 @@
 ---
 title: While Step | Core SDK Documentation
 sidebar_label: While
-description: Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

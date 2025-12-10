@@ -16,7 +16,7 @@ This example will
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the TSK Connector.](tsk.md)
+[Instructions on how to install and setup Phoenix and the TSK Connector.](tsk.md)
 
 [How to set up the Nuix Connector](../nuix/nuix.md)
 
@@ -33,7 +33,7 @@ You also need to create a report profile to use.
 To run:
 
 ```powershell
-PS > ./sequence.exe run tsk-import-from-nuix.scl
+PS > ./Phoenix.exe run tsk-import-from-nuix.scl
 ```
 
 ## SCL

@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixReorderProductionSet",
   "id": "version-v0.16.0/Nuix/NuixReorderProductionSet",
   "title": "NuixReorderProductionSet Step | Nuix Connector Documentation",
-  "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixReorderProductionSet.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixReorderProductionSet",
   "permalink": "/steps/v0.16.0/Nuix/NuixReorderProductionSet",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixReorderProductionSet.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixReorderProductionSet.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixReorderProductionSet Step | Nuix Connector Documentation",
     "sidebar_label": "NuixReorderProductionSet",
-    "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

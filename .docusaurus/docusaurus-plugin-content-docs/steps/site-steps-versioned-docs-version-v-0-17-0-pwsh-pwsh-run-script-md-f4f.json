@@ -2,13 +2,13 @@
   "unversionedId": "Pwsh/PwshRunScript",
   "id": "version-v0.17.0/Pwsh/PwshRunScript",
   "title": "PwshRunScript Step | PowerShell Connector Documentation",
-  "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Pwsh/PwshRunScript.md",
   "sourceDirName": "Pwsh",
   "slug": "/Pwsh/PwshRunScript",
   "permalink": "/steps/v0.17.0/Pwsh/PwshRunScript",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Pwsh/PwshRunScript.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Pwsh/PwshRunScript.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "PwshRunScript Step | PowerShell Connector Documentation",
     "sidebar_label": "PwshRunScript",
-    "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Pwsh"

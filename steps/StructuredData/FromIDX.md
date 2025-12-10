@@ -1,7 +1,7 @@
 ---
 title: FromIDX Step | Structured Data Connector Documentation
 sidebar_label: FromIDX
-description: Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, StructuredData]
 hide_title: true
 hide_table_of_contents: true

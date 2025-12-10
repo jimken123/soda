@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/DirectoryMove",
   "id": "FileSystem/DirectoryMove",
   "title": "DirectoryMove Step | File System Connector Documentation",
-  "description": "Move a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Move a directory. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/FileSystem/DirectoryMove.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/DirectoryMove",
   "permalink": "/steps/next/FileSystem/DirectoryMove",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/FileSystem/DirectoryMove.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/FileSystem/DirectoryMove.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "DirectoryMove Step | File System Connector Documentation",
     "sidebar_label": "DirectoryMove",
-    "description": "Move a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Move a directory. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

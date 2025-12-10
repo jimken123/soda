@@ -1,14 +1,14 @@
 ---
 title: Logging Configuration
 sidebar_label: Logging
-description: Create defensible forensic and e-discovery automation workflows with robust logging using Sequence. Documentation and examples including structured logging, scopes, and NLog targets.
+description: Create defensible forensic and e-discovery automation workflows with robust logging using Phoenix. Documentation and examples including structured logging, scopes, and NLog targets.
 ---
 
 # Logging
 
 ## NLog
 
-Sequence uses [NLog](https://nlog-project.org) for writing log messages
+Phoenix uses [NLog](https://nlog-project.org) for writing log messages
 to various targets, including:
 
 - Console
@@ -20,15 +20,15 @@ to various targets, including:
 The NLog section of `appsettings.json` controls the format, detail level,
 and logging targets.
 
-The default nlog configuration supplied with Sequence writes to console and to
-a file called `sequence.log` in the same directory as the `sequence` executable.
+The default nlog configuration supplied with Phoenix writes to console and to
+a file called `Phoenix.log` in the same directory as the `Phoenix` executable.
 Minimum console severity is `Info` and file is `Debug`.
 
 ```json
 "nlog": {
   "throwConfigExceptions": true,
   "variables": {
-    "logname": "sequence"
+    "logname": "Phoenix"
   },
   "targets": {
     "fileTarget": {
@@ -80,9 +80,9 @@ auditability and help troubleshoot issues:
 | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Message       | The information or error message.                                                                                                                                   |
 | MessageParams | Additional properties associated with the `Message`. For example, when logging that a step has successfully completed, one of the MessageParams is the result type. |
-| StepName      | The name of the Step that has logged the message. Empty if the message is outside of a step e.g. when Sequence starts.                                              |
-| Location      | Location information detailing where in a Sequence the message has been logged. A stack trace of sorts.                                                             |
-| SequenceInfo  | A dictionary of additional properties associated with the running Step and/or Sequence.                                                                             |
+| StepName      | The name of the Step that has logged the message. Empty if the message is outside of a step e.g. when Phoenix starts.                                              |
+| Location      | Location information detailing where in a Phoenix the message has been logged. A stack trace of sorts.                                                             |
+| PhoenixInfo  | A dictionary of additional properties associated with the running Step and/or Phoenix.                                                                             |
 
 ### Logging Scopes
 
@@ -105,20 +105,20 @@ For example:
 Will produce the following output (if log level is `Trace`):
 
 ```
-> sequence.exe run scl "Print (2 + (3 * 4))"
+> Phoenix.exe run scl "Print (2 + (3 * 4))"
 
-2022/02/03 15:45:01.385 Sequence Started (Sequence)
-2022/02/03 15:45:01.414 Print Started with Parameters: [Value, (2 + (3 * 4))] (Sequence\Print)
-2022/02/03 15:45:01.414 Sum Started with Parameters: [Terms, [2, (3 * 4)]] (Sequence\Print\Sum)
-2022/02/03 15:45:01.414 ArrayNew Started with Parameters: [Elements, [2, (3 * 4)]] (Sequence\Print\Sum\ArrayNew)
-2022/02/03 15:45:01.431 Product Started with Parameters: [Terms, [3, 4]] (Sequence\Print\Sum\ArrayNew\Product)
-2022/02/03 15:45:01.431 ArrayNew Started with Parameters: [Elements, [3, 4]] (Sequence\Print\Sum\ArrayNew\Product\ArrayNew)
-2022/02/03 15:45:01.445 ArrayNew Completed Successfully with Result: [3, 4] (Sequence\Print\Sum\ArrayNew\Product\ArrayNew)
-2022/02/03 15:45:01.445 Product Completed Successfully with Result: 12 (Sequence\Print\Sum\ArrayNew\Product)2022/02/03 15:45:01.445 ArrayNew Completed Successfully with Result: [2, 12] (Sequence\Print\Sum\ArrayNew)
-2022/02/03 15:45:01.445 Sum Completed Successfully with Result: 14 (Sequence\Print\Sum)
+2022/02/03 15:45:01.385 Phoenix Started (Phoenix)
+2022/02/03 15:45:01.414 Print Started with Parameters: [Value, (2 + (3 * 4))] (Phoenix\Print)
+2022/02/03 15:45:01.414 Sum Started with Parameters: [Terms, [2, (3 * 4)]] (Phoenix\Print\Sum)
+2022/02/03 15:45:01.414 ArrayNew Started with Parameters: [Elements, [2, (3 * 4)]] (Phoenix\Print\Sum\ArrayNew)
+2022/02/03 15:45:01.431 Product Started with Parameters: [Terms, [3, 4]] (Phoenix\Print\Sum\ArrayNew\Product)
+2022/02/03 15:45:01.431 ArrayNew Started with Parameters: [Elements, [3, 4]] (Phoenix\Print\Sum\ArrayNew\Product\ArrayNew)
+2022/02/03 15:45:01.445 ArrayNew Completed Successfully with Result: [3, 4] (Phoenix\Print\Sum\ArrayNew\Product\ArrayNew)
+2022/02/03 15:45:01.445 Product Completed Successfully with Result: 12 (Phoenix\Print\Sum\ArrayNew\Product)2022/02/03 15:45:01.445 ArrayNew Completed Successfully with Result: [2, 12] (Phoenix\Print\Sum\ArrayNew)
+2022/02/03 15:45:01.445 Sum Completed Successfully with Result: 14 (Phoenix\Print\Sum)
 14
-2022/02/03 15:45:01.445 Print Completed Successfully with Result: Unit (Sequence\Print)
-2022/02/03 15:45:01.458 Sequence Completed (Sequence)
+2022/02/03 15:45:01.445 Print Completed Successfully with Result: Unit (Phoenix\Print)
+2022/02/03 15:45:01.458 Phoenix Completed (Phoenix)
 ```
 
 ## Full Example
@@ -126,14 +126,14 @@ Will produce the following output (if log level is `Trace`):
 This configuration logs to:
 
 - Console
-- File - `sequence.log`
-- JSON file - `sequence.log.json`
+- File - `Phoenix.log`
+- JSON file - `Phoenix.log.json`
 - Elastic Search - `http://localhost:9200`
 
 ```json
 "nlog": {
   "throwConfigExceptions": true,
-  "variables": { "logname": "sequence" },
+  "variables": { "logname": "Phoenix" },
   "extensions": [{ "assembly": "NLog.Targets.ElasticSearch" }],
   "targets": {
     "jsonTarget": {

@@ -12,7 +12,7 @@ This example will
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the TSK Connector.](tsk.md)
+[Instructions on how to install and setup Phoenix and the TSK Connector.](tsk.md)
 
 You also need to create a report profile to use.
 
@@ -25,7 +25,7 @@ You also need to create a report profile to use.
 To run:
 
 ```powershell
-PS > ./sequence.exe run tsk-create-case-and-add-data.scl
+PS > ./Phoenix.exe run tsk-create-case-and-add-data.scl
 ```
 
 ## SCL

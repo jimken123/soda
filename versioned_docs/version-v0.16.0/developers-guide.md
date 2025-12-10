@@ -1,13 +1,13 @@
 ---
-title: Sequence Connector Developers' Guide
+title: Phoenix Connector Developers' Guide
 sidebar_label: Developers' Guide
-description: Build your own Sequence connector to automate any application in your forensic and ediscovery workflows.
+description: Build your own Phoenix connector to automate any application in your forensic and ediscovery workflows.
 ---
 
 # Developers' Guide
 
-An Sequence Connector template is available here:
-https://gitlab.com/sequence/templates/sequenceconnector
+An Phoenix Connector template is available here:
+https://gitlab.com/Phoenix/templates/Phoenixconnector
 
 Fork the project, then use the `Rename-Template` script to update the
 project name and namespace.
@@ -19,5 +19,5 @@ PS > Remove-Item Rename-Template.ps1
 ```
 
 To implement new Steps, use the included
-[ConvertJsonToEntity](https://gitlab.com/sequence/templates/sequenceconnector/-/blob/main/SequenceConnector/ConvertJsonToEntity.cs)
+[ConvertJsonToEntity](https://gitlab.com/Phoenix/templates/Phoenixconnector/-/blob/main/PhoenixConnector/ConvertJsonToEntity.cs)
 as a starting point, updating the `Run` method and adding any required step parameters.

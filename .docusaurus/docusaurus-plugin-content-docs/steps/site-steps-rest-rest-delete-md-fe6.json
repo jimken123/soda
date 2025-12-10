@@ -2,13 +2,13 @@
   "unversionedId": "Rest/RESTDelete",
   "id": "Rest/RESTDelete",
   "title": "RESTDelete Step | REST Connector Documentation",
-  "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Rest/RESTDelete.md",
   "sourceDirName": "Rest",
   "slug": "/Rest/RESTDelete",
   "permalink": "/steps/next/Rest/RESTDelete",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Rest/RESTDelete.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Rest/RESTDelete.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "RESTDelete Step | REST Connector Documentation",
     "sidebar_label": "RESTDelete",
-    "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Rest"

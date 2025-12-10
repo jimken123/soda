@@ -8,12 +8,12 @@ description: Learn how to include Tesseract OCR in automated forensic and edisco
 
 ## Setup
 
-1. Download and set up Sequence. See the [quick start](../../../quick-start.md) for more info.
+1. Download and set up Phoenix. See the [quick start](../../../quick-start.md) for more info.
 2. Add the Tesseract connector. See [connectors](../../../quick-start.md#connectors)
    for more info on managing connectors.
 
 ```powershell
-./sequence.exe connector add Sequence.Connectors.Tesseract --prerelease
+./Phoenix.exe connector add Phoenix.Connectors.Tesseract --prerelease
 ```
 
 ## Examples

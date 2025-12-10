@@ -2,13 +2,13 @@
   "unversionedId": "Sql/OpenConnection",
   "id": "Sql/OpenConnection",
   "title": "OpenConnection Step | SQL Database Connector Documentation",
-  "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Sql/OpenConnection.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/OpenConnection",
   "permalink": "/steps/next/Sql/OpenConnection",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Sql/OpenConnection.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Sql/OpenConnection.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "OpenConnection Step | SQL Database Connector Documentation",
     "sidebar_label": "OpenConnection",
-    "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Open a new connection to a database.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Sql"

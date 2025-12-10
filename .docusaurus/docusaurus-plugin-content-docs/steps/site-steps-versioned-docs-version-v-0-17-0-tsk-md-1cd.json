@@ -2,13 +2,13 @@
   "unversionedId": "TSK",
   "id": "version-v0.17.0/TSK",
   "title": "All Steps | TSK Connector Documentation",
-  "description": "List of all steps for TSK Connector. Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+  "description": "List of all steps for TSK Connector. Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/TSK.md",
   "sourceDirName": ".",
   "slug": "/TSK",
   "permalink": "/steps/v0.17.0/TSK",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/TSK.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/TSK.md",
   "tags": [
     {
       "label": "Contents",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "All Steps | TSK Connector Documentation",
     "sidebar_label": "TSK",
-    "description": "List of all steps for TSK Connector. Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+    "description": "List of all steps for TSK Connector. Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
     "tags": [
       "Contents",
       "TSK"

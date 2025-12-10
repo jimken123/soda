@@ -1,5 +1,5 @@
 ---
-title: Create Workspace | Sequence Connector for Relativity Examples
+title: Create Workspace | Phoenix Connector for Relativity Examples
 sidebar_label: Create Workspace
 ---
 
@@ -14,7 +14,7 @@ This example will
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Sequence Connector for Relativity®.](relativity.md)
+[Instructions on how to install and setup Phoenix and the Phoenix Connector for Relativity®.](relativity.md)
 
 ## SCL
 
@@ -23,7 +23,7 @@ Download the SCL here: [relativity-create-workspace.scl](pathname:///example-fil
 To run:
 
 ```powershell
-PS > ./sequence.exe run relativity-create-workspace.scl
+PS > ./Phoenix.exe run relativity-create-workspace.scl
 ```
 
 ```scl

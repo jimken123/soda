@@ -2,13 +2,13 @@
   "unversionedId": "Core/DoubleProduct",
   "id": "version-v0.16.0/Core/DoubleProduct",
   "title": "DoubleProduct Step | Core SDK Documentation",
-  "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/DoubleProduct.md",
   "sourceDirName": "Core",
   "slug": "/Core/DoubleProduct",
   "permalink": "/steps/v0.16.0/Core/DoubleProduct",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/DoubleProduct.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/DoubleProduct.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "DoubleProduct Step | Core SDK Documentation",
     "sidebar_label": "DoubleProduct",
-    "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Calculate the product of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

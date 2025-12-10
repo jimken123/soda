@@ -2,13 +2,13 @@
   "unversionedId": "Core/Sum",
   "id": "version-v0.17.0/Core/Sum",
   "title": "Sum Step | Core SDK Documentation",
-  "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/Sum.md",
   "sourceDirName": "Core",
   "slug": "/Core/Sum",
   "permalink": "/steps/v0.17.0/Core/Sum",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/Sum.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/Sum.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Sum Step | Core SDK Documentation",
     "sidebar_label": "Sum",
-    "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Calculate the sum of a list of integers. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

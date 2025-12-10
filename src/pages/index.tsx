@@ -6,11 +6,9 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import { useColorMode } from '@docusaurus/theme-common';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import SequenceLogoDark from '@site/static/img/sequence_dark_opt.svg';
-import SequenceLogoLight from '@site/static/img/sequence_light_opt.svg';
+import PhoenixLogoDark from '@site/static/img/phoenix.svg';
+import PhoenixLogoLight from '@site/static/img/phoenix.svg';
 import HomepageConnectors from '@site/src/components/HomepageConnectors';
-import HomepageExamples from '@site/src/components/HomepageExamples';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -20,9 +18,9 @@ function HomepageHeader() {
     <header className={clsx('hero shadow--lw', styles.heroBanner)}>
       <div className="container">
         {colorMode === 'dark' ? (
-          <SequenceLogoDark name="Sequence" className={styles.heroLogo} />
+          <PhoenixLogoDark name="Sequccence" className={styles.heroLogo} />
         ) : (
-          <SequenceLogoLight name="Sequence" className={styles.heroLogo} />
+          <PhoenixLogoLight name="Phoenix" className={styles.heroLogo} />
         )}
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
@@ -30,18 +28,9 @@ function HomepageHeader() {
             className={clsx('button button--primary button--lg', styles.heroButton)}
             to="/docs/quick-start"
           >
-            Get Started &gt;&gt;&gt; 5min ⏱️
+            Get Started
           </Link>
-          <Link
-            className={clsx(
-              'button button--primary button--lg',
-              styles.heroButton,
-              styles.tryButton
-            )}
-            to="/playground"
-          >
-            Try Now on the Playground
-          </Link>
+          
         </div>
       </div>
     </header>
@@ -58,7 +47,6 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <HomepageExamples />
         <HomepageConnectors />
       </main>
     </Layout>

@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringContains",
   "id": "version-v0.17.0/Core/StringContains",
   "title": "StringContains Step | Core SDK Documentation",
-  "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/StringContains.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringContains",
   "permalink": "/steps/v0.17.0/Core/StringContains",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/StringContains.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/StringContains.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringContains Step | Core SDK Documentation",
     "sidebar_label": "StringContains",
-    "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns true if the String contains the substring.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

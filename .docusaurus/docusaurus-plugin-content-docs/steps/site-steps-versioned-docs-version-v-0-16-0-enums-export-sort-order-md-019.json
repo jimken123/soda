@@ -2,13 +2,13 @@
   "unversionedId": "Enums/ExportSortOrder",
   "id": "version-v0.16.0/Enums/ExportSortOrder",
   "title": "ExportSortOrder | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Enums/ExportSortOrder.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/ExportSortOrder",
   "permalink": "/steps/v0.16.0/Enums/ExportSortOrder",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Enums/ExportSortOrder.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Enums/ExportSortOrder.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ExportSortOrder | Enums",
     "sidebar_label": "ExportSortOrder",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

@@ -1,7 +1,7 @@
 ---
 title: All Steps | REST Connector Documentation
 sidebar_label: Rest
-description: List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.
+description: List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.
 tags: [Contents, Rest]
 hide_title: true
 hide_table_of_contents: true

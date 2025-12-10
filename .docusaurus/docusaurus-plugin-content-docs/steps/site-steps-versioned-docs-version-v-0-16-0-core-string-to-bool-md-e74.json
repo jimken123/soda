@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringToBool",
   "id": "version-v0.16.0/Core/StringToBool",
   "title": "StringToBool Step | Core SDK Documentation",
-  "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringToBool.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringToBool",
   "permalink": "/steps/v0.16.0/Core/StringToBool",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringToBool.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringToBool.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringToBool Step | Core SDK Documentation",
     "sidebar_label": "StringToBool",
-    "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

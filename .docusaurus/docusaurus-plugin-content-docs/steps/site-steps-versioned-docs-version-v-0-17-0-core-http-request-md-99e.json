@@ -2,13 +2,13 @@
   "unversionedId": "Core/HttpRequest",
   "id": "version-v0.17.0/Core/HttpRequest",
   "title": "HttpRequest Step | Core SDK Documentation",
-  "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/HttpRequest.md",
   "sourceDirName": "Core",
   "slug": "/Core/HttpRequest",
   "permalink": "/steps/v0.17.0/Core/HttpRequest",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/HttpRequest.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/HttpRequest.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "HttpRequest Step | Core SDK Documentation",
     "sidebar_label": "HttpRequest",
-    "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Makes a Http Request to download data from the web. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

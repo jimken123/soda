@@ -6,8 +6,8 @@
   "items": [
     {
       "id": "version-v0.18.0/all",
-      "title": "All Sequence Core and Connector Steps",
-      "description": "List of all steps for Sequence, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.",
+      "title": "All Phoenix Core and Connector Steps",
+      "description": "List of all steps for Phoenix, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.",
       "permalink": "/steps/all"
     },
     {
@@ -19,67 +19,67 @@
     {
       "id": "version-v0.18.0/FileSystem",
       "title": "All Steps | File System Connector Documentation",
-      "description": "List of all steps for File System Connector. Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
+      "description": "List of all steps for File System Connector. Phoenix connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.",
       "permalink": "/steps/FileSystem"
     },
     {
       "id": "version-v0.18.0/Microsoft365",
       "title": "All Steps | Microsoft 365 Connector Documentation",
-      "description": "List of all steps for Microsoft 365 Connector. Sequence connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
+      "description": "List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.",
       "permalink": "/steps/Microsoft365"
     },
     {
       "id": "version-v0.18.0/Nuix",
       "title": "All Steps | Nuix Connector Documentation",
-      "description": "List of all steps for Nuix Connector. Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
+      "description": "List of all steps for Nuix Connector. Phoenix connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.",
       "permalink": "/steps/Nuix"
+    },
+    {
+      "id": "version-v0.18.0/Relativity",
+      "title": "All Steps | Phoenix Connector for Relativity Documentation",
+      "description": "List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
+      "permalink": "/steps/Relativity"
     },
     {
       "id": "version-v0.18.0/Pwsh",
       "title": "All Steps | PowerShell Connector Documentation",
-      "description": "List of all steps for PowerShell Connector. Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+      "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
       "permalink": "/steps/Pwsh"
     },
     {
       "id": "version-v0.18.0/Rest",
       "title": "All Steps | REST Connector Documentation",
-      "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.",
+      "description": "List of all steps for REST Connector. Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.",
       "permalink": "/steps/Rest"
-    },
-    {
-      "id": "version-v0.18.0/Relativity",
-      "title": "All Steps | Sequence Connector for Relativity Documentation",
-      "description": "List of all steps for Sequence Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.",
-      "permalink": "/steps/Relativity"
     },
     {
       "id": "version-v0.18.0/Singer",
       "title": "All Steps | Singer Target Documentation",
-      "description": "List of all steps for Singer Target. Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.",
+      "description": "List of all steps for Singer Target. Phoenix connector for Singer. Allows Phoenix to act as a singer target, receiving data from any of the 100+ singer taps.",
       "permalink": "/steps/Singer"
     },
     {
       "id": "version-v0.18.0/Sql",
       "title": "All Steps | SQL Database Connector Documentation",
-      "description": "List of all steps for SQL Database Connector. Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+      "description": "List of all steps for SQL Database Connector. Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
       "permalink": "/steps/Sql"
     },
     {
       "id": "version-v0.18.0/StructuredData",
       "title": "All Steps | Structured Data Connector Documentation",
-      "description": "List of all steps for Structured Data Connector. Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
+      "description": "List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.",
       "permalink": "/steps/StructuredData"
     },
     {
       "id": "version-v0.18.0/Tesseract",
       "title": "All Steps | Tesseract OCR Connector Documentation",
-      "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.",
+      "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
       "permalink": "/steps/Tesseract"
     },
     {
       "id": "version-v0.18.0/TSK",
       "title": "All Steps | TSK Connector Documentation",
-      "description": "List of all steps for TSK Connector. Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
+      "description": "List of all steps for TSK Connector. Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.",
       "permalink": "/steps/TSK"
     }
   ]

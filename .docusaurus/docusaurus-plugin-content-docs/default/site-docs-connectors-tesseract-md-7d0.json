@@ -2,17 +2,17 @@
   "unversionedId": "connectors/tesseract",
   "id": "connectors/tesseract",
   "title": "Tesseract Connector",
-  "description": "Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.",
+  "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
   "source": "@site/docs/connectors/tesseract.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/tesseract",
   "permalink": "/docs/next/connectors/tesseract",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/connectors/tesseract.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/tesseract.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "description": "Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows."
+    "description": "Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows."
   },
   "sidebar": "docs",
   "previous": {

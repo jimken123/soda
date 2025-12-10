@@ -1,7 +1,7 @@
 ---
-title: RelativityCreateField Step | Sequence Connector for Relativity Documentation
+title: RelativityCreateField Step | Phoenix Connector for Relativity Documentation
 sidebar_label: RelativityCreateField
-description: Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Creates a new Fixed Length Field and returns the ArtifactId of that field. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Relativity]
 hide_title: true
 hide_table_of_contents: true

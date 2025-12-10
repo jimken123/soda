@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixOpenConnection",
   "id": "version-v0.17.0/Nuix/NuixOpenConnection",
   "title": "NuixOpenConnection Step | Nuix Connector Documentation",
-  "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixOpenConnection.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixOpenConnection",
   "permalink": "/steps/v0.17.0/Nuix/NuixOpenConnection",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixOpenConnection.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixOpenConnection.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixOpenConnection Step | Nuix Connector Documentation",
     "sidebar_label": "NuixOpenConnection",
-    "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Open the connection to nuix. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

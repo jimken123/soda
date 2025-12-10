@@ -2,13 +2,13 @@
   "unversionedId": "Core/Or",
   "id": "version-v0.16.0/Core/Or",
   "title": "Or Step | Core SDK Documentation",
-  "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/Or.md",
   "sourceDirName": "Core",
   "slug": "/Core/Or",
   "permalink": "/steps/v0.16.0/Core/Or",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Or.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/Or.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Or Step | Core SDK Documentation",
     "sidebar_label": "Or",
-    "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

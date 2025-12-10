@@ -2,13 +2,13 @@
   "unversionedId": "Microsoft365/M365Login",
   "id": "version-v0.18.0/Microsoft365/M365Login",
   "title": "M365Login Step | Microsoft 365 Connector Documentation",
-  "description": "Login to M365. You do not need to do this.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Login to M365. You do not need to do this.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Microsoft365/M365Login.md",
   "sourceDirName": "Microsoft365",
   "slug": "/Microsoft365/M365Login",
   "permalink": "/steps/Microsoft365/M365Login",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Microsoft365/M365Login.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Microsoft365/M365Login.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "M365Login Step | Microsoft 365 Connector Documentation",
     "sidebar_label": "M365Login",
-    "description": "Login to M365. You do not need to do this.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Login to M365. You do not need to do this.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Microsoft365"

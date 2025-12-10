@@ -1,7 +1,7 @@
 ---
 title: StringSubstring Step | Core SDK Documentation
 sidebar_label: StringSubstring
-description: Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Gets a substring from a string.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

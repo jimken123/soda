@@ -1,5 +1,5 @@
 ---
-title: Import Entities | Sequence Connector for Relativity Examples
+title: Import Entities | Phoenix Connector for Relativity Examples
 sidebar_label: Import Entities
 ---
 
@@ -13,7 +13,7 @@ your Relativity workspace fields or use The `EntityMapProperties` step to map th
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Sequence Connector for Relativity®.](relativity.md)
+[Instructions on how to install and setup Phoenix and the Phoenix Connector for Relativity®.](relativity.md)
 
 To load the data from a .csv file you need to add the StructuredData and FileSystem connectors
 
@@ -25,7 +25,7 @@ Download the example entity import here: [relativity-example-files.zip](pathname
 To run:
 
 ```powershell
-PS > ./sequence.exe run relativity-import-entities.scl
+PS > ./Phoenix.exe run relativity-import-entities.scl
 ```
 
 ```scl

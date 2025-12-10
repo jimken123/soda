@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringFind",
   "id": "Core/StringFind",
   "title": "StringFind Step | Core SDK Documentation",
-  "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/StringFind.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringFind",
   "permalink": "/steps/next/Core/StringFind",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringFind.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringFind.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringFind Step | Core SDK Documentation",
     "sidebar_label": "StringFind",
-    "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the index of the first instance of a substring in a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

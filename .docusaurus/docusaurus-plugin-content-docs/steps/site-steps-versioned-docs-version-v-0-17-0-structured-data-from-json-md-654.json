@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/FromJson",
   "id": "version-v0.17.0/StructuredData/FromJson",
   "title": "FromJson Step | Structured Data Connector Documentation",
-  "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/StructuredData/FromJson.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromJson",
   "permalink": "/steps/v0.17.0/StructuredData/FromJson",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/StructuredData/FromJson.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/StructuredData/FromJson.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromJson Step | Structured Data Connector Documentation",
     "sidebar_label": "FromJson",
-    "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extracts the entity from a Json stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

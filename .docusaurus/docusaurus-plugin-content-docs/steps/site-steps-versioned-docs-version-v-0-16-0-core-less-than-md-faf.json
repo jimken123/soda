@@ -2,13 +2,13 @@
   "unversionedId": "Core/LessThan",
   "id": "version-v0.16.0/Core/LessThan",
   "title": "LessThan Step | Core SDK Documentation",
-  "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/LessThan.md",
   "sourceDirName": "Core",
   "slug": "/Core/LessThan",
   "permalink": "/steps/v0.16.0/Core/LessThan",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/LessThan.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/LessThan.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "LessThan Step | Core SDK Documentation",
     "sidebar_label": "LessThan",
-    "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

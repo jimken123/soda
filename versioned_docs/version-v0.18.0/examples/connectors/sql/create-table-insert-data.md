@@ -5,7 +5,7 @@ sidebar_label: Create SQL Table and Insert Data
 
 # Create SQL Table and Insert Data
 
-[Instructions on how to install and setup Sequence and the SQL Connector.](sql.md)
+[Instructions on how to install and setup Phoenix and the SQL Connector.](sql.md)
 
 This workflow:
 

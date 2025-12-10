@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityGetSubfolders",
   "id": "version-v0.17.0/Relativity/RelativityGetSubfolders",
-  "title": "RelativityGetSubfolders Step | Sequence Connector for Relativity Documentation",
-  "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityGetSubfolders Step | Phoenix Connector for Relativity Documentation",
+  "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetSubfolders.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityGetSubfolders",
   "permalink": "/steps/v0.17.0/Relativity/RelativityGetSubfolders",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetSubfolders.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityGetSubfolders.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.17.0",
   "frontMatter": {
-    "title": "RelativityGetSubfolders Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityGetSubfolders Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityGetSubfolders",
-    "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets all children of a folder. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

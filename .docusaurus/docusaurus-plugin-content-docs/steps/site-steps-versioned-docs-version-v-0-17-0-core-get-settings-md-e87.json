@@ -2,13 +2,13 @@
   "unversionedId": "Core/GetSettings",
   "id": "version-v0.17.0/Core/GetSettings",
   "title": "GetSettings Step | Core SDK Documentation",
-  "description": "Get an entity containing SCL settings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Get an entity containing SCL settings. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/GetSettings.md",
   "sourceDirName": "Core",
   "slug": "/Core/GetSettings",
   "permalink": "/steps/v0.17.0/Core/GetSettings",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/GetSettings.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/GetSettings.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "GetSettings Step | Core SDK Documentation",
     "sidebar_label": "GetSettings",
-    "description": "Get an entity containing SCL settings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Get an entity containing SCL settings. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

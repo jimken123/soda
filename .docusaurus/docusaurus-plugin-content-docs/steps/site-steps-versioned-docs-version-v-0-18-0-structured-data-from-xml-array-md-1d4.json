@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/FromXmlArray",
   "id": "version-v0.18.0/StructuredData/FromXmlArray",
   "title": "FromXmlArray Step | Structured Data Connector Documentation",
-  "description": "Extracts entities from a Xml stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extracts entities from a Xml stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData/FromXmlArray.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromXmlArray",
   "permalink": "/steps/StructuredData/FromXmlArray",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/FromXmlArray.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/FromXmlArray.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromXmlArray Step | Structured Data Connector Documentation",
     "sidebar_label": "FromXmlArray",
-    "description": "Extracts entities from a Xml stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extracts entities from a Xml stream containing an array of entities.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

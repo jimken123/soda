@@ -1,7 +1,7 @@
 ---
 title: All Steps | Structured Data Connector Documentation
 sidebar_label: StructuredData
-description: List of all steps for Structured Data Connector. Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.
+description: List of all steps for Structured Data Connector. Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.
 tags: [Contents, StructuredData]
 hide_title: true
 hide_table_of_contents: true

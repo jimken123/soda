@@ -1,7 +1,7 @@
 ---
 title: All Steps | Tesseract OCR Connector Documentation
 sidebar_label: Tesseract
-description: List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.
+description: List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.
 tags: [Contents, Tesseract]
 hide_title: true
 hide_table_of_contents: true

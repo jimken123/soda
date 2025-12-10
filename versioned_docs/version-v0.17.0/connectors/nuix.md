@@ -1,10 +1,10 @@
 ---
-description: Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.
+description: Phoenix connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.
 ---
 
 # Nuix Connector
 
-The Sequence Nuix Connector allows users to automate forensic workflows using
+The Phoenix Nuix Connector allows users to automate forensic workflows using
 [Nuix Workstation](https://www.nuix.com/products/nuixworkstation).
 
 This connector has [Steps](/steps/Nuix) to:
@@ -19,7 +19,7 @@ This connector has [Steps](/steps/Nuix) to:
 
 [Nuix SCL examples available here](../examples/connectors/nuix/nuix.md).
 
-Source code available on [GitLab](https://gitlab.com/sequence/connectors/nuix).
+Source code available on [GitLab](https://gitlab.com/Phoenix/connectors/nuix).
 
 ## Nuix Connector Settings
 
@@ -35,7 +35,7 @@ provided using the `settings` key in `connectors.json`.
 | version               |    ✔     | `Version`  | The installed version of Nuix.                                                                                                     |
 | consoleArguments      |          | `string[]` | List of console arguments to append to the nuix command.                                                                           |
 | consoleArgumentsPost  |          | `string[]` | List of console arguments to prepend to the nuix command.                                                                          |
-| environmentVariables  |          | `string[]` | Environment variables to set before running Sequence.                                                                              |
+| environmentVariables  |          | `string[]` | Environment variables to set before running Phoenix.                                                                              |
 | ignoreWarningsRegex   |          |  `string`  | Regex used to ignore java warnings coming from the Nuix connection. The default values ignores warnings from Nuix Version up to 9. |
 | ignoreErrorsRegex     |          |  `string`  | Regex used to ignore java errors coming from the Nuix connection. The default values ignores errors from Nuix Version up to 9.     |
 | licencesourcelocation |          |  `string`  | Selects a licence source if multiple are available.                                                                                |
@@ -48,8 +48,8 @@ provided using the `settings` key in `connectors.json`.
 ### Using a License Dongle
 
 ```json
-"Sequence.Connectors.Nuix": {
-  "id": "Sequence.Connectors.Nuix",
+"Phoenix.Connectors.Nuix": {
+  "id": "Phoenix.Connectors.Nuix",
   "enable": true,
   "version": "0.10.0",
   "settings": {
@@ -71,8 +71,8 @@ provided using the `settings` key in `connectors.json`.
 ### Using a License Server
 
 ```json
-"Sequence.Connectors.Nuix": {
-  "id": "Sequence.Connectors.Nuix",
+"Phoenix.Connectors.Nuix": {
+  "id": "Phoenix.Connectors.Nuix",
   "enable": true,
   "version": "0.10.0",
   "settings": {

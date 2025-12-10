@@ -1,7 +1,7 @@
 ---
 title: NuixSearchAndTag Step | Nuix Connector Documentation
 sidebar_label: NuixSearchAndTag
-description: Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

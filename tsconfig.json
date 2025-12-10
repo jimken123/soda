@@ -6,7 +6,7 @@
   },
   "exclude": [
     ".docusaurus",
-    ".sequence",
+    ".Phoenix",
     "build",
     "node_modules",
     "playground",

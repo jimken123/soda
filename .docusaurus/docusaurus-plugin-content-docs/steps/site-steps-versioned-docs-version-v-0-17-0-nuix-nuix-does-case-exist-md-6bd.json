@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixDoesCaseExist",
   "id": "version-v0.17.0/Nuix/NuixDoesCaseExist",
   "title": "NuixDoesCaseExist Step | Nuix Connector Documentation",
-  "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixDoesCaseExist.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixDoesCaseExist",
   "permalink": "/steps/v0.17.0/Nuix/NuixDoesCaseExist",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixDoesCaseExist.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixDoesCaseExist.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixDoesCaseExist Step | Nuix Connector Documentation",
     "sidebar_label": "NuixDoesCaseExist",
-    "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns whether or not a case exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

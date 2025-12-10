@@ -5,7 +5,7 @@ sidebar_label: Import Data from Slack
 
 # Import Data from Slack
 
-[Instructions on how to install and setup Sequence and the Singer Connector.](singer.md)
+[Instructions on how to install and setup Phoenix and the Singer Connector.](singer.md)
 
 How to set up the Slack Tap
 
@@ -101,8 +101,8 @@ The HandleState argument here ignores the state.
 The default behaviour is to write it to a file named 'State.json'
 :::
 
-You could also pipe the result of the tap directly into Sequence.
+You could also pipe the result of the tap directly into Phoenix.
 
 ```powershell
-tap-slack --config C:\Singer\slack.config --catalog C:\Singer\catalog.json | .\sequence.exe run scl  "ReadStandardIn | FromSinger handlestate: (<>=>DoNothing) | Foreach (log <>['name'])"
+tap-slack --config C:\Singer\slack.config --catalog C:\Singer\catalog.json | .\Phoenix.exe run scl  "ReadStandardIn | FromSinger handlestate: (<>=>DoNothing) | Foreach (log <>['name'])"
 ```

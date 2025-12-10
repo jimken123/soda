@@ -1,7 +1,7 @@
 ---
 title: NuixOpenCase Step | Nuix Connector Documentation
 sidebar_label: NuixOpenCase
-description: Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

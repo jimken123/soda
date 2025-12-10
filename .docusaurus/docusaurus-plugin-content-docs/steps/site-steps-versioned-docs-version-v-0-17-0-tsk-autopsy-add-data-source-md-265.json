@@ -2,13 +2,13 @@
   "unversionedId": "TSK/AutopsyAddDataSource",
   "id": "version-v0.17.0/TSK/AutopsyAddDataSource",
   "title": "AutopsyAddDataSource Step | TSK Connector Documentation",
-  "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/TSK/AutopsyAddDataSource.md",
   "sourceDirName": "TSK",
   "slug": "/TSK/AutopsyAddDataSource",
   "permalink": "/steps/v0.17.0/TSK/AutopsyAddDataSource",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/TSK/AutopsyAddDataSource.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/TSK/AutopsyAddDataSource.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "AutopsyAddDataSource Step | TSK Connector Documentation",
     "sidebar_label": "AutopsyAddDataSource",
-    "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Add a Data Source to an Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "TSK"

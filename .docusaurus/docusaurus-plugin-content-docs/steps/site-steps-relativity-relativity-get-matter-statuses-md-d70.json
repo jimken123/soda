@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityGetMatterStatuses",
   "id": "Relativity/RelativityGetMatterStatuses",
-  "title": "RelativityGetMatterStatuses Step | Sequence Connector for Relativity Documentation",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityGetMatterStatuses Step | Phoenix Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Relativity/RelativityGetMatterStatuses.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityGetMatterStatuses",
   "permalink": "/steps/next/Relativity/RelativityGetMatterStatuses",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityGetMatterStatuses.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityGetMatterStatuses.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "current",
   "frontMatter": {
-    "title": "RelativityGetMatterStatuses Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityGetMatterStatuses Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityGetMatterStatuses",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

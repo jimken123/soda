@@ -1,7 +1,7 @@
 ---
 title: NuixCountItems Step | Nuix Connector Documentation
 sidebar_label: NuixCountItems
-description: Returns the number of items matching a particular search term. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Returns the number of items matching a particular search term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

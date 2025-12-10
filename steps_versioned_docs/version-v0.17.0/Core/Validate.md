@@ -1,7 +1,7 @@
 ---
 title: Validate Step | Core SDK Documentation
 sidebar_label: Validate
-description: Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Validate that the schema is valid for all entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true
@@ -12,7 +12,7 @@ _Alias_:`Validate`, `SchemaValidate`
 
 _Output_:`Array<T>`
 
-Validate that the schema is valid for all entities. Does not evaluate the entity stream. For more information on schemas please see the [documentation](https://sequence.sh/docs/schemas/).
+Validate that the schema is valid for all entities. Does not evaluate the entity stream. For more information on schemas please see the [documentation](https://Phoenix.sh/docs/schemas/).
 
 
 |Parameter    |Type                                      |Required|Position|Default Value|Summary                             |

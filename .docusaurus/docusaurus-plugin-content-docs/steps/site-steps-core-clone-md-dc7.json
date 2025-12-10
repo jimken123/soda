@@ -2,13 +2,13 @@
   "unversionedId": "Core/Clone",
   "id": "Core/Clone",
   "title": "Clone Step | Core SDK Documentation",
-  "description": "Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/Clone.md",
   "sourceDirName": "Core",
   "slug": "/Core/Clone",
   "permalink": "/steps/next/Core/Clone",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Clone.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/Clone.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Clone Step | Core SDK Documentation",
     "sidebar_label": "Clone",
-    "description": "Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates an array by cloning an element.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -1,7 +1,7 @@
 ---
 title: If Step | Core SDK Documentation
 sidebar_label: If
-description: Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Executes a statement if a condition is true.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

@@ -1,7 +1,7 @@
 ---
 title: StringReplace Step | Core SDK Documentation
 sidebar_label: StringReplace
-description: Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

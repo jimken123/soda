@@ -2,13 +2,13 @@
   "unversionedId": "Core/DocumentationCreate",
   "id": "version-v0.16.0/Core/DocumentationCreate",
   "title": "DocumentationCreate Step | Core SDK Documentation",
-  "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/DocumentationCreate.md",
   "sourceDirName": "Core",
   "slug": "/Core/DocumentationCreate",
   "permalink": "/steps/v0.16.0/Core/DocumentationCreate",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/DocumentationCreate.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/DocumentationCreate.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "DocumentationCreate Step | Core SDK Documentation",
     "sidebar_label": "DocumentationCreate",
-    "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Generates documentation for all available steps.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

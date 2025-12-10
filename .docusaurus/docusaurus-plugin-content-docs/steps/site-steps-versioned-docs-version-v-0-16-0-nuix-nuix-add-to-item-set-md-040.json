@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixAddToItemSet",
   "id": "version-v0.16.0/Nuix/NuixAddToItemSet",
   "title": "NuixAddToItemSet Step | Nuix Connector Documentation",
-  "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixAddToItemSet.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixAddToItemSet",
   "permalink": "/steps/v0.16.0/Nuix/NuixAddToItemSet",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixAddToItemSet.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixAddToItemSet.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixAddToItemSet Step | Nuix Connector Documentation",
     "sidebar_label": "NuixAddToItemSet",
-    "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Run a search query in Nuix and add all items found to an item set. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

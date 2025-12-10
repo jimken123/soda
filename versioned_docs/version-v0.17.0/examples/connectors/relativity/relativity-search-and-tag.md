@@ -1,5 +1,5 @@
 ---
-title: Search and Tag Items | Sequence Connector for Relativity Examples
+title: Search and Tag Items | Phoenix Connector for Relativity Examples
 sidebar_label: Search and Tag Items
 ---
 
@@ -10,7 +10,7 @@ Be sure that the field you are setting (e.g. 'Tags') exists in your workspace be
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Sequence Connector for Relativity®.](relativity.md)
+[Instructions on how to install and setup Phoenix and the Phoenix Connector for Relativity®.](relativity.md)
 
 ## SCL
 
@@ -19,7 +19,7 @@ Download the SCL here: [relativity-search-and-tag.scl](pathname:///example-files
 To run:
 
 ```powershell
-PS > ./sequence.exe run relativity-search-and-tag.scl
+PS > ./Phoenix.exe run relativity-search-and-tag.scl
 ```
 
 ```scl

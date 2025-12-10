@@ -1,7 +1,7 @@
 ---
 title: DirectoryGetItems Step | File System Connector Documentation
 sidebar_label: DirectoryGetItems
-description: Gets all items in a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Gets all items in a directory. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, FileSystem]
 hide_title: true
 hide_table_of_contents: true

@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/FromXml",
   "id": "version-v0.16.0/StructuredData/FromXml",
   "title": "FromXml Step | Structured Data Connector Documentation",
-  "description": "Extracts the entity from a Xml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extracts the entity from a Xml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/StructuredData/FromXml.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromXml",
   "permalink": "/steps/v0.16.0/StructuredData/FromXml",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/StructuredData/FromXml.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/StructuredData/FromXml.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromXml Step | Structured Data Connector Documentation",
     "sidebar_label": "FromXml",
-    "description": "Extracts the entity from a Xml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extracts the entity from a Xml stream containing a single entity.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

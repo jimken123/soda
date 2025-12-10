@@ -2,13 +2,13 @@
   "unversionedId": "Core/LessThanOrEqual",
   "id": "version-v0.17.0/Core/LessThanOrEqual",
   "title": "LessThanOrEqual Step | Core SDK Documentation",
-  "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/LessThanOrEqual.md",
   "sourceDirName": "Core",
   "slug": "/Core/LessThanOrEqual",
   "permalink": "/steps/v0.17.0/Core/LessThanOrEqual",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/LessThanOrEqual.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/LessThanOrEqual.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "LessThanOrEqual Step | Core SDK Documentation",
     "sidebar_label": "LessThanOrEqual",
-    "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns true if each term is less than or equals to the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -2,13 +2,13 @@
   "unversionedId": "Enums/PrintPreviewState",
   "id": "Enums/PrintPreviewState",
   "title": "PrintPreviewState | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Enums/PrintPreviewState.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/PrintPreviewState",
   "permalink": "/steps/next/Enums/PrintPreviewState",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/PrintPreviewState.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/PrintPreviewState.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "PrintPreviewState | Enums",
     "sidebar_label": "PrintPreviewState",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

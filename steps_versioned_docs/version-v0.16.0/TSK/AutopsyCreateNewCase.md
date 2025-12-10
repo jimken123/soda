@@ -1,7 +1,7 @@
 ---
 title: AutopsyCreateNewCase Step | TSK Connector Documentation
 sidebar_label: AutopsyCreateNewCase
-description: Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Creates a new Autopsy Case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, TSK]
 hide_title: true
 hide_table_of_contents: true

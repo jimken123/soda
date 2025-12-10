@@ -1,14 +1,14 @@
 {
   "unversionedId": "all",
   "id": "all",
-  "title": "All Sequence Core and Connector Steps",
-  "description": "List of all steps for Sequence, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.",
+  "title": "All Phoenix Core and Connector Steps",
+  "description": "List of all steps for Phoenix, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.",
   "source": "@site/steps/all.md",
   "sourceDirName": ".",
   "slug": "/all",
   "permalink": "/steps/next/all",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/all.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/all.md",
   "tags": [
     {
       "label": "Contents",
@@ -21,9 +21,9 @@
   ],
   "version": "current",
   "frontMatter": {
-    "title": "All Sequence Core and Connector Steps",
-    "sidebar_label": "All Sequence Steps",
-    "description": "List of all steps for Sequence, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.",
+    "title": "All Phoenix Core and Connector Steps",
+    "sidebar_label": "All Phoenix Steps",
+    "description": "List of all steps for Phoenix, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.",
     "tags": [
       "Contents",
       "Unit"

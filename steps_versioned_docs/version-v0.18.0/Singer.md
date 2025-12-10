@@ -1,7 +1,7 @@
 ---
 title: All Steps | Singer Target Documentation
 sidebar_label: Singer
-description: List of all steps for Singer Target. Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.
+description: List of all steps for Singer Target. Phoenix connector for Singer. Allows Phoenix to act as a singer target, receiving data from any of the 100+ singer taps.
 tags: [Contents, Singer]
 hide_title: true
 hide_table_of_contents: true

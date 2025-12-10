@@ -1,7 +1,7 @@
 ---
 title: DeduplicateBy | Enums
 sidebar_label: DeduplicateBy
-description: . Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: . Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Enums, Unit]
 hide_title: true
 hide_table_of_contents: true

@@ -2,13 +2,13 @@
   "unversionedId": "Enums/EncodingEnum",
   "id": "version-v0.17.0/Enums/EncodingEnum",
   "title": "EncodingEnum | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Enums/EncodingEnum.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/EncodingEnum",
   "permalink": "/steps/v0.17.0/Enums/EncodingEnum",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Enums/EncodingEnum.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Enums/EncodingEnum.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "EncodingEnum | Enums",
     "sidebar_label": "EncodingEnum",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

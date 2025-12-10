@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityRetrieveWorkspace",
   "id": "version-v0.18.0/Relativity/RelativityRetrieveWorkspace",
-  "title": "RelativityRetrieveWorkspace Step | Sequence Connector for Relativity Documentation",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityRetrieveWorkspace Step | Phoenix Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveWorkspace.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityRetrieveWorkspace",
   "permalink": "/steps/Relativity/RelativityRetrieveWorkspace",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveWorkspace.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityRetrieveWorkspace.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.18.0",
   "frontMatter": {
-    "title": "RelativityRetrieveWorkspace Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityRetrieveWorkspace Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityRetrieveWorkspace",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

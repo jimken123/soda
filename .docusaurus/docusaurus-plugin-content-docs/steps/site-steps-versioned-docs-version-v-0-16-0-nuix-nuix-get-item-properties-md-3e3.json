@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixGetItemProperties",
   "id": "version-v0.16.0/Nuix/NuixGetItemProperties",
   "title": "NuixGetItemProperties Step | Nuix Connector Documentation",
-  "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixGetItemProperties.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixGetItemProperties",
   "permalink": "/steps/v0.16.0/Nuix/NuixGetItemProperties",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixGetItemProperties.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixGetItemProperties.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixGetItemProperties Step | Nuix Connector Documentation",
     "sidebar_label": "NuixGetItemProperties",
-    "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "A step that the searches a case for items and outputs the values of item properties. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringMatch",
   "id": "version-v0.16.0/Core/StringMatch",
   "title": "StringMatch Step | Core SDK Documentation",
-  "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringMatch.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringMatch",
   "permalink": "/steps/v0.16.0/Core/StringMatch",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringMatch.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringMatch.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringMatch Step | Core SDK Documentation",
     "sidebar_label": "StringMatch",
-    "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns true if a string is matched by a particular regular expression. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -1,19 +1,19 @@
 ---
 sidebar_label: Microsoft365 Connector
 sidebar_position: 0
-description: Examples of how to use Sequence to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.
+description: Examples of how to use Phoenix to include Microsoft365 in automated end-to-end forensic and ediscovery workflows.
 ---
 
 # Microsoft365 Connector Examples
 
 ## Setup
 
-1. Download and set up Sequence. See the [quick start](../../../quick-start.md) for more info.
-2. Add the Sequence Connector for Microsoft365. See [connectors](../../../quick-start.md#connectors)
+1. Download and set up Phoenix. See the [quick start](../../../quick-start.md) for more info.
+2. Add the Phoenix Connector for Microsoft365. See [connectors](../../../quick-start.md#connectors)
    for more info on managing connectors.
 
 ```poweshell
-PS > .\sequence.exe connector add Sequence.Connectors.Microsoft365
+PS > .\Phoenix.exe connector add Phoenix.Connectors.Microsoft365
 ```
 
 3. Add the required Microsoft365 configuration to `./lib/connectors.json`.

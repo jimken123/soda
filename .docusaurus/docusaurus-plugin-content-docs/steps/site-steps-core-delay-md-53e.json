@@ -2,13 +2,13 @@
   "unversionedId": "Core/Delay",
   "id": "Core/Delay",
   "title": "Delay Step | Core SDK Documentation",
-  "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/Delay.md",
   "sourceDirName": "Core",
   "slug": "/Core/Delay",
   "permalink": "/steps/next/Core/Delay",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/Delay.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/Delay.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Delay Step | Core SDK Documentation",
     "sidebar_label": "Delay",
-    "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Delay for a specified amount of time. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

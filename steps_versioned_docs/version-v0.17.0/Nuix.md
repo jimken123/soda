@@ -1,7 +1,7 @@
 ---
 title: All Steps | Nuix Connector Documentation
 sidebar_label: Nuix
-description: List of all steps for Nuix Connector. Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.
+description: List of all steps for Nuix Connector. Phoenix connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.
 tags: [Contents, Nuix]
 hide_title: true
 hide_table_of_contents: true

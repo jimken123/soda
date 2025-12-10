@@ -2,19 +2,19 @@
   "unversionedId": "logging",
   "id": "logging",
   "title": "Logging Configuration",
-  "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Sequence. Documentation and examples including structured logging, scopes, and NLog targets.",
+  "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Phoenix. Documentation and examples including structured logging, scopes, and NLog targets.",
   "source": "@site/docs/logging.md",
   "sourceDirName": ".",
   "slug": "/logging",
   "permalink": "/docs/next/logging",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/logging.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/logging.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Logging Configuration",
     "sidebar_label": "Logging",
-    "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Sequence. Documentation and examples including structured logging, scopes, and NLog targets."
+    "description": "Create defensible forensic and e-discovery automation workflows with robust logging using Phoenix. Documentation and examples including structured logging, scopes, and NLog targets."
   },
   "sidebar": "docs",
   "previous": {

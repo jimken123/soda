@@ -1,7 +1,7 @@
 ---
 title: GreaterThan Step | Core SDK Documentation
 sidebar_label: GreaterThan
-description: Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Returns true if each term is less than the next term. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

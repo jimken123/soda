@@ -1,18 +1,18 @@
 {
   "unversionedId": "examples/connectors/relativity/relativity-import-entities",
   "id": "examples/connectors/relativity/relativity-import-entities",
-  "title": "Import Entities | Sequence Connector for Relativity Examples",
+  "title": "Import Entities | Phoenix Connector for Relativity Examples",
   "description": "This example will import entities into a Relativity Workspace.",
   "source": "@site/docs/examples/connectors/relativity/relativity-import-entities.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/relativity-import-entities",
   "permalink": "/docs/next/examples/connectors/relativity/relativity-import-entities",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/relativity/relativity-import-entities.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/relativity/relativity-import-entities.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Import Entities | Sequence Connector for Relativity Examples",
+    "title": "Import Entities | Phoenix Connector for Relativity Examples",
     "sidebar_label": "Import Entities"
   },
   "sidebar": "docs",

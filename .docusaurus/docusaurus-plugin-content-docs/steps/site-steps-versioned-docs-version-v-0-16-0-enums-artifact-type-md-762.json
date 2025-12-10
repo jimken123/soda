@@ -2,13 +2,13 @@
   "unversionedId": "Enums/ArtifactType",
   "id": "version-v0.16.0/Enums/ArtifactType",
   "title": "ArtifactType | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Enums/ArtifactType.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/ArtifactType",
   "permalink": "/steps/v0.16.0/Enums/ArtifactType",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Enums/ArtifactType.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Enums/ArtifactType.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ArtifactType | Enums",
     "sidebar_label": "ArtifactType",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

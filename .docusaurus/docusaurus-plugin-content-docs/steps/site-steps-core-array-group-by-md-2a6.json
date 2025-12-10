@@ -2,13 +2,13 @@
   "unversionedId": "Core/ArrayGroupBy",
   "id": "Core/ArrayGroupBy",
   "title": "ArrayGroupBy Step | Core SDK Documentation",
-  "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/ArrayGroupBy.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayGroupBy",
   "permalink": "/steps/next/Core/ArrayGroupBy",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/ArrayGroupBy.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/ArrayGroupBy.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ArrayGroupBy Step | Core SDK Documentation",
     "sidebar_label": "ArrayGroupBy",
-    "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Group elements in an array or entities in a stream using a function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

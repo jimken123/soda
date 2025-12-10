@@ -38,8 +38,8 @@ export default function Playground(): JSX.Element {
 
   return (
     <Layout
-      title="Sequence Configuration Language Playground"
-      description="Try out Sequence, SCL, the file system and structured data connectors in your browser!"
+      title="Phoenix Configuration Language Playground"
+      description="Try out Phoenix, SCL, the file system and structured data connectors in your browser!"
     >
       {accepted ? (
         <PlaygroundFrame />
@@ -48,7 +48,7 @@ export default function Playground(): JSX.Element {
           <div className={clsx('row', styles.bannerRow)}>
             <div className={clsx('card', 'padding--lg', styles.banner)}>
               <div className={clsx('card__header', 'padding-top--none', styles.header)}>
-                <h1>Sequence Configuration Language Playground</h1>
+                <h1>Phoenix Configuration Language Playground</h1>
               </div>
 
               <div className="card__body margin-top--md margin-bottom--sm">
@@ -60,7 +60,7 @@ export default function Playground(): JSX.Element {
                     <Link to="/docs/connectors/structureddata">Structured Data</Link> and{' '}
                     <Link to="/docs/connectors/filesystem">File System</Link> connectors are
                     available. It is not the same as <Link to="/download">downloading</Link>{' '}
-                    Sequence.
+                    Phoenix.
                   </h4>
                   <h4>
                     Once the{' '}
@@ -71,18 +71,18 @@ export default function Playground(): JSX.Element {
                     >
                       Blazor WASM
                     </a>{' '}
-                    runtime and the Sequence components download (~100MB), everything runs in your
+                    runtime and the Phoenix components download (~100MB), everything runs in your
                     browser. The browser cache is used for file and settings storage. No data leaves
                     your computer.
                   </h4>
                   <h4>
                     Open tabs do not persist when navigating away from this page or when changing
                     between dark and light modes. There is an option to save tabs and saved files
-                    persist as long as the browser cache for the Sequence website does.
+                    persist as long as the browser cache for the Phoenix website does.
                   </h4>
                   <h4>
                     For more information please have a look at the{' '}
-                    <a href="https://gitlab.com/sequence/scl-editor" target="_blank" rel="noopener">
+                    <a href="https://gitlab.com/Phoenix/scl-editor" target="_blank" rel="noopener">
                       scl-editor
                     </a>{' '}
                     project.

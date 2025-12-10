@@ -1,7 +1,7 @@
 ---
 title: NuixReorderProductionSet Step | Nuix Connector Documentation
 sidebar_label: NuixReorderProductionSet
-description: Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Reorders and renumbers the items in a production set.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

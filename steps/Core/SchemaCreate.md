@@ -1,7 +1,7 @@
 ---
 title: SchemaCreate Step | Core SDK Documentation
 sidebar_label: SchemaCreate
-description: Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

@@ -1,7 +1,7 @@
 ---
 title: ConvertSizeUnits Step | Core SDK Documentation
 sidebar_label: ConvertSizeUnits
-description: Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Convert a string representing a data size to  a string representing the same size but with different units.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

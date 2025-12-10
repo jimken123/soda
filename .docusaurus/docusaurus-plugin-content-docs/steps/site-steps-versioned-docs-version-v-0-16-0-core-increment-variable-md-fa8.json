@@ -2,13 +2,13 @@
   "unversionedId": "Core/IncrementVariable",
   "id": "version-v0.16.0/Core/IncrementVariable",
   "title": "IncrementVariable Step | Core SDK Documentation",
-  "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/IncrementVariable.md",
   "sourceDirName": "Core",
   "slug": "/Core/IncrementVariable",
   "permalink": "/steps/v0.16.0/Core/IncrementVariable",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/IncrementVariable.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/IncrementVariable.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "IncrementVariable Step | Core SDK Documentation",
     "sidebar_label": "IncrementVariable",
-    "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Increment an integer variable by a particular amount. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

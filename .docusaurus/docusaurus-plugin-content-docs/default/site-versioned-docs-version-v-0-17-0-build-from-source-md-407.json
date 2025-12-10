@@ -1,20 +1,20 @@
 {
   "unversionedId": "build-from-source",
   "id": "version-v0.17.0/build-from-source",
-  "title": "Build Sequence from Source",
-  "description": "Instructions for building releases from source using .NET 6. Sequence is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
+  "title": "Build Phoenix from Source",
+  "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery.",
   "source": "@site/versioned_docs/version-v0.17.0/build-from-source.md",
   "sourceDirName": ".",
   "slug": "/build-from-source",
   "permalink": "/docs/v0.17.0/build-from-source",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/build-from-source.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/build-from-source.md",
   "tags": [],
   "version": "v0.17.0",
   "frontMatter": {
-    "title": "Build Sequence from Source",
+    "title": "Build Phoenix from Source",
     "sidebar_label": "Build from Source",
-    "description": "Instructions for building releases from source using .NET 6. Sequence is a flexible and powerful open-source automation toolkit for forensics and ediscovery."
+    "description": "Instructions for building releases from source using .NET 6. Phoenix is a flexible and powerful open-source automation toolkit for forensics and ediscovery."
   },
   "sidebar": "docs",
   "previous": {

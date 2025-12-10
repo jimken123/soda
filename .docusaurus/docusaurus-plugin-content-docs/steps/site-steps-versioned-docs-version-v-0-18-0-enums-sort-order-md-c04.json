@@ -2,13 +2,13 @@
   "unversionedId": "Enums/SortOrder",
   "id": "version-v0.18.0/Enums/SortOrder",
   "title": "SortOrder | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Enums/SortOrder.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/SortOrder",
   "permalink": "/steps/Enums/SortOrder",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/SortOrder.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Enums/SortOrder.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "SortOrder | Enums",
     "sidebar_label": "SortOrder",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

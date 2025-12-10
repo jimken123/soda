@@ -7,151 +7,151 @@
     {
       "id": "Enums/ArtifactType",
       "title": "ArtifactType | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/ArtifactType"
     },
     {
       "id": "Enums/AutopsyCaseType",
       "title": "AutopsyCaseType | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/AutopsyCaseType"
     },
     {
       "id": "Enums/DeduplicateBy",
       "title": "DeduplicateBy | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/DeduplicateBy"
     },
     {
       "id": "Enums/EncodingEnum",
       "title": "EncodingEnum | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/EncodingEnum"
     },
     {
       "id": "Enums/ErrorBehavior",
       "title": "ErrorBehavior | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/ErrorBehavior"
     },
     {
       "id": "Enums/ExportDeduplication",
       "title": "ExportDeduplication | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/ExportDeduplication"
     },
     {
       "id": "Enums/ExportSortOrder",
       "title": "ExportSortOrder | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/ExportSortOrder"
     },
     {
       "id": "Enums/ExportTraversalStrategy",
       "title": "ExportTraversalStrategy | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/ExportTraversalStrategy"
     },
     {
       "id": "Enums/FileImportType",
       "title": "FileImportType | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/FileImportType"
     },
     {
       "id": "Enums/HashAlgorithm",
       "title": "HashAlgorithm | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/HashAlgorithm"
     },
     {
       "id": "Enums/ImageFormat",
       "title": "ImageFormat | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/ImageFormat"
     },
     {
       "id": "Enums/ItemSetDeduplication",
       "title": "ItemSetDeduplication | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/ItemSetDeduplication"
     },
     {
       "id": "Enums/ItemSortOrder",
       "title": "ItemSortOrder | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/ItemSortOrder"
     },
     {
       "id": "Enums/LoadFileType",
       "title": "LoadFileType | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/LoadFileType"
     },
     {
       "id": "Enums/MatterStatus",
       "title": "MatterStatus | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/MatterStatus"
     },
     {
       "id": "Enums/PrintPreviewState",
       "title": "PrintPreviewState | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/PrintPreviewState"
     },
     {
       "id": "Enums/SearchScope",
       "title": "SearchScope | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/SearchScope"
     },
     {
       "id": "Enums/SearchType",
       "title": "SearchType | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/SearchType"
     },
     {
       "id": "Enums/Severity",
       "title": "Severity | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/Severity"
     },
     {
       "id": "Enums/SizeUnit",
       "title": "SizeUnit | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/SizeUnit"
     },
     {
       "id": "Enums/SortEnum",
       "title": "SortEnum | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/SortEnum"
     },
     {
       "id": "Enums/SortOrder",
       "title": "SortOrder | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/SortOrder"
     },
     {
       "id": "Enums/TextCase",
       "title": "TextCase | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/TextCase"
     },
     {
       "id": "Enums/TrimSide",
       "title": "TrimSide | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/TrimSide"
     },
     {
       "id": "Enums/UpdateBehaviour",
       "title": "UpdateBehaviour | Enums",
-      "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/next/Enums/UpdateBehaviour"
     }
   ]

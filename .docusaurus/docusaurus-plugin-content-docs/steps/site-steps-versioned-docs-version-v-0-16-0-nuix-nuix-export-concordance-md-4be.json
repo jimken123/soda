@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixExportConcordance",
   "id": "version-v0.16.0/Nuix/NuixExportConcordance",
   "title": "NuixExportConcordance Step | Nuix Connector Documentation",
-  "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixExportConcordance.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixExportConcordance",
   "permalink": "/steps/v0.16.0/Nuix/NuixExportConcordance",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixExportConcordance.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixExportConcordance.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixExportConcordance Step | Nuix Connector Documentation",
     "sidebar_label": "NuixExportConcordance",
-    "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

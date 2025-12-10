@@ -1,14 +1,14 @@
 ---
 title: Core SDK
 sidebar_label: Core
-description: Easily automate e-discovery and forensic workflows. Core is the Sequence Configuration Language interpereter and an SDK for building connectors.
+description: Easily automate e-discovery and forensic workflows. Core is the Phoenix Configuration Language interpereter and an SDK for building connectors.
 ---
 
 # Core
 
 The `Core SDK` is:
 
-- An interpreter for the [Sequence Configuration Language](../sequence-configuration-language.md)
+- An interpreter for the [Phoenix Configuration Language](../sequence-configuration-language.md)
 - A collection of [application-independent Steps](/steps/Core) that:
   - Can be used to import/export data and structure workflows
   - Manipulate strings, e.g. Append, Concatenate, ChangeCase
@@ -24,4 +24,4 @@ then try some of the [Examples](../examples/core.md).
 
 [Core SCL examples available here](../examples/core.md).
 
-Source code available on [GitLab](https://gitlab.com/sequence/core).
+Source code available on [GitLab](https://gitlab.com/Phoenix/core).

@@ -51,7 +51,7 @@
 - CreateDirectory <ReportsFolder>
 
 # If exists, open existing, or create and open a new case
-# This will keep the connection open for the rest of the Sequence
+# This will keep the connection open for the rest of the Phoenix
 - If (NuixDoesCaseExist <CasePath>)
     Then: (NuixOpenCase <CasePath>)
     Else: (
@@ -70,7 +70,7 @@
       Custodian: <>['Custodian']
       Paths: <>['Paths']
       Container: <>['Container']
-      CustomMetadata: (SequenceVersion: <Version>)
+      CustomMetadata: (PhoenixVersion: <Version>)
   )
 
 # Run exclusion searches and tag items

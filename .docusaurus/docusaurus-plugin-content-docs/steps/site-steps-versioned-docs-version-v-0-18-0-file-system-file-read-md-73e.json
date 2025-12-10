@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/FileRead",
   "id": "version-v0.18.0/FileSystem/FileRead",
   "title": "FileRead Step | File System Connector Documentation",
-  "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/FileSystem/FileRead.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/FileRead",
   "permalink": "/steps/FileSystem/FileRead",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/FileRead.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/FileRead.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FileRead Step | File System Connector Documentation",
     "sidebar_label": "FileRead",
-    "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Reads text from a file.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

@@ -1,7 +1,7 @@
 ---
 title: StringToBool Step | Core SDK Documentation
 sidebar_label: StringToBool
-description: Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Converts a string to a boolean. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

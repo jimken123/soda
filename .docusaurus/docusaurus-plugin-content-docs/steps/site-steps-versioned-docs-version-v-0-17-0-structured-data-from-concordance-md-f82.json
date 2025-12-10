@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/FromConcordance",
   "id": "version-v0.17.0/StructuredData/FromConcordance",
   "title": "FromConcordance Step | Structured Data Connector Documentation",
-  "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/StructuredData/FromConcordance.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromConcordance",
   "permalink": "/steps/v0.17.0/StructuredData/FromConcordance",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/StructuredData/FromConcordance.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/StructuredData/FromConcordance.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromConcordance Step | Structured Data Connector Documentation",
     "sidebar_label": "FromConcordance",
-    "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extracts entities from a Concordance stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

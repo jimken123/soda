@@ -2,13 +2,13 @@
   "unversionedId": "Core/While",
   "id": "version-v0.16.0/Core/While",
   "title": "While Step | Core SDK Documentation",
-  "description": "Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/While.md",
   "sourceDirName": "Core",
   "slug": "/Core/While",
   "permalink": "/steps/v0.16.0/Core/While",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/While.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/While.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "While Step | Core SDK Documentation",
     "sidebar_label": "While",
-    "description": "Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Repeat an action while the condition is met.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

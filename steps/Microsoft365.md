@@ -1,7 +1,7 @@
 ---
 title: All Steps | Microsoft 365 Connector Documentation
 sidebar_label: Microsoft365
-description: List of all steps for Microsoft 365 Connector. Sequence connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.
+description: List of all steps for Microsoft 365 Connector. Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.
 tags: [Contents, Microsoft365]
 hide_title: true
 hide_table_of_contents: true

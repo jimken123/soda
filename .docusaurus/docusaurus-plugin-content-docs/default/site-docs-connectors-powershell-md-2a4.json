@@ -2,17 +2,17 @@
   "unversionedId": "connectors/powershell",
   "id": "connectors/powershell",
   "title": "PowerShell Connector",
-  "description": "Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+  "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
   "source": "@site/docs/connectors/powershell.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/powershell",
   "permalink": "/docs/next/connectors/powershell",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/connectors/powershell.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/connectors/powershell.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "description": "Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows."
+    "description": "Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "previous": {

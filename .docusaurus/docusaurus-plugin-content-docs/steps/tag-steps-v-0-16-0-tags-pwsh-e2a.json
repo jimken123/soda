@@ -7,19 +7,19 @@
     {
       "id": "version-v0.16.0/Pwsh",
       "title": "All Steps | PowerShell Connector Documentation",
-      "description": "List of all steps for PowerShell Connector. Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
+      "description": "List of all steps for PowerShell Connector. Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.",
       "permalink": "/steps/v0.16.0/Pwsh"
     },
     {
       "id": "version-v0.16.0/Pwsh/PwshRunScript",
       "title": "PwshRunScript Step | PowerShell Connector Documentation",
-      "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Executes a powershell script.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.16.0/Pwsh/PwshRunScript"
     },
     {
       "id": "version-v0.16.0/Pwsh/PwshRunScriptAsync",
       "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
-      "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.16.0/Pwsh/PwshRunScriptAsync"
     }
   ]

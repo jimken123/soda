@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/ToCSV",
   "id": "version-v0.16.0/StructuredData/ToCSV",
   "title": "ToCSV Step | Structured Data Connector Documentation",
-  "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/StructuredData/ToCSV.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/ToCSV",
   "permalink": "/steps/v0.16.0/StructuredData/ToCSV",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/StructuredData/ToCSV.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/StructuredData/ToCSV.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ToCSV Step | Structured Data Connector Documentation",
     "sidebar_label": "ToCSV",
-    "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Write entities to a stream in CSV format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

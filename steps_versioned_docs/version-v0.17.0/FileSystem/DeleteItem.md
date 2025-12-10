@@ -1,7 +1,7 @@
 ---
 title: DeleteItem Step | File System Connector Documentation
 sidebar_label: DeleteItem
-description: Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Deletes a file or folder from the file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, FileSystem]
 hide_title: true
 hide_table_of_contents: true

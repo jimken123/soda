@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityCreateKeywordSearch",
   "id": "version-v0.16.0/Relativity/RelativityCreateKeywordSearch",
-  "title": "RelativityCreateKeywordSearch Step | Sequence Connector for Relativity Documentation",
-  "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityCreateKeywordSearch Step | Phoenix Connector for Relativity Documentation",
+  "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Relativity/RelativityCreateKeywordSearch.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityCreateKeywordSearch",
   "permalink": "/steps/v0.16.0/Relativity/RelativityCreateKeywordSearch",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityCreateKeywordSearch.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Relativity/RelativityCreateKeywordSearch.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.16.0",
   "frontMatter": {
-    "title": "RelativityCreateKeywordSearch Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityCreateKeywordSearch Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityCreateKeywordSearch",
-    "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates a keyword search. Returns the artifact id of the created search.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

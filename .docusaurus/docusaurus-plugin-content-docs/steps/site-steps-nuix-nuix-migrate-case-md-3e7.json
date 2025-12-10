@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixMigrateCase",
   "id": "Nuix/NuixMigrateCase",
   "title": "NuixMigrateCase Step | Nuix Connector Documentation",
-  "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Nuix/NuixMigrateCase.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixMigrateCase",
   "permalink": "/steps/next/Nuix/NuixMigrateCase",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixMigrateCase.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixMigrateCase.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixMigrateCase Step | Nuix Connector Documentation",
     "sidebar_label": "NuixMigrateCase",
-    "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Migrates a case to the latest version if necessary.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

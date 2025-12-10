@@ -2,13 +2,13 @@
   "unversionedId": "Pwsh/PwshRunScriptAsync",
   "id": "Pwsh/PwshRunScriptAsync",
   "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
-  "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Pwsh/PwshRunScriptAsync.md",
   "sourceDirName": "Pwsh",
   "slug": "/Pwsh/PwshRunScriptAsync",
   "permalink": "/steps/next/Pwsh/PwshRunScriptAsync",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Pwsh/PwshRunScriptAsync.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Pwsh/PwshRunScriptAsync.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "PwshRunScriptAsync Step | PowerShell Connector Documentation",
     "sidebar_label": "PwshRunScriptAsync",
-    "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Executes a powershell script and returns any results written to the pipeline. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Pwsh"

@@ -21,7 +21,7 @@ January, 01 2000    06:53:45    +05:30    India
 01/01/2000    06:53:45    +05:30    Sri Lanka
 ```
 
-You can use a sequence with a `Transform` step to output the data with the dates all in one field.
+You can use a Phoenix with a `Transform` step to output the data with the dates all in one field.
 
 ```scl
 - <schema> = (
@@ -39,7 +39,7 @@ You can use a sequence with a `Transform` step to output the data with the dates
 | ToCSV DateTimeFormat: 'hh:mm:ss yyyy-MM-dd'
 ```
 
-This sequence does three main things
+This Phoenix does three main things
 
 - It uses `ArrayMap` to set the TimeZone field to the concatenation of the original three Time, Date, and TimeZone fields
 

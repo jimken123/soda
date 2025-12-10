@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixAddItem",
   "id": "version-v0.17.0/Nuix/NuixAddItem",
   "title": "NuixAddItem Step | Nuix Connector Documentation",
-  "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddItem.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixAddItem",
   "permalink": "/steps/v0.17.0/Nuix/NuixAddItem",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddItem.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixAddItem.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixAddItem Step | Nuix Connector Documentation",
     "sidebar_label": "NuixAddItem",
-    "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Adds a file or directory to a Nuix Case.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

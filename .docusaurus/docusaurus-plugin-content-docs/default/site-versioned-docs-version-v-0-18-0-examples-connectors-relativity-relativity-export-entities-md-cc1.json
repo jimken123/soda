@@ -1,18 +1,18 @@
 {
   "unversionedId": "examples/connectors/relativity/relativity-export-entities",
   "id": "version-v0.18.0/examples/connectors/relativity/relativity-export-entities",
-  "title": "Export Entities | Sequence Connector for Relativity Examples",
+  "title": "Export Entities | Phoenix Connector for Relativity Examples",
   "description": "This example will export entities from a Relativity Workspace and write them to a .csv file",
   "source": "@site/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-export-entities.md",
   "sourceDirName": "examples/connectors/relativity",
   "slug": "/examples/connectors/relativity/relativity-export-entities",
   "permalink": "/docs/examples/connectors/relativity/relativity-export-entities",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-export-entities.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/examples/connectors/relativity/relativity-export-entities.md",
   "tags": [],
   "version": "v0.18.0",
   "frontMatter": {
-    "title": "Export Entities | Sequence Connector for Relativity Examples",
+    "title": "Export Entities | Phoenix Connector for Relativity Examples",
     "sidebar_label": "Export Entities"
   },
   "sidebar": "docs",

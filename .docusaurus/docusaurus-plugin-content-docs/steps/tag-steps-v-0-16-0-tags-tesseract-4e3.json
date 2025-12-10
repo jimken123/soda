@@ -7,19 +7,19 @@
     {
       "id": "version-v0.16.0/Tesseract",
       "title": "All Steps | Tesseract OCR Connector Documentation",
-      "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.",
+      "description": "List of all steps for Tesseract OCR Connector. Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.",
       "permalink": "/steps/v0.16.0/Tesseract"
     },
     {
       "id": "version-v0.16.0/Tesseract/GetImageFormat",
       "title": "GetImageFormat Step | Tesseract OCR Connector Documentation",
-      "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.16.0/Tesseract/GetImageFormat"
     },
     {
       "id": "version-v0.16.0/Tesseract/TesseractOCR",
       "title": "TesseractOCR Step | Tesseract OCR Connector Documentation",
-      "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+      "description": "Returns true if the file in the specified path exists, false otherwise. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
       "permalink": "/steps/v0.16.0/Tesseract/TesseractOCR"
     }
   ]

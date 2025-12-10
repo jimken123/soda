@@ -1,7 +1,7 @@
 ---
 title: EntityHasProperty Step | Core SDK Documentation
 sidebar_label: EntityHasProperty
-description: Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

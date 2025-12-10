@@ -2,13 +2,13 @@
   "unversionedId": "Core/ArraySkip",
   "id": "version-v0.16.0/Core/ArraySkip",
   "title": "ArraySkip Step | Core SDK Documentation",
-  "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/ArraySkip.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArraySkip",
   "permalink": "/steps/v0.16.0/Core/ArraySkip",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ArraySkip.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ArraySkip.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ArraySkip Step | Core SDK Documentation",
     "sidebar_label": "ArraySkip",
-    "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Skip the first n elements of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

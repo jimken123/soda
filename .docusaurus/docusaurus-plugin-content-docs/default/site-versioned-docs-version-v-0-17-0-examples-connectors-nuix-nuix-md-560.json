@@ -2,20 +2,20 @@
   "unversionedId": "examples/connectors/nuix/nuix",
   "id": "version-v0.17.0/examples/connectors/nuix/nuix",
   "title": "Nuix Connector Examples",
-  "description": "Learn how to configure and use the Sequence Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.",
+  "description": "Learn how to configure and use the Phoenix Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting.",
   "source": "@site/versioned_docs/version-v0.17.0/examples/connectors/nuix/nuix.md",
   "sourceDirName": "examples/connectors/nuix",
   "slug": "/examples/connectors/nuix/",
   "permalink": "/docs/v0.17.0/examples/connectors/nuix/",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/nuix/nuix.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/connectors/nuix/nuix.md",
   "tags": [],
   "version": "v0.17.0",
   "sidebarPosition": 0,
   "frontMatter": {
     "sidebar_label": "Nuix Connector",
     "sidebar_position": 0,
-    "description": "Learn how to configure and use the Sequence Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting."
+    "description": "Learn how to configure and use the Phoenix Nuix connector to automate forensic workflows, including creating cases, ingesting data, search and exclude, and exporting."
   },
   "sidebar": "docs",
   "previous": {

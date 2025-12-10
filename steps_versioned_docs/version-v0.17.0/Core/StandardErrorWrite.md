@@ -1,7 +1,7 @@
 ---
 title: StandardErrorWrite Step | Core SDK Documentation
 sidebar_label: StandardErrorWrite
-description: Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Writes to the console standard error. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

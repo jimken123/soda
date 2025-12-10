@@ -2,13 +2,13 @@
   "unversionedId": "Tesseract/GetImageFormat",
   "id": "version-v0.16.0/Tesseract/GetImageFormat",
   "title": "GetImageFormat Step | Tesseract OCR Connector Documentation",
-  "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Tesseract/GetImageFormat.md",
   "sourceDirName": "Tesseract",
   "slug": "/Tesseract/GetImageFormat",
   "permalink": "/steps/v0.16.0/Tesseract/GetImageFormat",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Tesseract/GetImageFormat.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Tesseract/GetImageFormat.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "GetImageFormat Step | Tesseract OCR Connector Documentation",
     "sidebar_label": "GetImageFormat",
-    "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets the image format implied by the file extension of the file name. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Tesseract"

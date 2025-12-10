@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixCreateReport",
   "id": "version-v0.16.0/Nuix/NuixCreateReport",
   "title": "NuixCreateReport Step | Nuix Connector Documentation",
-  "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Nuix/NuixCreateReport.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixCreateReport",
   "permalink": "/steps/v0.16.0/Nuix/NuixCreateReport",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixCreateReport.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Nuix/NuixCreateReport.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixCreateReport Step | Nuix Connector Documentation",
     "sidebar_label": "NuixCreateReport",
-    "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Creates a report for a Nuix case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

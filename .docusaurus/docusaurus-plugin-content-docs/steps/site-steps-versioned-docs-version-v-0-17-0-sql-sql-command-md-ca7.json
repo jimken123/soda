@@ -2,13 +2,13 @@
   "unversionedId": "Sql/SqlCommand",
   "id": "version-v0.17.0/Sql/SqlCommand",
   "title": "SqlCommand Step | SQL Database Connector Documentation",
-  "description": "Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Sql/SqlCommand.md",
   "sourceDirName": "Sql",
   "slug": "/Sql/SqlCommand",
   "permalink": "/steps/v0.17.0/Sql/SqlCommand",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Sql/SqlCommand.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Sql/SqlCommand.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "SqlCommand Step | SQL Database Connector Documentation",
     "sidebar_label": "SqlCommand",
-    "description": "Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Executes a Sql command. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Sql"

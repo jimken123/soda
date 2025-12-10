@@ -2,20 +2,20 @@
   "unversionedId": "examples/connectors/tsk/tsk",
   "id": "examples/connectors/tsk/tsk",
   "title": "The Sleuth Kit® Connector Examples",
-  "description": "Examples of how to use Sequence to include Autopsy / TSK in automated forensic and ediscovery workflows.",
+  "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows.",
   "source": "@site/docs/examples/connectors/tsk/tsk.md",
   "sourceDirName": "examples/connectors/tsk",
   "slug": "/examples/connectors/tsk/",
   "permalink": "/docs/next/examples/connectors/tsk/",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/tsk/tsk.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/tsk/tsk.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {
     "sidebar_label": "The Sleuth Kit Connector",
     "sidebar_position": 0,
-    "description": "Examples of how to use Sequence to include Autopsy / TSK in automated forensic and ediscovery workflows."
+    "description": "Examples of how to use Phoenix to include Autopsy / TSK in automated forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "previous": {

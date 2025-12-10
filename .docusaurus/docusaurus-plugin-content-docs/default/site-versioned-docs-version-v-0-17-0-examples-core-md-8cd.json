@@ -1,18 +1,18 @@
 {
   "unversionedId": "examples/core",
   "id": "version-v0.17.0/examples/core",
-  "title": "Sequence Configuration Language Examples",
+  "title": "Phoenix Configuration Language Examples",
   "description": "Setup",
   "source": "@site/versioned_docs/version-v0.17.0/examples/core.md",
   "sourceDirName": "examples",
   "slug": "/examples/core",
   "permalink": "/docs/v0.17.0/examples/core",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/examples/core.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/examples/core.md",
   "tags": [],
   "version": "v0.17.0",
   "frontMatter": {
-    "title": "Sequence Configuration Language Examples",
+    "title": "Phoenix Configuration Language Examples",
     "sidebar_label": "SCL / Core"
   },
   "sidebar": "docs",

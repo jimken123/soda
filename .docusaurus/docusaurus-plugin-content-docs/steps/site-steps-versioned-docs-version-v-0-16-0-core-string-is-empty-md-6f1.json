@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringIsEmpty",
   "id": "version-v0.16.0/Core/StringIsEmpty",
   "title": "StringIsEmpty Step | Core SDK Documentation",
-  "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringIsEmpty.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringIsEmpty",
   "permalink": "/steps/v0.16.0/Core/StringIsEmpty",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringIsEmpty.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringIsEmpty.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringIsEmpty Step | Core SDK Documentation",
     "sidebar_label": "StringIsEmpty",
-    "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns whether a string is empty.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

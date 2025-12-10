@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/DirectoryCopy",
   "id": "version-v0.16.0/FileSystem/DirectoryCopy",
   "title": "DirectoryCopy Step | File System Connector Documentation",
-  "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/FileSystem/DirectoryCopy.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/DirectoryCopy",
   "permalink": "/steps/v0.16.0/FileSystem/DirectoryCopy",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/FileSystem/DirectoryCopy.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/FileSystem/DirectoryCopy.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "DirectoryCopy Step | File System Connector Documentation",
     "sidebar_label": "DirectoryCopy",
-    "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Copy a directory. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

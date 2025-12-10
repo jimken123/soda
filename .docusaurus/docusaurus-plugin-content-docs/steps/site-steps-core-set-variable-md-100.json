@@ -2,13 +2,13 @@
   "unversionedId": "Core/SetVariable",
   "id": "Core/SetVariable",
   "title": "SetVariable Step | Core SDK Documentation",
-  "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/SetVariable.md",
   "sourceDirName": "Core",
   "slug": "/Core/SetVariable",
   "permalink": "/steps/next/Core/SetVariable",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/SetVariable.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/SetVariable.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "SetVariable Step | Core SDK Documentation",
     "sidebar_label": "SetVariable",
-    "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Sets the value of a named variable.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"
@@ -33,7 +33,7 @@
   },
   "sidebar": "steps",
   "previous": {
-    "title": "Sequence",
+    "title": "Phoenix",
     "permalink": "/steps/next/Core/Sequence"
   },
   "next": {

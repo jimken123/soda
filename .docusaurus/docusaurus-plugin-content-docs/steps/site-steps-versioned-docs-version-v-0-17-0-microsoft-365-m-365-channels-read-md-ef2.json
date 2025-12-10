@@ -2,13 +2,13 @@
   "unversionedId": "Microsoft365/M365ChannelsRead",
   "id": "version-v0.17.0/Microsoft365/M365ChannelsRead",
   "title": "M365ChannelsRead Step | Microsoft365 Connector Documentation",
-  "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Microsoft365/M365ChannelsRead.md",
   "sourceDirName": "Microsoft365",
   "slug": "/Microsoft365/M365ChannelsRead",
   "permalink": "/steps/v0.17.0/Microsoft365/M365ChannelsRead",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Microsoft365/M365ChannelsRead.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Microsoft365/M365ChannelsRead.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "M365ChannelsRead Step | Microsoft365 Connector Documentation",
     "sidebar_label": "M365ChannelsRead",
-    "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Reads M365 Channels. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Microsoft365"

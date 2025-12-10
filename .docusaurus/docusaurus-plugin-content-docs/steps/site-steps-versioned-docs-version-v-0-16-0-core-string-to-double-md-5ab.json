@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringToDouble",
   "id": "version-v0.16.0/Core/StringToDouble",
   "title": "StringToDouble Step | Core SDK Documentation",
-  "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/StringToDouble.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringToDouble",
   "permalink": "/steps/v0.16.0/Core/StringToDouble",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringToDouble.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/StringToDouble.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringToDouble Step | Core SDK Documentation",
     "sidebar_label": "StringToDouble",
-    "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Converts a string to a double. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

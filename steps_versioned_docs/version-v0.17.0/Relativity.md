@@ -1,7 +1,7 @@
 ---
-title: All Steps | Sequence Connector for Relativity Documentation
+title: All Steps | Phoenix Connector for Relativity Documentation
 sidebar_label: Relativity
-description: List of all steps for Sequence Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.
+description: List of all steps for Phoenix Connector for Relativity. Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.
 tags: [Contents, Relativity]
 hide_title: true
 hide_table_of_contents: true

@@ -2,17 +2,17 @@
   "unversionedId": "connectors/sql",
   "id": "version-v0.18.0/connectors/sql",
   "title": "SQL Connector",
-  "description": "Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
+  "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.",
   "source": "@site/versioned_docs/version-v0.18.0/connectors/sql.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/sql",
   "permalink": "/docs/connectors/sql",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.18.0/connectors/sql.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.18.0/connectors/sql.md",
   "tags": [],
   "version": "v0.18.0",
   "frontMatter": {
-    "description": "Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
+    "description": "Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite."
   },
   "sidebar": "docs",
   "previous": {

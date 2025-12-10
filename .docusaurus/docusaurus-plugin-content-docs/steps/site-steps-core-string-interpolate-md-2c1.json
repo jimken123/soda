@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringInterpolate",
   "id": "Core/StringInterpolate",
   "title": "StringInterpolate Step | Core SDK Documentation",
-  "description": "Joins strings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Joins strings. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/StringInterpolate.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringInterpolate",
   "permalink": "/steps/next/Core/StringInterpolate",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringInterpolate.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringInterpolate.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringInterpolate Step | Core SDK Documentation",
     "sidebar_label": "StringInterpolate",
-    "description": "Joins strings. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Joins strings. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -1,4 +1,4 @@
-# Sequence Configuration Language Grammar Test
+# Phoenix Configuration Language Grammar Test
 
 Dev Page to Test SCL Grammar Parsing in SCL.
 

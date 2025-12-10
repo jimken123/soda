@@ -2,20 +2,20 @@
   "unversionedId": "examples/connectors/powershell/powershell",
   "id": "examples/connectors/powershell/powershell",
   "title": "PowerShell Connector Examples",
-  "description": "Learn how to further customise Sequence by including powershell scripts in your automated forensic and ediscovery workflows.",
+  "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows.",
   "source": "@site/docs/examples/connectors/powershell/powershell.md",
   "sourceDirName": "examples/connectors/powershell",
   "slug": "/examples/connectors/powershell/",
   "permalink": "/docs/next/examples/connectors/powershell/",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/docs/examples/connectors/powershell/powershell.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/docs/examples/connectors/powershell/powershell.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {
     "sidebar_label": "PowerShell Connector",
     "sidebar_position": 0,
-    "description": "Learn how to further customise Sequence by including powershell scripts in your automated forensic and ediscovery workflows."
+    "description": "Learn how to further customise Phoenix by including powershell scripts in your automated forensic and ediscovery workflows."
   },
   "sidebar": "docs",
   "previous": {

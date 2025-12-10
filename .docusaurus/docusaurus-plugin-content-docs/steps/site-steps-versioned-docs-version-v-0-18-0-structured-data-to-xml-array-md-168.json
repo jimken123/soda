@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/ToXmlArray",
   "id": "version-v0.18.0/StructuredData/ToXmlArray",
   "title": "ToXmlArray Step | Structured Data Connector Documentation",
-  "description": "Write entities to a stream in Xml format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Write entities to a stream in Xml format.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData/ToXmlArray.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/ToXmlArray",
   "permalink": "/steps/StructuredData/ToXmlArray",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/ToXmlArray.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/ToXmlArray.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ToXmlArray Step | Structured Data Connector Documentation",
     "sidebar_label": "ToXmlArray",
-    "description": "Write entities to a stream in Xml format.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Write entities to a stream in Xml format.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

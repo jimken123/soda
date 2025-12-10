@@ -2,13 +2,13 @@
   "unversionedId": "StructuredData/FromIDX",
   "id": "version-v0.18.0/StructuredData/FromIDX",
   "title": "FromIDX Step | Structured Data Connector Documentation",
-  "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/StructuredData/FromIDX.md",
   "sourceDirName": "StructuredData",
   "slug": "/StructuredData/FromIDX",
   "permalink": "/steps/StructuredData/FromIDX",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/FromIDX.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/StructuredData/FromIDX.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromIDX Step | Structured Data Connector Documentation",
     "sidebar_label": "FromIDX",
-    "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Create an entity from an IDX Stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "StructuredData"

@@ -2,13 +2,13 @@
   "unversionedId": "Core/EntityCombine",
   "id": "Core/EntityCombine",
   "title": "EntityCombine Step | Core SDK Documentation",
-  "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/EntityCombine.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityCombine",
   "permalink": "/steps/next/Core/EntityCombine",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntityCombine.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/EntityCombine.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "EntityCombine Step | Core SDK Documentation",
     "sidebar_label": "EntityCombine",
-    "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Combine two entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

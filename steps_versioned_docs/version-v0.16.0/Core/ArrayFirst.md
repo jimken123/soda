@@ -1,7 +1,7 @@
 ---
 title: ArrayFirst Step | Core SDK Documentation
 sidebar_label: ArrayFirst
-description: Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Gets the first element of an array or entity stream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

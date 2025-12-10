@@ -1,7 +1,7 @@
 ---
 title: NuixCreateCase Step | Nuix Connector Documentation
 sidebar_label: NuixCreateCase
-description: Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Creates a new case and opens it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

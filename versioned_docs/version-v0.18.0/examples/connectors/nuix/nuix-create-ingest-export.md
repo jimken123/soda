@@ -24,7 +24,7 @@ This example will:
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Nuix Connector.](nuix.md)
+[Instructions on how to install and setup Phoenix and the Nuix Connector.](nuix.md)
 
 To download and setup the data for this example, use the SCL from
 [this example](nuix-download-sample-data.md). Manual steps:
@@ -32,7 +32,7 @@ To download and setup the data for this example, use the SCL from
 1. Download the [EDRM Micro Dataset](https://edrm.net/resources/data-sets/edrm-micro-datasets/)
    and extract to the `./data` directory.
 2. To test encrypted file export, a PDF is available
-   [here](https://gitlab.com/sequence/connectors/nuix/-/blob/main/Nuix.Tests/AllData/encrypted.pdf).
+   [here](https://gitlab.com/Phoenix/connectors/nuix/-/blob/main/Nuix.Tests/AllData/encrypted.pdf).
    Once downloaded, place it into `./data/EDRM specific data`
 
 ## SCL
@@ -42,7 +42,7 @@ Download the SCL here: [nuix-create-ingest-export.scl](pathname:///example-files
 To run:
 
 ```powershell
-PS > ./sequence.exe run nuix-create-ingest-export.scl
+PS > ./Phoenix.exe run nuix-create-ingest-export.scl
 ```
 
 Details of the case and the evidence can be customised by updating the relevant
@@ -99,7 +99,7 @@ these arrays.
 - <IrregularPath>  = PathCombine [<ReportsFolder>, $"{<CaseDetails>['CaseName']}-{<CaseDetails>['ProductionSetName']}-IrregularItems.txt"]
 
 ################################################################################
-# Sequence starts here
+# Phoenix starts here
 
 # Remove & recreate the processing directory
 - If (DoesDirectoryExist <ProcessingPath>) (DeleteItem <ProcessingPath>)
@@ -107,7 +107,7 @@ these arrays.
 - CreateDirectory <ReportsFolder>
 
 # If exists, open existing, or create and open a new case
-# This will keep the connection open for the rest of the Sequence
+# This will keep the connection open for the rest of the Phoenix
 - If (NuixDoesCaseExist <CasePath>)
     Then: (NuixOpenCase <CasePath>)
     Else: (
@@ -126,7 +126,7 @@ these arrays.
       Custodian: <>['Custodian']
       Paths: <>['Paths']
       Container: <>['Container']
-      CustomMetadata: (SequenceVersion: <Version>)
+      CustomMetadata: (PhoenixVersion: <Version>)
   )
 
 # Run exclusion searches and tag items

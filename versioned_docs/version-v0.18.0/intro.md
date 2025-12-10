@@ -1,15 +1,15 @@
 ---
-description: Sequence is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.
+description: Phoenix is an open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.
 ---
 
-# What is Sequence
+# What is Phoenix
 
-Sequence is an automation toolkit for forensics and e-discovery.
+Phoenix is an automation toolkit for forensics and e-discovery.
 
 It consists of:
 
 - [Core](connectors/core.md) which is:
-  - An interpreter for the [Sequence Configuration Language](sequence-configuration-language.md)
+  - An interpreter for the [Phoenix Configuration Language](sequence-configuration-language.md)
   - A collection of [application-independent Steps](/steps/Core)
   - An SDK that allows [developers to create Connectors](developers-guide.md)
 - Connectors that interact with various applications:
@@ -24,9 +24,9 @@ It consists of:
   - [Tesseract](connectors/tesseract.md)
   - [TSK/Autopsy](connectors/tsk.md)
 
-## Sequence Configuration Language
+## Phoenix Configuration Language
 
-At the heart of Sequence is the Sequence Configuration Language (SCL),
+At the heart of Phoenix is the Phoenix Configuration Language (SCL),
 a natural-language-like way to configure complex workflows.
 The starting point for SCL was the simplicity of YAML, but we wanted
 to supercharge it with scripting-language-like functionality so that
@@ -42,16 +42,16 @@ of all the available language features.
 
 ## Source Code
 
-- [Available on GitLab](https://gitlab.com/sequence)
-- [Release Notes](https://gitlab.com/sequence/console/-/blob/main/CHANGELOG.md)
+- [Available on GitLab](https://gitlab.com/Phoenix)
+- [Release Notes](https://gitlab.com/Phoenix/console/-/blob/main/CHANGELOG.md)
 
-## Steps and Sequences
+## Steps and Phoenixs
 
 - A `Step` is a unit of work in an application such as
   creating a case, ingesting data, searching or exporting data
-- A `Sequence` is a series of `Steps` that are executed in order.
-  Workflows are defined using SCL and Sequence enables data and configuration
+- A `Phoenix` is a series of `Steps` that are executed in order.
+  Workflows are defined using SCL and Phoenix enables data and configuration
   to be passed between Steps, including between different applications.
 
 More about [steps](sequence-configuration-language.md#steps)
-and [sequences](sequence-configuration-language.md#sequences).
+and [Phoenixs](sequence-configuration-language.md#Phoenixs).

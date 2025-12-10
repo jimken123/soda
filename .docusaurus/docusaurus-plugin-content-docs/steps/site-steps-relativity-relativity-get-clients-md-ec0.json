@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityGetClients",
   "id": "Relativity/RelativityGetClients",
-  "title": "RelativityGetClients Step | Sequence Connector for Relativity Documentation",
-  "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityGetClients Step | Phoenix Connector for Relativity Documentation",
+  "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Relativity/RelativityGetClients.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityGetClients",
   "permalink": "/steps/next/Relativity/RelativityGetClients",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Relativity/RelativityGetClients.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Relativity/RelativityGetClients.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "current",
   "frontMatter": {
-    "title": "RelativityGetClients Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityGetClients Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityGetClients",
-    "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Retrieve a list of the available clients that you can associate with a matter.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

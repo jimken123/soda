@@ -1,7 +1,7 @@
 ---
 title: RESTDelete Step | REST Connector Documentation
 sidebar_label: RESTDelete
-description: Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Delete a REST resource. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Rest]
 hide_title: true
 hide_table_of_contents: true

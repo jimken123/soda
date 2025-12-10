@@ -1,7 +1,7 @@
 ---
 title: EntityFormat Step | Core SDK Documentation
 sidebar_label: EntityFormat
-description: Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Formats an entity or an array of entities as a string. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

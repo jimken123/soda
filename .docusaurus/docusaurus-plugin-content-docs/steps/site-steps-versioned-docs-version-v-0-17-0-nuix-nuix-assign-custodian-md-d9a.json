@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixAssignCustodian",
   "id": "version-v0.17.0/Nuix/NuixAssignCustodian",
   "title": "NuixAssignCustodian Step | Nuix Connector Documentation",
-  "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Nuix/NuixAssignCustodian.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixAssignCustodian",
   "permalink": "/steps/v0.17.0/Nuix/NuixAssignCustodian",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixAssignCustodian.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Nuix/NuixAssignCustodian.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixAssignCustodian Step | Nuix Connector Documentation",
     "sidebar_label": "NuixAssignCustodian",
-    "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

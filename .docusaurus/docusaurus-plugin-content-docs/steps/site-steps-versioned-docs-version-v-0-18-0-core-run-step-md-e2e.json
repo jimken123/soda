@@ -2,13 +2,13 @@
   "unversionedId": "Core/RunStep",
   "id": "version-v0.18.0/Core/RunStep",
   "title": "RunStep Step | Core SDK Documentation",
-  "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/RunStep.md",
   "sourceDirName": "Core",
   "slug": "/Core/RunStep",
   "permalink": "/steps/Core/RunStep",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/RunStep.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/RunStep.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "RunStep Step | Core SDK Documentation",
     "sidebar_label": "RunStep",
-    "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Runs another step, reads the output to the end, and ignores it.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

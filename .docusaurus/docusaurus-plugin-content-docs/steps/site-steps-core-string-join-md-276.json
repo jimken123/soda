@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringJoin",
   "id": "Core/StringJoin",
   "title": "StringJoin Step | Core SDK Documentation",
-  "description": "Join strings with a delimiter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Join strings with a delimiter.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/StringJoin.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringJoin",
   "permalink": "/steps/next/Core/StringJoin",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringJoin.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringJoin.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringJoin Step | Core SDK Documentation",
     "sidebar_label": "StringJoin",
-    "description": "Join strings with a delimiter.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Join strings with a delimiter.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

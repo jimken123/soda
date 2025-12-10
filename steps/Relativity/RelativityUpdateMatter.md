@@ -1,7 +1,7 @@
 ---
-title: RelativityUpdateMatter Step | Sequence Connector for Relativity Documentation
+title: RelativityUpdateMatter Step | Phoenix Connector for Relativity Documentation
 sidebar_label: RelativityUpdateMatter
-description: . Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: . Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Relativity]
 hide_title: true
 hide_table_of_contents: true

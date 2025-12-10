@@ -2,13 +2,13 @@
   "unversionedId": "Core/DoubleSum",
   "id": "version-v0.16.0/Core/DoubleSum",
   "title": "DoubleSum Step | Core SDK Documentation",
-  "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/DoubleSum.md",
   "sourceDirName": "Core",
   "slug": "/Core/DoubleSum",
   "permalink": "/steps/v0.16.0/Core/DoubleSum",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/DoubleSum.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/DoubleSum.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "DoubleSum Step | Core SDK Documentation",
     "sidebar_label": "DoubleSum",
-    "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Calculate the sum of a list of doubles. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

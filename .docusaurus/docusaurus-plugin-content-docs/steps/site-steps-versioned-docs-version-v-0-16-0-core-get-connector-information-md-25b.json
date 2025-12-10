@@ -2,13 +2,13 @@
   "unversionedId": "Core/GetConnectorInformation",
   "id": "version-v0.16.0/Core/GetConnectorInformation",
   "title": "GetConnectorInformation Step | Core SDK Documentation",
-  "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/GetConnectorInformation.md",
   "sourceDirName": "Core",
   "slug": "/Core/GetConnectorInformation",
   "permalink": "/steps/v0.16.0/Core/GetConnectorInformation",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/GetConnectorInformation.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/GetConnectorInformation.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "GetConnectorInformation Step | Core SDK Documentation",
     "sidebar_label": "GetConnectorInformation",
-    "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Gets information about connectors. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

@@ -2,13 +2,13 @@
   "unversionedId": "Core/SchemaCreate",
   "id": "Core/SchemaCreate",
   "title": "SchemaCreate Step | Core SDK Documentation",
-  "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/SchemaCreate.md",
   "sourceDirName": "Core",
   "slug": "/Core/SchemaCreate",
   "permalink": "/steps/next/Core/SchemaCreate",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/SchemaCreate.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/SchemaCreate.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "SchemaCreate Step | Core SDK Documentation",
     "sidebar_label": "SchemaCreate",
-    "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Create a new schema by analysing the entity properties and values in. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

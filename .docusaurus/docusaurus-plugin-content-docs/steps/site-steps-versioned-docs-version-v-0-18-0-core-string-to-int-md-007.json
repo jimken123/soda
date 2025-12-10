@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringToInt",
   "id": "version-v0.18.0/Core/StringToInt",
   "title": "StringToInt Step | Core SDK Documentation",
-  "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Core/StringToInt.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringToInt",
   "permalink": "/steps/Core/StringToInt",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringToInt.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Core/StringToInt.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringToInt Step | Core SDK Documentation",
     "sidebar_label": "StringToInt",
-    "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Converts a string to an integer. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

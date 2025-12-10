@@ -1,5 +1,5 @@
 ---
-title: Import Concordance | Sequence Connector for Relativity Examples
+title: Import Concordance | Phoenix Connector for Relativity Examples
 sidebar_label: Import Concordance
 ---
 
@@ -9,11 +9,11 @@ This example will import documents from a concordance or CSV file into a Relativ
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Sequence Connector for Relativity®.](relativity.md)
+[Instructions on how to install and setup Phoenix and the Phoenix Connector for Relativity®.](relativity.md)
 
 [Instructions on how to install the Relativity® Desktop Client.](https://help.relativity.com/RelativityOne/Content/Relativity/Relativity_Desktop_Client/Using_the_RDC_installer.htm)
 
-Make sure you have set the `Sequence.Connectors.Relativity.settings.DesktopClientPath` value in your settings file.
+Make sure you have set the `Phoenix.Connectors.Relativity.settings.DesktopClientPath` value in your settings file.
 You may also need to run the Desktop Client at least once to set up your settings
 
 ## Creating a .kwe file
@@ -61,7 +61,7 @@ Download the SCL here: [relativity-import-concordance.scl](pathname:///example-f
 To run:
 
 ```powershell
-PS > ./sequence.exe run relativity-import-concordance.scl
+PS > ./Phoenix.exe run relativity-import-concordance.scl
 ```
 
 ```scl

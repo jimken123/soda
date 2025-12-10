@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/FileExtract",
   "id": "version-v0.18.0/FileSystem/FileExtract",
   "title": "FileExtract Step | File System Connector Documentation",
-  "description": "Extract a file in the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extract a file in the file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/FileSystem/FileExtract.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/FileExtract",
   "permalink": "/steps/FileSystem/FileExtract",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/FileExtract.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/FileExtract.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FileExtract Step | File System Connector Documentation",
     "sidebar_label": "FileExtract",
-    "description": "Extract a file in the file system.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extract a file in the file system.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

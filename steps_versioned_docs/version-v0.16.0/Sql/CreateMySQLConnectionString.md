@@ -1,7 +1,7 @@
 ---
 title: CreateMySQLConnectionString Step | SQL Database Connector Documentation
 sidebar_label: CreateMySQLConnectionString
-description: Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Create a database connection string for a MySQL database.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Sql]
 hide_title: true
 hide_table_of_contents: true

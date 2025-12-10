@@ -10,7 +10,7 @@ items and their descendants. It works with any existing case.
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Nuix Connector.](nuix.md)
+[Instructions on how to install and setup Phoenix and the Nuix Connector.](nuix.md)
 
 ## SCL
 
@@ -19,7 +19,7 @@ Download the SCL here: [nuix-search-and-tag.scl](pathname:///example-files/nuix/
 To run:
 
 ```powershell
-PS > ./sequence.exe run nuix-search-and-tag.scl
+PS > ./Phoenix.exe run nuix-search-and-tag.scl
 ```
 
 ```scl

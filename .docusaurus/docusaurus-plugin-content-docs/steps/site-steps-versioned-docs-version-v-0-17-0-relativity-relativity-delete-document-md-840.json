@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityDeleteDocument",
   "id": "version-v0.17.0/Relativity/RelativityDeleteDocument",
-  "title": "RelativityDeleteDocument Step | Sequence Connector for Relativity Documentation",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityDeleteDocument Step | Phoenix Connector for Relativity Documentation",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativityDeleteDocument.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityDeleteDocument",
   "permalink": "/steps/v0.17.0/Relativity/RelativityDeleteDocument",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityDeleteDocument.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativityDeleteDocument.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.17.0",
   "frontMatter": {
-    "title": "RelativityDeleteDocument Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityDeleteDocument Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityDeleteDocument",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

@@ -1,7 +1,7 @@
 ---
 title: NuixImportDocumentIds Step | Nuix Connector Documentation
 sidebar_label: NuixImportDocumentIds
-description: Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Imports the given document IDs into this production set. Only works if this production set has imported numbering.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

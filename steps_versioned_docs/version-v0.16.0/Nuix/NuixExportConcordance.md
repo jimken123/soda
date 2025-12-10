@@ -1,7 +1,7 @@
 ---
 title: NuixExportConcordance Step | Nuix Connector Documentation
 sidebar_label: NuixExportConcordance
-description: Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Exports a production set in Concorfance format. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativitySendQuery",
   "id": "version-v0.17.0/Relativity/RelativitySendQuery",
-  "title": "RelativitySendQuery Step | Sequence Connector for Relativity Documentation",
-  "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativitySendQuery Step | Phoenix Connector for Relativity Documentation",
+  "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Relativity/RelativitySendQuery.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativitySendQuery",
   "permalink": "/steps/v0.17.0/Relativity/RelativitySendQuery",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativitySendQuery.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Relativity/RelativitySendQuery.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.17.0",
   "frontMatter": {
-    "title": "RelativitySendQuery Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativitySendQuery Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativitySendQuery",
-    "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

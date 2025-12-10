@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import styles from './DownloadBanner.module.css';
 import SvgWindows from '@site/static/img/icons/windows-svgrepo-com.svg';
 import SvgLinux from '@site/static/img/icons/linux-svgrepo-com.svg';
-import { SequenceVersion } from '@site/src/types/SequenceVersion';
+import { PhoenixVersion } from '@site/src/types/PhoenixVersion';
 import DownloadButton from './DownloadButton';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -13,7 +13,7 @@ export default function DownloadBanner({
   platform,
   download,
   changelog,
-}: SequenceVersion) {
+}: PhoenixVersion) {
   const { siteConfig } = useDocusaurusContext();
   return (
     <div className={clsx('card', 'margin--lg', styles.banner)}>

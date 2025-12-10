@@ -1,7 +1,7 @@
 ---
 title: EntityGetProperties Step | Core SDK Documentation
 sidebar_label: EntityGetProperties
-description: Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Gets the names of all properties of an entity. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

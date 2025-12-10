@@ -88,6 +88,11 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/phoenix',
+    component: ComponentCreator('/blog/tags/phoenix', 'e9e'),
+    exact: true
+  },
+  {
     path: '/blog/tags/programming',
     component: ComponentCreator('/blog/tags/programming', '5d2'),
     exact: true
@@ -100,11 +105,6 @@ export default [
   {
     path: '/blog/tags/scl',
     component: ComponentCreator('/blog/tags/scl', '188'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/sequence',
-    component: ComponentCreator('/blog/tags/sequence', '239'),
     exact: true
   },
   {

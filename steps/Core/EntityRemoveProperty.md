@@ -1,7 +1,7 @@
 ---
 title: EntityRemoveProperty Step | Core SDK Documentation
 sidebar_label: EntityRemoveProperty
-description: Returns a copy of the entity with the specified property removed. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Returns a copy of the entity with the specified property removed. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

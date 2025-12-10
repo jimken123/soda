@@ -2,13 +2,13 @@
   "unversionedId": "Core/ArrayFilter",
   "id": "version-v0.16.0/Core/ArrayFilter",
   "title": "ArrayFilter Step | Core SDK Documentation",
-  "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.16.0/Core/ArrayFilter.md",
   "sourceDirName": "Core",
   "slug": "/Core/ArrayFilter",
   "permalink": "/steps/v0.16.0/Core/ArrayFilter",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ArrayFilter.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.16.0/Core/ArrayFilter.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "ArrayFilter Step | Core SDK Documentation",
     "sidebar_label": "ArrayFilter",
-    "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Filter an array or entity stream using a conditional statement. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

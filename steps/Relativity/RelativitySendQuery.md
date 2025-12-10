@@ -1,7 +1,7 @@
 ---
-title: RelativitySendQuery Step | Sequence Connector for Relativity Documentation
+title: RelativitySendQuery Step | Phoenix Connector for Relativity Documentation
 sidebar_label: RelativitySendQuery
-description: Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Query for Workspaces, Documents, RDOs and System Types. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Relativity]
 hide_title: true
 hide_table_of_contents: true

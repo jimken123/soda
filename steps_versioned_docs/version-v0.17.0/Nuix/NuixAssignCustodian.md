@@ -1,7 +1,7 @@
 ---
 title: NuixAssignCustodian Step | Nuix Connector Documentation
 sidebar_label: NuixAssignCustodian
-description: Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Run a search query on a nuix case and assign found items to a custodian.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

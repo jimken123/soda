@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/FileExists",
   "id": "version-v0.18.0/FileSystem/FileExists",
   "title": "FileExists Step | File System Connector Documentation",
-  "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/FileSystem/FileExists.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/FileExists",
   "permalink": "/steps/FileSystem/FileExists",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/FileExists.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/FileSystem/FileExists.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FileExists Step | File System Connector Documentation",
     "sidebar_label": "FileExists",
-    "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns whether a file on the file system exists.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

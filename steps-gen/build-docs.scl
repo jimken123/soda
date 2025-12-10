@@ -1,7 +1,7 @@
 - <root> = 'steps'
 - <summaryRegex> = '(?s)\.?\n.*$'
-- <stepDescription> = 'Use this step to easily automate forensic and e-discovery workflows using Sequence.'
-- <enumDescription> = 'Enum value to help automate forensic and e-discovery workflows using Sequence.'
+- <stepDescription> = 'Use this step to easily automate forensic and e-discovery workflows using Phoenix.'
+- <enumDescription> = 'Enum value to help automate forensic and e-discovery workflows using Phoenix.'
 - <connectors> = (
     Core: (
       Name: 'Core SDK'
@@ -9,47 +9,47 @@
     )
     FileSystem: (
       Name: 'File System Connector'
-      Description: 'Sequence connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.'
+      Description: 'Phoenix connector for interacting with file systems of various OSes. Includes steps to interact with files, directories, paths, and compression.'
     )
     StructuredData: (
       Name: 'Structured Data Connector'
-      Description: 'Sequence connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.'
+      Description: 'Phoenix connector for converting data between popular ediscovery and forensic structured data formats - Concordance, CSV, IDX, JSON, XML and YAML.'
     )
     Nuix: (
       Name: 'Nuix Connector'
-      Description: 'Sequence connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.'
+      Description: 'Phoenix connector for Nuix. Easily automate workflows that create cases, ingest data, search, tag and filter, create item sets, export, and create reports.'
     )
     Sql: (
       Name: 'SQL Database Connector'
-      Description: 'Sequence connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.'
+      Description: 'Phoenix connector for automating forensic and ediscovery workflows that use SQL databases. Supports MariaDb, MySQL, SQL Server, PostgreSQL, and SQLite.'
     )
     Singer: (
       Name: 'Singer Target'
-      Description: 'Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.'
+      Description: 'Phoenix connector for Singer. Allows Phoenix to act as a singer target, receiving data from any of the 100+ singer taps.'
     )
     Pwsh: (
       Name: 'PowerShell Connector'
-      Description: 'Sequence connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.'
+      Description: 'Phoenix connector for PowerShell. Use powershell scripts when automating forensic and ediscovery workflows.'
     )
     Relativity: (
-      Name: 'Sequence Connector for Relativity'
+      Name: 'Phoenix Connector for Relativity'
       Description: 'Easily include Relativity when automating forensic and ediscovery workflows. Create workspaces, matters, and folders, ingest and export data, search and tag documents.'
     )
     TSK: (
       Name: 'TSK Connector'
-      Description: 'Sequence connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.'
+      Description: 'Phoenix connector for Autopsy / The Sleuth Kit. Include TSK in your automation workflows. Create cases, ingest data, generate reports, and list data sources.'
     )
     Tesseract: (
       Name: 'Tesseract OCR Connector'
-      Description: 'Easily include Tesseract OCR in your forensic and ediscovery Sequence automation workflows.'
+      Description: 'Easily include Tesseract OCR in your forensic and ediscovery Phoenix automation workflows.'
     )
     Rest: (
       Name: 'REST Connector'
-      Description: 'Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Sequence REST connector.'
+      Description: 'Automatically generate steps from any OpenAPI endpoint and include them in your forensic and ediscovery workflows with the Phoenix REST connector.'
     )
     Microsoft365: (
       Name: 'Microsoft 365 Connector'
-      Description: 'Sequence connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.'
+      Description: 'Phoenix connector for Microsoft Graph API. Easily import and export data from Microsoft 365 applications when automating forensic and ediscovery workflows.'
     )
   )
 
@@ -71,9 +71,9 @@
         Else: If (<>.PageType == 'Contents') (
           - If (StringIsEmpty <>.Category)
             Then: (
-              - <title> = $"All Sequence Core and Connector Steps"
-              - <sidebar> = 'All Sequence Steps'
-              - <description> = 'List of all steps for Sequence, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.'
+              - <title> = $"All Phoenix Core and Connector Steps"
+              - <sidebar> = 'All Phoenix Steps'
+              - <description> = 'List of all steps for Phoenix, including Core and all official Connectors. Use these steps to automate forensic and e-discovery workflows.'
             )
             Else: (
               - <title> = $"All Steps | {<conn>.Name} Documentation"

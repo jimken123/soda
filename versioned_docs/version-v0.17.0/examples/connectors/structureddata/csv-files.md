@@ -1,12 +1,12 @@
 ---
 title: Working with CSV Files | Structured Data Connector Examples
 sidebar_label: Working with CSV Files
-description: Learn how to use Sequence to work with CSV files when automating forensic and ediscovery workflows.
+description: Learn how to use Phoenix to work with CSV files when automating forensic and ediscovery workflows.
 ---
 
 # Working with CSV Files
 
-[Instructions on how to install and setup Sequence.](structureddata.md)
+[Instructions on how to install and setup Phoenix.](structureddata.md)
 
 More details on:
 

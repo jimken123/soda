@@ -1,7 +1,7 @@
 ---
 title: NuixCreateIrregularItemsReport Step | Nuix Connector Documentation
 sidebar_label: NuixCreateIrregularItemsReport
-description: Creates a list of all irregular items in a case. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Creates a list of all irregular items in a case. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Nuix]
 hide_title: true
 hide_table_of_contents: true

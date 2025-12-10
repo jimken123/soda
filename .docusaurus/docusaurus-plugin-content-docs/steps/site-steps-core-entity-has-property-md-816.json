@@ -2,13 +2,13 @@
   "unversionedId": "Core/EntityHasProperty",
   "id": "Core/EntityHasProperty",
   "title": "EntityHasProperty Step | Core SDK Documentation",
-  "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/EntityHasProperty.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityHasProperty",
   "permalink": "/steps/next/Core/EntityHasProperty",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntityHasProperty.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/EntityHasProperty.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "EntityHasProperty Step | Core SDK Documentation",
     "sidebar_label": "EntityHasProperty",
-    "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Checks if an entity has a particular property.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

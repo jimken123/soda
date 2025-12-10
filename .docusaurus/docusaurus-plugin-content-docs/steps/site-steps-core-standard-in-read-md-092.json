@@ -2,13 +2,13 @@
   "unversionedId": "Core/StandardInRead",
   "id": "Core/StandardInRead",
   "title": "StandardInRead Step | Core SDK Documentation",
-  "description": "Reads the Console standard input. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Reads the Console standard input. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/StandardInRead.md",
   "sourceDirName": "Core",
   "slug": "/Core/StandardInRead",
   "permalink": "/steps/next/Core/StandardInRead",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StandardInRead.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StandardInRead.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StandardInRead Step | Core SDK Documentation",
     "sidebar_label": "StandardInRead",
-    "description": "Reads the Console standard input. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Reads the Console standard input. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

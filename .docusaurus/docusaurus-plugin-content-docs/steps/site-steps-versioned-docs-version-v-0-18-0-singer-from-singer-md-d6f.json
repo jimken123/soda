@@ -2,13 +2,13 @@
   "unversionedId": "Singer/FromSinger",
   "id": "version-v0.18.0/Singer/FromSinger",
   "title": "FromSinger Step | Singer Target Documentation",
-  "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Singer/FromSinger.md",
   "sourceDirName": "Singer",
   "slug": "/Singer/FromSinger",
   "permalink": "/steps/Singer/FromSinger",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Singer/FromSinger.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Singer/FromSinger.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "FromSinger Step | Singer Target Documentation",
     "sidebar_label": "FromSinger",
-    "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Extracts the data from a Singer Tap and converts it to entities. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Singer"

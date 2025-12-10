@@ -2,13 +2,13 @@
   "unversionedId": "Core/RunSCL",
   "id": "version-v0.17.0/Core/RunSCL",
   "title": "RunSCL Step | Core SDK Documentation",
-  "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/Core/RunSCL.md",
   "sourceDirName": "Core",
   "slug": "/Core/RunSCL",
   "permalink": "/steps/v0.17.0/Core/RunSCL",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/RunSCL.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/Core/RunSCL.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "RunSCL Step | Core SDK Documentation",
     "sidebar_label": "RunSCL",
-    "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Runs SCL defined in a StringStream. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

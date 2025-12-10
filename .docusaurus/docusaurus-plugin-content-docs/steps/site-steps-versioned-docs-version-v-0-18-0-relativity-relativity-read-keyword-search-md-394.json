@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityReadKeywordSearch",
   "id": "version-v0.18.0/Relativity/RelativityReadKeywordSearch",
-  "title": "RelativityReadKeywordSearch Step | Sequence Connector for Relativity Documentation",
-  "description": "Reads a search. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityReadKeywordSearch Step | Phoenix Connector for Relativity Documentation",
+  "description": "Reads a search. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityReadKeywordSearch.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityReadKeywordSearch",
   "permalink": "/steps/Relativity/RelativityReadKeywordSearch",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityReadKeywordSearch.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityReadKeywordSearch.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.18.0",
   "frontMatter": {
-    "title": "RelativityReadKeywordSearch Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityReadKeywordSearch Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityReadKeywordSearch",
-    "description": "Reads a search. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Reads a search. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"

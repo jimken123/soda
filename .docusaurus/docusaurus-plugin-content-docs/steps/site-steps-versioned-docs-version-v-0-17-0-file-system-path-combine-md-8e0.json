@@ -2,13 +2,13 @@
   "unversionedId": "FileSystem/PathCombine",
   "id": "version-v0.17.0/FileSystem/PathCombine",
   "title": "PathCombine Step | File System Connector Documentation",
-  "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.17.0/FileSystem/PathCombine.md",
   "sourceDirName": "FileSystem",
   "slug": "/FileSystem/PathCombine",
   "permalink": "/steps/v0.17.0/FileSystem/PathCombine",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.17.0/FileSystem/PathCombine.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.17.0/FileSystem/PathCombine.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "PathCombine Step | File System Connector Documentation",
     "sidebar_label": "PathCombine",
-    "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Combine Paths. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "FileSystem"

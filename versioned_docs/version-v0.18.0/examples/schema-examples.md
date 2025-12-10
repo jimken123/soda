@@ -1,7 +1,7 @@
 ---
 title: Schema Examples
 sidebar_label: Schemas
-description: Learn how to use Sequence schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.
+description: Learn how to use Phoenix schemas in automated workflows to validate and transform data between various source and target forensic and ediscovery applications.
 ---
 
 # Schemas
@@ -14,7 +14,7 @@ to validate and transform data, see
 ## Setup
 
 See the [quick start](../quick-start.md) for more info on
-how to download and set up Sequence.
+how to download and set up Phoenix.
 
 ## Example Schemas
 

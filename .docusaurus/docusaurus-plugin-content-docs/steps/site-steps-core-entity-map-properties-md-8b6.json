@@ -2,13 +2,13 @@
   "unversionedId": "Core/EntityMapProperties",
   "id": "Core/EntityMapProperties",
   "title": "EntityMapProperties Step | Core SDK Documentation",
-  "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/EntityMapProperties.md",
   "sourceDirName": "Core",
   "slug": "/Core/EntityMapProperties",
   "permalink": "/steps/next/Core/EntityMapProperties",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/EntityMapProperties.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/EntityMapProperties.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "EntityMapProperties Step | Core SDK Documentation",
     "sidebar_label": "EntityMapProperties",
-    "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Rename entity properties.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

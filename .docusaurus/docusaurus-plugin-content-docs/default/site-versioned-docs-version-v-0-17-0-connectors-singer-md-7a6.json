@@ -2,17 +2,17 @@
   "unversionedId": "connectors/singer",
   "id": "version-v0.17.0/connectors/singer",
   "title": "Singer Connector",
-  "description": "Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps.",
+  "description": "Phoenix connector for Singer. Allows Phoenix to act as a singer target, receiving data from any of the 100+ singer taps.",
   "source": "@site/versioned_docs/version-v0.17.0/connectors/singer.md",
   "sourceDirName": "connectors",
   "slug": "/connectors/singer",
   "permalink": "/docs/v0.17.0/connectors/singer",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/versioned_docs/version-v0.17.0/connectors/singer.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/versioned_docs/version-v0.17.0/connectors/singer.md",
   "tags": [],
   "version": "v0.17.0",
   "frontMatter": {
-    "description": "Sequence connector for Singer. Allows Sequence to act as a singer target, receiving data from any of the 100+ singer taps."
+    "description": "Phoenix connector for Singer. Allows Phoenix to act as a singer target, receiving data from any of the 100+ singer taps."
   },
   "sidebar": "docs",
   "previous": {

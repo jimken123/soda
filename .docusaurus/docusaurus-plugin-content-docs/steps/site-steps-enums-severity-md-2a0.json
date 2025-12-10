@@ -2,13 +2,13 @@
   "unversionedId": "Enums/Severity",
   "id": "Enums/Severity",
   "title": "Severity | Enums",
-  "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Enums/Severity.md",
   "sourceDirName": "Enums",
   "slug": "/Enums/Severity",
   "permalink": "/steps/next/Enums/Severity",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Enums/Severity.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Enums/Severity.md",
   "tags": [
     {
       "label": "Enums",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "Severity | Enums",
     "sidebar_label": "Severity",
-    "description": ". Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": ". Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Enums",
       "Unit"

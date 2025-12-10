@@ -1,7 +1,7 @@
 ---
 title: RESTPost Step | REST Connector Documentation
 sidebar_label: RESTPost
-description: Create a REST resource and return the id of the created resource. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Create a REST resource and return the id of the created resource. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Rest]
 hide_title: true
 hide_table_of_contents: true

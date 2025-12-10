@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixSearchAndTag",
   "id": "Nuix/NuixSearchAndTag",
   "title": "NuixSearchAndTag Step | Nuix Connector Documentation",
-  "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Nuix/NuixSearchAndTag.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixSearchAndTag",
   "permalink": "/steps/next/Nuix/NuixSearchAndTag",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixSearchAndTag.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixSearchAndTag.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixSearchAndTag Step | Nuix Connector Documentation",
     "sidebar_label": "NuixSearchAndTag",
-    "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Searches a NUIX case with a particular search string and tags all files it finds.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

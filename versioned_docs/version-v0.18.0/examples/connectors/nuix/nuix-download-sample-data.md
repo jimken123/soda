@@ -10,17 +10,17 @@ This SCL will:
 1. Create a new directory `./data` in the current directory
 2. Download the [EDRM Micro Dataset](https://edrm.net/resources/data-sets/edrm-micro-datasets/)
    and extract it into the `./data` directory.
-3. Download an [encrypted PDF from the Nuix.Tests project](https://gitlab.com/sequence/connectors/nuix/-/blob/main/Nuix.Tests/AllData/encrypted.pdf)
+3. Download an [encrypted PDF from the Nuix.Tests project](https://gitlab.com/Phoenix/connectors/nuix/-/blob/main/Nuix.Tests/AllData/encrypted.pdf)
    into the `./data/EDRM specific data` directory.
 
 ## Setup
 
-[Instructions on how to install and setup Sequence and the Nuix Connector.](nuix.md)
+[Instructions on how to install and setup Phoenix and the Nuix Connector.](nuix.md)
 
 To run this SCL, add the [PowerShell connector](../../../connectors/powershell.md) by running:
 
 ```powershell
-./sequence.exe connector add Sequence.Connectors.Pwsh
+./Phoenix.exe connector add Phoenix.Connectors.Pwsh
 ```
 
 ## SCL
@@ -30,7 +30,7 @@ Download the SCL here: [nuix-download-sample-data.scl](pathname:///example-files
 To run:
 
 ```powershell
-PS > ./sequence.exe run nuix-download-sample-data.scl
+PS > ./Phoenix.exe run nuix-download-sample-data.scl
 ```
 
 ```scl
@@ -43,7 +43,7 @@ PS > ./sequence.exe run nuix-download-sample-data.scl
     Variables: (
       EdrmMicroUrl: 'https://www.edrm.net/download/28896/'
       EdrmMicroPath: <edrm>
-      EncryptedUrl: 'https://gitlab.com/sequence/connectors/nuix/-/raw/main/Nuix.Tests/AllData/encrypted.pdf?inline=false'
+      EncryptedUrl: 'https://gitlab.com/Phoenix/connectors/nuix/-/raw/main/Nuix.Tests/AllData/encrypted.pdf?inline=false'
       EncryptedPath: <encrypted>
     )
     Script: '

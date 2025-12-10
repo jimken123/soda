@@ -1,7 +1,7 @@
 ---
-title: RelativityUpdateFolder Step | Sequence Connector for Relativity Documentation
+title: RelativityUpdateFolder Step | Phoenix Connector for Relativity Documentation
 sidebar_label: RelativityUpdateFolder
-description: Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Update a Relativity folder. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Relativity]
 hide_title: true
 hide_table_of_contents: true

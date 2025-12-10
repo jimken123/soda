@@ -1,15 +1,15 @@
 {
   "permalink": "/blog/wrangling-dates-with-scl",
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/blog/20220404-wrangling-dates/wrangling-dates.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/blog/20220404-wrangling-dates/wrangling-dates.md",
   "source": "@site/blog/20220404-wrangling-dates/wrangling-dates.md",
   "title": "Wrangling Dates with SCL",
-  "description": "Use the Sequence Configuration Language to easily combine and convert dates when working with structured data formats.",
+  "description": "Use the Phoenix Configuration Language to easily combine and convert dates when working with structured data formats.",
   "date": "2022-04-04T00:00:00.000Z",
   "formattedDate": "April 4, 2022",
   "tags": [
     {
-      "label": "sequence",
-      "permalink": "/blog/tags/sequence"
+      "label": "Phoenix",
+      "permalink": "/blog/tags/phoenix"
     },
     {
       "label": "scl",
@@ -41,7 +41,7 @@
   "authors": [
     {
       "name": "Mark Wainwright",
-      "title": "Sequence Maintainer",
+      "title": "Phoenix Maintainer",
       "url": "https://github.com/wainwrightmark",
       "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
       "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
@@ -49,20 +49,20 @@
   ],
   "frontMatter": {
     "title": "Wrangling Dates with SCL",
-    "description": "Use the Sequence Configuration Language to easily combine and convert dates when working with structured data formats.",
+    "description": "Use the Phoenix Configuration Language to easily combine and convert dates when working with structured data formats.",
     "slug": "wrangling-dates-with-scl",
     "date": "2022/04/04",
     "authors": [
       {
         "name": "Mark Wainwright",
-        "title": "Sequence Maintainer",
+        "title": "Phoenix Maintainer",
         "url": "https://github.com/wainwrightmark",
         "image_url": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4",
         "imageURL": "https://avatars.githubusercontent.com/u/5428904?s=400&u=272a94528302c122cfe8964069c86b65dd406645&v=4"
       }
     ],
     "tags": [
-      "sequence",
+      "Phoenix",
       "scl",
       "examples",
       "dates",

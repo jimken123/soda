@@ -1,7 +1,7 @@
 ---
 title: EntityValidateRelations Step | Core SDK Documentation
 sidebar_label: EntityValidateRelations
-description: For each entity in the stream, check that the value of the `ParentIdProperty` is the value of the `IdProperty` for at least one entity in the stream.. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: For each entity in the stream, check that the value of the `ParentIdProperty` is the value of the `IdProperty` for at least one entity in the stream.. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

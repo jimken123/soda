@@ -165,6 +165,20 @@
     "tag": "tag---blog-tags-performancee-62-213",
     "listMetadata": "listMetadata---blog-tags-performance-96-e-49e"
   },
+  "/blog/tags/phoenix-e9e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-641-838"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogb-1-f-d51"
+      }
+    ],
+    "tag": "tag---blog-tags-phoenixed-4-979",
+    "listMetadata": "listMetadata---blog-tags-phoenix-3-c-7-de6"
+  },
   "/blog/tags/programming-5d2": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
@@ -209,20 +223,6 @@
     ],
     "tag": "tag---blog-tags-scle-7-b-193",
     "listMetadata": "listMetadata---blog-tags-scl-628-0dd"
-  },
-  "/blog/tags/sequence-239": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-641-838"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blogb-1-f-d51"
-      }
-    ],
-    "tag": "tag---blog-tags-sequencea-0-b-e0d",
-    "listMetadata": "listMetadata---blog-tags-sequencef-97-643"
   },
   "/blog/tags/software-b15": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",

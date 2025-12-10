@@ -2,13 +2,13 @@
   "unversionedId": "Core/StringReplace",
   "id": "Core/StringReplace",
   "title": "StringReplace Step | Core SDK Documentation",
-  "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Core/StringReplace.md",
   "sourceDirName": "Core",
   "slug": "/Core/StringReplace",
   "permalink": "/steps/next/Core/StringReplace",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Core/StringReplace.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Core/StringReplace.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "StringReplace Step | Core SDK Documentation",
     "sidebar_label": "StringReplace",
-    "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Replace every regex match in the string with the result of a particular function. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Core"

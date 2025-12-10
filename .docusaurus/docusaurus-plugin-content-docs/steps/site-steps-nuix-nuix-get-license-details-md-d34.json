@@ -2,13 +2,13 @@
   "unversionedId": "Nuix/NuixGetLicenseDetails",
   "id": "Nuix/NuixGetLicenseDetails",
   "title": "NuixGetLicenseDetails Step | Nuix Connector Documentation",
-  "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps/Nuix/NuixGetLicenseDetails.md",
   "sourceDirName": "Nuix",
   "slug": "/Nuix/NuixGetLicenseDetails",
   "permalink": "/steps/next/Nuix/NuixGetLicenseDetails",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps/Nuix/NuixGetLicenseDetails.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps/Nuix/NuixGetLicenseDetails.md",
   "tags": [
     {
       "label": "Step",
@@ -23,7 +23,7 @@
   "frontMatter": {
     "title": "NuixGetLicenseDetails Step | Nuix Connector Documentation",
     "sidebar_label": "NuixGetLicenseDetails",
-    "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Returns an Entity with information about the Nuix license currently in use. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Nuix"

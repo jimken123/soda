@@ -1,23 +1,23 @@
 ---
-sidebar_label: Sequence Connector for Relativity
+sidebar_label: Phoenix Connector for Relativity
 sidebar_position: 0
-description: Examples of how to use Sequence to include Relativity in automated end-to-end forensic and ediscovery workflows.
+description: Examples of how to use Phoenix to include Relativity in automated end-to-end forensic and ediscovery workflows.
 ---
 
-# Sequence Connector for Relativity® Examples
+# Phoenix Connector for Relativity® Examples
 
 ## Setup
 
-1. Download and set up Sequence. See the [quick start](../../../quick-start.md) for more info.
-2. Add the Sequence Connector for Relativity®. See [connectors](../../../quick-start.md#connectors)
+1. Download and set up Phoenix. See the [quick start](../../../quick-start.md) for more info.
+2. Add the Phoenix Connector for Relativity®. See [connectors](../../../quick-start.md#connectors)
    for more info on managing connectors.
 
 ```poweshell
-PS > .\sequence.exe connector add Sequence.Connectors.Relativity
+PS > .\Phoenix.exe connector add Phoenix.Connectors.Relativity
 ```
 
 3. Add the required Relativity® configuration to `./lib/connectors.json`.
-   See [Sequence Connector for Relativity®](../../../connectors/relativity.md#relativity-connector-settings)
+   See [Phoenix Connector for Relativity®](../../../connectors/relativity.md#relativity-connector-settings)
 
 ## Examples
 

@@ -1,7 +1,7 @@
 ---
 title: Or Step | Core SDK Documentation
 sidebar_label: Or
-description: Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Sequence.
+description: Returns true if any terms are true. Use this step to easily automate forensic and e-discovery workflows using Phoenix.
 tags: [Step, Core]
 hide_title: true
 hide_table_of_contents: true

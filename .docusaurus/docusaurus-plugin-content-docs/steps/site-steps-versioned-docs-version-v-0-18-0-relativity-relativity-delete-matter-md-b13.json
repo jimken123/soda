@@ -1,14 +1,14 @@
 {
   "unversionedId": "Relativity/RelativityDeleteMatter",
   "id": "version-v0.18.0/Relativity/RelativityDeleteMatter",
-  "title": "RelativityDeleteMatter Step | Sequence Connector for Relativity Documentation",
-  "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+  "title": "RelativityDeleteMatter Step | Phoenix Connector for Relativity Documentation",
+  "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
   "source": "@site/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteMatter.md",
   "sourceDirName": "Relativity",
   "slug": "/Relativity/RelativityDeleteMatter",
   "permalink": "/steps/Relativity/RelativityDeleteMatter",
   "draft": false,
-  "editUrl": "https://gitlab.com/sequence/sequence-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteMatter.md",
+  "editUrl": "https://gitlab.com/Phoenix/Phoenix-docs/edit/main/steps_versioned_docs/version-v0.18.0/Relativity/RelativityDeleteMatter.md",
   "tags": [
     {
       "label": "Step",
@@ -21,9 +21,9 @@
   ],
   "version": "v0.18.0",
   "frontMatter": {
-    "title": "RelativityDeleteMatter Step | Sequence Connector for Relativity Documentation",
+    "title": "RelativityDeleteMatter Step | Phoenix Connector for Relativity Documentation",
     "sidebar_label": "RelativityDeleteMatter",
-    "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Sequence.",
+    "description": "Delete a matter. Use this step to easily automate forensic and e-discovery workflows using Phoenix.",
     "tags": [
       "Step",
       "Relativity"
