@@ -65,8 +65,8 @@ function getNextVersionName() {
 const config = {
   title: 'PhoenixSoda',
   tagline: 'Automate all the tings',
-  url: 'https://Phoenix.sh',
-  baseUrl: '/',
+  url: 'jimken-mido.github.io/',
+  baseUrl: '/soda/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
@@ -102,7 +102,7 @@ const config = {
         blog: {
           path: 'blog',
           routeBasePath: 'blog',
-          editUrl: 'https://gitlab.com/Phoenix/Phoenix-docs/edit/main',
+          editUrl: 'https://github.com/jimken-mido/soda',
           postsPerPage: 10,
           feedOptions: {
             type: 'all',
@@ -125,7 +125,7 @@ const config = {
         path: 'steps',
         routeBasePath: 'steps',
         sidebarPath: require.resolve('./sidebarsSteps.js'),
-        editUrl: 'https://gitlab.com/Phoenix/Phoenix-docs/edit/main',
+        editUrl: 'https://github.com/jimken-mido/soda',
         sidebarItemsGenerator: generateStepsSidebar,
         versions: {
           current: {
