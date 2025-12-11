@@ -727,7 +727,7 @@
     },
     "tag": "7fc93c1f"
   },
-  "/soda/docs/next-910": {
+  "/soda/docs/next-d4b": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "f8e58894"
@@ -802,7 +802,7 @@
     "__comp": "17896441",
     "content": "c325bbb2"
   },
-  "/soda/docs/next/examples/connectors/filesystem/-4ec": {
+  "/soda/docs/next/examples/connectors/filesystem-5aa": {
     "__comp": "17896441",
     "content": "9a5f725f"
   },
@@ -818,7 +818,7 @@
     "__comp": "17896441",
     "content": "d48772cb"
   },
-  "/soda/docs/next/examples/connectors/microsoft365/-d9a": {
+  "/soda/docs/next/examples/connectors/microsoft365-091": {
     "__comp": "17896441",
     "content": "2698dd7c"
   },
@@ -834,7 +834,7 @@
     "__comp": "17896441",
     "content": "ddf3799c"
   },
-  "/soda/docs/next/examples/connectors/nuix/-4e1": {
+  "/soda/docs/next/examples/connectors/nuix-7f9": {
     "__comp": "17896441",
     "content": "b97ad73b"
   },
@@ -858,7 +858,7 @@
     "__comp": "17896441",
     "content": "f6e70879"
   },
-  "/soda/docs/next/examples/connectors/powershell/-890": {
+  "/soda/docs/next/examples/connectors/powershell-fe8": {
     "__comp": "17896441",
     "content": "e0c1267f"
   },
@@ -866,7 +866,7 @@
     "__comp": "17896441",
     "content": "593bbf2a"
   },
-  "/soda/docs/next/examples/connectors/relativity/-958": {
+  "/soda/docs/next/examples/connectors/relativity-5b4": {
     "__comp": "17896441",
     "content": "70ef413c"
   },
@@ -898,7 +898,7 @@
     "__comp": "17896441",
     "content": "b8010fb4"
   },
-  "/soda/docs/next/examples/connectors/rest/-65a": {
+  "/soda/docs/next/examples/connectors/rest-f77": {
     "__comp": "17896441",
     "content": "e9244c8b"
   },
@@ -926,7 +926,7 @@
     "__comp": "17896441",
     "content": "00fa7346"
   },
-  "/soda/docs/next/examples/connectors/singer/-f77": {
+  "/soda/docs/next/examples/connectors/singer-ec9": {
     "__comp": "17896441",
     "content": "eb158832"
   },
@@ -934,7 +934,7 @@
     "__comp": "17896441",
     "content": "8fb0bfc2"
   },
-  "/soda/docs/next/examples/connectors/sql/-4c8": {
+  "/soda/docs/next/examples/connectors/sql-d96": {
     "__comp": "17896441",
     "content": "7905eb27"
   },
@@ -946,7 +946,7 @@
     "__comp": "17896441",
     "content": "7224c437"
   },
-  "/soda/docs/next/examples/connectors/structureddata/-ccb": {
+  "/soda/docs/next/examples/connectors/structureddata-65f": {
     "__comp": "17896441",
     "content": "71cc1fcf"
   },
@@ -958,11 +958,11 @@
     "__comp": "17896441",
     "content": "085ab197"
   },
-  "/soda/docs/next/examples/connectors/tesseract/-40b": {
+  "/soda/docs/next/examples/connectors/tesseract-f5f": {
     "__comp": "17896441",
     "content": "372a4065"
   },
-  "/soda/docs/next/examples/connectors/tsk/-e43": {
+  "/soda/docs/next/examples/connectors/tsk-4fd": {
     "__comp": "17896441",
     "content": "0e5a74b0"
   },
@@ -1022,7 +1022,7 @@
     "__comp": "17896441",
     "content": "e231b26b"
   },
-  "/soda/docs/v0.16.0-604": {
+  "/soda/docs/v0.16.0-eb3": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "f8e58894"
@@ -1093,7 +1093,7 @@
     "__comp": "17896441",
     "content": "c32650ec"
   },
-  "/soda/docs/v0.16.0/examples/connectors/filesystem/-68e": {
+  "/soda/docs/v0.16.0/examples/connectors/filesystem-00f": {
     "__comp": "17896441",
     "content": "1053a5f3"
   },
@@ -1109,7 +1109,7 @@
     "__comp": "17896441",
     "content": "a4d9b3d3"
   },
-  "/soda/docs/v0.16.0/examples/connectors/nuix/-53e": {
+  "/soda/docs/v0.16.0/examples/connectors/nuix-d65": {
     "__comp": "17896441",
     "content": "936aad36"
   },
@@ -1133,7 +1133,7 @@
     "__comp": "17896441",
     "content": "e5f18229"
   },
-  "/soda/docs/v0.16.0/examples/connectors/powershell/-d11": {
+  "/soda/docs/v0.16.0/examples/connectors/powershell-b48": {
     "__comp": "17896441",
     "content": "6670bfa7"
   },
@@ -1141,7 +1141,7 @@
     "__comp": "17896441",
     "content": "eed6fc26"
   },
-  "/soda/docs/v0.16.0/examples/connectors/relativity/-f57": {
+  "/soda/docs/v0.16.0/examples/connectors/relativity-7dd": {
     "__comp": "17896441",
     "content": "1da4f9eb"
   },
@@ -1173,7 +1173,7 @@
     "__comp": "17896441",
     "content": "326b6624"
   },
-  "/soda/docs/v0.16.0/examples/connectors/rest/-8e1": {
+  "/soda/docs/v0.16.0/examples/connectors/rest-bca": {
     "__comp": "17896441",
     "content": "a136eed6"
   },
@@ -1201,7 +1201,7 @@
     "__comp": "17896441",
     "content": "e53b13a1"
   },
-  "/soda/docs/v0.16.0/examples/connectors/singer/-497": {
+  "/soda/docs/v0.16.0/examples/connectors/singer-e04": {
     "__comp": "17896441",
     "content": "1f42f8bf"
   },
@@ -1209,7 +1209,7 @@
     "__comp": "17896441",
     "content": "66168bd4"
   },
-  "/soda/docs/v0.16.0/examples/connectors/sql/-374": {
+  "/soda/docs/v0.16.0/examples/connectors/sql-78b": {
     "__comp": "17896441",
     "content": "62262441"
   },
@@ -1221,7 +1221,7 @@
     "__comp": "17896441",
     "content": "c73a9635"
   },
-  "/soda/docs/v0.16.0/examples/connectors/structureddata/-c06": {
+  "/soda/docs/v0.16.0/examples/connectors/structureddata-4cb": {
     "__comp": "17896441",
     "content": "c97c6039"
   },
@@ -1233,11 +1233,11 @@
     "__comp": "17896441",
     "content": "2bc4e2fd"
   },
-  "/soda/docs/v0.16.0/examples/connectors/tesseract/-c35": {
+  "/soda/docs/v0.16.0/examples/connectors/tesseract-173": {
     "__comp": "17896441",
     "content": "969f7016"
   },
-  "/soda/docs/v0.16.0/examples/connectors/tsk/-8a3": {
+  "/soda/docs/v0.16.0/examples/connectors/tsk-f32": {
     "__comp": "17896441",
     "content": "11bd93e8"
   },
@@ -1297,7 +1297,7 @@
     "__comp": "17896441",
     "content": "e3086674"
   },
-  "/soda/docs/v0.17.0-4fa": {
+  "/soda/docs/v0.17.0-581": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "f8e58894"
@@ -1372,7 +1372,7 @@
     "__comp": "17896441",
     "content": "fe3459da"
   },
-  "/soda/docs/v0.17.0/examples/connectors/filesystem/-75d": {
+  "/soda/docs/v0.17.0/examples/connectors/filesystem-f00": {
     "__comp": "17896441",
     "content": "56a966cf"
   },
@@ -1388,7 +1388,7 @@
     "__comp": "17896441",
     "content": "0fba021b"
   },
-  "/soda/docs/v0.17.0/examples/connectors/microsoft365/-4b5": {
+  "/soda/docs/v0.17.0/examples/connectors/microsoft365-fc7": {
     "__comp": "17896441",
     "content": "8a3e08a0"
   },
@@ -1404,7 +1404,7 @@
     "__comp": "17896441",
     "content": "89c08c71"
   },
-  "/soda/docs/v0.17.0/examples/connectors/nuix/-112": {
+  "/soda/docs/v0.17.0/examples/connectors/nuix-9b4": {
     "__comp": "17896441",
     "content": "560b2bcd"
   },
@@ -1428,7 +1428,7 @@
     "__comp": "17896441",
     "content": "ae4a76c1"
   },
-  "/soda/docs/v0.17.0/examples/connectors/powershell/-fe6": {
+  "/soda/docs/v0.17.0/examples/connectors/powershell-bb0": {
     "__comp": "17896441",
     "content": "ff986920"
   },
@@ -1436,7 +1436,7 @@
     "__comp": "17896441",
     "content": "dedc7431"
   },
-  "/soda/docs/v0.17.0/examples/connectors/relativity/-6af": {
+  "/soda/docs/v0.17.0/examples/connectors/relativity-1f9": {
     "__comp": "17896441",
     "content": "a2dc721a"
   },
@@ -1468,7 +1468,7 @@
     "__comp": "17896441",
     "content": "508f76f0"
   },
-  "/soda/docs/v0.17.0/examples/connectors/rest/-799": {
+  "/soda/docs/v0.17.0/examples/connectors/rest-659": {
     "__comp": "17896441",
     "content": "a0eaf614"
   },
@@ -1496,7 +1496,7 @@
     "__comp": "17896441",
     "content": "6482ae79"
   },
-  "/soda/docs/v0.17.0/examples/connectors/singer/-095": {
+  "/soda/docs/v0.17.0/examples/connectors/singer-5cc": {
     "__comp": "17896441",
     "content": "4e047213"
   },
@@ -1504,7 +1504,7 @@
     "__comp": "17896441",
     "content": "4bab29c2"
   },
-  "/soda/docs/v0.17.0/examples/connectors/sql/-76c": {
+  "/soda/docs/v0.17.0/examples/connectors/sql-f00": {
     "__comp": "17896441",
     "content": "9039002d"
   },
@@ -1516,7 +1516,7 @@
     "__comp": "17896441",
     "content": "dcb37dc9"
   },
-  "/soda/docs/v0.17.0/examples/connectors/structureddata/-818": {
+  "/soda/docs/v0.17.0/examples/connectors/structureddata-ea2": {
     "__comp": "17896441",
     "content": "34d082ef"
   },
@@ -1528,11 +1528,11 @@
     "__comp": "17896441",
     "content": "b0ad3189"
   },
-  "/soda/docs/v0.17.0/examples/connectors/tesseract/-a67": {
+  "/soda/docs/v0.17.0/examples/connectors/tesseract-7fc": {
     "__comp": "17896441",
     "content": "f3db5204"
   },
-  "/soda/docs/v0.17.0/examples/connectors/tsk/-525": {
+  "/soda/docs/v0.17.0/examples/connectors/tsk-68e": {
     "__comp": "17896441",
     "content": "d5c04b1c"
   },
@@ -4733,7 +4733,7 @@
     "__comp": "17896441",
     "content": "b8fadbe1"
   },
-  "/soda/docs-d48": {
+  "/soda/docs-a2b": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "f8e58894"
@@ -4808,7 +4808,7 @@
     "__comp": "17896441",
     "content": "6df35592"
   },
-  "/soda/docs/examples/connectors/filesystem/-f25": {
+  "/soda/docs/examples/connectors/filesystem-881": {
     "__comp": "17896441",
     "content": "6cdc253e"
   },
@@ -4824,7 +4824,7 @@
     "__comp": "17896441",
     "content": "a5487700"
   },
-  "/soda/docs/examples/connectors/microsoft365/-343": {
+  "/soda/docs/examples/connectors/microsoft365-fd9": {
     "__comp": "17896441",
     "content": "7887f0b2"
   },
@@ -4840,7 +4840,7 @@
     "__comp": "17896441",
     "content": "09bfcbd6"
   },
-  "/soda/docs/examples/connectors/nuix/-083": {
+  "/soda/docs/examples/connectors/nuix-4a2": {
     "__comp": "17896441",
     "content": "fc173db4"
   },
@@ -4864,7 +4864,7 @@
     "__comp": "17896441",
     "content": "6ddbcc0b"
   },
-  "/soda/docs/examples/connectors/powershell/-94c": {
+  "/soda/docs/examples/connectors/powershell-22f": {
     "__comp": "17896441",
     "content": "17fd5090"
   },
@@ -4872,7 +4872,7 @@
     "__comp": "17896441",
     "content": "b824aeb7"
   },
-  "/soda/docs/examples/connectors/relativity/-41e": {
+  "/soda/docs/examples/connectors/relativity-1f6": {
     "__comp": "17896441",
     "content": "eff1ada7"
   },
@@ -4904,7 +4904,7 @@
     "__comp": "17896441",
     "content": "7962153c"
   },
-  "/soda/docs/examples/connectors/rest/-ec1": {
+  "/soda/docs/examples/connectors/rest-0fd": {
     "__comp": "17896441",
     "content": "d9ddd224"
   },
@@ -4932,7 +4932,7 @@
     "__comp": "17896441",
     "content": "678877f6"
   },
-  "/soda/docs/examples/connectors/singer/-708": {
+  "/soda/docs/examples/connectors/singer-612": {
     "__comp": "17896441",
     "content": "5a685fc5"
   },
@@ -4940,7 +4940,7 @@
     "__comp": "17896441",
     "content": "3cea187a"
   },
-  "/soda/docs/examples/connectors/sql/-f26": {
+  "/soda/docs/examples/connectors/sql-26b": {
     "__comp": "17896441",
     "content": "febc9635"
   },
@@ -4952,7 +4952,7 @@
     "__comp": "17896441",
     "content": "245fc9ae"
   },
-  "/soda/docs/examples/connectors/structureddata/-38f": {
+  "/soda/docs/examples/connectors/structureddata-eb6": {
     "__comp": "17896441",
     "content": "2459bf30"
   },
@@ -4964,11 +4964,11 @@
     "__comp": "17896441",
     "content": "aa310f3e"
   },
-  "/soda/docs/examples/connectors/tesseract/-c3b": {
+  "/soda/docs/examples/connectors/tesseract-cf3": {
     "__comp": "17896441",
     "content": "c0a68082"
   },
-  "/soda/docs/examples/connectors/tsk/-778": {
+  "/soda/docs/examples/connectors/tsk-01d": {
     "__comp": "17896441",
     "content": "f6dc5bf6"
   },

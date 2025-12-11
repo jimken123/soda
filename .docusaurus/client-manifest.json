@@ -9433,9 +9433,9 @@
     "38792": {
       "js": [
         {
-          "file": "assets/js/main.3669a829.js",
-          "hash": "67a368b08ae1bcb8",
-          "publicPath": "/soda/assets/js/main.3669a829.js"
+          "file": "assets/js/main.254eb9d2.js",
+          "hash": "b4dd53046ce0ecaf",
+          "publicPath": "/soda/assets/js/main.254eb9d2.js"
         }
       ]
     },
@@ -10370,7 +10370,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.2185a906.js",
-          "hash": "6a87c90b5d4f1252",
+          "hash": "3337e0591b5375e0",
           "publicPath": "/soda/assets/js/runtime~main.2185a906.js"
         }
       ]

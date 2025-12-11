@@ -11,8 +11,9 @@ export default {
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.png",
-  "organizationName": "loremipsum",
-  "projectName": "Phoenix-docs",
+  "organizationName": "jimken-mido",
+  "projectName": "jimken-mido.github.io",
+  "trailingSlash": false,
   "customFields": {
     "homeTitle": "End-to-end automation for forensics and ediscovery",
     "description": "Flexible and powerful open-source automation toolkit for creating repeatable, predictable, and defensible end-to-end forensic and ediscovery workflows.",

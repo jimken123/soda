@@ -449,7 +449,7 @@ export default [
   },
   {
     path: '/soda/docs/next',
-    component: ComponentCreator('/soda/docs/next', '910'),
+    component: ComponentCreator('/soda/docs/next', 'd4b'),
     routes: [
       {
         path: '/soda/docs/next/application-settings',
@@ -554,8 +554,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/filesystem/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/filesystem/', '4ec'),
+        path: '/soda/docs/next/examples/connectors/filesystem',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/filesystem', '5aa'),
         exact: true,
         sidebar: "docs"
       },
@@ -578,8 +578,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/microsoft365/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/microsoft365/', 'd9a'),
+        path: '/soda/docs/next/examples/connectors/microsoft365',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/microsoft365', '091'),
         exact: true,
         sidebar: "docs"
       },
@@ -602,8 +602,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/nuix/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/nuix/', '4e1'),
+        path: '/soda/docs/next/examples/connectors/nuix',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/nuix', '7f9'),
         exact: true,
         sidebar: "docs"
       },
@@ -638,8 +638,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/powershell/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/powershell/', '890'),
+        path: '/soda/docs/next/examples/connectors/powershell',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/powershell', 'fe8'),
         exact: true,
         sidebar: "docs"
       },
@@ -650,8 +650,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/relativity/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/relativity/', '958'),
+        path: '/soda/docs/next/examples/connectors/relativity',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/relativity', '5b4'),
         exact: true,
         sidebar: "docs"
       },
@@ -698,8 +698,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/rest/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/rest/', '65a'),
+        path: '/soda/docs/next/examples/connectors/rest',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/rest', 'f77'),
         exact: true,
         sidebar: "docs"
       },
@@ -740,8 +740,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/singer/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/singer/', 'f77'),
+        path: '/soda/docs/next/examples/connectors/singer',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/singer', 'ec9'),
         exact: true,
         sidebar: "docs"
       },
@@ -752,8 +752,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/sql/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/sql/', '4c8'),
+        path: '/soda/docs/next/examples/connectors/sql',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/sql', 'd96'),
         exact: true,
         sidebar: "docs"
       },
@@ -770,8 +770,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/structureddata/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/structureddata/', 'ccb'),
+        path: '/soda/docs/next/examples/connectors/structureddata',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/structureddata', '65f'),
         exact: true,
         sidebar: "docs"
       },
@@ -788,14 +788,14 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/tesseract/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/tesseract/', '40b'),
+        path: '/soda/docs/next/examples/connectors/tesseract',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/tesseract', 'f5f'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/next/examples/connectors/tsk/',
-        component: ComponentCreator('/soda/docs/next/examples/connectors/tsk/', 'e43'),
+        path: '/soda/docs/next/examples/connectors/tsk',
+        component: ComponentCreator('/soda/docs/next/examples/connectors/tsk', '4fd'),
         exact: true,
         sidebar: "docs"
       },
@@ -887,7 +887,7 @@ export default [
   },
   {
     path: '/soda/docs/v0.16.0',
-    component: ComponentCreator('/soda/docs/v0.16.0', '604'),
+    component: ComponentCreator('/soda/docs/v0.16.0', 'eb3'),
     routes: [
       {
         path: '/soda/docs/v0.16.0/application-settings',
@@ -986,8 +986,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/filesystem/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/filesystem/', '68e'),
+        path: '/soda/docs/v0.16.0/examples/connectors/filesystem',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/filesystem', '00f'),
         exact: true,
         sidebar: "docs"
       },
@@ -1010,8 +1010,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/nuix/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/nuix/', '53e'),
+        path: '/soda/docs/v0.16.0/examples/connectors/nuix',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/nuix', 'd65'),
         exact: true,
         sidebar: "docs"
       },
@@ -1046,8 +1046,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/powershell/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/powershell/', 'd11'),
+        path: '/soda/docs/v0.16.0/examples/connectors/powershell',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/powershell', 'b48'),
         exact: true,
         sidebar: "docs"
       },
@@ -1058,8 +1058,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/relativity/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/relativity/', 'f57'),
+        path: '/soda/docs/v0.16.0/examples/connectors/relativity',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/relativity', '7dd'),
         exact: true,
         sidebar: "docs"
       },
@@ -1106,8 +1106,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/rest/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/rest/', '8e1'),
+        path: '/soda/docs/v0.16.0/examples/connectors/rest',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/rest', 'bca'),
         exact: true,
         sidebar: "docs"
       },
@@ -1148,8 +1148,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/singer/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/singer/', '497'),
+        path: '/soda/docs/v0.16.0/examples/connectors/singer',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/singer', 'e04'),
         exact: true,
         sidebar: "docs"
       },
@@ -1160,8 +1160,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/sql/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/sql/', '374'),
+        path: '/soda/docs/v0.16.0/examples/connectors/sql',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/sql', '78b'),
         exact: true,
         sidebar: "docs"
       },
@@ -1178,8 +1178,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/structureddata/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/structureddata/', 'c06'),
+        path: '/soda/docs/v0.16.0/examples/connectors/structureddata',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/structureddata', '4cb'),
         exact: true,
         sidebar: "docs"
       },
@@ -1196,14 +1196,14 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/tesseract/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/tesseract/', 'c35'),
+        path: '/soda/docs/v0.16.0/examples/connectors/tesseract',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/tesseract', '173'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.16.0/examples/connectors/tsk/',
-        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/tsk/', '8a3'),
+        path: '/soda/docs/v0.16.0/examples/connectors/tsk',
+        component: ComponentCreator('/soda/docs/v0.16.0/examples/connectors/tsk', 'f32'),
         exact: true,
         sidebar: "docs"
       },
@@ -1295,7 +1295,7 @@ export default [
   },
   {
     path: '/soda/docs/v0.17.0',
-    component: ComponentCreator('/soda/docs/v0.17.0', '4fa'),
+    component: ComponentCreator('/soda/docs/v0.17.0', '581'),
     routes: [
       {
         path: '/soda/docs/v0.17.0/application-settings',
@@ -1400,8 +1400,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/filesystem/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/filesystem/', '75d'),
+        path: '/soda/docs/v0.17.0/examples/connectors/filesystem',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/filesystem', 'f00'),
         exact: true,
         sidebar: "docs"
       },
@@ -1424,8 +1424,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/microsoft365/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/microsoft365/', '4b5'),
+        path: '/soda/docs/v0.17.0/examples/connectors/microsoft365',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/microsoft365', 'fc7'),
         exact: true,
         sidebar: "docs"
       },
@@ -1448,8 +1448,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/nuix/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/nuix/', '112'),
+        path: '/soda/docs/v0.17.0/examples/connectors/nuix',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/nuix', '9b4'),
         exact: true,
         sidebar: "docs"
       },
@@ -1484,8 +1484,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/powershell/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/powershell/', 'fe6'),
+        path: '/soda/docs/v0.17.0/examples/connectors/powershell',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/powershell', 'bb0'),
         exact: true,
         sidebar: "docs"
       },
@@ -1496,8 +1496,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/relativity/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/relativity/', '6af'),
+        path: '/soda/docs/v0.17.0/examples/connectors/relativity',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/relativity', '1f9'),
         exact: true,
         sidebar: "docs"
       },
@@ -1544,8 +1544,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/rest/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/rest/', '799'),
+        path: '/soda/docs/v0.17.0/examples/connectors/rest',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/rest', '659'),
         exact: true,
         sidebar: "docs"
       },
@@ -1586,8 +1586,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/singer/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/singer/', '095'),
+        path: '/soda/docs/v0.17.0/examples/connectors/singer',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/singer', '5cc'),
         exact: true,
         sidebar: "docs"
       },
@@ -1598,8 +1598,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/sql/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/sql/', '76c'),
+        path: '/soda/docs/v0.17.0/examples/connectors/sql',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/sql', 'f00'),
         exact: true,
         sidebar: "docs"
       },
@@ -1616,8 +1616,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/structureddata/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/structureddata/', '818'),
+        path: '/soda/docs/v0.17.0/examples/connectors/structureddata',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/structureddata', 'ea2'),
         exact: true,
         sidebar: "docs"
       },
@@ -1634,14 +1634,14 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/tesseract/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/tesseract/', 'a67'),
+        path: '/soda/docs/v0.17.0/examples/connectors/tesseract',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/tesseract', '7fc'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/v0.17.0/examples/connectors/tsk/',
-        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/tsk/', '525'),
+        path: '/soda/docs/v0.17.0/examples/connectors/tsk',
+        component: ComponentCreator('/soda/docs/v0.17.0/examples/connectors/tsk', '68e'),
         exact: true,
         sidebar: "docs"
       },
@@ -6431,7 +6431,7 @@ export default [
   },
   {
     path: '/soda/docs',
-    component: ComponentCreator('/soda/docs', 'd48'),
+    component: ComponentCreator('/soda/docs', 'a2b'),
     routes: [
       {
         path: '/soda/docs/application-settings',
@@ -6536,8 +6536,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/filesystem/',
-        component: ComponentCreator('/soda/docs/examples/connectors/filesystem/', 'f25'),
+        path: '/soda/docs/examples/connectors/filesystem',
+        component: ComponentCreator('/soda/docs/examples/connectors/filesystem', '881'),
         exact: true,
         sidebar: "docs"
       },
@@ -6560,8 +6560,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/microsoft365/',
-        component: ComponentCreator('/soda/docs/examples/connectors/microsoft365/', '343'),
+        path: '/soda/docs/examples/connectors/microsoft365',
+        component: ComponentCreator('/soda/docs/examples/connectors/microsoft365', 'fd9'),
         exact: true,
         sidebar: "docs"
       },
@@ -6584,8 +6584,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/nuix/',
-        component: ComponentCreator('/soda/docs/examples/connectors/nuix/', '083'),
+        path: '/soda/docs/examples/connectors/nuix',
+        component: ComponentCreator('/soda/docs/examples/connectors/nuix', '4a2'),
         exact: true,
         sidebar: "docs"
       },
@@ -6620,8 +6620,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/powershell/',
-        component: ComponentCreator('/soda/docs/examples/connectors/powershell/', '94c'),
+        path: '/soda/docs/examples/connectors/powershell',
+        component: ComponentCreator('/soda/docs/examples/connectors/powershell', '22f'),
         exact: true,
         sidebar: "docs"
       },
@@ -6632,8 +6632,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/relativity/',
-        component: ComponentCreator('/soda/docs/examples/connectors/relativity/', '41e'),
+        path: '/soda/docs/examples/connectors/relativity',
+        component: ComponentCreator('/soda/docs/examples/connectors/relativity', '1f6'),
         exact: true,
         sidebar: "docs"
       },
@@ -6680,8 +6680,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/rest/',
-        component: ComponentCreator('/soda/docs/examples/connectors/rest/', 'ec1'),
+        path: '/soda/docs/examples/connectors/rest',
+        component: ComponentCreator('/soda/docs/examples/connectors/rest', '0fd'),
         exact: true,
         sidebar: "docs"
       },
@@ -6722,8 +6722,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/singer/',
-        component: ComponentCreator('/soda/docs/examples/connectors/singer/', '708'),
+        path: '/soda/docs/examples/connectors/singer',
+        component: ComponentCreator('/soda/docs/examples/connectors/singer', '612'),
         exact: true,
         sidebar: "docs"
       },
@@ -6734,8 +6734,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/sql/',
-        component: ComponentCreator('/soda/docs/examples/connectors/sql/', 'f26'),
+        path: '/soda/docs/examples/connectors/sql',
+        component: ComponentCreator('/soda/docs/examples/connectors/sql', '26b'),
         exact: true,
         sidebar: "docs"
       },
@@ -6752,8 +6752,8 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/structureddata/',
-        component: ComponentCreator('/soda/docs/examples/connectors/structureddata/', '38f'),
+        path: '/soda/docs/examples/connectors/structureddata',
+        component: ComponentCreator('/soda/docs/examples/connectors/structureddata', 'eb6'),
         exact: true,
         sidebar: "docs"
       },
@@ -6770,14 +6770,14 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/tesseract/',
-        component: ComponentCreator('/soda/docs/examples/connectors/tesseract/', 'c3b'),
+        path: '/soda/docs/examples/connectors/tesseract',
+        component: ComponentCreator('/soda/docs/examples/connectors/tesseract', 'cf3'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/soda/docs/examples/connectors/tsk/',
-        component: ComponentCreator('/soda/docs/examples/connectors/tsk/', '778'),
+        path: '/soda/docs/examples/connectors/tsk',
+        component: ComponentCreator('/soda/docs/examples/connectors/tsk', '01d'),
         exact: true,
         sidebar: "docs"
       },
