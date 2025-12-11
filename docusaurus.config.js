@@ -71,7 +71,9 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'loremipsum',
-  projectName: 'Phoenix-docs',
+  projectName: 'jimken-mido.github.io',
+  organizationName: 'jimken-mido',
+  trailingSlash: false,
   customFields: {
     homeTitle: 'End-to-end automation for forensics and ediscovery',
     description:
